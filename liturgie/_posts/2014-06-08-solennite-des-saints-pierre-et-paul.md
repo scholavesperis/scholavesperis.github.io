@@ -30,7 +30,7 @@ Pierre De la Rue (1452-1518), Missa L'homme armé
 
 d'après Antoine de Févin
 
-<img src="/images/2014-06-08-agnus-l-homme-arme-de-la-rue-1.jpg" alt="" class="popup-image">
+![](/images/2014-06-08-agnus-l-homme-arme-de-la-rue-1.jpg)
 
 ***Pierre De la Rue***
 
@@ -38,6 +38,6 @@ d'après Antoine de Févin
 
 -*cliquer pour agrandir l'image-*
 
-<img src="/images/2014-06-08-agnus-l-homme-arme-de-la-rue-2.jpg" alt="" class="popup-image">
+![](/images/2014-06-08-agnus-l-homme-arme-de-la-rue-2.jpg)
 
 *

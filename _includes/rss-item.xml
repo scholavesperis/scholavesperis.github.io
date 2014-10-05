@@ -4,5 +4,5 @@
   <description>{{item.content | markdownify | xml_escape}}</description>
   <pubDate>{{item.date | date_to_xmlschema}}</pubDate>
   <dc:creator>SITE NAME</dc:creator>
-  <guid isPermaLink="true">{{site.baseurl}}{{item.url}}</guid>
+  <guid isPermaLink="true">{{item.url}}</guid>
 </item>

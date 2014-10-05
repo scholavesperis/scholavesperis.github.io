@@ -1,8 +1,6 @@
 baseurl: /
 permalink: pretty
 markdown: rdiscount
-paginate: 10
-paginate_path: "page:num"
 prose:
   rooturl: 'liturgie/_posts'
   siteurl: 'http://scholavesperis.github.io/'

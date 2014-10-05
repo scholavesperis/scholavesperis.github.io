@@ -2,6 +2,10 @@
 layout: default
 section: accueil
 ---
+	<article>
+		{% capture about %}{% include about.md %}{% endcapture %}
+		{{ about | markdownify }}
+	</article>
 
 {% for item in site.posts limit:1000 %}
 	<article>
