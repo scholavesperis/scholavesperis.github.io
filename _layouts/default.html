@@ -1,0 +1,122 @@
+---
+title: "La Chorale du soir de l'Eglise Saint Georges"
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Schola Vesperis {% if page.url != '/' %}- {{page.title}}{% endif %}</title>
+  <meta charset='UTF-8'/>
+	<meta name="description" content="">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel='alternate' type='application/rss+xml' title='RSS' href='/blog.rss' />
+  <link rel='shortcut icon' href='/img/favicon.ico' type='image/x-icon' />
+  <link href='/site.css' rel='stylesheet' />
+  <!--[if lt IE 9]>
+		<script src="dist/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+  <div class='container'>
+    <header class='header'>
+      <div class='avatar'>
+				<img src="/images/vierge-vesperis-avatar.jpg">
+			</div>
+			<div class='title'>
+				<h1>Schola Vesperis</h1>
+				<p>Chant liturgique de l'église St Georges à Lyon</p>
+			</div>
+			<div class='search'>
+			</div>
+		</header>
+		<div class="cover">
+			<img src="/images/vierge-vesperis-banniere.jpg">
+		</div>
+		<nav id="menu" role="navigation"><!-- Accueil Liturgie Partitions Enregistrements Veilleurs Eglise-St-Georges -->
+			<a class='{% if page.section == "accueil" %}active{% endif %}' href="/">Accueil</a>
+			<a class='{% if page.section == "liturgie" %}active{% endif %}' href="/liturgie">Liturgie</a>
+			<a class='{% if page.section == "partitions" %}active{% endif %}' href="/partitions">Partitions</a>
+			<a class='{% if page.section == "enregistrements" %}active{% endif %}' href="/enregistrements">Enregistrements</a>
+			<a class='{% if page.section == "veilleurs" %}active{% endif %}' href="/veilleurs">Veilleurs</a>
+			<a class='{% if page.section == "eglise-st-georges" %}active{% endif %}' href="/eglise-st-georges">Eglise St Georges</a>
+    </nav>
+    <div class="content">
+			<section>
+				{{content}}
+			</section>
+			<aside>
+				<div>
+					<h3>Contact&nbsp;: Sarah Lyonnet</h3>
+					<p>Tél&nbsp;: <a href="tel:06 65 01 42 82">06 65 01 42 82</a></p>
+					<p>Mail&nbsp;: <a href="mailto:scholavesperis@yahoo.fr">scholavesperis@yahoo.fr</a></p>
+				</div>
+				<div>
+					<h3>Programmes recents</h3>
+					<ul>
+					{% for item in site.categories.blog offset:1 limit:7 %}
+						<li>
+							<a class='item' href='{{item.url}}'>{{item.title}}</a>
+						</li>
+					{% endfor %}
+					</ul>
+				</div>
+				<div>
+					<a href="/partitions/liste-des-partitions.html"><img src="/images/partition-salutaris.jpg"></a>
+					<a href="/membres"><img src="/images/moines-au-lutrin.jpg"></a>
+				</div>
+				<div>
+					<h3>Liens</h3>
+					<ul>
+						<li>
+							<a href="http://eglisesaintgeorges.com/" target="_blank">Eglise St Georges</a>
+						</li>
+						<li>
+							<a href="http://www.mauricemorel.com/" target="_blank">L'abbé Morel - peintre (1908-1991)</a>
+						</li>
+						<li>
+							<a href="http://www.schola-sainte-cecile.com/" target="_blank">Schola Ste Cécile</a>
+						</li>
+						<li>
+							<a href="http://www.choeur-gregorien-de-paris.asso.fr/" target="_blank">Choeur grégorien de Paris</a>
+						</li>
+						<li>
+							<a href="http://schola-st-gregoire.org/" target="_blank">Schola St Gregoire</a>
+						</li>
+						<li>
+							<a href="http://www.ajcf-lyon.org/" target="_blank">Amitié judéo-chrétienne de Lyon</a>
+						</li>
+						<li>
+							<a href="http://www.amdg.asso.fr/" target="_blank">Ad majorem Dei gloriam</a>
+						</li>
+						<li>
+							<a href="http://www.christusrex.org/www2/cantgreg/toutes_les_messes_trid.html" target="_blank">Partitions - grégorien -</a>
+						</li>
+						<li>
+							<a href="http://www.diamm.ac.uk/" target="_blank">Diamm</a>
+						</li>
+						<li>
+							<a href="http://www.gregofacsimil.net/" target="_blank">Gregofacsimil</a>
+						</li>
+					</ul>
+				</div>
+				<div>
+					<h3>S'abonner</h3>
+					<div>
+						<p>Abonnez-vous pour être averti des nouveaux articles publiés.</p>
+						<!-- subscription form -->
+						<form action="http://scholavesperis.overblog.com/mail/subscribe" method="post">
+							<label class="required" for="form_email">Email</label>
+							<input type="email" name="email" placeholder="exemple@adresse.com" required="required">
+							<input type="submit" value="S'abonner">
+						</form>										
+					</div>
+				</div>
+				<div>
+					<h3>Archives</h3>
+				</div>
+				{% include rss-link.html %}
+			</aside>
+		</div>
+  </div>
+  <script src='/site.js'></script>
+</body>

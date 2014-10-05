@@ -1,0 +1,16 @@
+---
+layout: default
+section: liturgie
+---
+
+{% for item in site.categories.liturgie limit:1000 %}
+	<article>
+		<h2><a class='item' href='{{item.url}}'>{{item.title}}</a></h2>
+		<figure>
+			<img src="{{item.image}}">
+		</figure>
+		{{item.content}}
+	</article>
+{% endfor %}
+
+{% include rss-link.html %}

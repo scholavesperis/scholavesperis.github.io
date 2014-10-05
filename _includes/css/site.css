@@ -1,0 +1,243 @@
+/* line 3, site.scss */
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  /* Removes padding behaviour on widths */
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Markup free clearing
+Details: http://www.positioniseverything.net/easyclearing.html
+------------------------------------------------------- */
+/* line 25, site.scss */
+a {
+  color: #7e1600;
+  font-size: inherit;
+  font-weight: bold;
+  text-decoration: none;
+}
+/* line 30, site.scss */
+a:hover {
+  text-decoration: underline;
+}
+
+/* line 35, site.scss */
+img {
+  max-width: 100%;
+}
+
+/* line 39, site.scss */
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background: url(/images/vierge-vesperis-image-de-fond.jpg) no-repeat center center fixed;
+  background-size: cover;
+  color: #373737;
+}
+/* line 44, site.scss */
+body > .container {
+  background: white;
+  max-width: 1000px;
+  margin: 20px auto;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 2px 0px;
+}
+/* line 49, site.scss */
+body > .container > header {
+  width: 100%;
+  padding: 23px;
+}
+/* line 52, site.scss */
+body > .container > header > div {
+  display: inline-block;
+  vertical-align: middle;
+}
+/* line 56, site.scss */
+body > .container > header .avatar, body > .container > header .avatar img {
+  width: 80px;
+  height: 80px;
+}
+/* line 60, site.scss */
+body > .container > header .title {
+  margin: 0 25px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+/* line 63, site.scss */
+body > .container > header .title h1 {
+  padding: 0;
+  margin: 0;
+  font-weight: bold;
+  color: #111;
+  font-size: 30px;
+}
+/* line 70, site.scss */
+body > .container > header .title p {
+  font-size: 15px;
+  font-weight: normal;
+}
+/* line 77, site.scss */
+body > .container > .cover, body > .container .cover img {
+  width: 100%;
+  height: 288px;
+}
+
+/* line 84, site.scss */
+nav {
+  background: #222;
+  background: linear-gradient(#252525, #0a0a0a);
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 2px 0px;
+  padding: 0 0 0 54px;
+}
+/* line 89, site.scss */
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+/* line 90, site.scss */
+nav a {
+  display: inline-block;
+}
+/* line 93, site.scss */
+nav a {
+  color: #eee;
+  height: 40px;
+  line-height: 40px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 0 16px 0 12px;
+}
+/* line 103, site.scss */
+nav a.active {
+  font-weight: bold;
+  color: #bb3e00;
+}
+/* line 107, site.scss */
+nav a:hover {
+  color: #222;
+  background: #ddd;
+  background: linear-gradient(#eeeeee, #bbbbbb);
+  color: #222;
+  text-decoration: none;
+}
+/* line 115, site.scss */
+nav a:hover.active {
+  color: #7e1600;
+}
+
+/* line 16, site.scss */
+.content:after {
+  content: '.';
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+/* line 123, site.scss */
+.content section {
+  width: 65%;
+  float: left;
+  padding: 50px 0 50px 50px;
+}
+/* line 127, site.scss */
+.content section article {
+  margin-bottom: 50px;
+}
+/* line 16, site.scss */
+.content section article:after {
+  content: '.';
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+/* line 130, site.scss */
+.content section article h2 {
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 0;
+}
+/* line 140, site.scss */
+.content section article img {
+  width: 300px;
+  float: left;
+  margin: 0 30px 10px 0;
+}
+/* line 145, site.scss */
+.content section article h5, .content section article p {
+  font-size: 14px;
+  line-height: 22.75px;
+  margin-bottom: 15px;
+}
+/* line 150, site.scss */
+.content section article h5 {
+  font-weight: bold;
+}
+/* line 155, site.scss */
+.content aside {
+  width: 35%;
+  float: left;
+  padding: 50px;
+  font-size: 13px;
+  line-height: 22.75px;
+}
+/* line 161, site.scss */
+.content aside div {
+  margin: 0 0 25px 0;
+}
+/* line 163, site.scss */
+.content aside div h3 {
+  margin: 0;
+  color: #666;
+  font-weight: 500;
+}
+/* line 168, site.scss */
+.content aside div p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 14px;
+}
+/* line 173, site.scss */
+.content aside div ul {
+  margin-top: 0;
+  padding-left: 20px;
+}
+/* line 176, site.scss */
+.content aside div ul li {
+  list-style: square;
+}
+/* line 180, site.scss */
+.content aside div a img {
+  display: inline-block;
+  width: 121px;
+  height: 121px;
+}
+/* line 185, site.scss */
+.content aside div label {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+}
+/* line 195, site.scss */
+.content aside div input[type="email"] {
+  background: #e5e5e5;
+  border: 1px solid #b5b5b5;
+  padding: 6px 1px;
+}
+/* line 200, site.scss */
+.content aside div input[type="submit"] {
+  color: #eee;
+  padding: 6px;
+  background: #222;
+  background: linear-gradient(#252525, #0a0a0a);
+  border: 1px solid #b5b5b5;
+}

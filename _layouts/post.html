@@ -1,0 +1,27 @@
+---
+layout: default
+section: page.category
+---
+
+<article>
+	<h1>{{page.title}}</h1>
+	{% if page.image %}
+		{% if page.image contains 'http' %}
+			{% capture url %}{{page.image}}{% endcapture %}
+		{% else %}
+			{% capture url %}{{page.image}}{% endcapture %}
+		{% endif %}
+
+		<figure>
+			<img src='{{url}}' alt='' /> 
+		</figure>
+	{% endif %}
+
+	<div>
+		<span class='date' style="display:none">{{page.date | date:"%b %d"}}</span>
+		<div class='prose'>
+			{{content}}
+		</div>
+	</div>
+</article>
+

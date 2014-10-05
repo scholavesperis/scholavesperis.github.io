@@ -1,0 +1,17 @@
+---
+layout: default
+section: accueil
+---
+
+<p>{{ paginator.page }}</p>
+{% for item in site.posts limit:1000 %}
+	<article>
+		<h2><a class='item' href='{{item.url}}'>{{item.title}}</a></h2>
+		<figure>
+			<img src="{{item.image}}" alt="">
+		</figure>
+		{{item.content}}
+	</article>
+{% endfor %}
+
+{% include rss-link.html %}
