@@ -1,0 +1,10 @@
+---
+---
+{% for post in site.posts %}
+{
+	"title": "{{post.title | replace:'"','\"'}}",
+	"href": "{{post.url}}",
+	"content": "{{post.content | replace:'"','\"'}}",
+	"category": "{{post.categories | replace:'"','\"'}}"
+}{% unless forloop.last %},{% endunless%}
+{% endfor %}

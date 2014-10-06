@@ -1,27 +1,20 @@
 ---
 layout: default
-section: page.category
 ---
 
 <article>
-	<h1>{{page.title}}</h1>
-	{% if page.image %}
-		{% if page.image contains 'http' %}
-			{% capture url %}{{page.image}}{% endcapture %}
-		{% else %}
-			{% capture url %}{{page.image}}{% endcapture %}
-		{% endif %}
+	<h1 class="title">{{page.title}}</h1>
 
-		<figure>
-			<img src='{{url}}' alt='' /> 
-		</figure>
-	{% endif %}
-
-	<div>
-		<span class='date' style="display:none">{{page.date | date:"%b %d"}}</span>
-		<div class='prose'>
-			{{content}}
-		</div>
+	<span class='date' style="display:none">{{page.date | date:"%b %d"}}</span>
+	<div class='prose'>
+		{{content}}
 	</div>
+	{{post.categories}}
+	{{ post.populate_categories }}
+	<ul>
+		{% for category in post.categories %}
+		<li>{{category}}</li>
+		{% endfor %}
+	</ul>
 </article>
 

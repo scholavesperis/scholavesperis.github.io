@@ -24,6 +24,13 @@ a {
 a:hover {
   text-decoration: underline;
 }
+article h2 a {
+	color: #373737;
+}
+article h2 a:hover {
+	color: #7e1600;
+	text-decoration: none;
+}
 
 /* line 35, site.scss */
 img {
@@ -61,7 +68,7 @@ body > .container > header .avatar, body > .container > header .avatar img {
 }
 /* line 60, site.scss */
 body > .container > header .title {
-  margin: 0 25px;
+  margin: 0px 25px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 /* line 63, site.scss */
@@ -76,6 +83,8 @@ body > .container > header .title h1 {
 body > .container > header .title p {
   font-size: 15px;
   font-weight: normal;
+  margin: 5px 0;
+  color: #888;
 }
 /* line 77, site.scss */
 body > .container > .cover, body > .container .cover img {

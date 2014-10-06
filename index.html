@@ -3,6 +3,8 @@ layout: default
 section: accueil
 ---
 	<article>
+		<h2>La Schola Vesperis</h2>
+		
 		{% capture about %}{% include about.md %}{% endcapture %}
 		{{ about | markdownify }}
 	</article>
@@ -10,10 +12,13 @@ section: accueil
 {% for item in site.posts limit:1000 %}
 	<article>
 		<h2><a class='item' href='{{item.url}}'>{{item.title}}</a></h2>
-		<figure>
-			<img src="{{item.image}}" alt="">
-		</figure>
 		{{item.content}}
+		<p>{% if post.categories contains "liturgie" %}lit{% endif %}</p>
+		<ul>
+			{% for category in post.categories %}
+			<li>{{category}}</li>
+			{% endfor %}
+		</ul>
 	</article>
 {% endfor %}
 
