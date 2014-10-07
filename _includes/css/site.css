@@ -191,38 +191,38 @@ aside {
   line-height: 22.75px;
 }
 /* line 161, site.scss */
-aside div {
+.widget {
   margin: 0 0 25px 0;
 }
 /* line 163, site.scss */
-aside div h3 {
+.widget h3 {
   margin: 0;
   color: #666;
   font-weight: 500;
 }
 /* line 168, site.scss */
-aside div p {
+.widget p {
   margin-top: 0;
   margin-bottom: 0;
   font-size: 14px;
 }
 /* line 173, site.scss */
-aside div ul {
+.widget ul {
   margin-top: 0;
   padding-left: 20px;
 }
 /* line 176, site.scss */
-aside div ul li {
+.widget ul li {
   list-style: square;
 }
 /* line 180, site.scss */
-aside div a img {
+.widget a img {
   display: inline-block;
   width: 121px;
   height: 121px;
 }
 /* line 185, site.scss */
-aside div label {
+.widget label {
   position: absolute;
   overflow: hidden;
   clip: rect(0 0 0 0);
@@ -233,18 +233,21 @@ aside div label {
   border: 0;
 }
 /* line 195, site.scss */
-aside div input[type="email"] {
+.widget input[type="email"] {
   background: #e5e5e5;
   border: 1px solid #b5b5b5;
   padding: 6px 1px;
 }
 /* line 200, site.scss */
-aside div input[type="submit"] {
+.widget input[type="submit"] {
   color: #eee;
   padding: 6px;
   background: #222;
   background: linear-gradient(#252525, #0a0a0a);
   border: 1px solid #b5b5b5;
+}
+.widget.audios a {
+	display: none;
 }
 audio {
 	max-width: 100%;

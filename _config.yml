@@ -16,13 +16,25 @@ prose:
   relativeLinks: 'http://scholavesperis.github.io/links.jsonp'
   media: 'media'
   metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
+    posts:
       - name: "title"
         field:
           element: "text"
           label: "Title"
+          value: ""
+    posts/enregistrements:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "auteur"
+        field:
+          element: "text"
+          label: "Auteur"
+          value: ""
+      - name: "file_link"
+        field:
+          element: "text"
+          label: "Lien du fichier"
           value: ""

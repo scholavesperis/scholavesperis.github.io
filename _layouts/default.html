@@ -45,20 +45,21 @@ title: "La Chorale du soir de l'Eglise Saint Georges"
 				{{content}}
 			</section>
 			<aside>
-				<div>
-					<h3>Ecouter</h3>
+				<div class="widget audios">
+					<h3>Nous écouter</h3>
 					{% for audio in site.categories.enregistrements %}
 						{% if forloop.first %}
 						<audio controls autoplay src="/audios/2014-09-06-Hosanna-Martini.mp3"></audio>
-						{% endif%}
-					{%endfor %}
+						{% endif %}
+						<a href="{{audio.url}}">{{audio.title}}</p>
+					{% endfor %}
 				</div>
-				<div>
+				<div class="widget">
 					<h3>Contact&nbsp;: Sarah Lyonnet</h3>
 					<p>Tél&nbsp;: <a href="tel:06 65 01 42 82">06 65 01 42 82</a></p>
 					<p>Mail&nbsp;: <a href="mailto:scholavesperis@yahoo.fr">scholavesperis@yahoo.fr</a></p>
 				</div>
-				<div>
+				<div class="widget">
 					<h3>Programmes recents</h3>
 					<ul>
 					{% for item in site.categories.liturgie offset:1 limit:7 %}
@@ -68,11 +69,11 @@ title: "La Chorale du soir de l'Eglise Saint Georges"
 					{% endfor %}
 					</ul>
 				</div>
-				<div>
+				<div class="widget">
 					<a href="/partitions/liste-des-partitions.html"><img src="/images/partition-salutaris.jpg" alt=""></a>
 					<a href="/membres"><img src="/images/moines-au-lutrin.jpg" alt=""></a>
 				</div>
-				<div>
+				<div class="widget">
 					<h3>Liens</h3>
 					<ul>
 						<li>
@@ -109,7 +110,7 @@ title: "La Chorale du soir de l'Eglise Saint Georges"
 				</div>
 				<!-- div>
 					<h3>S'abonner</h3>
-					<div>
+					<div class="widget">
 						<p>Abonnez-vous pour être averti des nouveaux articles publiés.</p>
 						
 						<form action="http://scholavesperis.overblog.com/mail/subscribe" method="post">
@@ -119,7 +120,7 @@ title: "La Chorale du soir de l'Eglise Saint Georges"
 						</form>										
 					</div>
 				</div> -->
-				<div>
+				<div class="widget">
 					<h3>Archives</h3>
 				</div>
 				{% include rss-link.html %}
