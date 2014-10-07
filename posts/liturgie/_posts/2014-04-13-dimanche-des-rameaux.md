@@ -2,7 +2,6 @@
 title: "Dimanche des Rameaux"
 description: "Dimanche 13 avril 2014, messe de 19h Tristis est anima mea usque ad mortem : sustinete hic,et vigilate mecum. Mon âme est triste jusqu'à la mort. Demeurez ici et veillez avec moi. Trait : Deus, Deus meus. Faux-bourdon du 2e ton, L.G. da Viadana (1560-1627)..."
 published: true
-layout: post
 ---
 
 

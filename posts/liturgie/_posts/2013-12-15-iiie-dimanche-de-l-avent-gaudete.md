@@ -2,7 +2,6 @@
 title: "IIIe dimanche de l'Avent &quot;Gaudete&quot;"
 description: "Dimanche 15 décembre 2013, messe de 19h Modestia vestra nota sit omnibus hominibus : Dominus prope est. Que votre douceur soit connue de tous les hommes; car le Seigneur est proche. Entrée : Veni, veni Emmanuel Anonyme XVe Consécration : O salutaris Hostia..."
 published: true
-layout: post
 ---
 
 

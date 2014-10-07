@@ -2,7 +2,6 @@
 title: "Ve Dimanche après Pâques"
 description: "Dimanche 25 mai 2014, messe de 19h Cantate Domino, et benedicite nomen ejus; bene nuntiate de die in diem salutaris ejus. Chantez au Seigneur et bénissez son nom; jour après jour proclamez son salut ! Consécration : Hosanna in excelsis Antoine de Févin..."
 published: true
-layout: post
 ---
 
 

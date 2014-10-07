@@ -2,7 +2,6 @@
 title: "IVe dimanche après la Pentecôte"
 description: "Dimanche 16 juin 2013 -église St Georges,messe de 19h- Dixit ad Simonem : Duc in altum, et laxate retia vestra in capturam. Il dit à Simon : Avance en eau profonde, et jetez vos filets pour la pêche. Consécration : O salutaris Hostia d'après Johannes..."
 published: true
-layout: post
 ---
 
 

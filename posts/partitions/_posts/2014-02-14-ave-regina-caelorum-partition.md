@@ -2,7 +2,6 @@
 title: "&quot;Ave Regina caelorum&quot; - Partition"
 description: "Antienne mariale du temps de Carême (du 2 février jusqu'au Mercredi Saint) Version anonyme à 3 voix provenant du Codex Franus, manuscrit tchèque du début du XVIe siècle (image ci-contre). A part quelques légères nuances on y retrouve le texte de l'antienne..."
 published: true
-layout: post
 ---
 
 

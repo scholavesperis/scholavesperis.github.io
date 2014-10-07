@@ -2,7 +2,6 @@
 title: "Semaine Sainte"
 description: "La Semaine Sainte à l'église St Georges de Lyon : Jeudi Saint Office des ténèbres à 7h00 Messe de la Cène à 19h - Adoration au reposoir jusqu'à 24h00 Vendredi Saint Office des ténèbres à 7h00 Office de la Passion à 20h30 Samedi Saint Office des ténèbres..."
 published: true
-layout: post
 ---
 
 

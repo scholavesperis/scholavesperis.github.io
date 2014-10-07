@@ -2,7 +2,6 @@
 title: "XXIVe dimanche après la Pentecôte"
 description: "Dimanche 3 novembre, messe de 19h De profundis clamavi ad te, Domine : Domine exaudi vocem meam. Du fond de l'abîme je crie vers vous, Seigneur, Seigneur écoutez ma voix. Alleluia - De profundis Heinrich Isaac (1450-1517), Choralis Constantinus Offertoire..."
 published: true
-layout: post
 ---
 
 

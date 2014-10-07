@@ -2,7 +2,6 @@
 title: "Dimanche de la Pentecôte"
 description: "Dimanche 19 mai 2013, messe de 19h Veni Sancte Spiritus, reple tuorum corda fidelium ; et tui amoris in eis ignem accende. Venez Saint Esprit, emplissez les cœurs de vos fidèles, et allumez en eux le feu de votre amour. Alleluia de la Pentecôte Anonyme,..."
 published: true
-layout: post
 ---
 
 

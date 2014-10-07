@@ -2,7 +2,6 @@
 title: "L'Espérance"
 description: "Partition du chant &quot;l'Espérance&quot; Hymne des Veilleurs, à 3 voix cliquez sur le titre de l'article et ouvrez le lien pdf (qui apparaît en bas de page) version audio : "
 published: true
-layout: post
 ---
 
 

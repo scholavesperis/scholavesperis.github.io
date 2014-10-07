@@ -2,7 +2,6 @@
 title: "Fête du Christ-Roi"
 description: "Dimanche 27 octobre église St Georges, messe de 19h Potestas ejus potestas æterna, quæ non auferetur : et regnum ejus, quod non corrumpetur. Sa puissance est une puissance éternelle, elle ne lui sera pas enlevée ; et son règne ne sera pas détruit. Offertoire..."
 published: true
-layout: post
 ---
 
 

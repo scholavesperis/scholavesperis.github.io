@@ -2,7 +2,6 @@
 title: "La Strasbourgeoise"
 description: "Partition du chant &quot;La Strasbourgeoise&quot; Un chant relatif à la guerre franco-prussienne de 1870. (à 2 voix) cliquez sur le titre de l'article et ouvrez le lien pdf (qui apparaît en bas de page) version audio : http://www.youtube.com/watch?v=Rd88CloxHDU..."
 published: true
-layout: post
 ---
 
 

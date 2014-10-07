@@ -2,7 +2,6 @@
 title: "IIe Dimanche après Pâques"
 description: "Dimanche 4 mai 2014, messe de 19h Ego sum pastor bonus, et cognosco oves meas, et cognoscunt me meae, alleluia ! Je suis le bon pasteur, je connais mes brebis, et mes brebis me connaissent, alleluia ! Offertoire : Christus resurgens Anonyme XVe, manuscrit..."
 published: true
-layout: post
 ---
 
 

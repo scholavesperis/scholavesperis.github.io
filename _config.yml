@@ -1,6 +1,15 @@
 baseurl: /
 permalink: pretty
 markdown: rdiscount
+paginate: 10
+paginate_path: "page/:num"
+timezone: Europe/Paris
+defaults:
+ -
+  scope:
+    path: posts
+  values:
+    layout: post
 prose:
   rooturl: 'posts'
   siteurl: 'http://scholavesperis.github.io/'

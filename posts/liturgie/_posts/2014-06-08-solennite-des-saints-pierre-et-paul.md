@@ -2,7 +2,6 @@
 title: "Solennité des saints Pierre et Paul"
 description: "Dimanche 29 juin 2014, messe de 19h Memores erunt nominis tui, Domine, in omni progenie et generatione. Ils maintiendront le souvenir de ton nom, Seigneur, de génération en génération. Graduel : Constitues eos Faux-bourdon de G.M.Asola (1532-1609), Ve..."
 published: true
-layout: post
 ---
 
 

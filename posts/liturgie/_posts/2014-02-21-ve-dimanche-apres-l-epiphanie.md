@@ -2,7 +2,6 @@
 title: "Ve dimanche après l'Epiphanie"
 description: "Dimanche 9 février 2014, messe de 19h In tempore messis dicam messoribus : Colligite primum zizania, et alligate ea in fasciculos ad comburendum, triticum autem congregate in horreum meum. Au temps de la moisson, je dirai aux moissoneurs : Enlevez d'abord..."
 published: true
-layout: post
 ---
 
 

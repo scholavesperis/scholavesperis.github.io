@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<article id="full-article" class="full hidden"></article>
+<div id="list" class="list">
+{% for post in site.posts %}
+ {% if post.categories contains "eglise-st-georges" %}
+  {% include article.html %}
+ {% endif %}
+{% endfor %}
+</div>

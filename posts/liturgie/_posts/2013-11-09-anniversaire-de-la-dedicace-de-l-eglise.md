@@ -2,7 +2,6 @@
 title: "Anniversaire de la Dédicace de l'église St Georges"
 description: "Dimanche 17 novembre 2013, messe de 19h Bene fundata est domus Domini supra firmam petram. Alleluia. La maison du Seigneur est solidement fondée sur la pierre inébranlable. Alleluia ! Graduel : Locus iste Faux-bourdon de G.M.Asola (1532-1609), Ve ton..."
 published: true
-layout: post
 ---
 
 

@@ -1,0 +1,11 @@
+<article>
+	<h2 class="title">La Schola Vesperis</h2>
+	<div class="title_text hidden">La Schola Vesperis</div>
+	<div class="href hidden"></div>
+	<div class="id hidden"></div>
+	<div class="content">
+		{% capture about %}{% include about.md %}{% endcapture %}
+		{{ about | markdownify }}
+	</div>
+	<div class="category hidden"></div>
+</article>

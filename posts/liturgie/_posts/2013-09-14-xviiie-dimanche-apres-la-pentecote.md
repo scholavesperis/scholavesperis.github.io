@@ -2,7 +2,6 @@
 title: "XVIIIe dimanche après la Pentecôte"
 description: "Dimanche 22 septembre 2013, messe de 19h Lætatus sum in his quæ dicta sunt mihi : in domum Domini ibimus. Je me suis réjoui de ce qu'il m'a été dit : Nous irons dans la maison du Seigneur. Offertoire : Laetatus sum Orlando de Lassus (1532-1594) Communion..."
 published: true
-layout: post
 ---
 
 

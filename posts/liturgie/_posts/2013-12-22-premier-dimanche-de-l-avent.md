@@ -2,7 +2,6 @@
 title: "Premier dimanche de l'Avent"
 description: "Dimanche 1er décembre 2013, messe de 19h Nox præcéssit, dies autem appropinquávit. La nuit est avancée, et le jour approche. Entrée : Veni, veni Emmanuel Anonyme XVe Graduel : Universi Faux-bourdon parisien du 1er ton royal Offertoire : Tu lumen Josquin..."
 published: true
-layout: post
 ---
 
 

@@ -2,7 +2,6 @@
 title: "Ve dimanche après Pâques - Vocem jucunditatis"
 description: "Dimanche 5 mai 2013, messe de 19h Vocem jucunditatis annuntiate, et audiatur, nuntiate usque ad extremum terræ : liberavit Dominus populum suum. Annoncez-le avec des cris de joie, et qu'on l'entende. Annoncez-le jusqu'aux extrémités de la terre : le Seigneur..."
 published: true
-layout: post
 ---
 
 

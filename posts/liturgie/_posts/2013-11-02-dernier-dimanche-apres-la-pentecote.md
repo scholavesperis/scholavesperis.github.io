@@ -2,7 +2,6 @@
 title: "Dernier dimanche après la Pentecôte"
 description: "Dimanche 24 novembre 2013, messe de 19h Et mittet Angelos suos cum tuba et voce magna : et congregabunt electos ejus a quatuor ventis, a summis caelorum usque ad terminos eorum. Et il enverra ses anges avec la trompette retentissante; ils rassembleront..."
 published: true
-layout: post
 ---
 
 

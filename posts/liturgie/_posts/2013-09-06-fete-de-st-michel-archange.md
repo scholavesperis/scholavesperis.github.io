@@ -2,7 +2,6 @@
 title: "Fête de saint Michel Archange"
 description: "Dimanche 29 septembre 2013 -église St Georges, messe de 19h- Benedicite, omnes Angeli Domini, Dominum, hymnum dicite et superexaltate eum in sæcula. Tous les anges du Seigneur, bénissez le Seigneur, chantez une hymne et exaltez le au-dessus de tout à..."
 published: true
-layout: post
 ---
 
 

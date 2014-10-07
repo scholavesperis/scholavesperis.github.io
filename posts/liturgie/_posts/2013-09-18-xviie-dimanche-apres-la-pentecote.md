@@ -2,7 +2,6 @@
 title: "XVIIe dimanche après la Pentecôte"
 description: "Dimanche 15 septembre 2013 -église St Georges,messe de 19h- Verbo Domini cæli firmati sunt, et spiritu oris ejus omnis virtus eorum. Par la parole du Seigneur les cieux ont été affermis, et par le souffle de sa bouche toute leur puissance. Consécration..."
 published: true
-layout: post
 ---
 
 

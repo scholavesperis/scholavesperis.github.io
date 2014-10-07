@@ -2,7 +2,6 @@
 title: "Canon de la Paix"
 description: "Partition du &quot;Canon de la Paix&quot; cliquez sur le titre de l'article et ouvrez le lien pdf (qui apparaît en bas de page) version audio : "
 published: true
-layout: post
 ---
 
 

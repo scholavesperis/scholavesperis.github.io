@@ -2,7 +2,6 @@
 title: "IVe Dimanche après la Pentecôte"
 description: "Dimanche 6 juillet 2014 Dominus firmamentum meum, et refugium meum, et liberator meus. Le Seigneur est mon rocher, ma forteresse et mon libérateur. Graduel : Propitius esto Faux-bourdon de Marc-Antoine Charpentier (1643-1704) Consécration : Hosanna in..."
 published: true
-layout: post
 ---
 
 

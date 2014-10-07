@@ -2,7 +2,6 @@
 title: "Ier dimanche de la Passion"
 description: "Dimanche 6 avril 2014, messe de 19h Vexilla Regis prodeunt, Fulget Crucis mysterium, Qua vita mortem pertulit, Et morte vitam protulit. Les étendards du Roi s'avancent, la Croix dans son mystère brille, La Vie y meurt dans les souffrances, Et par sa mort..."
 published: true
-layout: post
 ---
 
 

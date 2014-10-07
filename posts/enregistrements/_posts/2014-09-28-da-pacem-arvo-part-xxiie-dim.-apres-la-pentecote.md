@@ -2,7 +2,6 @@
 title: "Da pacem - Arvo Pärt "
 description: ""
 published: true
-layout: post
 ---
 
 

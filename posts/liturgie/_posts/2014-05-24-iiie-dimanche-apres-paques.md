@@ -2,7 +2,6 @@
 title: "Solennité de sainte Jeanne d'Arc"
 description: "Dimanche 11 mai 2014, messe de 19h Fecísti viríliter, et confortátum est cor tuum : manus Dómini confortávit te, et ídeo eris benedícta in æternum. Tu as agi avec vaillance, ton cœur a été fort. La main du Seigneur t’a rendue forte, aussi seras-tu bénie..."
 published: true
-layout: post
 ---
 
 

@@ -2,7 +2,6 @@
 title: "Parce Domine - partition"
 description: "Motet à 3 voix du temps de Carême, de Jacob Obrecht (1450-1505) Parce Domine, parce populo tuo, Quia pius es et misericors. Exaudi-nos in aeternum, Domine. Pardonnez Seigneur, pardonnez à votre peuple, car vous êtes bon et miséricordieux. Et à jamais..."
 published: true
-layout: post
 ---
 
 

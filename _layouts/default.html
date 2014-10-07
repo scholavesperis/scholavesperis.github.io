@@ -32,16 +32,16 @@ title: "La Chorale du soir de l'Eglise Saint Georges"
 		<div class="cover">
 			<img src="/images/vierge-vesperis-banniere.jpg">
 		</div>
-		<nav id="menu" role="navigation"><!-- Accueil Liturgie Partitions Enregistrements Veilleurs Eglise-St-Georges -->
-			<a class='{% if page.section == "accueil" %}active{% endif %}' href="/">Accueil</a>
-			<a class='{% if page.section == "liturgie" %}active{% endif %}' href="/liturgie">Liturgie</a>
-			<a class='{% if page.section == "partitions" %}active{% endif %}' href="/partitions">Partitions</a>
-			<a class='{% if page.section == "enregistrements" %}active{% endif %}' href="/enregistrements">Enregistrements</a>
-			<a class='{% if page.section == "veilleurs" %}active{% endif %}' href="/veilleurs">Veilleurs</a>
-			<a class='{% if page.section == "eglise-st-georges" %}active{% endif %}' href="/eglise-st-georges">Eglise St Georges</a>
-    </nav>
-    <div class="content">
-			<section>
+    <div id="content" class="site-content">
+			<nav id="menu" role="navigation"><!-- Accueil Liturgie Partitions Enregistrements Veilleurs Eglise-St-Georges -->
+				<a id="accueil" {% if page.url == "/" %}class='active' {% endif %}href="/">Accueil</a>
+				<a id="liturgie" {% if page.url contains "liturgie" %}class='active' {% endif %}href="/liturgie">Liturgie</a>
+				<a id="partitions" {% if page.url contains "partitions" %}class='active' {% endif %}href="/partitions">Partitions</a>
+				<a id="enregistrements" {% if page.url contains "enregistrements" %}class='active' {% endif %}href="/enregistrements">Enregistrements</a>
+				<a id="veilleurs" {% if page.url contains "veilleurs" %}class='active' {% endif %}href="/veilleurs">Veilleurs</a>
+				<a id="eglise-st-georges" {% if page.url contains "eglise-st-georges" %}class='active' {% endif %}href="/eglise-st-georges">Eglise St Georges</a>
+			</nav>
+			<section class="content-column">
 				{{content}}
 			</section>
 			<aside>
@@ -53,7 +53,7 @@ title: "La Chorale du soir de l'Eglise Saint Georges"
 				<div>
 					<h3>Programmes recents</h3>
 					<ul>
-					{% for item in site.categories.blog offset:1 limit:7 %}
+					{% for item in site.categories.liturgie offset:1 limit:7 %}
 						<li>
 							<a class='item' href='{{item.url}}'>{{item.title}}</a>
 						</li>

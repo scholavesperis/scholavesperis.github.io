@@ -2,7 +2,6 @@
 title: "Laetare - IVe dimanche de Carême"
 description: "Dimanche 30 mars 2014, messe de 19h Qui confidunt in Domino, sicut mons Sion : non commovebitur in aeternum, qui habitat in Jerusalem. Ceux qui se confient dans le Seigneur ressemblent au mont Sion. Il ne sera jamais ébranlé celui qui habite Jérusalem...."
 published: true
-layout: post
 ---
 
 

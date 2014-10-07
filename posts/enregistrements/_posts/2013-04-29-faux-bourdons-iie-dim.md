@@ -2,7 +2,6 @@
 title: "Faux-bourdons - Ve et IIe modes grégoriens"
 description: "Tribulationes - Confitemini Domino (mars 2012) - Faux-bourdon 2e dim. de Carême.mp3"
 published: true
-layout: post
 ---
 
 

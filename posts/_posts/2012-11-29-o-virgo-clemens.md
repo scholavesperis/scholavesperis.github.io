@@ -2,7 +2,6 @@
 title: "Concert "
 description: "Polyphonies de la Renaissance à la Vierge Marie Un regard musical tourné vers la Vierge Marie, à travers différents compositeurs du XVIe, comme Pierre de La Rue, Antoine Brumel, Jean Mouton, Mattheaus Pipelare... proposé par la Schola Vesperis et l'ensemble..."
 published: true
-layout: post
 ---
 
 

@@ -2,7 +2,6 @@
 title: "IIIe dimanche de Carême"
 description: "Dimanche 23 mars 2014, messe de 19h Oculi mei semper ad Dominum. Respice in me, et miserere mei, quoniam unicus et pauper sum ego. Mes yeux sont toujours levés vers le Seigneur. Regarde-moi, aie pitié de moi, car je suis solitaire et malheureux. Graduel..."
 published: true
-layout: post
 ---
 
 

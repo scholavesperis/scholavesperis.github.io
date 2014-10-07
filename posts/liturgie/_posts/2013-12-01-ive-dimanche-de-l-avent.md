@@ -2,7 +2,6 @@
 title: "IVe dimanche de l'Avent  &quot;Rorate&quot;"
 description: "Dimanche 22 décembre 2013, messe de 19h Roráte cæli désuper et núbes plúant jústum Cieux, faites venir le Juste comme la rosée, qu'il vienne des nuées comme la pluie. Graduel : Prope est Dominus Faux-bourdon du 5e ton, G.M.Asola (1532-1609) Offertoire..."
 published: true
-layout: post
 ---
 
 

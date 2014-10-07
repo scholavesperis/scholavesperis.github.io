@@ -2,7 +2,6 @@
 title: "Dimanche de la Septuagésime"
 description: "Dimanche 16 février 2014, messe de 19h Quoniam non in finem oblivio erit pauperis : patientia pauperum non peribit in aeternum. Le pauvre ne sera pas oublié pour toujours, son attente ne sera pas vaine à jamais. Trait : De profundis Faux-bourdon lyonnais..."
 published: true
-layout: post
 ---
 
 

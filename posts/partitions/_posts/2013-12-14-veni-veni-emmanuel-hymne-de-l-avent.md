@@ -2,7 +2,6 @@
 title: "&quot;Veni, veni Emmanuel&quot; - Partition"
 description: "L'hymne &quot;Veni, veni Emmanuel&quot; est une paraphrase des grandes antiennes &quot;Ô&quot; de l'Avent. Il chante l'attente du Messie, et énumère chacun des sept titres qui lui sont attribués. -clique"
 published: true
-layout: post
 ---
 
 

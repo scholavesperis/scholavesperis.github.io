@@ -1,0 +1,10 @@
+<article>
+	<h2 class="title"><a href='{{post.url}}'>{{post.title}}</a></h2>
+	<div class="title_text hidden">{{post.title}}</div>
+	<div class="id hidden">{{post.date | date: "%F" }} {{post.title | replace:'"','' | replace:'&quot;',''}}</div>
+	<div class="href hidden">{{post.url}}</div>
+	<div class="content">
+		{{post.content}}
+	</div>
+	<div class="category hidden">{% for category in post.categories %}{% if category != "posts" %}{{ category | replace:'"','\"'}}{% endif %}{% endfor %}</div>
+</article>

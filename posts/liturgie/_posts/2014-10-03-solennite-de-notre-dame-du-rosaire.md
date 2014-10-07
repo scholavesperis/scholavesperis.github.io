@@ -2,8 +2,6 @@
 title: "Solennité de Notre-Dame du Rosaire"
 description: "Dimanche 5 octobre 2014, messe de 19h Solemnitas gloriosae Virginis Mariae ex semine Abrahae, ortae de tribu Juda, clara ex stirpe David. Alleluia C'est la fête de la glorieuse Vierge Marie, née de la race d'Abraham, de la tribu de Juda, de l'illustre..."
 published: true
-categories: bananas
-layout: post
 ---
 
 

@@ -2,7 +2,6 @@
 title: "Fête de l'Exaltation de la Sainte Croix"
 description: "Dimanche 14 septembre 2014, messe de 19h Dulce lignum, dulces clavos, dulcia ferens pondera. Alleluia Bois très précieux et clous bénis, vous portez un doux fardeau. Alleluia Graduel : Christus factus est Faux-bourdon du Ve ton - Graduel de Lyon 1817..."
 published: true
-layout: post
 ---
 
 

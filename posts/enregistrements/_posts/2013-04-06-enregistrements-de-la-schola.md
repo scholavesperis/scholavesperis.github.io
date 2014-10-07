@@ -2,7 +2,6 @@
 title: "O florens rosa - Walter Frye "
 description: "Solennité du Rosaire (oct.2013) -  O Florens Rosa.mp3"
 published: true
-layout: post
 ---
 
 

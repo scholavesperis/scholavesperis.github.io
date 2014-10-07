@@ -1,20 +1,22 @@
 ---
 layout: default
 ---
-
-<article>
+<article id="full-article" class="full">
 	<h1 class="title">{{page.title}}</h1>
 
-	<span class='date' style="display:none">{{page.date | date:"%b %d"}}</span>
 	<div class='prose'>
 		{{content}}
 	</div>
-	{{post.categories}}
-	{{ post.populate_categories }}
-	<ul>
-		{% for category in post.categories %}
-		<li>{{category}}</li>
-		{% endfor %}
-	</ul>
 </article>
+<div id="list" class="list hidden">
+	<article>
+		<h2 class="title">La Schola Vesperis</h2>
+		<div class="id hidden"></div>
+		<div class="content">
+			{% capture about %}{% include about.md %}{% endcapture %}
+			{{ about | markdownify }}
+		</div>
+		<div class="category hidden"></div>
+	</article>
+</div>
 

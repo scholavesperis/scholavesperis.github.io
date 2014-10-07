@@ -2,7 +2,6 @@
 title: "Présentation de Jésus au Temple"
 description: "Dimanche 2 février 2014, messe de 19h Présentation de Jésus au Temple & Purification de la Vierge Marie Lumen ad revelationem gentium, et gloriam plebis tuæ Israël Lumière qui éclaire les nations et gloire d'Israël ton peuple. Graduel : Suscepimus Deus..."
 published: true
-layout: post
 ---
 
 

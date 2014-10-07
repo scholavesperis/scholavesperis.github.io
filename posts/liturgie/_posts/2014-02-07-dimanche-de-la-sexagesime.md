@@ -2,7 +2,6 @@
 title: "Dimanche de la Sexagésime"
 description: "Dimanche 23 février 2014, messe de 19h Perfice gressus meos in semitis tuis, ut non moveantur vestigia mea. Affermis mes pas sur tes sentiers, de peur que mon pied ne trébuche. Trait : Commovisti Faux-bourdon du 8e ton, G.M.Asola (1532-1609) Consécration..."
 published: true
-layout: post
 ---
 
 

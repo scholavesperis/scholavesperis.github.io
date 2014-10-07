@@ -2,7 +2,6 @@
 title: "Ascension du Seigneur"
 description: "Jeudi 29 mai 2014, messe de 19h Tu dux ad astra et semita, Sis meta nostris cordibus, Sis lacrimarum gaudium, Sis dulce vitae praemium. Toi notre guide vers le ciel, Sois le but où tendent nos coeurs, Sois notre joie après les larmes, Sois notre douce..."
 published: true
-layout: post
 ---
 
 

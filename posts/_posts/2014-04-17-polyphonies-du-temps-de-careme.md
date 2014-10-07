@@ -2,7 +2,6 @@
 title: "Polyphonies du Temps de Carême"
 description: ""
 published: true
-layout: post
 ---
 
 

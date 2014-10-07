@@ -2,7 +2,6 @@
 title: "XXIIe dimanche après la Pentecôte"
 description: "Dimanche 20 octobre 2013 église St Georges, messe de 19h Si iniquitates observaveris Domine, Domine quis sustinebit ? quia apud te propitiatio est, Deus Israël. Si tu regardes les péchés Seigneur, qui subsistera ? Mais auprès de toi est le pardon, Dieu..."
 published: true
-layout: post
 ---
 
 

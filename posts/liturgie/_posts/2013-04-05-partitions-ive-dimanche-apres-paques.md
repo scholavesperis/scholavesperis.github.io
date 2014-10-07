@@ -2,7 +2,6 @@
 title: "IVe dimanche après Pâques - Cantate Domino"
 description: "Dimanche 28 avril 2013, messe de 19h Cantate Domino canticum novum, quia mirabilia fecit Dominus : ante conspectum gentium revelavit justitiam suam. Chantez au Seigneur un chant nouveau car il a fait des merveilles : à la face des nations il a manifesté..."
 published: true
-layout: post
 ---
 
 

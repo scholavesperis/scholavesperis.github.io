@@ -2,7 +2,6 @@
 title: "Solennité du Rosaire"
 description: "Dimanche 6 octobre 2013, messe de 19h Audi, filia, et vide, et inclina aurem tuam : quia concupivit Rex speciem tuam. Ecoute, ma fille, regarde et sois attentive : le Roi est séduit par ta beauté. Entrée : Ave Maria Johannes Prioris (1460-1514) Consécration..."
 published: true
-layout: post
 ---
 
 

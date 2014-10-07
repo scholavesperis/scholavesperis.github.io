@@ -2,7 +2,6 @@
 title: "IIe dimanche de Carême"
 description: "Dimanche 16 mars 2014, messe de 19h Reminiscere miserationum tuarum, Domine, et misericordiae tuae, quae a seculo sunt. Souviens-toi, Seigneur, de ta tendresse et de ta miséricorde, car elles sont éternelles. Graduel & Trait : Tribulationes - Confitemini..."
 published: true
-layout: post
 ---
 
 
