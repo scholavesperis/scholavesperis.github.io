@@ -94,23 +94,15 @@
 	};
 	$(window).on('popstate', navigate);
 	
-	// category clicks
-	jQuery("nav a").click(function(e){
-		$.scrollTo('#content', 800);
-		href = e.target.href;
-		if (href.substr(href.length - 1) != "/") href = href + "/";
-		//console.log(href);
-		history.pushState(null, null, href);
-		navigate(e);
-		return false;
-	});
-	
-	// article clicks
-	jQuery(".list h2 a").click(function(e){
-		e.preventDefault();
-		$.scrollTo('#content', 800);
-		history.pushState(null, null, e.target.href);
-		navigate(e);
-		return false;
+	// site navigation
+	jQuery("a").click(function(e){
+		server = location.href.split('/')[2];
+		if (e.target.href.indexOf(server) >= 0) {
+			e.preventDefault();
+			//$.scrollTo('#content', 800);
+			history.pushState(null, null, e.target.href);
+			navigate(e);
+			return false;
+		}
 	});
 //})();

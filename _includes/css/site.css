@@ -246,6 +246,9 @@ aside div input[type="submit"] {
   background: linear-gradient(#252525, #0a0a0a);
   border: 1px solid #b5b5b5;
 }
+audio {
+	max-width: 100%;
+}
 .hidden {
 	display: none;
 }

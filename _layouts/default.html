@@ -35,16 +35,24 @@ title: "La Chorale du soir de l'Eglise Saint Georges"
     <div id="content" class="site-content">
 			<nav id="menu" role="navigation"><!-- Accueil Liturgie Partitions Enregistrements Veilleurs Eglise-St-Georges -->
 				<a id="accueil" {% if page.url == "/" %}class='active' {% endif %}href="/">Accueil</a>
-				<a id="liturgie" {% if page.url contains "liturgie" %}class='active' {% endif %}href="/liturgie">Liturgie</a>
-				<a id="partitions" {% if page.url contains "partitions" %}class='active' {% endif %}href="/partitions">Partitions</a>
-				<a id="enregistrements" {% if page.url contains "enregistrements" %}class='active' {% endif %}href="/enregistrements">Enregistrements</a>
-				<a id="veilleurs" {% if page.url contains "veilleurs" %}class='active' {% endif %}href="/veilleurs">Veilleurs</a>
-				<a id="eglise-st-georges" {% if page.url contains "eglise-st-georges" %}class='active' {% endif %}href="/eglise-st-georges">Eglise St Georges</a>
+				<a id="liturgie" {% if page.url contains "liturgie" %}class='active' {% endif %}href="/liturgie/">Liturgie</a>
+				<a id="partitions" {% if page.url contains "partitions" %}class='active' {% endif %}href="/partitions/">Partitions</a>
+				<a id="enregistrements" {% if page.url contains "enregistrements" %}class='active' {% endif %}href="/enregistrements/">Enregistrements</a>
+				<a id="veilleurs" {% if page.url contains "veilleurs" %}class='active' {% endif %}href="/veilleurs/">Veilleurs</a>
+				<a id="eglise-st-georges" {% if page.url contains "eglise-st-georges" %}class='active' {% endif %}href="/eglise-st-georges/">Eglise St Georges</a>
 			</nav>
 			<section class="content-column">
 				{{content}}
 			</section>
 			<aside>
+				<div>
+					<h3>Ecouter</h3>
+					{% for audio in site.categories.enregistrements %}
+						{% if forloop.first %}
+						<audio controls autoplay src="/audios/2014-09-06-Hosanna-Martini.mp3"></audio>
+						{% endif%}
+					{%endfor %}
+				</div>
 				<div>
 					<h3>Contact&nbsp;: Sarah Lyonnet</h3>
 					<p>Tél&nbsp;: <a href="tel:06 65 01 42 82">06 65 01 42 82</a></p>
