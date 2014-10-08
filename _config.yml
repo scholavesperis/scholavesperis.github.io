@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: ""
 permalink: pretty
 markdown: rdiscount
 paginate: 10
@@ -10,8 +10,15 @@ defaults:
     path: posts
   values:
     layout: post
+ -
+  scope:
+    path: posts/enregistrements
+  values:
+    layout: audio
 sass:
   style: compressed
+exclude:
+  - images/*.xcf
 prose:
   rooturl: 'posts'
   siteurl: 'http://scholavesperis.github.io/'
@@ -22,7 +29,7 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "Title"
+          label: "Titre"
           value: ""
       - name: "desc"
         field:
@@ -33,15 +40,20 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "Title"
+          label: "Titre de l'article"
           value: ""
-      - name: "auteur"
+      - name: "name"
+        field:
+          element: "text"
+          label: "Titre"
+          value: ""
+      - name: "author"
         field:
           element: "text"
           label: "Auteur"
           value: ""
-      - name: "file_link"
+      - name: "link"
         field:
           element: "text"
-          label: "Lien du fichier"
+          label: "Lien"
           value: ""

@@ -1,6 +1,14 @@
 ---
 ---
 [
+	{	
+		"title_link": "La Schola Vesperis",
+		"title_text": "La Schola Vesperis",
+		"href": "",
+		"date": "",
+		"content": "{% capture about %}{% include about.md %}{% endcapture %}{{ about | markdownify | replace:'"','\"' | strip_newlines }}",
+		"category": ""
+	},
  {% for post in site.posts %}
 	{	
 		"title_link": "<a href=\"{{post.url}}\">{{post.title | replace:'"','\"'}}</a>",

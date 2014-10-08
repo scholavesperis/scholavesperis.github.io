@@ -1,0 +1,26 @@
+<span id="playpause" class="playpause"></span>
+{% for audio in site.categories.enregistrements %}
+	{% if forloop.first %}
+	<audio id="audio-player" src="{{audio.link}}"></audio>
+	<div id="audio-progress" class="audio-progress"></div>
+	<div class="audio-list">
+		<span id="audio-prev" class="audio-nav">&laquo;</span>
+		<span id="audio-next" class="audio-nav">&raquo;</span>
+		<ul id="audio-list">
+			<li class="playing">
+				<a href="{{audio.link}}" class="audio-link hidden">{{audio.title}}</a>
+				<p><a href="{{audio.url}}">{{audio.name}}</a></p>
+				<p>{{audio.author}}</p>
+			</li>
+	{% else %}
+			<li>
+				<a href="{{audio.link}}" class="audio-link hidden">{{audio.title}}</a>
+				<p><a href="{{audio.url}}">{{audio.name}}</a></p>
+				<p>{{audio.author}}</p>
+			</li>
+	{% endif %}
+	{% if forloop.last %}
+		</ul>
+	</div>
+	{% endif %}
+{% endfor %}

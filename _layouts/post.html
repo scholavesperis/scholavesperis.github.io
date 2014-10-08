@@ -9,14 +9,6 @@ layout: default
 	</div>
 </article>
 <div id="list" class="list hidden">
-	<article>
-		<h2 class="title">La Schola Vesperis</h2>
-		<div class="id hidden"></div>
-		<div class="content">
-			{% capture about %}{% include about.md %}{% endcapture %}
-			{{ about | markdownify }}
-		</div>
-		<div class="category hidden"></div>
-	</article>
+  {% include article_about.html %}
 </div>
 

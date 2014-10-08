@@ -31,27 +31,22 @@ title: "La Chorale du soir de l'Eglise Saint Georges"
 			<img src="/images/vierge-vesperis-banniere.jpg">
 		</div>
     <div id="content" class="site-content">
-			<nav id="menu" role="navigation"><!-- Accueil Liturgie Partitions Enregistrements Veilleurs Eglise-St-Georges -->
+			<nav id="menu" role="navigation">
 				<a id="accueil" {% if page.url == "/" %}class='active' {% endif %}href="/">Accueil</a>
 				<a id="liturgie" {% if page.url contains "liturgie" %}class='active' {% endif %}href="/liturgie/">Liturgie</a>
 				<a id="partitions" {% if page.url contains "partitions" %}class='active' {% endif %}href="/partitions/">Partitions</a>
 				<a id="enregistrements" {% if page.url contains "enregistrements" %}class='active' {% endif %}href="/enregistrements/">Enregistrements</a>
 				<a id="veilleurs" {% if page.url contains "veilleurs" %}class='active' {% endif %}href="/veilleurs/">Veilleurs</a>
 				<a id="eglise-st-georges" {% if page.url contains "eglise-st-georges" %}class='active' {% endif %}href="/eglise-st-georges/">Eglise St Georges</a>
-				<div class="input"><input class="search" placeholder="Rechercher ..."><img src="/images/search.png"></div>
+				<div class="input"><input id="search-input" class="search" placeholder="Rechercher ..."><img id="do-search" src="/images/search.png"></div>
 			</nav>
 			<section class="content-column">
 				{{content}}
 			</section>
 			<aside>
-				<div class="widget audios">
+				<div class="widget audio">
 					<h3>Nous écouter</h3>
-					{% for audio in site.categories.enregistrements %}
-						{% if forloop.first %}
-						<audio controls src="/audios/2014-09-06-Hosanna-Martini.mp3"></audio>
-						{% endif %}
-						<a href="{{audio.url}}">{{audio.title}}</a>
-					{% endfor %}
+					{% include audio-widget.html %}
 				</div>
 				<div class="widget">
 					<h3>Contact&nbsp;: Sarah Lyonnet</h3>

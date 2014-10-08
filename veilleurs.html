@@ -3,9 +3,7 @@ layout: default
 ---
 <article id="full-article" class="full hidden"></article>
 <div id="list" class="list">
-{% for post in site.posts %}
- {% if post.categories contains "veilleurs" %}
+{% for post in site.categories.veilleurs %}
   {% include article.html %}
- {% endif %}
 {% endfor %}
 </div>

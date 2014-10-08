@@ -8,6 +8,9 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+*:focus {
+	outline: 0;
+}
 
 /* Markup free clearing
 Details: http://www.positioniseverything.net/easyclearing.html
@@ -26,6 +29,10 @@ $primary-on-dark: lighten($primary, 15%); /*#bb3e00;*/
 $darkgrey: #222;
 $darkgrey-on-dark: #888;
 $lightgrey-on-dark: #eee;
+
+.hidden {
+	display: none;
+}
 
 a {
   color: $primary;
@@ -200,6 +207,7 @@ aside {
   line-height: 22.75px;
 }
 .widget {
+	position: relative;
   margin: 0 0 25px 0;
 }
 .widget h3 {
@@ -246,12 +254,56 @@ aside {
   background: linear-gradient(#252525, #0a0a0a);
   border: 1px solid #b5b5b5;
 }
-.widget.audios a {
-	display: none;
-}
+
 audio {
 	max-width: 100%;
 }
-.hidden {
+.widget .audio-progress {
+	height: 10px;
+	background-image: url(/images/progress.png);
+	background-repeat: no-repeat;
+	background-size: 200% 90%;
+	background-position: 100% 0%;
+	//cursor: pointer;
+}
+.widget .playpause {
+	height: 18px;
+	width: 18px;
+	position: absolute;
+	top: 2px;
+	right: 0px;
+	background-image: url(/images/playpause.png);
+	background-size: 100%;
+	background-position: 0% 0%;
+}
+.widget .audio-nav {
+	color: $primary;
+	font-weight: bold;
+}
+.widget .audio-nav:hover {
+	//text-decoration: none;
+	cursor: pointer;
+}
+.widget .audio-list p a {
+	padding: 0 10px;
+}
+#audio-prev {
+	position: absolute;
+	left: 0;
+}
+#audio-next {
+	position: absolute;
+	right: 0;
+}
+.widget .audio-list ul {
+	padding: 0;
+}
+.widget .audio-list li {
 	display: none;
+	list-style: none;
+	list-style-image: none;
+	list-style-type: none;
+}
+.widget .audio-list li.playing {
+	display: block;
 }
