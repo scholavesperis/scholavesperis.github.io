@@ -1,8 +1,17 @@
 
+/*var fuzzyOptions = {
+  searchClass: "fuzzy-search",
+  location: 0,
+  distance: 10000,
+  threshold: 0.4,
+  multiSearch: true
+};//*/
 // initialise article list
 var articles = new List("content", {
 	valueNames: ["title_link", "title_text", "date", "href", "content", "category"],
 	listClass: "list",
+	searchClass: "search",
+	//plugins: [ ListFuzzySearch() ],
 	sortFunction: function(a, b, options) {
 		m = (options.order == "desc") ? 1 : -1;
 		if (a._values.date == "") return -m;
@@ -35,7 +44,7 @@ function showArticle(href) {
 
 function showCategory(category, page) {
 	if (page === undefined) page = 1;
-	articles.sort("id", {order: "desc"});
+	articles.sort("date", {order: "desc"});
 	articles.filter(function(item) {
 		if (category == "accueil" || item.values().category == category) {
 			return true;
@@ -98,4 +107,17 @@ jQuery("a").click(function(e){
 		navigate(e);
 		return false;
 	}
+});
+
+// give searches the full list
+jQuery("nav .input img").click(function(e){
+	history.pushState(null, null, "/");
+	navigate(e);
+});
+
+jQuery("nav input").on("keyup", function (e) {
+	if (e.which === 13) {
+		history.pushState(null, null, "/");
+		navigate(e);
+	};
 });

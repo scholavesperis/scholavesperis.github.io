@@ -1,4 +1,3 @@
-/* line 3, site.scss */
 *,
 *:after,
 *:before {
@@ -13,14 +12,27 @@
 /* Markup free clearing
 Details: http://www.positioniseverything.net/easyclearing.html
 ------------------------------------------------------- */
-/* line 25, site.scss */
+@mixin clearfix {
+	&:after {
+		content:'.';
+		display:block;
+		height:0;
+		clear:both;
+		visibility:hidden;
+	}
+}
+$primary: #7e1600;
+$primary-on-dark: lighten($primary, 15%); /*#bb3e00;*/
+$darkgrey: #222;
+$darkgrey-on-dark: #888;
+$lightgrey-on-dark: #eee;
+
 a {
-  color: #7e1600;
+  color: $primary;
   font-size: inherit;
   font-weight: bold;
   text-decoration: none;
 }
-/* line 30, site.scss */
 a:hover {
   text-decoration: underline;
 }
@@ -28,161 +40,158 @@ article h2 a {
 	color: #373737;
 }
 article h2 a:hover {
-	color: #7e1600;
+	color: $primary;
 	text-decoration: none;
 }
 
-/* line 35, site.scss */
 img {
   max-width: 100%;
 }
 
-/* line 39, site.scss */
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   background: url(/images/vierge-vesperis-image-de-fond.jpg) no-repeat center center fixed;
   background-size: cover;
   color: #373737;
 }
-/* line 44, site.scss */
 body > .container {
   background: white;
   max-width: 1000px;
   margin: 20px auto;
   box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 2px 0px;
 }
-/* line 49, site.scss */
 header {
   width: 100%;
   padding: 23px;
 }
-/* line 52, site.scss */
 header > div {
   display: inline-block;
   vertical-align: middle;
 }
-/* line 56, site.scss */
 header .avatar, header .avatar img {
   width: 80px;
   height: 80px;
 }
-/* line 60, site.scss */
 header .title {
   margin: 0px 25px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-/* line 63, site.scss */
 header .title h1 {
   padding: 0;
   margin: 0;
   font-weight: bold;
-  color: #111;
+  color: $darkgrey;
   font-size: 30px;
 }
-/* line 70, site.scss */
 header .title p {
   font-size: 15px;
   font-weight: normal;
   margin: 5px 0;
   color: #888;
 }
-/* line 77, site.scss */
-.container > .cover, .container .cover img {
+.cover, .cover img {
   width: 100%;
   height: 288px;
 }
 
-/* line 84, site.scss */
 nav {
-  background: #222;
+  background: $darkgrey;
   background: linear-gradient(#252525, #0a0a0a);
   box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 2px 0px;
-  padding: 0 0 0 54px;
+  padding: 0 0 0 44px;
+  position: relative;
 }
-/* line 89, site.scss */
-nav ul {
-  margin: 0;
-  padding: 0;
-}
-/* line 90, site.scss */
 nav a {
   display: inline-block;
-}
-/* line 93, site.scss */
-nav a {
-  color: #eee;
   height: 40px;
   line-height: 40px;
+  padding: 0 16px 0 12px;
+  color: $lightgrey-on-dark;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: bold;
   text-decoration: none;
-  padding: 0 16px 0 12px;
 }
-/* line 103, site.scss */
 nav a.active {
   font-weight: bold;
-  color: #bb3e00;
+  color: $primary-on-dark;
 }
-/* line 107, site.scss */
 nav a:hover {
-  color: #222;
+  color: $darkgrey;
   background: #ddd;
-  background: linear-gradient(#eeeeee, #bbbbbb);
-  color: #222;
+  background: linear-gradient(#eee, #bbb);
   text-decoration: none;
 }
-/* line 115, site.scss */
 nav a:hover.active {
-  color: #7e1600;
+  color: $primary;
+}
+nav .input {
+  position: absolute;
+  right: 56px;
+  top: 7px;
+  height: 26px;
+  padding: 0 9px;
+  border: 1px solid $darkgrey-on-dark;
+  border-radius: 9px;
+  z-index: 5;
+}
+nav .input img {
+	float: left;
+	width: 18px;
+	margin-top:3px;
+	background: $darkgrey-on-dark;
+}
+nav .input:hover img {
+	background: $lightgrey-on-dark;
+}
+nav .input:hover input {
+	width: 200px;
+	-webkit-transition: width 0.8s; /* For Safari 3.1 to 6.0 */
+	transition: width 0.8s;
+}
+nav input {
+	float: left;
+  height: 18px;
+  width: 8em;
+	-webkit-transition: width 0.8s; /* For Safari 3.1 to 6.0 */
+	transition: width 0.8s;
+  margin-top: 3px;
+  background: $darkgrey;
+  color: $lightgrey-on-dark;
+  border: none;
+}
+nav input:focus {
+	outline: 0;
 }
 
-/* line 16, site.scss */
-.site-content:after {
-  content: '.';
-  display: block;
-  height: 0;
-  clear: both;
-  visibility: hidden;
+.site-content {
+	@include clearfix;
 }
-/* line 123, site.scss */
 .site-content section {
   width: 65%;
   float: left;
   padding: 50px 0 50px 50px;
 }
-/* line 127, site.scss */
 article {
+	@include clearfix;
   margin-bottom: 50px;
 }
-/* line 16, site.scss */
-article:after {
-  content: '.';
-  display: block;
-  height: 0;
-  clear: both;
-  visibility: hidden;
-}
-/* line 130, site.scss */
 article h2 {
   display: block;
   font-size: 18px;
   font-weight: bold;
   margin-top: 0;
 }
-/* line 140, site.scss */
 article img {
   width: 300px;
   float: left;
   margin: 0 30px 10px 0;
 }
-/* line 145, site.scss */
 article p {
   font-size: 14px;
   line-height: 22.75px;
   margin-bottom: 15px;
 }
-/* line 155, site.scss */
 aside {
   width: 35%;
   float: left;
@@ -190,38 +199,31 @@ aside {
   font-size: 13px;
   line-height: 22.75px;
 }
-/* line 161, site.scss */
 .widget {
   margin: 0 0 25px 0;
 }
-/* line 163, site.scss */
 .widget h3 {
   margin: 0;
   color: #666;
   font-weight: 500;
 }
-/* line 168, site.scss */
 .widget p {
   margin-top: 0;
   margin-bottom: 0;
   font-size: 14px;
 }
-/* line 173, site.scss */
 .widget ul {
   margin-top: 0;
   padding-left: 20px;
 }
-/* line 176, site.scss */
 .widget ul li {
   list-style: square;
 }
-/* line 180, site.scss */
 .widget a img {
   display: inline-block;
   width: 121px;
   height: 121px;
 }
-/* line 185, site.scss */
 .widget label {
   position: absolute;
   overflow: hidden;
@@ -232,17 +234,15 @@ aside {
   padding: 0;
   border: 0;
 }
-/* line 195, site.scss */
 .widget input[type="email"] {
   background: #e5e5e5;
   border: 1px solid #b5b5b5;
   padding: 6px 1px;
 }
-/* line 200, site.scss */
 .widget input[type="submit"] {
-  color: #eee;
+  color: $lightgrey-on-dark;
   padding: 6px;
-  background: #222;
+  background: $darkgrey;
   background: linear-gradient(#252525, #0a0a0a);
   border: 1px solid #b5b5b5;
 }

@@ -26,8 +26,6 @@ title: "La Chorale du soir de l'Eglise Saint Georges"
 				<h1>Schola Vesperis</h1>
 				<p>Chant liturgique de l'église St Georges à Lyon</p>
 			</div>
-			<div class='search'>
-			</div>
 		</header>
 		<div class="cover">
 			<img src="/images/vierge-vesperis-banniere.jpg">
@@ -40,6 +38,7 @@ title: "La Chorale du soir de l'Eglise Saint Georges"
 				<a id="enregistrements" {% if page.url contains "enregistrements" %}class='active' {% endif %}href="/enregistrements/">Enregistrements</a>
 				<a id="veilleurs" {% if page.url contains "veilleurs" %}class='active' {% endif %}href="/veilleurs/">Veilleurs</a>
 				<a id="eglise-st-georges" {% if page.url contains "eglise-st-georges" %}class='active' {% endif %}href="/eglise-st-georges/">Eglise St Georges</a>
+				<div class="input"><input class="search" placeholder="Rechercher ..."><img src="/images/search.png"></div>
 			</nav>
 			<section class="content-column">
 				{{content}}
@@ -49,9 +48,9 @@ title: "La Chorale du soir de l'Eglise Saint Georges"
 					<h3>Nous écouter</h3>
 					{% for audio in site.categories.enregistrements %}
 						{% if forloop.first %}
-						<audio controls autoplay src="/audios/2014-09-06-Hosanna-Martini.mp3"></audio>
+						<audio controls src="/audios/2014-09-06-Hosanna-Martini.mp3"></audio>
 						{% endif %}
-						<a href="{{audio.url}}">{{audio.title}}</p>
+						<a href="{{audio.url}}">{{audio.title}}</a>
 					{% endfor %}
 				</div>
 				<div class="widget">
