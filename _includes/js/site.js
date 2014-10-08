@@ -62,7 +62,12 @@
 	}
 
 	function makePagination(page) {
-		//document.getElementById("pagination").outerHTML = ""; // TODO
+		var pagination = document.getElementById("pagination");
+		if (pagination !== null) {
+			pagination.innerHTML = "";
+		} else {
+			document.getElementById("content-column").innerHTML += '<div id="pagination" class="pagination"></div>';
+		}
 	}
 
 	navigate = function() {
@@ -96,10 +101,8 @@
 		}
 		
 		var links = document.getElementById("menu").getElementsByTagName("a");
-		console.log(links);
 		for(i = 0, len = links.length; i < len; i++) {
 			links[i].className = ""; // remove "active";
-			console.log(links[i]);
 		}
 		document.getElementById(categ).className = "active";
 		return true;
@@ -138,7 +141,6 @@
 	
 	function searchFullList(e) {
 		if (e.type !== 'keyup' || e.which === 13) {
-			console.log("keyup 13");
 			history.pushState(null, null, "/");
 			navigate();
 		};
@@ -223,9 +225,6 @@
 					xpos -= obj.offsetLeft;
 				} while (obj = obj.offsetParent);
 			}
-			console.log(e.pageX);
-			console.log(progress.offsetLeft);
-			console.log(xpos);
 		} else {										 // works in Google Chrome
 			var xpos = e.offsetX;
 		}
