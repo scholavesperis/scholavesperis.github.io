@@ -1,4 +1,7 @@
 (function(){
+	var perPage = 10;
+	var menu = document.getElementById("menu");
+	
 	// initialise article list
 	var articles = new List("content", {
 		valueNames: ["title_link", "title_text", "date", "href", "content", "category"],
@@ -55,19 +58,52 @@
 			}
 			return false;
 		});
-		articles.show(10 * (page - 1) + 1 + (page==1?0:1), (page==1?11:10)); // tested
+		articles.show(10 * (page - 1) + 1 + (page==1?0:1), (page==1?perPage+1:perPage));
 		document.getElementById("list").style.display = "block";
 		document.getElementById("full-article").style.display = "none";
-		makePagination(page);
+		makePagination(category, page);
 	}
 
-	function makePagination(page) {
+	function makePagination(category, page) {
 		var pagination = document.getElementById("pagination");
 		if (pagination !== null) {
 			pagination.innerHTML = "";
 		} else {
 			document.getElementById("content-column").innerHTML += '<div id="pagination" class="pagination"></div>';
+			pagination = document.getElementById("pagination");
 		}
+		
+		if (category == "accueil") {
+			var total = articles.size();
+		} else {
+			var total = articles.get("category", category).length;
+		}
+		console.log(total);
+		
+		href = location.href;
+		pos = href.indexOf("/page/");
+		if (pos >= 0) {
+			href = href.substr(0, pos);
+		} else if (category != "accueil") {
+			href += "?";
+			total = total - 1; // the extra article on the front page
+		}
+		if (href.substr(-1) != "/") href += "/";
+		href += "page/";
+		console.log(href);
+		console.log(total);
+		
+		var links = "";
+		if (page > 1) {
+			// make prev link
+			links += '<a href="' + href + (page - 1) + '" class="nav-prev">&lt; Articles précédents</a>';
+		}
+		if (page < total/perPage) {
+			// make next link
+			links += '&nbsp;<a href="' + href + (parseInt(page) + 1) + '" class="nav-next">Articles suivants &gt;</a>';
+		}
+		
+		pagination.innerHTML = links;
 	}
 
 	navigate = function() {
@@ -81,15 +117,15 @@
 			url = "/" + bits.join("/");
 		}
 		else { // category list asked for
-			if (bits[0] == "page") {
+			if (bits[0] == "page") { //accueil
 				categ = "";
-				page = bits[1];
+				page = bits.length > 1 ? bits[1] : 1;
 			}
-			else {
+			else { //category/?/page/x
 				categ = bits[0];
-				page = bits.length > 2 ? bits[2] : 1;
+				page = bits.length > 3 ? bits[3] : 1;
 			}
-			//console.log(page);
+			//onsole.log(page);
 		}
 		if (categ == "") categ = "accueil";
 		
@@ -97,14 +133,17 @@
 			showArticle(url);
 		}
 		else {
-			showCategory(categ);
+			showCategory(categ, page);
 		}
 		
-		var links = document.getElementById("menu").getElementsByTagName("a");
+		var links = menu.getElementsByTagName("a");
 		for(i = 0, len = links.length; i < len; i++) {
 			links[i].className = ""; // remove "active";
 		}
 		document.getElementById(categ).className = "active";
+		
+		menu.scrollIntoView(true);
+		
 		return true;
 	};
 	window.addEventListener('popstate', navigate, false);
