@@ -1,22 +1,32 @@
 ---
 ---
 [
-	{	
-		"title_link": "La Schola Vesperis",
-		"title_text": "La Schola Vesperis",
-		"href": "",
-		"date": "",
-		"content": "{% capture about %}{% include about.md %}{% endcapture %}{{ about | markdownify | replace:'"','\"' | strip_newlines }}",
-		"category": ""
-	},
+  {  
+    "title_link": "La Schola Vesperis",
+    "title_text": "La Schola Vesperis",
+    "href": "",
+    "date": "",
+    "content": "{% capture about %}{% include about.md %}{% endcapture %}{{ about | markdownify | replace:'"','\"' | strip_newlines }}",
+    "readmore-link": "",
+    "readmore": "",
+    "category": ""
+  },
  {% for post in site.posts %}
-	{	
-		"title_link": "<a href=\"{{post.url}}\">{{post.title | replace:'"','\"'}}</a>",
-		"title_text": "{{post.title | replace:'"','\"'}}",
-		"href": "{{post.url}}",
-		"date": "{{post.date | date_to_xmlschema }}",
-		"content": "{{post.content | replace:'"','\"' | strip_newlines }}",
-		"category": "{% for category in post.categories %}{% if category != "posts" %}{{ category | replace:'"','\"'}}{% endif %}{% endfor %}"
-	}{% unless forloop.last %},{% endunless%}
+  {% capture content %}
+    {% if post.categories contains "enregistrements" %}
+      <p><strong>{{post.name}}</strong> {{post.author}}</p>
+    {% endif %}
+    {{post.content | split: site.excerpt_separator | first }}
+  {% endcapture %}
+  {  
+    "title_link": "<a href=\"{{post.url}}\">{{post.title | replace:'"','\"'}}</a>",
+    "title_text": "{{post.title | replace:'"','\"'}}",
+    "href": "{{post.url}}",
+    "date": "{{post.date | date_to_xmlschema }}",
+    "content": "{{content | replace:'"','\"' | strip | strip_newlines }}",
+    "readmore-link": "{% if post.content contains site.excerpt_separator %}<a href=\"{{post.url}}\">Lire la suite...</a>{% endif %}",
+    "readmore": "{% if post.content contains site.excerpt_separator %}{{post.content | split: site.excerpt_separator | last | replace:'"','\"' | strip_newlines }}{% endif %}",
+    "category": "{% for category in post.categories %}{% if category != "posts" %}{{ category | replace:'"','\"'}}{% endif %}{% endfor %}"
+  }{% unless forloop.last %},{% endunless%}
  {% endfor %}
 ]

@@ -4,8 +4,9 @@
 	<div class="date hidden"></div>
 	<div class="href hidden"></div>
 	<div class="content">
-		{% capture about %}{% include about.md %}{% endcapture %}
-		{{ about | markdownify }}
+		{% capture about %}{% include about.md %}{% endcapture %}{{ about | markdownify }}
 	</div>
+	<div class="readmore-link"></div>
+	<div class="readmore hidden"></div>
 	<div class="category hidden"></div>
 </article>

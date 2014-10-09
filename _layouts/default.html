@@ -6,7 +6,7 @@ title: "La Chorale du soir de l'Eglise Saint Georges"
 <head>
   <title>Schola Vesperis {% if page.url != '/' %}- {{page.title}}{% endif %}</title>
   <meta charset='UTF-8'/>
-	<meta name="description" content="">
+	<meta name="description" content="{{page.description}}">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel='alternate' type='application/rss+xml' title='RSS' href='/blog.rss' />
@@ -56,7 +56,7 @@ title: "La Chorale du soir de l'Eglise Saint Georges"
 				<div class="widget">
 					<h3>Programmes recents</h3>
 					<ul>
-					{% for item in site.categories.liturgie offset:1 limit:7 %}
+					{% for item in site.categories.liturgie offset:0 limit:7 %}
 						<li>
 							<a class='item' href='{{item.url}}'>{{item.title}}</a>
 						</li>

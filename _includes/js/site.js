@@ -4,7 +4,7 @@
 	
 	// initialise article list
 	var articles = new List("content", {
-		valueNames: ["title_link", "title_text", "date", "href", "content", "category"],
+		valueNames: ["title_link", "title_text", "date", "href", "content", "readmore", "readmore-link", "category"],
 		listClass: "list",
 		searchClass: "search",
 		sortFunction: function(a, b, options) {
@@ -44,8 +44,9 @@
 		if (matches.length == 0) return false;
 		var article = matches[0].values();
 		document.getElementById("list").style.display = "none";
-		var full_article = document.getElementById("full-article")
-		full_article.innerHTML = "<h1>" + article.title_text + "</h1><div>" + article.content + "</div>";
+		document.getElementById("pagination").style.display = "none";
+		var full_article = document.getElementById("full-article");
+		full_article.innerHTML = "<h1>" + article.title_text + "</h1><div>" + article.content + article.readmore + "</div>";
 		full_article.style.display = "block";
 	}
 
@@ -60,6 +61,7 @@
 		});
 		articles.show(10 * (page - 1) + 1 + (page==1?0:1), (page==1?perPage+1:perPage));
 		document.getElementById("list").style.display = "block";
+		document.getElementById("pagination").style.display = "block";
 		document.getElementById("full-article").style.display = "none";
 		makePagination(category, page);
 	}

@@ -4,7 +4,12 @@
 	<div class="date hidden">{{post.date | date_to_xmlschema }}</div>
 	<div class="href hidden">{{post.url}}</div>
 	<div class="content">
-		{{post.content}}
+    {% if post.categories contains "enregistrements" %}
+      <p><strong>{{post.name}}</strong> {{post.author}}</p>
+    {% endif %}
+		{{post.content | split: site.excerpt_separator | first }}
 	</div>
+	<div class="readmore-link">{% if post.content contains site.excerpt_separator %}<a href="{{post.url}}">Lire la suite...</a>{% endif %}</div>
+	<div class="readmore hidden">{{post.content | split: site.excerpt_separator | last }}</div>
 	<div class="category hidden">{% for category in post.categories %}{% if category != "posts" %}{{ category | replace:'"','\"'}}{% endif %}{% endfor %}</div>
 </article>
