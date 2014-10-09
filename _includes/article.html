@@ -10,6 +10,6 @@
 		{{post.content | split: site.excerpt_separator | first }}
 	</div>
 	<div class="readmore-link">{% if post.content contains site.excerpt_separator %}<a href="{{post.url}}">Lire la suite...</a>{% endif %}</div>
-	<div class="readmore hidden">{{post.content | split: site.excerpt_separator | last }}</div>
+	<div class="readmore hidden">{% if post.content contains site.excerpt_separator %}{{post.content | split: site.excerpt_separator | last }}{% endif %}</div>
 	<div class="category hidden">{% for category in post.categories %}{% if category != "posts" %}{{ category | replace:'"','\"'}}{% endif %}{% endfor %}</div>
 </article>

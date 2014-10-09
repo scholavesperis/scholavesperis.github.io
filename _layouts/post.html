@@ -4,9 +4,12 @@ layout: default
 <article id="full-article" class="full">
 	<h1 class="title">{{page.title}}</h1>
 
-	<div class='pros'>
-		{{content | split: site.excerpt_separator | first }}
-		{{content | split: site.excerpt_separator | last }}
+	<div>
+		{% assign splitted = (content | split: site.excerpt_separator) %}
+		{{ splitted | first }}
+		{% if (splitted | size) > 1 %}
+			{{ splitted | last }}
+		{% endif %}
 	</div>
 </article>
 <div id="list" class="list hidden">

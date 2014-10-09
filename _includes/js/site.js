@@ -1,4 +1,4 @@
-(function(){
+//(function(){
 	var perPage = 10;
 	var menu = document.getElementById("menu");
 	
@@ -32,11 +32,11 @@
 		// Add the articles to listjs and redo pagination
 		articles.show(1, articles.size());
 		for(i=0, len=data.length; i<len; i++) {
-			if (articles.get('date', data[i].date).length == 0) {
+			if (articles.get('href', data[i].href).length == 0) {
 				articles.add(data[i]);
 			}
 		}
-		navigate();
+		navigate(true);
 	}
 
 	function showArticle(href) {
@@ -80,7 +80,7 @@
 		} else {
 			var total = articles.get("category", category).length;
 		}
-		console.log(total);
+		//console.log(total);
 		
 		href = location.href;
 		pos = href.indexOf("/page/");
@@ -92,8 +92,8 @@
 		}
 		if (href.substr(-1) != "/") href += "/";
 		href += "page/";
-		console.log(href);
-		console.log(total);
+		//console.log(href);
+		//console.log(total);
 		
 		var links = "";
 		if (page > 1) {
@@ -108,7 +108,7 @@
 		pagination.innerHTML = links;
 	}
 
-	navigate = function() {
+	navigate = function(noscroll) {
 		var bits = location.href.split("/");
 		var categ = "";
 		url = "";
@@ -142,9 +142,10 @@
 		for(i = 0, len = links.length; i < len; i++) {
 			links[i].className = ""; // remove "active";
 		}
+		//console.log(categ);
 		document.getElementById(categ).className = "active";
 		
-		menu.scrollIntoView(true);
+		if (noscroll !== true) menu.scrollIntoView(true);
 		
 		return true;
 	};
@@ -187,7 +188,7 @@
 		};
 	};
 
-})();
+//})();
 
 // Audio
 (function(){
@@ -275,6 +276,38 @@
 		player.play();
 		updateProgress();
 	}, false);
+	
+	// visibility detection
+	function getHiddenProp(){
+    if ('hidden' in document) return 'hidden';
+    
+    var prefixes = ['webkit','moz','ms','o'];
+    for (var i = 0; i < prefixes.length; i++){
+			if ((prefixes[i] + 'Hidden') in document) 
+				return prefixes[i] + 'Hidden';
+    }
 
-	playpause();
+    return null;
+	}
+	function isHidden() {
+    var prop = getHiddenProp();
+    if (!prop) return false;
+    
+    return document[prop];
+	}
+	var visProp = getHiddenProp();
+	if (visProp) var visEvent = visProp.replace(/[H|h]idden/,'') + 'visibilitychange';
+	function visChange() {
+		if (!isHidden()) {
+			// play and remove visEvent
+			playpause();
+			document.removeEventListener(visEvent, visChange);
+		}
+	}
+
+	if (!isHidden()) {
+		playpause();
+	} else { // use the property name to generate the prefixed event name
+		document.addEventListener(visEvent, visChange);
+	}
 })();
