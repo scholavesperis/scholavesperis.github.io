@@ -1,26 +1,21 @@
 ---
-title: "Fête de la sainte Trinité"
+title: Fête de la sainte Trinité
 description: "Dimanche 15 juin 2014, messe de 19h Benedicta sit sancta Trinitas atque indivisa unitas Bénie soit la sainte Trinité et son indivisible unité ! Consécration : O salutaris Hostia d'après Walter Frye (+1474) Communion : Trinitatis dies Walter Frye Sortie..."
 published: true
 ---
-
 
 ![](/images/2014-06-14-trinite-barthelemy-l-anglais.jpg)
 
 **Dimanche 15 juin 2014, messe de 19h**
 
-*Benedicta sit sancta Trinitas atque indivisa unitas*
-
+*Benedicta sit sancta Trinitas atque indivisa unitas*  
 Bénie soit la sainte Trinité et son indivisible unité !
 
-**Consécration : O salutaris Hostia**
-
+**Consécration : O salutaris Hostia**  
 d'après Walter Frye (+1474)
 
-**Communion : Trinitatis dies**
-
+**Communion : Trinitatis dies**  
 Walter Frye
 
-**Sortie : Salve Regina**
-
+**Sortie : Salve Regina**  
 Anonyme XVe, manuscrit de Trente
