@@ -13,4 +13,4 @@ version audio :
 [http://www.youtube.com/watch?v=4GZNoxrKZUQ](http://www.youtube.com/watch?v=4GZNoxrKZUQ)
 
 partition :  
-[L Espérance.pdf](/partitions/l-esperance.pdf)
+[L Espérance.pdf](/pdf/l-esperance.pdf)

@@ -13,4 +13,4 @@ version audio :
 [http://www.youtube.com/watch?v=r0eZmpWgFok](http://www.youtube.com/watch?v=r0eZmpWgFok)
 
 partition :  
-[canon de la paix.pdf](/partitions/canon-de-la-paix.pdf)
+[canon de la paix.pdf](/pdf/canon-de-la-paix.pdf)

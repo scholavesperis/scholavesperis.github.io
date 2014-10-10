@@ -24,4 +24,4 @@ de Jacob Obrecht (1457-1505) Missa Je ne seray plus
 
 Anonyme, manuscrit de Bologne - XVIe
 
-[Regina caeli anonyme.pdf](/partitions/regina-caeli-anonyme.pdf)
+[Regina caeli anonyme.pdf](/pdf/regina-caeli-anonyme.pdf)

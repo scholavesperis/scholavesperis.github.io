@@ -29,7 +29,7 @@ Lireplus
 
 - la partition à 3 voix d'hommes :
 
-[Ave Regina caelorum.pdf](/partitions/ave-regina-caelorum.pdf)
+[Ave Regina caelorum.pdf](/pdf/ave-regina-caelorum.pdf)
 
 - lien vers une version audio (dans la rubrique audio/vidéo):
 

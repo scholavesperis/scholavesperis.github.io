@@ -16,4 +16,4 @@ version audio :
 *[http://www.youtube.com/watch?v=Rd88CloxHDU](http://www.youtube.com/watch?v=Rd88CloxHDU)*
 
 partition:  
-[La strasbourgeoise.pdf](/partitions/la-strasbourgeoise.pdf)
+[La strasbourgeoise.pdf](/pdf/la-strasbourgeoise.pdf)

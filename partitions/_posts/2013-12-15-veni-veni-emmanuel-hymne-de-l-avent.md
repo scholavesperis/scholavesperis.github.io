@@ -20,9 +20,9 @@ La mélodie semble dater du XVe siècle. On retrouve une première trace de l'hy
 
 - La partition dans une harmonisation à 2 voix, (avec contre-chant en "miroir" ) :
 
-[Veni veni Emmanuel recto.pdf](/partitions/veni-veni-emmanuel-recto.pdf)
+[Veni veni Emmanuel recto.pdf](/pdf/veni-veni-emmanuel-recto.pdf)
 
-[Veni veni Emmanuel verso.pdf](/partitions/veni-veni-emmanuel-verso.pdf)
+[Veni veni Emmanuel verso.pdf](/pdf/veni-veni-emmanuel-verso.pdf)
 
 - Lien vers une version enregistrée de l'hymne :
 

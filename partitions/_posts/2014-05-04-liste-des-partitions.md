@@ -2,7 +2,7 @@
 title: Liste des partitions
 description: "Partitions liturgiques éditées par la schola : Adoramus te Anonyme, cancionero de Montecassino -4vx Adoramus te Loyset Compère (1445-1518), Missa Galeazescha « Ad elevationem » -4vx Agnus Dei Touront (XVe), Missa Sine nomine, manuscrit de Trente -3vx..."
 published: true
-permalink: "/posts/partitions/liste-des-partitions/"
+permalink: "/partitions/liste-des-partitions/"
 ---
 
 ![](/images/2013-05-04-partition-salutaris-2.jpg)

@@ -20,7 +20,7 @@ Ordonné prêtre à l'âge de 30 ans, Jacob Obrecht est un représentant majeur 
 
 Lireplus
 
-[Parce Domine - Obrecht.pdf](/partitions/parce-domine-obrecht.pdf)
+[Parce Domine - Obrecht.pdf](/pdf/parce-domine-obrecht.pdf)
 
 - Lien vers une version audio (à l'orgue puis au chant) :
 
