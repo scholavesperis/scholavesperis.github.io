@@ -17,5 +17,7 @@ Anonyme XVe, ms de Trente
 **Offertoire : Veni Sancte Spiritus**  
 Anonyme XVe, ms de Trente
 
+&nbsp;
+
 **Communion : Ave verum corpus**  
 d'après Loyset Compère (1445-1518)
