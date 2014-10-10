@@ -4,7 +4,6 @@ description: "Motet à 3 voix du temps de Carême, de Jacob Obrecht (1450-1505) 
 published: true
 ---
 
-
 ![](/images/2014-03-18-jacob-obrecht.jpg)
 
 Motet à 3 voix du temps de Carême, de Jacob Obrecht (1450-1505)
@@ -19,7 +18,9 @@ Motet à 3 voix du temps de Carême, de Jacob Obrecht (1450-1505)
 
 Ordonné prêtre à l'âge de 30 ans, Jacob Obrecht est un représentant majeur de l'école franco-flamande. Il compose ce "Parce Domine" dans la forme motet-chanson à 3 voix.
 
-*- cliquer sur le titre de l'article pour accéder au pdf -*
+*- ouvrir l'article pour accéder au pdf -*
+
+Lireplus
 
 [Parce Domine - Obrecht.pdf](/partitions/parce-domine-obrecht.pdf)
 
