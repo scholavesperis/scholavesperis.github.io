@@ -13,7 +13,7 @@ published: true
 
 **La droite du Seigneur a exercé sa puissance, la droite du Seigneur m'a relevé**
 
-****Graduel : Timebunt gentes****
+**Graduel : Timebunt gentes**
 
 **faux-bourdon du 5e ton,** G.M.Asola (1532-1609)
 

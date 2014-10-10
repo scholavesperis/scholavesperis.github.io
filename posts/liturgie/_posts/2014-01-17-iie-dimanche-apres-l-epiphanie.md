@@ -12,7 +12,7 @@ published: true
 *Omnis terra adoret te, Deus, et psallat tibi : psalmum dicat nomini tuo, Altissime.*  
 **Que toute la terre t'adore, O Dieu, et qu'elle te chante, qu'elle chante en l'honneur de ton nom, Dieu Très Haut.**
 
-****Consécration : O salutaris Hostia****
+**Consécration : O salutaris Hostia**
 
 d'après Walter Frye +1474
 

@@ -13,7 +13,7 @@ published: true
 
 **Annoncez-le avec des cris de joie, et qu'on l'entende. Annoncez-le jusqu'aux extrémités de la terre : le Seigneur a délivré son peuple.**
 
-**Offertoire : ***Victimae Paschali laudes*****
+**Offertoire : ***Victimae Paschali laudes*
 
 Josquin Desprez (1450-1521)
 
@@ -21,10 +21,10 @@ Josquin Desprez (1450-1521)
 
 d'après C. de Moralès (1500-1553)
 
-**Communion : ***Tantum ergo*****
+**Communion : *Tantum ergo***
 
 Anonyme, Occo Codex - XVIe
 
-**Sortie : ***Regina caeli*****
+**Sortie : *Regina caeli***
 
 Anonyme allemand - XVIe

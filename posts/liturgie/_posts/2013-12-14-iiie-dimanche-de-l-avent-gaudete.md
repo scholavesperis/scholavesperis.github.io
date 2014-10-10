@@ -13,11 +13,11 @@ published: true
 
 **Que votre douceur soit connue de tous les hommes; car le Seigneur est proche.**
 
-****Entrée : Veni, veni Emmanuel****
+**Entrée : Veni, veni Emmanuel**
 
 **Anonyme XVe**
 
-****Consécration : O salutaris Hostia****
+**Consécration : O salutaris Hostia**
 
 **d'après Jacob Obrecht** (1457-1505)
 

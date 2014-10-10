@@ -16,7 +16,7 @@ published: true
 
 Heinrich Isaac (1450-1517), Choralis Constantinus
 
-****Offertoire : De profundis****
+**Offertoire : De profundis**
 
 Josquin Desprez (1450-1521)
 

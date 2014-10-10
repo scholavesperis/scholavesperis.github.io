@@ -15,7 +15,7 @@ published: true
 
 **Par la parole du Seigneur les cieux ont été affermis, et par le souffle de sa bouche toute leur puissance.**
 
-****Consécration : "O salutaris Hostia"****
+**Consécration : "O salutaris Hostia"**
 
 adaptation d'après Walter Frye (+1474)
 

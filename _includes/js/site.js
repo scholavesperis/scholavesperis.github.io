@@ -1,4 +1,4 @@
-//(function(){
+(function(){
 	var perPage = 10;
 	var menu = document.getElementById("menu");
 	
@@ -210,7 +210,7 @@
 		};
 	};
 
-//})();
+})();
 
 // Audio
 (function(){

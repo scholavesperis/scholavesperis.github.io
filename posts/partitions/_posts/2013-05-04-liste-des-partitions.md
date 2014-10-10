@@ -31,7 +31,7 @@ published: true
 
 - ***Benedicamus Domino*** Guillaume Dufay (1400-1474) -3vx
 - ***Benedicamus Domino*** Nesbet, manuscrit de Pepys -3vx
-- ***Benedicamus Domino******I&II*** Jacob Obrecht (1457-1505) -4vx
+- ***Benedicamus Domino I&II*** Jacob Obrecht (1457-1505) -4vx
 - ***Benedicamus Domino IV*** Costanzo Festa (1485-1545) -4vx
 - ***B*enedicamus Domino** d'après Antoine de Févin (1470-1512) -5vx
 - ***Benedictus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
@@ -43,7 +43,7 @@ published: true
 
 - ***Kyrie*** Pierre de la Rue (1460-1518 ), Missa pro defunctis -4vx
 - ***Kyrie Leroy*** John Taverner (1490-1545) -4vx
-- ***Kyr******ie J***osquin Desprez (1450-1521), Missa La sol fa re mi -4vx
+- ***Kyrie*** Josquin Desprez (1450-1521), Missa La sol fa re mi -4vx
 - ***Kyrie*** Engarandus Juvenis (XVe), Missa pro defunctis, codex de Staffarda -3 & 4vx
 - ***Kyrie*** Antoine Brumel (1460-1520), Missa A l'ombre d'ung buissonet -4vx
 

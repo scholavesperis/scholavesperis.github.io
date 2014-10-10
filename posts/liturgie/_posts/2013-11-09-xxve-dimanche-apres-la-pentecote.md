@@ -13,7 +13,7 @@ published: true
 
 **Au temps de la moisson, je dirai aux moissoneurs : Enlevez d'abord l'ivraie, et liez-la en bottes pour la brûler, mais le blé, recueillez-le dans mon grenier.**
 
-****Consécration : O salutaris Hostia****
+**Consécration : O salutaris Hostia**
 
 d'après Jacob Obrecht (1457-1505)
 
