@@ -21,7 +21,34 @@ sass:
 exclude:
   - images/*.xcf
 prose:
-  rooturl: 'posts'
+  rooturl: ''
+  ignore:
+    - audio
+    - images
+    - _includes
+    - js
+    - _layouts
+    - _sass
+    - _site
+    - 404.md
+    - articles.json
+    - atom.xml
+    - config.rb
+    - _config.yml
+    - eglise-st-georges.html
+    - enregistrements.html
+    - Gemfile
+    - Gemfile.lock
+    - index.html
+    - LICENCE.md
+    - links.jsonp
+    - liturgie.html
+    - membres.html
+    - partitions.html
+    - README.md
+    - site.js
+    - site.scss
+    - styleguide.html
   siteurl: 'http://scholavesperis.github.io/'
   relativeLinks: 'http://scholavesperis.github.io/links.jsonp'
   media: 'images'
