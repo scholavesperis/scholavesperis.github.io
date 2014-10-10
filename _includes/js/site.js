@@ -113,12 +113,15 @@
 		var categ = "";
 		url = "";
 		bits.splice(0, 3);
-		if (bits.length > 1) { // article asked for
+		//console.log(bits);
+		if (bits.length > 1 && bits[1].length > 0) { // article asked for
+			//console.log("post");
 			categ = bits[0];
 			if (categ.match(/^[0-9]{4}$/)) categ = "";
 			url = "/" + bits.join("/");
 		}
 		else { // category list asked for
+			//console.log("cat");
 			if (bits[0] == "page") { //accueil
 				categ = "";
 				page = bits.length > 1 ? bits[1] : 1;
@@ -128,6 +131,7 @@
 				page = bits.length > 3 ? bits[3] : 1;
 			}
 		}
+		//console.log(categ);
 		if (categ == "") categ = "accueil";
 		
 		if (url) {
@@ -179,7 +183,7 @@
 					}	else if (link.click) { // IE
 						link.click();
 					} else {
-						console.log("no click method");
+						//console.log("no click method");
 						return true;
 					}
 					e.preventDefault();
@@ -204,7 +208,7 @@
 				}	else if (link.click) { // IE
 					link.click();
 				} else {
-					console.log("no click method");
+					//console.log("no click method");
 					return true;
 				}
 				e.preventDefault();
