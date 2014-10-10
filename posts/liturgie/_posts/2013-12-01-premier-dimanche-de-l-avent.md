@@ -6,8 +6,6 @@ published: true
 
 ![](/images/2013-12-01-etoile.jpg)
 
-&nbsp;
-
 **Dimanche 1er décembre 2013, messe de 19h**
 
 *Nox præcéssit, dies autem appropinquávit.*  
