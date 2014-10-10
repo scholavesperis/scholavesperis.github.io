@@ -1,10 +1,9 @@
 ---
-title: "Liste des partitions"
+title: Liste des partitions
 description: "Partitions liturgiques éditées par la schola : Adoramus te Anonyme, cancionero de Montecassino -4vx Adoramus te Loyset Compère (1445-1518), Missa Galeazescha « Ad elevationem » -4vx Agnus Dei Touront (XVe), Missa Sine nomine, manuscrit de Trente -3vx..."
 published: true
-permalink: /posts/partitions/liste-des-partitions/
+permalink: "/posts/partitions/liste-des-partitions/"
 ---
-
 
 ![](/images/2013-05-04-partition-salutaris-2.jpg)
 
@@ -31,6 +30,7 @@ Lireplus
 - ***Sanctus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
 - ***Hosanna in excelsis*** Antoine de Févin (1470-1512), Missa de Feria -4vx
 - ***Hosanna in excelsis*** Jacob Obrecht (1457-1505), Missa de Sancto Donatiano -4vx
+- ***Hosanna in excelsis*** d'après Johannes Martini (1440-1497)
 
 - ***Agnus Dei*** Touront (XVe), Missa Sine nomine, manuscrit de Trente -3vx
 - ***Agnus Dei*** Anonyme, manuscrit de Trente -3vx
