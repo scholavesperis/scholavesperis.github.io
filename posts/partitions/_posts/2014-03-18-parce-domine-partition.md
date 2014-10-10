@@ -26,7 +26,7 @@ Lireplus
 
 - Lien vers une version audio (à l'orgue puis au chant) :
 
-[http://www.youtube.com/watch?v=t-Hi9LLkJBohttp://](http://www.youtube.com/watch?v=t-Hi9LLkJBohttp://)
+[http://www.youtube.com/watch?v=t-Hi9LLkJBohttp://](http://www.youtube.com/watch?v=t-Hi9LLkJBo)
 
 - Certains manuscrits présentent une 4e voix qui semble être un ajout postérieur :
 
