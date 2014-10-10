@@ -211,6 +211,11 @@ article p {
   line-height: 22.75px;
   margin-bottom: 15px;
 }
+article li, article li p {
+	font-size: 14px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
 aside {
   width: 35%;
   float: left;

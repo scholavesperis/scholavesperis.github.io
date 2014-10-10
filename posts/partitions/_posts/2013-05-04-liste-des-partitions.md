@@ -20,8 +20,17 @@ Lireplus
 
 &nbsp;
 
-- ***Adoramus te*** Anonyme, cancionero de Montecassino -4vx
-- ***Adoramus te*** Loyset Compère (1445-1518), Missa Galeazescha « Ad elevationem » -4vx
+## Parties de la messe
+
+- ***Kyrie*** Pierre de la Rue (1460-1518 ), Missa pro defunctis -4vx
+- ***Kyrie Leroy*** John Taverner (1490-1545) -4vx
+- ***Kyrie*** Josquin Desprez (1450-1521), Missa La sol fa re mi -4vx
+- ***Kyrie*** Engarandus Juvenis (XVe), Missa pro defunctis, codex de Staffarda -3 & 4vx
+- ***Kyrie*** Antoine Brumel (1460-1520), Missa A l'ombre d'ung buissonet -4vx
+
+- ***Sanctus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
+- ***Hosanna in excelsis*** Antoine de Févin (1470-1512), Missa de Feria -4vx
+- ***Hosanna in excelsis*** Jacob Obrecht (1457-1505), Missa de Sancto Donatiano -4vx
 
 - ***Agnus Dei*** Touront (XVe), Missa Sine nomine, manuscrit de Trente -3vx
 - ***Agnus Dei*** Anonyme, manuscrit de Trente -3vx
@@ -43,19 +52,11 @@ Lireplus
 - ***Benedicamus Domino*** Nesbet, manuscrit de Pepys -3vx
 - ***Benedicamus Domino I&II*** Jacob Obrecht (1457-1505) -4vx
 - ***Benedicamus Domino IV*** Costanzo Festa (1485-1545) -4vx
-- ***B*enedicamus Domino** d'après Antoine de Févin (1470-1512) -5vx
+- ***Benedicamus Domino*** d'après Antoine de Févin (1470-1512) -5vx
 - ***Benedictus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
 
 - ***Gloria Patri*** Josquin Desprez (1450-1521) -4vx
 - ***Gloria Patri*** William Byrd (1543-1623 ) -4vx
-- ***Hosanna in excelsis*** Antoine de Févin (1470-1512), Missa de Feria -4vx
-- ***Hosanna in excelsis*** Jacob Obrecht (1457-1505), Missa de Sancto Donatiano -4vx
-
-- ***Kyrie*** Pierre de la Rue (1460-1518 ), Missa pro defunctis -4vx
-- ***Kyrie Leroy*** John Taverner (1490-1545) -4vx
-- ***Kyrie*** Josquin Desprez (1450-1521), Missa La sol fa re mi -4vx
-- ***Kyrie*** Engarandus Juvenis (XVe), Missa pro defunctis, codex de Staffarda -3 & 4vx
-- ***Kyrie*** Antoine Brumel (1460-1520), Missa A l'ombre d'ung buissonet -4vx
 
 - ***O salutaris Hostia*** Anonyme XVIe -4vx
 - ***O salutaris Hostia*** Pierre de la Rue (1460-1518 ) -4vx
@@ -66,9 +67,7 @@ Lireplus
 - ***O salutaris Hostia*** d'après Jacob Obrecht (1457-1505) -3vx
 - ***O salutaris Hostia*** Anonyme, d'après la Cantinela du couvent de Niolu -2vx
 
-- ***Sanctus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
-
-**H.Isaac (1450-1517 ), Choralis Constantinus (4vx) :**
+## H.Isaac (1450-1517 ), Choralis Constantinus (4vx) :
 
 - ***Alleluia -Corpus Christi-***
 - ***Alleluia -Pascal-***
@@ -90,7 +89,7 @@ Lireplus
 - ***Tollite hostias*** (3 et 4vx)
 - ***Vovete*** (3 et 4vx)
 
-**Manuscrit de Trente :**
+## Manuscrit de Trente :
 
 - ***Ascendit Deus*** Anonyme -3vx
 - ***Alleluia*** Anonyme, Pentecôte -3vx
@@ -104,8 +103,10 @@ Lireplus
 - ***Salve Regina*** Anonyme -3vx
 - ***Veni Sancte Spiritus*** Anonyme -4vx
 
-**Motets & Hymnes:**
+## Motets & Hymnes:
 
+- ***Adoramus te*** Anonyme, cancionero de Montecassino -4vx
+- ***Adoramus te*** Loyset Compère (1445-1518), Missa Galeazescha « Ad elevationem » -4vx
 - ***Alleluia*** Perotin le Grand (1160-1230) -3vx
 - ***Alma Redemptoris Mater*** Anonyme (XVe), Harmonice Musices Odhecaton -3vx
 - ***Audi benigne Conditor*** Guillaume Dufay (1400-1474) -3vx
@@ -159,7 +160,7 @@ Lireplus
 - ***Vexilla Regis*** Alonso Dalua (XVIe) -4vx
 - ***Virgo mitis*** Loyset Compère (1445-1518) -4vx
 
-**Chants Traditionnels (***ci-dessus, à la rubrique "Veilleurs"***) :**
+## Chants Traditionnels (***ci-dessus, à la rubrique "Veilleurs"***) :
 
 - ***L'Espérance***
 - ***La Strasbourgeoise***
