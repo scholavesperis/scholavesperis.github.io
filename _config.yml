@@ -68,6 +68,7 @@ prose:
     - liturgie.html
     - membres.html
     - partitions.html
+    - pdf
     - README.md
     - site.js
     - site.scss
