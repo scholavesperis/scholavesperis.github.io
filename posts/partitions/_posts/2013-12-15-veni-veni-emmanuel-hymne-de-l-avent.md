@@ -11,7 +11,9 @@ L'hymne "Veni, veni Emmanuel" est une paraphrase des grandes antiennes "Ô" de l
 
 Il chante l'attente du Messie, et énumère chacun des sept titres qui lui sont attribués.
 
-*-cliquez sur le titre de l'article pour l'ouvrir-*
+*- ouvrir l'article pour le voir -*
+
+Lireplus
 
 <img src="/images/2013-12-15-texte-veni.jpg" alt="Traduction : Schola Ste Cécile" class="popup-image">
 

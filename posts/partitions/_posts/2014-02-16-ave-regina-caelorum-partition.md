@@ -16,14 +16,18 @@ A part quelques légères nuances on y retrouve le texte de l'antienne :
 *Ave, Regina caelorum,  
  Ave, Domina angelorum;  
  Salve, radix Sancta,  
- Ex qua mundo l*ux est orta.
+ Ex qua mundo lux est orta.*
 
 *Gaude Virgo gloriosa,  
  Super omnes speciósa;  
  Vale, valde decora  
- Et pro nobis semper Chr*istum exora.
+ Et pro nobis semper Christum exora.*
 
-- la partition à 3 voix d'hommes : (*cliquer sur le titre de l'article pour accéder au pdf*)
+*- ouvrir l'article pour accéder au pdf -*
+
+Lireplus
+
+- la partition à 3 voix d'hommes :
 
 [Ave Regina caelorum.pdf](/partitions/ave-regina-caelorum.pdf)
 

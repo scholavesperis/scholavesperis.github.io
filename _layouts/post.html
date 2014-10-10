@@ -5,10 +5,9 @@ layout: default
 	<h1 class="title">{{page.title}}</h1>
 
 	<div>
-		{% assign splitted = (content | split: site.excerpt_separator) %}
-		{{ splitted | first }}
-		{% if (splitted | size) > 1 %}
-			{{ splitted | last }}
+		{{ content | split: site.excerpt_separator | first }}
+		{% if content contains site.excerpt_separator %}
+			{{ content | split: site.excerpt_separator | last }}
 		{% endif %}
 	</div>
 </article>

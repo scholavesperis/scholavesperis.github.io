@@ -2,15 +2,25 @@
 title: "Liste des partitions"
 description: "Partitions liturgiques éditées par la schola : Adoramus te Anonyme, cancionero de Montecassino -4vx Adoramus te Loyset Compère (1445-1518), Missa Galeazescha « Ad elevationem » -4vx Agnus Dei Touront (XVe), Missa Sine nomine, manuscrit de Trente -3vx..."
 published: true
+permalink: /posts/partitions/liste-des-partitions/
 ---
 
 
 ![](/images/2013-05-04-partition-salutaris-2.jpg)
 
-**Partitions liturgiques éditées par la schola :**
+**Partitions liturgiques éditées par la schola**
+
+Si vous recherchez une partition, n'hésitez-pas à nous contacter :
+
+[scholavesperis@yahoo.fr](mailto:scholavesperis@yahoo.fr)
+
+*- ouvrir l'article pour voir la liste des partitions -*
+
+Lireplus
+
+&nbsp;
 
 - ***Adoramus te*** Anonyme, cancionero de Montecassino -4vx
-
 - ***Adoramus te*** Loyset Compère (1445-1518), Missa Galeazescha « Ad elevationem » -4vx
 
 - ***Agnus Dei*** Touront (XVe), Missa Sine nomine, manuscrit de Trente -3vx
@@ -155,7 +165,3 @@ published: true
 - ***La Strasbourgeoise***
 - ***Canon de la paix***
 - ***Prière à St Michel***
-
-Si vous recherchez une partition, n'hésitez-pas à nous contacter :
-
-**scholavesperis@yahoo.fr**
