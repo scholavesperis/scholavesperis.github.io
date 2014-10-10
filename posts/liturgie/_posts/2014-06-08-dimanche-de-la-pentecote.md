@@ -17,7 +17,6 @@ Anonyme XVe, ms de Trente
 **Offertoire : Veni Sancte Spiritus**  
 Anonyme XVe, ms de Trente
 
-&nbsp;  
 &nbsp;
 
 **Communion : Ave verum corpus**  
