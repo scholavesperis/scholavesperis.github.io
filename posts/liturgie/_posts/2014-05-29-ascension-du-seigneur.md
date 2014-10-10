@@ -14,6 +14,8 @@ Toi notre guide vers le ciel, Sois le but où tendent nos coeurs, Sois notre joi
 **Offertoire : Ascendit Deus**  
 Anonyme XVe, manuscrit de Trente
 
+&nbsp;
+
 **Communion : Agnus Dei**  
 d'après Jacob Obrecht (1457-1505)
 
