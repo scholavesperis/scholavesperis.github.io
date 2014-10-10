@@ -4,10 +4,7 @@ description: "Paroisse catholique diocésaine - Messe traditionnelle - Quai Fulc
 published: true
 ---
 
-
-![](/images/2012-10-04-eglise-st-georges.jpg)
-
-#### Paroisse catholique diocésaine
+**Paroisse catholique diocésaine**
 
 *- Messe traditionnelle -*
 
@@ -18,3 +15,5 @@ Quai Fulchiron - 69005 Lyon
 [http://www.eglisesaintgeorges.com/](http://www.eglisesaintgeorges.com/)
 
 Messe les dimanches et fêtes à 8h30, 10h30 et 19h (vêpres à 18h).
+
+![](/images/2012-10-04-eglise-st-georges.jpg)

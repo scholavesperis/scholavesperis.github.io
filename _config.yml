@@ -5,6 +5,8 @@ paginate: 10
 paginate_path: "page/:num"
 timezone: Europe/Paris
 excerpt_separator: "Lireplus"
+kramdown:
+  input: GFM
 defaults:
  -
   scope:
