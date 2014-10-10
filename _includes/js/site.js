@@ -113,8 +113,8 @@
 		var categ = "";
 		url = "";
 		bits.splice(0, 3);
-		if (bits[0] == "posts") { // article asked for
-			categ = bits[1];
+		if (bits.length > 1) { // article asked for
+			categ = bits[0];
 			if (categ.match(/^[0-9]{4}$/)) categ = "";
 			url = "/" + bits.join("/");
 		}
@@ -127,7 +127,6 @@
 				categ = bits[0];
 				page = bits.length > 3 ? bits[3] : 1;
 			}
-			//onsole.log(page);
 		}
 		if (categ == "") categ = "accueil";
 		

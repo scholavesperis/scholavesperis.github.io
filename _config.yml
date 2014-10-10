@@ -10,13 +10,34 @@ kramdown:
 defaults:
  -
   scope:
-    path: posts
+    path: ""
+    type: "posts"
   values:
     layout: post
  -
   scope:
     path: posts/enregistrements
   values:
+    layout: audio
+ -
+  scope:
+    path: liturgie
+  values:
+    category: liturgie
+ -
+  scope:
+    path: partitions
+  values:
+    category: partitions
+ -
+  scope:
+    path: eglise-st-georges
+  values:
+    category: eglise-st-georges
+  scope:
+    path: enregistrements
+  values:
+    category: enregistrements
     layout: audio
 sass:
   style: compressed
