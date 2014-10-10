@@ -201,6 +201,11 @@ article img {
   float: left;
   margin: 0 30px 10px 0;
 }
+article p ~ p img {
+  max-width: 100%;
+  float: none;
+  margin: 0 0 10px;
+}
 article p {
   font-size: 14px;
   line-height: 22.75px;
