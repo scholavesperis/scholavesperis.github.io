@@ -154,9 +154,9 @@
 	// site navigation
 	document.addEventListener("click", linkClick, true);
 	function linkClick(e){
-		if(e.target.nodeType != 1 || e.target.tagName.toLowerCase() !="a") return true;
-		var href = e.target.href;
-		//console.log(href);
+		link = e.target;
+		if(link.nodeType != 1 || link.tagName.toLowerCase() !="a") return true;
+		var href = link.href;
 		
 		var local = false;
 		// don't try treating these links
@@ -168,7 +168,6 @@
 			if (href.indexOf(server) >= 0) local = true;
 		}
 		if (local) {
-			link = e.target;
 			if (href.split("?")[0].substr(-4).toLowerCase() == ".pdf") {
 				if (!link.hasAttribute("target")) {
 					link.setAttribute("target", "_blank");
@@ -194,6 +193,22 @@
 				return false;
 			}
 		} else {
+			if (!link.hasAttribute("target")) {
+				link.setAttribute("target", "_blank");
+				
+				// Cancel action and regenerate a click - otherwise the target attribute isn't used
+				e.preventDefault();
+				if (document.createEvent) { // Firefox
+					var event = document.createEvent("MouseEvents");
+					event.initEvent("click", true, true);
+					link.dispatchEvent(event);
+				}	else if (link.click) { // IE
+					link.click();
+				} else {
+					console.log("no click method");
+				}
+				return false;
+			}
 			// TODO check for dropbox links
 		}
 	};
