@@ -6,10 +6,8 @@ published: true
 
 ![](/images/2013-05-06-ghetto-henryk-ross.jpg)
 
-**Partition du chant "l'Espérance"**
-
-**Hymne des Veilleurs, à 3 voix**
-
+**Partition du chant "l'Espérance"**  
+*Hymne des Veilleurs, à 3 voix*
 
 version audio :  
 [http://www.youtube.com/watch?v=4GZNoxrKZUQ](http://www.youtube.com/watch?v=4GZNoxrKZUQ)
