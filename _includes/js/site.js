@@ -173,7 +173,6 @@
 					link.setAttribute("target", "_blank");
 					
 					// Cancel action and regenerate a click - otherwise the target attribute isn't used
-					e.preventDefault();
 					if (document.createEvent) { // Firefox
 						var event = document.createEvent("MouseEvents");
 						event.initEvent("click", true, true);
@@ -182,7 +181,9 @@
 						link.click();
 					} else {
 						console.log("no click method");
+						return true;
 					}
+					e.preventDefault();
 					return false;
 				}
 			} else {
@@ -197,7 +198,6 @@
 				link.setAttribute("target", "_blank");
 				
 				// Cancel action and regenerate a click - otherwise the target attribute isn't used
-				e.preventDefault();
 				if (document.createEvent) { // Firefox
 					var event = document.createEvent("MouseEvents");
 					event.initEvent("click", true, true);
@@ -206,10 +206,11 @@
 					link.click();
 				} else {
 					console.log("no click method");
+					return true;
 				}
+				e.preventDefault();
 				return false;
 			}
-			// TODO check for dropbox links
 		}
 	};
 
