@@ -8,7 +8,7 @@ published: true
 
 **Partition du chant "La Strasbourgeoise"**
 
-*Un chant relatif à la guerre franco-prussienne de 1870. (à 2 voix)*
+*Chant relatif à la guerre franco-prussienne de 1870. (à 2 voix)*
 
 
 
