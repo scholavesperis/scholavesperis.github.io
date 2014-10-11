@@ -3,9 +3,8 @@ published: false
 title: XVIIIe dimanche après la Pentecôte
 ---
 
-![cathedrale tavoletta.jpg](/liturgie/_posts/cathedrale tavoletta.jpg)
-
-## XVIIIe dimanche après la Pentecôte
+![](/liturgie/_posts/cathedrale%20tavoletta.jpg)
+**Dimanche **
 
 *Laetatus sum in his, quae dicta sunt mihi : in domum Domini ibimus.*  
 J'étais dans la joie quand on m'a dit : Allons dans la maison du Seigneur.
