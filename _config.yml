@@ -79,7 +79,7 @@ prose:
   relativeLinks: 'http://scholavesperis.github.io/links.jsonp'
   media: 'images'
   metadata:
-    posts:
+    "":
       - name: "title"
         field:
           element: "text"
@@ -90,7 +90,7 @@ prose:
           element: "text"
           label: "Description"
           value: ""
-    posts/enregistrements:
+    enregistrements:
       - name: "title"
         field:
           element: "text"
