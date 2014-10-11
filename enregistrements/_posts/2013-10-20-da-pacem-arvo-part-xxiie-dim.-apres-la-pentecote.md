@@ -9,3 +9,6 @@ link: "/audio/da-pacem-arvo-paert.mp3"
 
 Enregistré lors du XXIIe dim. après la Pentecôte (20 oct 2013)
 
+![rublev_christ.jpg](/images/_posts/rublev_christ.jpg)
+
+
