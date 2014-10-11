@@ -1,4 +1,4 @@
-![](/images/about-vesperis-ii.jpg)
+![](/images/schola 1.jpg)
 
 <p>
 La Schola Vesperis s'est constituée en décembre 2011, pour assurer le 
