@@ -4,7 +4,8 @@ title: XVIIIe dimanche après la Pentecôte
 ---
 
 ![](/liturgie/_posts/cathedrale%20tavoletta.jpg)
-**Dimanche **
+
+**Dimanche 12 oct 2014, messe de 19h**
 
 *Laetatus sum in his, quae dicta sunt mihi : in domum Domini ibimus.*  
 J'étais dans la joie quand on m'a dit : Allons dans la maison du Seigneur.
