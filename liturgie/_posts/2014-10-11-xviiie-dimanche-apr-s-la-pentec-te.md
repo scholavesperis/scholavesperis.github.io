@@ -3,7 +3,7 @@ published: true
 title: XVIIIe dimanche après la Pentecôte
 ---
 
-![](/liturgie/_posts/cathedrale tavoletta.jpg)
+![](/images/cathedrale tavoletta.jpg)
 
 **Dimanche 12 oct 2014, messe de 19h**
 
