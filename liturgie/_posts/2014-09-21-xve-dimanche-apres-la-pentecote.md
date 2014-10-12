@@ -22,3 +22,10 @@ Heinrich Isaac 1450-1517 - Choralis Constantinus
 
 **Sortie : Loco Deo Gratias**  
 Pierre De la Rue 1452-1518
+
+Lireplus
+
+&nbsp;
+
+![Isaac Panis quem ego.jpg](/images/Isaac Panis quem ego.jpg)
+**"Panis quem ego dedero" Heinrich Isaac - Choralis Constantinus**
