@@ -22,3 +22,10 @@ Anonyme XVIe, Occo Codex
 
 **Sortie : Benedicamus Domino**  
 Jacob Obrecht 1457-1505
+
+Lireplus
+
+&nbsp;
+
+![faux bourdon lyon Ve ton.jpg](/images/faux bourdon lyon Ve ton.jpg)
+**Faux-bourdon du Ve ton - Graduel de Lyon 1817**
