@@ -27,4 +27,4 @@ Lireplus
 &nbsp;
 
 ![Hosanna de Févin Feria.jpg](/images/Hosanna de Févin Feria.jpg)
-   **"Hosanna in excelsis" Antoine de Févin - Missa de Feria**
+**"Hosanna in excelsis" Antoine de Févin - Missa de Feria, manuscrit D-Ju MS 2**
