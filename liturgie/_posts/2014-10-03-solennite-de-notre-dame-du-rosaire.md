@@ -23,3 +23,11 @@ d'après Loyset Compère (1445-1518)
 
 **Sortie : Virgo mitis**  
 Loyset Compère - Missa Galeazescha
+
+Lireplus
+
+&nbsp;
+
+![Perotin_-_Alleluia_nativitas.jpg](/images/Perotin_-_Alleluia_nativitas.jpg)
+**"Alleluia" Pérotin - Nativitas
+
