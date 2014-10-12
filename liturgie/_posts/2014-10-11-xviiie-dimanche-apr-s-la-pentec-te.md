@@ -21,3 +21,7 @@ d'après Jacob Obrecht (1457-1505) - Mille quingentis
 
 **Sortie : Bendicamus Domino**  
 Nesbet XVe - manuscrit de Peppys
+
+Lireplus
+
+![Hosanna de Févin Feria.jpg](/images/Hosanna de Févin Feria.jpg)
