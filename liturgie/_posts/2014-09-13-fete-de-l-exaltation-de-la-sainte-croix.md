@@ -23,9 +23,9 @@ Anonyme XVe - Cancionero de Montecassino
 **Sortie : Te decet laus**  
 Pierre De la Rue 1452-1518
 
-&nbsp;
-
 Lireplus
+
+&nbsp;
 
 ![Crux triumphans.jpg](/images/Crux triumphans.jpg)
 **"Crux triumphans" Loyset Compère - Chansonnier des ducs de Lorraine**
