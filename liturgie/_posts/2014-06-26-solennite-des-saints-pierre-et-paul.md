@@ -25,14 +25,7 @@ d'après Antoine de Févin
 
 Lireplus
 
-![](/images/2014-06-26-agnus-l-homme-arme-de-la-rue-1.jpg)
+&nbsp;
 
-***Pierre De la Rue***
-
-***Agnus Dei - Missa L'homme armé (ms Jena 2)***
-
--*cliquer pour agrandir l'image-*
-
-![](/images/2014-06-26-agnus-l-homme-arme-de-la-rue-2.jpg)
-
-*
+![agnus l'homme armé de la Rue .jpg](/images/agnus l'homme armé de la Rue .jpg)
+**"Agnus Dei" Pierre De la Rue - Missa L'homme armé, manuscrit Jena 2**
