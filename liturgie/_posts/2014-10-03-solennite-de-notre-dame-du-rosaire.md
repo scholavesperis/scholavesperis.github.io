@@ -30,4 +30,4 @@ Lireplus
 
 ![Perotin Alleluia nativitas.jpg](/images/Perotin Alleluia nativitas.jpg)
 **"Alleluia" Pérotin - Nativitas**
-
+Cet alleluia écrit pour fête de la Nativité de la Vierge Marie correspond actuellement à l'alleluia de la fête de Notre-Dame du Rosaire.
