@@ -206,6 +206,9 @@ article p ~ p img {
   float: none;
   margin: 0 0 10px;
 }
+img.intro {
+	max-width: 300px;
+}
 article p {
   font-size: 14px;
   line-height: 22.75px;

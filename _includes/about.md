@@ -1,4 +1,4 @@
-![](/images/schola 1.jpg)
+<img class="intro" src="/images/schola 1.jpg" alt="">
 
 <p>
 La Schola Vesperis s'est constituée en décembre 2011, pour assurer le 
