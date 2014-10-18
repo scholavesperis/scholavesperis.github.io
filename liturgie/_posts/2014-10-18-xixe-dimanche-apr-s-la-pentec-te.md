@@ -27,4 +27,4 @@ Lireplus
 &nbsp;
 
 ![fb parisien 7.jpg](/images/fb parisien 7.jpg)
-***faux-bourdon parisen à 3 voix du VIIe ton***
+***faux-bourdon parisien du VIIe ton, à 3 voix***
