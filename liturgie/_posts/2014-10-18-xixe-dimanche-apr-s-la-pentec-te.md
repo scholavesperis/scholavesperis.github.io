@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XIXe dimanche après la Pentecôte
 ---
 
@@ -21,6 +21,3 @@ Heinrich Isaac (1450-1517) - Choralis Constantinus
 
 **Sortie : Salve Regina**
 Anonyme XVe - manuscrit de Trente
-
-
-
