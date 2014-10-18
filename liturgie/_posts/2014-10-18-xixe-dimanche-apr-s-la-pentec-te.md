@@ -21,3 +21,10 @@ Heinrich Isaac (1450-1517) - Choralis Constantinus
 
 **Sortie : Salve Regina**
 Anonyme XVe - manuscrit de Trente
+
+Lireplus
+
+&nbsp;
+
+![fb parisien 7.jpg](/images/fb parisien 7.jpg)
+***faux-bourdon parisen à 3 voix du VIIe ton***
