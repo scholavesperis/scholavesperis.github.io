@@ -87,6 +87,7 @@ Lireplus
 - ***Primum quaerite***
 - ***Scapulis suis***
 - ***Tollite hostias*** (3 et 4vx)
+- ***Tu mandasti*** (3 et 4vx)
 - ***Vovete*** (3 et 4vx)
 
 ## Manuscrit de Trente :
@@ -131,7 +132,9 @@ Lireplus
 - ***Heth. Cogitavit Dominus*** Antoine Brumel (1460-1512) -4vx
 - ***Jesu rex admirabilis*** G.P. Palestrina (1525-1594) -3vx
 - ***Laetatus sum*** Orlando de Lassus (1532-1594) -3vx
+- ***Laudate pueri Dominul*** d'après G.Dufay (1400-1474) -3 et 4vx
 - ***Lux aeterna*** Antoine de Fevin (1470-1511) -3 & 4vx
+- ***Magnificat IIIe ton*** Guillaume Dufay (1400-1474) -4vx
 - ***Magnum miraculum*** Anonyme XVe, Codex Specialnik -3vx
 - ***Media vita*** John Sheppard (1515-1558) -réduction à 5vx
 - ***Miserere in patientia*** Johannes Ghiselin (1455-1511) -3vx
@@ -160,7 +163,7 @@ Lireplus
 - ***Vexilla Regis*** Alonso Dalua (XVIe) -4vx
 - ***Virgo mitis*** Loyset Compère (1445-1518) -4vx
 
-## Chants Traditionnels (***ci-dessus, à la rubrique "Veilleurs"***) :
+## Chants Traditionnels :
 
 - ***L'Espérance***
 - ***La Strasbourgeoise***
