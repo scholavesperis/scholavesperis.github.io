@@ -163,7 +163,7 @@ Lireplus
 - ***Vexilla Regis*** Alonso Dalua (XVIe) -4vx
 - ***Virgo mitis*** Loyset Compère (1445-1518) -4vx
 
-## Chants Traditionnels :
+## Chants Traditionnels (partitions en ligne):
 
 - ***L'Espérance***
 - ***La Strasbourgeoise***
