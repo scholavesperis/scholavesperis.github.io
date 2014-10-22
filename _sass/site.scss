@@ -62,6 +62,7 @@ body {
   color: #373737;
 }
 body > .container {
+	@include clearfix;
   background: white;
   max-width: 1000px;
   margin: 20px auto;
@@ -151,7 +152,7 @@ nav .input img {
 nav .input:hover img {
 	background: $lightgrey-on-dark;
 }
-nav .input:hover input {
+nav .input:hover input, nav .input input.active, nav .input input:focus {
 	width: 200px;
 	-webkit-transition: width 0.8s; /* For Safari 3.1 to 6.0 */
 	transition: width 0.8s;
@@ -174,7 +175,7 @@ nav input:focus {
 .site-content {
 	@include clearfix;
 }
-.site-content section {
+section.content {
   width: 65%;
   float: left;
   padding: 50px 0 50px 50px;

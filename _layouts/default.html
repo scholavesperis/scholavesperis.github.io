@@ -30,95 +30,93 @@ title: "La Chorale du soir de l'Eglise Saint Georges"
 		<div class="cover">
 			<img src="/images/vierge-vesperis-banniere.jpg">
 		</div>
-    <div id="content" class="site-content">
-			<nav id="menu" role="navigation">
-				<a id="accueil" {% if page.url == "/" %}class='active' {% endif %}href="/">Accueil</a>
-				<a id="liturgie" {% if page.url contains "liturgie" %}class='active' {% endif %}href="/liturgie/">Liturgie</a>
-				<a id="partitions" {% if page.url contains "partitions" %}class='active' {% endif %}href="/partitions/">Partitions</a>
-				<!--<a id="enregistrements" {% if page.url contains "enregistrements" %}class='active' {% endif %}href="/enregistrements/">Enregistrements</a>-->
-				<a id="eglise-st-georges" {% if page.url contains "eglise-st-georges" %}class='active' {% endif %}href="/eglise-st-georges/">Eglise St Georges</a>
-				<div class="input"><input id="search-input" class="search" placeholder="Rechercher ..."><img id="do-search" src="/images/search.png"></div>
-			</nav>
-			<section id="content-column" class="content-column">
-				{{content}}
-			</section>
-			<aside>
-				<div class="widget audio">
-					<h3>Nous écouter</h3>
-					{% include audio-widget.html %}
-				</div>
+		<nav id="menu" role="navigation">
+			<a id="accueil" {% if page.url == "/" %}class='active' {% endif %}href="/">Accueil</a>
+			<a id="liturgie" {% if page.url contains "liturgie" %}class='active' {% endif %}href="/liturgie/">Liturgie</a>
+			<a id="partitions" {% if page.url contains "partitions" %}class='active' {% endif %}href="/partitions/">Partitions</a>
+			<!--<a id="enregistrements" {% if page.url contains "enregistrements" %}class='active' {% endif %}href="/enregistrements/">Enregistrements</a>-->
+			<a id="eglise-st-georges" {% if page.url contains "eglise-st-georges" %}class='active' {% endif %}href="/eglise-st-georges/">Eglise St Georges</a>
+			<div class="input"><input id="search-input" class="search" placeholder="Rechercher ..." value=""><img id="do-search" src="/images/search.png"></div>
+		</nav>
+		<section id="content" class="content">
+			{{content}}
+		</section>
+		<aside>
+			<div class="widget audio">
+				<h3>Nous écouter</h3>
+				{% include audio-widget.html %}
+			</div>
+			<div class="widget">
+				<h3>Contact&nbsp;: Sarah Lyonnet</h3>
+				<p>Tél&nbsp;: <a href="tel:06 65 01 42 82">06 65 01 42 82</a></p>
+				<p>Mail&nbsp;: <a href="mailto:scholavesperis@yahoo.fr">scholavesperis@yahoo.fr</a></p>
+			</div>
+			<div class="widget">
+				<h3>Programmes recents</h3>
+				<ul>
+				{% for item in site.categories.liturgie offset:0 limit:7 %}
+					<li>
+						<a class='item' href='{{item.url}}'>{{item.title}}</a>
+					</li>
+				{% endfor %}
+				</ul>
+			</div>
+			<div class="widget">
+				<a href="/partitions/liste-des-partitions/"><img src="/images/partition-salutaris.jpg" alt=""></a>
+				<a href="/membres/"><img src="/images/moines-au-lutrin.jpg" alt=""></a>
+			</div>
+			<div class="widget">
+				<h3>Liens</h3>
+				<ul>
+					<li>
+						<a href="http://eglisesaintgeorges.com/" target="_blank">Eglise St Georges</a>
+					</li>
+					<li>
+						<a href="http://www.mauricemorel.com/" target="_blank">L'abbé Morel - peintre (1908-1991)</a>
+					</li>
+					<li>
+						<a href="http://www.schola-sainte-cecile.com/" target="_blank">Schola Ste Cécile</a>
+					</li>
+					<li>
+						<a href="http://www.choeur-gregorien-de-paris.asso.fr/" target="_blank">Choeur grégorien de Paris</a>
+					</li>
+					<li>
+						<a href="http://schola-st-gregoire.org/" target="_blank">Schola St Gregoire</a>
+					</li>
+					<li>
+						<a href="http://www.ajcf-lyon.org/" target="_blank">Amitié judéo-chrétienne de Lyon</a>
+					</li>
+					<li>
+						<a href="http://www.amdg.asso.fr/" target="_blank">Ad majorem Dei gloriam</a>
+					</li>
+					<li>
+						<a href="http://www.christusrex.org/www2/cantgreg/toutes_les_messes_trid.html" target="_blank">Partitions - grégorien -</a>
+					</li>
+					<li>
+						<a href="http://www.diamm.ac.uk/" target="_blank">Diamm</a>
+					</li>
+					<li>
+						<a href="http://www.gregofacsimil.net/" target="_blank">Gregofacsimil</a>
+					</li>
+				</ul>
+			</div>
+			<!-- div>
+				<h3>S'abonner</h3>
 				<div class="widget">
-					<h3>Contact&nbsp;: Sarah Lyonnet</h3>
-					<p>Tél&nbsp;: <a href="tel:06 65 01 42 82">06 65 01 42 82</a></p>
-					<p>Mail&nbsp;: <a href="mailto:scholavesperis@yahoo.fr">scholavesperis@yahoo.fr</a></p>
+					<p>Abonnez-vous pour être averti des nouveaux articles publiés.</p>
+					
+					<form action="http://scholavesperis.overblog.com/mail/subscribe" method="post">
+						<label class="required" for="form_email">Email</label>
+						<input type="email" name="email" placeholder="exemple@adresse.com" required="required">
+						<input type="submit" value="S'abonner">
+					</form>										
 				</div>
-				<div class="widget">
-					<h3>Programmes recents</h3>
-					<ul>
-					{% for item in site.categories.liturgie offset:0 limit:7 %}
-						<li>
-							<a class='item' href='{{item.url}}'>{{item.title}}</a>
-						</li>
-					{% endfor %}
-					</ul>
-				</div>
-				<div class="widget">
-					<a href="/partitions/liste-des-partitions/"><img src="/images/partition-salutaris.jpg" alt=""></a>
-					<a href="/membres/"><img src="/images/moines-au-lutrin.jpg" alt=""></a>
-				</div>
-				<div class="widget">
-					<h3>Liens</h3>
-					<ul>
-						<li>
-							<a href="http://eglisesaintgeorges.com/" target="_blank">Eglise St Georges</a>
-						</li>
-						<li>
-							<a href="http://www.mauricemorel.com/" target="_blank">L'abbé Morel - peintre (1908-1991)</a>
-						</li>
-						<li>
-							<a href="http://www.schola-sainte-cecile.com/" target="_blank">Schola Ste Cécile</a>
-						</li>
-						<li>
-							<a href="http://www.choeur-gregorien-de-paris.asso.fr/" target="_blank">Choeur grégorien de Paris</a>
-						</li>
-						<li>
-							<a href="http://schola-st-gregoire.org/" target="_blank">Schola St Gregoire</a>
-						</li>
-						<li>
-							<a href="http://www.ajcf-lyon.org/" target="_blank">Amitié judéo-chrétienne de Lyon</a>
-						</li>
-						<li>
-							<a href="http://www.amdg.asso.fr/" target="_blank">Ad majorem Dei gloriam</a>
-						</li>
-						<li>
-							<a href="http://www.christusrex.org/www2/cantgreg/toutes_les_messes_trid.html" target="_blank">Partitions - grégorien -</a>
-						</li>
-						<li>
-							<a href="http://www.diamm.ac.uk/" target="_blank">Diamm</a>
-						</li>
-						<li>
-							<a href="http://www.gregofacsimil.net/" target="_blank">Gregofacsimil</a>
-						</li>
-					</ul>
-				</div>
-				<!-- div>
-					<h3>S'abonner</h3>
-					<div class="widget">
-						<p>Abonnez-vous pour être averti des nouveaux articles publiés.</p>
-						
-						<form action="http://scholavesperis.overblog.com/mail/subscribe" method="post">
-							<label class="required" for="form_email">Email</label>
-							<input type="email" name="email" placeholder="exemple@adresse.com" required="required">
-							<input type="submit" value="S'abonner">
-						</form>										
-					</div>
-				</div> -->
-				<div class="widget">
-					<h3>Archives</h3>
-				</div>
-				{% include rss-link.html %}
-			</aside>
-		</div>
+			</div> -->
+			<div class="widget">
+				<h3>Archives</h3>
+			</div>
+			{% include rss-link.html %}
+		</aside>
   </div>
   <script src='/site.js'></script>
 </body>
