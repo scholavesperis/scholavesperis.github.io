@@ -31,7 +31,7 @@ ga('send', 'pageview');
 	var getjson = new XMLHttpRequest();
 	getjson.onreadystatechange = function() {
 		if (getjson.readyState == 4 && getjson.status == 200) {
-			var articles = JSON.parse(getjson.responseText);
+			var articles = JSON.parse(getjson.responseText.replace(/\t/g, " "));
 			addArticles(articles);
 		}
 	}
@@ -173,6 +173,9 @@ ga('send', 'pageview');
 			categ = "";
 			article = true;
 		}
+		else if (categ == "membres") {
+			article = true;
+		}
 		else if (categ == "page") { // accueil
 			categ = "";
 			page = bits.length > 2 ? bits[2] : 1;
@@ -215,8 +218,8 @@ ga('send', 'pageview');
 	// site navigation
 	document.addEventListener("click", linkClick, true);
 	function linkClick(e){
-		link = e.target;
-		if(link.nodeType != 1 || link.tagName.toLowerCase() !="a") return true;
+		var link = e.target;
+		if(link.nodeType != 1 || link.tagName.toLowerCase() != "a") return true;
 		var href = link.href;
 		
 		var local = false;

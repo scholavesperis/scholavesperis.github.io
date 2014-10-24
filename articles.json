@@ -6,7 +6,7 @@
     "title_text": "La Schola Vesperis",
     "href": "",
     "date": "",
-    "content": "{% capture about %}{% include about.md %}{% endcapture %}{{ about | markdownify | replace:'"','\"' | strip_newlines }}",
+    "content": "{% capture about %}{% include about.md %}{% endcapture %}{{ about | markdownify | replace:'"','\"' | replace:'	',' ' | strip_newlines }}",
     "readmore-link": "",
     "readmore": "",
     "category": ""
@@ -23,9 +23,9 @@
     "title_text": "{{post.title | replace:'"','\"'}}",
     "href": "{{post.url}}",
     "date": "{{post.date | date_to_xmlschema }}",
-    "content": "{{content | replace:'"','\"' | strip | strip_newlines }}",
+    "content": "{{content | replace:'"','\"' | replace:'	',' ' | strip | strip_newlines }}",
     "readmore-link": "{% if post.content contains site.excerpt_separator %}<a href=\"{{post.url}}\">Lire la suite...</a>{% endif %}",
-    "readmore": "{% if post.content contains site.excerpt_separator %}{{post.content | split: site.excerpt_separator | last | replace:'"','\"' | strip_newlines }}{% endif %}",
+    "readmore": "{% if post.content contains site.excerpt_separator %}{{post.content | split: site.excerpt_separator | last | replace:'"','\"' | replace:'	',' ' | strip_newlines }}{% endif %}",
     "category": "{% for category in post.categories %}{% if category != "posts" %}{{ category | replace:'"','\"'}}{% endif %}{% endfor %}"
   }{% unless forloop.last %},{% endunless%}
  {% endfor %}

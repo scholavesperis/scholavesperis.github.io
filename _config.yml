@@ -42,7 +42,7 @@ defaults:
 sass:
   style: compressed
 exclude:
-  - images/*.xcf
+  - assets/*.xcf
 prose:
   rooturl: ''
   ignore:
