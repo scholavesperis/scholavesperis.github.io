@@ -1,8 +1,7 @@
 ---
-published: false
+published: true
 title: "Fête du Chtist-Roi"
 ---
-
 
 ![](/images/Christ Pantocrator.jpg)
 
@@ -22,5 +21,3 @@ d'après Mattheaus Pipelare
 
 **Communion : Christe qui lux es**
 Robert White (1538-1574)
-
-
