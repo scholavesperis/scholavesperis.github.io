@@ -1,0 +1,26 @@
+---
+published: false
+title: "Fête du Chtist-Roi"
+---
+
+
+![](/images/Christ Pantocrator.jpg)
+
+**Dimanche 26 octobre 2014, messe de 19h**
+
+*Potestas ejus, potestas aeterna, quae non auferetur. Alleluia*
+Sa puissance est une puissance éternelle : elle ne lui sera pas enlevée. Alleluia
+
+**Graduel : Dominabitur**
+Faux-bourdon du Ier ton - Vincent Dumestre
+
+**Offertoire : Jesu Rex altissimae**
+Alternance polyphonique de G.P.Palestrina (1525-1594)
+
+**Consécration : O Rex gloriae**
+d'après Mattheaus Pipelare
+
+**Communion : Christe qui lux es**
+Robert White (1538-1574)
+
+
