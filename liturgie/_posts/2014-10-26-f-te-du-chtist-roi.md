@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Fête du Chtist-Roi"
+title: "Fête du Christ-Roi"
 ---
 
 ![](/images/Christ Pantocrator.jpg)
