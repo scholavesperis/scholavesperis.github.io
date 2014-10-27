@@ -338,14 +338,15 @@ audio {
 	width:300px;
 	height:198px;
 	position:relative;
-margin:0 10px 10px 0;
+	margin:0 10px 10px 0;
+	background: black;
 }
 .slideshow img ~ img{
 	opacity:0;
 }
 $number_of_images: 6;
-$pause: 2s;
-$transition: .8s;
+$pause: 3s;
+$transition: 1.4s;
 $total_duration: ($number_of_images * ($pause + $transition));
 @function xth_img($n) {
   $img: unquote("img");
