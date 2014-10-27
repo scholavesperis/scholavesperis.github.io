@@ -17,7 +17,7 @@ Faux-bourdon du Ier ton - Vincent Dumestre
 Alternance polyphonique de G.P.Palestrina (1525-1594)
 
 **Consécration : O Rex gloriae**
-d'après Mattheaus Pipelare
+d'après Mattheaus Pipelare (1450-1515)
 
 **Communion : Christe qui lux es**
 Robert White (1538-1574)
