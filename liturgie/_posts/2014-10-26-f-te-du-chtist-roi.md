@@ -24,3 +24,10 @@ Robert White (1538-1574)
 
 **Sortie : Domine salvam fac Galliam**
 Faux-bourdon parisien du VIe ton royal
+
+Lireplus
+
+&nbsp;
+
+![Domine salvum fac regem.jpg](/images/Domine salvum fac regem.jpg)
+**Domine salvum fac regem - faux-bourdon traditionnel de Notre-Dame de Paris, VIe ton royal**
