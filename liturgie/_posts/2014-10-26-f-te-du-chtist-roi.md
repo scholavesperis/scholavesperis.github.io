@@ -29,7 +29,7 @@ Lireplus
 
 &nbsp;
 
-*Dómine, salvam fac Gálliam, et exáudi nos in die qua invocaverímus te*  
+*Dómine, salvam fac Gálliam, et exáudi nos in die qua invocaverímus te.*  
 Seigneur, sauve la France, et exauce-nous au jour où nous t’invoquerons.
 
 &nbsp;
