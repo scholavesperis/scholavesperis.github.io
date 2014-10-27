@@ -27,5 +27,5 @@ Lireplus
 &nbsp;
 
 ![fb parisien 7.jpg](/images/fb parisien 7.jpg)
-*Faux-bourdon du VIIe ton à 3 voix*  
-***"Office de l'Eglise noté pour les festes et Dimanches" 1778***
+**Faux-bourdon du VIIe ton à 3 voix**   
+*"Office de l'Eglise noté pour les festes et Dimanches" 1778*
