@@ -21,3 +21,6 @@ d'après Mattheaus Pipelare
 
 **Communion : Christe qui lux es**
 Robert White (1538-1574)
+
+**Sortie : Domine salvam fac Galliam**
+Faux-bourdon parisien du VIe ton royal
