@@ -29,6 +29,11 @@ Lireplus
 
 &nbsp;
 
+*Dómine, salvam fac Gálliam, et exáudi nos in die qua invocaverímus te*  
+Seigneur, sauve la France, et exauce-nous au jour où nous t’invoquerons.
+
+&nbsp;
+
 ![Domine salvum fac regem.jpg](/images/Domine salvum fac regem.jpg)
 
-***"Domine salvum fac regem"*** **faux-bourdon traditionnel de Notre-Dame de Paris, VIe ton royal**
+***"Domine salvum fac Regem"*** **faux-bourdon traditionnel de Notre-Dame de Paris, VIe ton royal**
