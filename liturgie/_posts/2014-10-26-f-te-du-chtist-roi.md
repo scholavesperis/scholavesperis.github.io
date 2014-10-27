@@ -32,5 +32,4 @@ Lireplus
 ![Domine salvum fac regem.jpg](/images/Domine salvum fac regem.jpg)
 
 ***"Domine salvum fac regem"***
-
 **faux-bourdon traditionnel de Notre-Dame de Paris, VIe ton royal**
