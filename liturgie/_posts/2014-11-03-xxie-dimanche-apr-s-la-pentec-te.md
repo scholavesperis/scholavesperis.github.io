@@ -13,7 +13,7 @@ Revêtez l'armure de Dieu, afin que vous puissiez tenir devant les ruses du diab
 **Graduel : Domine refugium**
 Faux-bourdon parisien du IIe ton
 
-** Consécration : O salutaris Hostia**
+**Consécration : O salutaris Hostia**
 Anonyme XVe
 
 **Communion : In salutari tuo**
