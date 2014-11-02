@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXIe dimanche après la Pentecôte
 ---
 
