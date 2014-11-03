@@ -24,4 +24,4 @@ Lireplus
 &nbsp;
 
 ![fb 2e ton.jpg](/images/fb 2e ton.jpg)
-faux-bourdon du IIe ton à 3 voix ***Office de l’Eglise noté pour les festes et Dimanches” 1778***
+Faux-bourdon du IIe ton à 3 voix ***Office de l’Eglise noté pour les festes et Dimanches” 1778***
