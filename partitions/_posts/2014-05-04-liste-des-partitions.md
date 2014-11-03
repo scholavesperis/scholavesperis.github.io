@@ -79,7 +79,7 @@ Lireplus
 - ***Dominus Firmamentum***
 - ***Ego sum pastor bonus***
 - ***Illumina***
-- ***In salutari tuo***
+- ***In salutari tuo*** (3 et 4vx)
 - ***Jerusalem***
 - ***Panis quem ego dedero***
 - ***Pascha nostrum***
