@@ -8,7 +8,8 @@ title: "Anniversaire de la dédicace de l'église St Georges"
 **Dimanche 16 novembre 2014, messe de 19h
 
 *Ecce tabernaculum Dei cum hominibus, et habitat cum eis.*  
-Voici le lieu où Dieu habite avec les hommes, il établira sa tente parmi eux.
+Voici le lieu où Dieu habite avec les hommes,  
+il établira sa tente parmi eux.
 
 **Graduel : Locus iste**
 Faux-bourdon du 3e ton - Guillaume Dufay (1400-1474)
