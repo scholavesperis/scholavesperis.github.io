@@ -1,6 +1,6 @@
 ---
-published: false
-title: "Anniversaire de la Dédicace de l'église St Georges"
+published: true
+title: "Anniversaire de la dédicace de l'église St Georges"
 ---
 
 ![urbs jerusalem.jpg](/images/urbs jerusalem.jpg)
