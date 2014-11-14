@@ -5,7 +5,7 @@ title: "Anniversaire de la dédicace de l'église St Georges"
 
 ![urbs jerusalem.jpg](/images/urbs jerusalem.jpg)
 
-**Dimanche 16 novembre 2014, messe de 19h
+**Dimanche 16 novembre 2014, messe de 19h**
 
 *Ecce tabernaculum Dei cum hominibus, et habitat cum eis.*  
 Voici le lieu où Dieu habite avec les hommes,  
