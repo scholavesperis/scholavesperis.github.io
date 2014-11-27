@@ -9,7 +9,8 @@ title: Dernier dimanche après la Pentecôte
 **Dimanche 23 novembre 2014, messe de 19h**
 
 *Et tunc parebit signum Filii hominis in caelo*  
-Et alors paraitra dans le ciel le signe du Fils de l'homme
+Et alors paraitra dans le ciel  
+le signe du Fils de l'homme
 
 **Graduel : Liberasti nos**  
 Faux-bourdon du 7e ton - Guillaume Dufay (1400-1474)
