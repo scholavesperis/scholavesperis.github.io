@@ -12,7 +12,7 @@ title: "Ier dimanche de l'Avent"
 Le Seigneur donnera son bienfait, et notre terre donnera son fruit.
 
 **Graduel : Universi**  
-Faux-bourdon du 1er ton, Guillaume Dufay (1400-1474)
+Faux-bourdon du 1er ton - Guillaume Dufay 
 
 **Offertoire : Rorate caeli**  
 Anonyme XVe - manuscrit de Trente
