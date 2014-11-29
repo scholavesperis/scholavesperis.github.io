@@ -3,7 +3,8 @@ published: true
 title: "Ier dimanche de l'Avent"
 ---
 
-![Christ majesté.jpg](/images/Christ majesté.jpg)
+![Christ en majesté.jpg](/images/Christ en majesté.jpg)
+
 
 
 
