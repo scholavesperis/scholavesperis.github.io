@@ -26,5 +26,5 @@ Anonyme
 Lireplus
 
 ![Conditor-Festa.jpg](/images/Conditor-Festa.jpg)
-"Qui condolens" alternance polyphonique du *Conditor alme siderum*  
+"Qui condolens" alternance polyphonique du *Conditor alme siderum* -  
 **Costanzo Festa**
