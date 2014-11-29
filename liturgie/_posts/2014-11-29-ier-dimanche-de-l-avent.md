@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Ier dimanche de l'Avent"
 ---
 
