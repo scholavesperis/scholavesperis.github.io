@@ -3,7 +3,8 @@ published: true
 title: "Ier dimanche de l'Avent"
 ---
 
-![Christ-majesté.jpg](/images/Christ-majesté.jpg)
+![Christ majesté.jpg](/images/Christ majesté.jpg)
+
 
 
 **Dimanche 30 novembre 2014, messe de 19h**
