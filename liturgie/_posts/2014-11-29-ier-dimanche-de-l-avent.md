@@ -6,8 +6,6 @@ title: "Ier dimanche de l'Avent"
 ![Christ en majesté.jpg](/images/Christ en majesté.jpg)
 
 
-
-
 **Dimanche 30 novembre 2014, messe de 19h**
 
 *Dominus dabit benignitatem, et terra nostra dabit fructum suum.*  
