@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "IIe dimanche de l'Avent"
 ---
 
@@ -32,5 +32,3 @@ Lireplus
 
 ![Conditor Dufay.jpg](/images/Conditor Dufay.jpg)
 "Qui condolens" Alternance polyphonique du *Conditor alme siderum*  **Guillaume Dufay - manuscrit de Trente**
-
-
