@@ -31,4 +31,4 @@ Anonyme
 Lireplus
 
 ![Conditor Dufay.jpg](/images/Conditor Dufay.jpg)
-"Qui condolens" Alternance polyphonique du *Conditor alme siderum*  **Guillaume Dufay - manuscrit de Trente**
+"Qui condolens" alternance polyphonique du *Conditor alme siderum*  **Guillaume Dufay - manuscrit de Trente**
