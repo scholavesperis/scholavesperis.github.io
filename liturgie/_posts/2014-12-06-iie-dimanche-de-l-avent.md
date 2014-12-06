@@ -24,7 +24,7 @@ Anonyme XVe, d'après le manuscrit de Trente
 d'après Johannes Ockeghem (1410-1497)
 
 **Sortie : Veni, veni Emmanuel**  
-Anonyme
+Hymne de l'Avent - Anonyme
 
 Lireplus
 
