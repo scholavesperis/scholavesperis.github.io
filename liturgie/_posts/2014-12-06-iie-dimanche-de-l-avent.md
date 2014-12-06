@@ -26,9 +26,9 @@ d'après Johannes Ockeghem (1410-1497)
 **Sortie : Veni, veni Emmanuel**  
 Anonyme
 
-&nbsp;
-
 Lireplus
+
+&nbsp;
 
 ![Conditor Dufay.jpg](/images/Conditor Dufay.jpg)
 "Qui condolens" alternance polyphonique du *Conditor alme siderum*  **Guillaume Dufay - manuscrit de Trente**
