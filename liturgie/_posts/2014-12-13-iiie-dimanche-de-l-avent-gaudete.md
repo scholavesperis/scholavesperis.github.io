@@ -11,7 +11,7 @@ title: "IIIe dimanche de l'Avent - Gaudete"
 Jérusalem, réjouis-toi, réjouis-toi, ton Sauveur va venir, alleluia !
 
 **Graduel : Qui sedes**  
-Faux-bourdon du 7e ton, Guillaume Dufay 1400-1474
+Faux-bourdon du 7e ton, G. Dufay 1400-1474
 
 **Alleluia : Excita**  
 Faux-bourdon du 4e ton, Guillaume Dufay
