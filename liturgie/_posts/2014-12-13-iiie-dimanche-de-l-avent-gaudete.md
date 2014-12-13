@@ -3,7 +3,8 @@ published: true
 title: "IIIe dimanche de l'Avent - Gaudete"
 ---
 
-![O.jpg](/images/O.jpg)
+![Ô.jpg](/images/Ô.jpg)
+
 
 **Dimanche 14 décembre 2014, messe de 19h**
 
