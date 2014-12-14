@@ -15,7 +15,7 @@ Jérusalem, réjouis-toi, réjouis-toi, ton Sauveur va venir, alleluia !
 Faux-bourdon du 7e ton, G. Dufay 1400-1474
 
 **Alleluia : Excita**  
-Faux-bourdon du 4e ton, Guillaume Dufay
+Faux-bourdon du 4e ton, G. Binchois 1400-1460
 
 **Offertoire : Conditor alme siderum**  
 Alternances polyphoniques de Costanzo Festa 1495-1545
