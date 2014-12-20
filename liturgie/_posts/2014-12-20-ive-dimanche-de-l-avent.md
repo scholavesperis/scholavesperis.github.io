@@ -27,7 +27,7 @@ Jean Mouton 1459-1522
 Anonyme XVe, manuscrit de Trente
 
 **Sortie : Gloria Patri**
-Anonyme XVe, adapté d'après *Fortuna desparata*
+d'après *Fortuna desparata* - Anonyme XVe
 
 Lireplus
 
