@@ -5,6 +5,8 @@ title: "IVe dimanche de l'Avent"
 
 ![annonciation.jpg](/images/annonciation.jpg)
 
+**Dimanche 21 décembre 2014, messe de 19h**
+
 
 *Rorate, caeli, desuper, et nubes pluant justum.*  
 Cieux, répandez votre rosée, et que les nuées fassent descendre le Juste.
