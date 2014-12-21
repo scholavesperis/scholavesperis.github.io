@@ -11,7 +11,7 @@ title: "IVe dimanche de l'Avent"
 *Rorate, caeli, desuper, et nubes pluant justum.*  
 Cieux, répandez votre rosée, et que les nuées fassent descendre le Juste.
 
-**Procession d'entrée : O felicem genitricem**  
+**Procession d'entrée : O felicem Genitricem**  
 Petrus Wilhelmi de Grudencz 1392-1480, manuscrit Klatovy 403
 
 **Graduel : Prope est Dominus**  
@@ -34,7 +34,7 @@ Lireplus
 &nbsp;
 
 ![duo-O-felicem.jpg](/images/duo-O-felicem.jpg)
-**O felicem genitricem** Cantio tchèque à 2 voix. Petrus Wilhelmi de Grudencz - *manuscrit Klatovy 403*
+**O felicem Genitricem** Cantio tchèque à 2 voix. Petrus Wilhelmi de Grudencz - *manuscrit Klatovy 403*
 
 &nbsp;
 
