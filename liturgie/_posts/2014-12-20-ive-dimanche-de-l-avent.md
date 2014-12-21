@@ -36,6 +36,8 @@ Lireplus
 ![duo-O-felicem.jpg](/images/duo-O-felicem.jpg)
 **O felicem genitricem** Cantio tchèque à 2 voix. Petrus Wilhelmi de Grudencz - *manuscrit Klatovy 403*
 
+&nbsp;
+
 *O felicem Genitricem,  
 Cujus pia viscera,  
 Meruere, continere  
