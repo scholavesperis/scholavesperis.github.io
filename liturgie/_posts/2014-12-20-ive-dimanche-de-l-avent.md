@@ -12,7 +12,7 @@ title: "IVe dimanche de l'Avent"
 Cieux, répandez votre rosée, et que les nuées fassent descendre le Juste.
 
 **Procession d'entrée : O felicem genitricem**  
-Anonyme tchèque XVe, manuscrit Klatovy 403
+Petrus Wilhelmi de Grudencz 1392-1480, manuscrit Klatovy 403
 
 **Graduel : Prope est Dominus**  
 Faux-bourdon du 1er ton, G.Dufay 1400-1474
@@ -34,4 +34,4 @@ Lireplus
 &nbsp;
 
 ![duo-O-felicem.jpg](/images/duo-O-felicem.jpg)
-**O felicem genitricem** Cantio tchèque à 2 voix. Anonyme XVe - *manuscrit Klatovy 403*
+**O felicem genitricem** Cantio tchèque à 2 voix. Petrus Wilhelmi de Grudencz - *manuscrit Klatovy 403*
