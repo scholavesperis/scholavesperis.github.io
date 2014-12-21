@@ -35,3 +35,23 @@ Lireplus
 
 ![duo-O-felicem.jpg](/images/duo-O-felicem.jpg)
 **O felicem genitricem** Cantio tchèque à 2 voix. Petrus Wilhelmi de Grudencz - *manuscrit Klatovy 403*
+
+*O felicem Genitricem,  
+Cujus pia viscera,  
+Meruere, continere  
+Continetem omnia.*
+
+*Felix venter, quo clementer  
+Deus formam induit,  
+Felix pectus, in quo tectus  
+Rex virtutum latuit.*
+
+*Felix alvus quo sit salvus  
+Homo fraude perditus,  
+Felix sinus quo diuinus  
+Requievit spiritus*
+
+*Hac in domo, Deus homo  
+Fieri constituit  
+Hic absconsus verus sponsus  
+Novam formam induit.*
