@@ -58,4 +58,3 @@ Fieri constituit
 Hic absconsus verus sponsus  
 Novam formam induit.*
 
-![nativité.jpg](/images/nativité.jpg)
