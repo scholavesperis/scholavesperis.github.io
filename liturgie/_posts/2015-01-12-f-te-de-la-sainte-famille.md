@@ -20,5 +20,5 @@ Faux-bourdon du 8e ton, Johannes Brassart 1400-1455
 **Consécration : O salutaris Hostia**  
 d'après Johannes Brassart
 
-**Da pacem Domine**  
+**Communion : Da pacem Domine**  
 Costanzo Festa 1495-1545
