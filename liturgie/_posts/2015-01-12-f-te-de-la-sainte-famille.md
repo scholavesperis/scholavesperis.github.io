@@ -3,7 +3,9 @@ published: true
 title: Fête de la Sainte Famille
 ---
 
-![Jésus au temple-Giotto.jpg](/images/Jésus au temple-Giotto.jpg)
+![Sainte Famille.jpg](/images/Sainte Famille.jpg)
+
+
 
 
 **Dimanche 11 janvier 2015, messe de 19h**
