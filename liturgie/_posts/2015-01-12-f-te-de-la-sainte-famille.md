@@ -6,8 +6,6 @@ title: Fête de la Sainte Famille
 ![Sainte Famille.jpg](/images/Sainte Famille.jpg)
 
 
-
-
 **Dimanche 11 janvier 2015, messe de 19h**
 
 *Da pacem Domine in diebus nostris*  
