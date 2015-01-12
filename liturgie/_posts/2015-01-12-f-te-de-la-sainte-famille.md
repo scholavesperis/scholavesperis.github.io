@@ -9,7 +9,7 @@ title: Fête de la Sainte Famille
 **Dimanche 11 janvier 2015, messe de 19h**
 
 *Da pacem Domine in diebus nostris*  
-Donnez la paix, Seigneur, aux jours que nous vivont.
+Donnez la paix, Seigneur, aux jours que nous vivons.
 
 **Graduel : Unam petii a Domino**  
 Faux-bourdon du 1er ton, Guillaume Dufay 1400-1474
