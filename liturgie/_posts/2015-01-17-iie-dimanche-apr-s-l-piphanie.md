@@ -28,7 +28,7 @@ Anonyme XVe, manuscrit de Trente
 Lireplus
 
 ![Faux-bourdon 7e ton - Dufay.jpg](/images/Faux-bourdon 7e ton - Dufay.jpg)
-**Faux-bourdon du VIIe ton à 3 voix - Guillaume Dufay**    
+**Faux-bourdon du VIIe ton à 3 voix - Guillaume Dufay**  
 "Gloria Patri" issu de l'introït *Venite benedicti Patris*, Manuscrit de Trente 
 
 &nbsp;
