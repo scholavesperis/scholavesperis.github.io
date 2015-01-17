@@ -23,9 +23,9 @@ D'après Guillaume Dufay
 **Communion : O sacrum convivum**  
 Anonyme XVe, manuscrit de Trente
 
-&nbsp;
-
 Lireplus
+
+&nbsp;
 
 ![Faux-bourdon 7e ton - Dufay.jpg](/images/Faux-bourdon 7e ton - Dufay.jpg)
 **Faux-bourdon du VIIe ton à 3 voix - Guillaume Dufay**  
