@@ -23,7 +23,7 @@ D'après Guillaume Dufay
 **Communion : O sacrum convivum**  
 Anonyme XVe, manuscrit de Trente
 
-&cbsp;
+&nbsp;
 
 Lireplus
 
