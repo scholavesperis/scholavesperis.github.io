@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "IIe Dimanche après l'Épiphanie"
 ---
 
