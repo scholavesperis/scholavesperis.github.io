@@ -32,5 +32,4 @@ Lireplus
 "Gloria Patri" issu de l'introït *Venite benedicti Patris*, Manuscrit de Trente 
 
 &nbsp;
-
 Introït complet en ligne : http://www.trentinocultura.net/portal/server.pt/gateway/PTARGS_0_18769_2112_814_22667_43/http%3B/appalui.intra.infotn.it%3B8081/zoom_dettaglio.aspx?Identnr=239&CartaZoom=ms88-169v-170r.jpg
