@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "IIIe Dimanche après l'Épiphanie"
 ---
 
