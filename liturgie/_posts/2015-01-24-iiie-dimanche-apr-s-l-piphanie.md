@@ -10,6 +10,8 @@ title: "IIIe Dimanche après l'Épiphanie"
 *Adorate Deum, omnes angeli ejus : audivit, et laetata est Sion.*  
 Adorez Dieu, vous tous ses anges, Sion a entendu et s'est réjouie.  
 
+&nbsp;
+
 **Graduel : Timebunt gentes**  
 Faux-bourdon du 6e ton, Engarandus Juvenis XVe
 
