@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Septuagésime
 ---
 
@@ -30,4 +30,3 @@ Lireplus
 ![machaut.jpeg](/images/machaut.jpeg)
 *Tu qui gregem / Plange regni respublica / Apprehende arma*  
 **Guillaume de Machaut** Paris Bibliothèque Nationale, fonds français, 1584
-
