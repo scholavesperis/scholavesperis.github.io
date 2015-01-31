@@ -12,15 +12,15 @@ title: Dimanche de la Septuagésime
 Dans mon épreuve j'ai crié vers le Seigneur, et de son sanctuaire, il a écouté ma voix.
 
 **Graduel : Adjutor in opportunitatibus**  
-Faux-bourdon du 3e ton anonyme XVe, ms de Trente
+Faux-bourdon du 3e ton anonyme XVe,  
+ms de Trente
 
 **Trait : De profundis**  
-Faux-bourdon du 8e ton, Guillaume Dufay (1400-1474)
+Faux-bourdon du 8e ton,  
+Guillaume Dufay (1400-1474)
 
 **Offertoire : Tu qui gregem tuum ducis**  
 Guillaume de Machaut (1300-1377)
-
-&nbsp;
 
 **Communion : Agnus Dei**  
 Jacob Obrecht (1457-1505), Missa *Maria Zart*
