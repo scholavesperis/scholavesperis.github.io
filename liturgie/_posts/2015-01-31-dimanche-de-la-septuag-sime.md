@@ -19,7 +19,7 @@ Anonyme XVe, manuscrit de Trente
 Faux-bourdon du 8e ton,  
 Guillaume Dufay (1400-1474)
 
-**Offertoire : Tu qui gregem tuum ducis**  
+**Offertoire : Plange regni respublica**  
 Guillaume de Machaut (1300-1377)
 
 &nbsp;
