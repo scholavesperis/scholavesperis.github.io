@@ -12,7 +12,7 @@ title: Dimanche de la Septuagésime
 Dans mon épreuve j'ai crié vers le Seigneur, et de son sanctuaire, il a écouté ma voix.
 
 **Graduel : Adjutor in opportunitatibus**  
-Faux-bourdon du 3e ton anonyme XVe,  
+Faux-bourdon du 3e ton, anonyme XVe  
 manuscrit de Trente
 
 **Trait : De profundis**  
