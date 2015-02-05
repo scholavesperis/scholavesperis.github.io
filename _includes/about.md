@@ -9,25 +9,30 @@
 
 <p>
 La Schola Vesperis s'est constituée en décembre 2011, pour assurer le 
-service musical des messes du dimanche soir, dans l'église St Georges 
-de Lyon (liturgie latine). 
+service musical liturgique de l'église St Georges de Lyon, chaque 
+dimanche soir (liturgie latine).
 </p>
 
 <p>
-Elle puise principalement sa musique dans le 
-riche patrimoine liturgique des XV et XVIe siècles, touchée par le 
-caractère serein et recueilli de ce répertoire, et par sa fraîcheur 
-intemporelle. 
+Elle puise principalement sa musique dans le riche patrimoine liturgique 
+des XIV et XVe siècles, touchée par le caractère serein et recueilli de 
+ce répertoire, et par sa fraîcheur intemporelle. (G. de Machaut, 
+G.Binchois, J.Ockeghem, J.Obrecht, J.Desprez...)
 </p>
 
 <p>
-Elle est dirigée par Sarah Lyonnet (en classe de direction 
-à l'ENM de Villeurbanne), et composée de chanteurs enthousiastes à 
-géométrie variable. La schola chante "au lutrin".
+La schola est dirigée par Sarah Lyonnet (en classe de direction à l'ENM 
+de Villeurbanne) autour d'un lutrin, dans un esprit amical de partage 
+des compétences, et composée de chanteurs & instrumentistes 
+enthousiastes, aussi bien assidus que de passage.
+</p>
+
+<p>
+Afin d'enrichir son travail, la schola accueille également des 
+intervenants ponctuels, comme prochainement, Anne Delafosse.
 </p>
 
 <p>
 La schola propose également ses services en région lyonnaise, pour les 
-messes de bâptème, de mariage et de funérailles. (libre participation 
-aux frais)
+messes de baptême, de mariage et de funérailles.
 </p>

@@ -1,7 +1,7 @@
 ---
 title: "Faux-bourdons - Ve et IIe modes grégoriens"
 description: "Tribulationes - Confitemini Domino (mars 2012) - Faux-bourdon 2e dim. de Carême.mp3"
-published: true
+published: false
 name: "Faux-bourdons"
 author: "Graduel de Lyon (1807)"
 link: /audio/faux-bourdon-2e-dim-de-careme.mp3
