@@ -9,7 +9,6 @@ function gaPageview() {
   if (window.location.pathname !== "/") {
 		ga('send', 'pageview');
 	} else {
-		console.log('homepage');
 		ga('send', 'pageview', {
 			'page': '/accueil',
 			'title': 'Schola Vesperis'
