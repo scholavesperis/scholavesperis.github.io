@@ -34,5 +34,3 @@ Lireplus
 ![machaut.jpeg](/images/machaut.jpeg)
 *Tu qui gregem / Plange regni respublica / Apprehende arma et scutum et exurge*  
 **Guillaume de Machaut** Paris Bibliothèque Nationale, fonds français, 1584
-
-![Kyrie Machaut.jpg](/images/Kyrie Machaut.jpg)
