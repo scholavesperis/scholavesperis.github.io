@@ -20,7 +20,7 @@ Faux-bourdon du 8e ton, Anonyme XVe - ms de Trente
 Johannes Brassart 1400-1455
 
 **Consécration : Benedictus**  
-Johanees Brassart
+Johannes Brassart
 
 **Communion : Ave verum corpus**  
 d'après Loyset Compère 1445-1518
