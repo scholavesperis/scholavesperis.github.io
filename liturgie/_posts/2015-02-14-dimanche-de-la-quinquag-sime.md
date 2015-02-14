@@ -3,7 +3,8 @@ published: true
 title: Dimanche de la Quinquagésime
 ---
 
-![Quinquagésime St. Gallen, Stiftsbibliothek, Cod. Sang. 376.jpg](/images/Quinquagésime St. Gallen, Stiftsbibliothek, Cod. Sang. 376.jpg)
+![Quinquagésime  2.jpg](/images/Quinquagésime  2.jpg)
+
 
 **Dimanche 15 février 2015, messe de 19h**  
 
