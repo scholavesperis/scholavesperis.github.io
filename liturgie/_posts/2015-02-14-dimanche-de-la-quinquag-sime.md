@@ -17,7 +17,7 @@ Faux-bourdon du 3e ton, Guillaume Dufay (1400-1474)
 Faux-bourdon du 8e ton, Anonyme XVe - ms de Trente
 
 **Sanctus**  
-Johannes Brassart (1400-1455=
+Johannes Brassart (1400-1455)
 
 **Consécration : Benedictus**  
 Johannes Brassart
