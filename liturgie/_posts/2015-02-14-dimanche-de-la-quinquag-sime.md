@@ -7,7 +7,6 @@ title: Dimanche de la Quinquagésime
 
 
 **Dimanche 15 février 2015, messe de 19h**  
-
 *Esto mihi in Deum protectorem, et in locum refugii, ut salvum me facias.*  
 Sois-moi un Dieu protecteur, et une forteresse, où je trouve le salut.
 
