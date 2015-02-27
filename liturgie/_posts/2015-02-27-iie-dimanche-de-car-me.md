@@ -3,7 +3,8 @@ published: true
 title: IIe Dimanche de Carême
 ---
 
-![Rouault Suaire.jpeg](/images/Rouault Suaire.jpeg)
+![Rouault flagellation.jpg](/images/Rouault flagellation.jpg)
+
 
 
 **Dimanche 29 février 2015, messe de 19h**
