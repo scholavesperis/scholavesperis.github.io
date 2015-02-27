@@ -5,6 +5,8 @@ title: IIe Dimanche de Carême
 
 ![transfiguration.jpg](/images/transfiguration.jpg)
 
+**Dimanche 29 février 2015, messe de 19h**
+
 *Reminiscere miserationum tuarum, Domine, et misericordiae tuae, quae a saeculo sunt.*  
 Souviens-toi, Seigneur, de ta tendresse et de ta miséricorde, car elles sont éternelles.
 
