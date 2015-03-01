@@ -9,25 +9,25 @@ title: Ier Dimanche de Carême
 *Scapulis suis obumbrabit tibi Dominus, et sub pennis ejus sperabis*  
 Il te couvrira de ses ailes, sous ses plumes tu trouveras refuge.
 
-**Introït : *Invocabit me**
+**Introït : Invocabit me**
 
-**Graduel : *Angelis suis**  
+**Graduel : Angelis suis**  
 Faux-bourdon parisien du 2e ton (1778)
 
-**Trait : *Qui habitat**  
+**Trait : Qui habitat**  
 Faux-bourdon parisien du 2e ton
 
 &nbsp;
 
-**Offertoire : *Parce Domine**  
+**Offertoire : Parce Domine**  
 Jacob Obrecht 1457-1505
 
-**Communion : *Scapulis suis**  
+**Communion : Scapulis suis**  
 Heinrich Isaac (1450-1517) - Choralis Constantinus
 
-**Au dernier évangile : *Ave Regina caelorum**
+**Au dernier évangile : Ave Regina caelorum**
 
-**Sortie : *Benedicamus Domino**  
+**Sortie : Benedicamus Domino**  
 Jacob Obrecht
 
 Lireplus
