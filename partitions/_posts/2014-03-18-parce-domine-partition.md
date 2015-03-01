@@ -14,7 +14,7 @@ Motet à 3 voix du temps de Carême, de Jacob Obrecht (1450-1505)
 
 *Pardonnez Seigneur, pardonnez à votre peuple, car vous êtes bon et miséricordieux. Et à jamais Seigneur, entendez notre prière.*
 
-Ordonné prêtre à l'âge de 30 ans, Jacob Obrecht est un représentant majeur de l'école franco-flamande. Il compose ce "Parce Domine" dans la forme motet-chanson à 3 voix.
+Ordonné prêtre à l'âge de 30 ans, Jacob Obrecht est un représentant majeur de l'école franco-flamande.
 
 *- ouvrir l'article pour accéder au pdf -*
 
