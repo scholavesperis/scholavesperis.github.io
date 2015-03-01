@@ -22,8 +22,7 @@ Lireplus
 
 [Parce Domine - Obrecht.pdf](/pdf/parce-domine-obrecht.pdf)
 
-
-
+&nbsp;
 *Portrait de Jacob Obrecht daté de 1496*
 
 - Lien vers une version audio (à l'orgue puis au chant) :
