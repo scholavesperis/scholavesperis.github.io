@@ -25,6 +25,8 @@ Jacob Obrecht 1457-1505
 **Communion : Scapulis suis**  
 Heinrich Isaac (1450-1517) - Choralis Constantinus
 
+**Au dernier évangile : Ave Regina caelorum**
+
 **Sortie : Benedicamus Domino**  
 Jacob Obrecht
 
