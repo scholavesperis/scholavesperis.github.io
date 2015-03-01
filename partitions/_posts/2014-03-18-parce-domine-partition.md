@@ -6,7 +6,7 @@ published: true
 
 ![](/images/2014-03-18-jacob-obrecht.jpg)
 
-Motet à 3 voix du temps de Carême, de Jacob Obrecht (1450-1505)
+Motet à 3 voix du temps de Carême, de Jacob Obrecht (1457-1505)
 
 ***Parce Domine, parce populo tuo,***  
 ***Quia pius es et misericors.***  
