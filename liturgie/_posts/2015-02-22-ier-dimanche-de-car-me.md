@@ -19,7 +19,7 @@ Faux-bourdon parisien du 2e ton
 
 &nbsp;
 
-**Offertoire :** ***Parce Domine***  
+**Offertoire : *Parce Domine**  
 Jacob Obrecht 1457-1505
 
 **Communion :** *Scapulis suis*  
