@@ -9,6 +9,8 @@ title: Ier Dimanche de Carême
 *Scapulis suis obumbrabit tibi Dominus, et sub pennis ejus sperabis*  
 Il te couvrira de ses ailes, sous ses plumes tu trouveras refuge.
 
+**Introït : Invocabit me**
+
 **Graduel : Angelis suis**  
 Faux-bourdon parisien du 2e ton (1778)
 
