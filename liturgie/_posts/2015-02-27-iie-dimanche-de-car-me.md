@@ -12,6 +12,8 @@ title: IIe Dimanche de Carême
 *Reminiscere miserationum tuarum, Domine, et misericordiae tuae, quae a saeculo sunt.*  
 Souviens-toi, Seigneur, de ta tendresse et de ta miséricorde, car elles sont éternelles.
 
+**Introït : Reminiscere**
+
 **Graduel : Tribulationes**  
 Faux-bourdon du 5e ton, Graduel de Lyon (1817)
 
