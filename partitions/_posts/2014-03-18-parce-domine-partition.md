@@ -24,6 +24,8 @@ Lireplus
 
 &nbsp;
 
+*Portrait de Jacob Obrecht daté de 1496*
+
 - Lien vers une version audio (à l'orgue puis au chant) :
 
 [http://www.youtube.com/watch?v=t-Hi9LLkJBohttp://](http://www.youtube.com/watch?v=t-Hi9LLkJBo)
