@@ -16,7 +16,7 @@ Motet à 3 voix du temps de Carême, de Jacob Obrecht (1450-1505)
 
 Ordonné prêtre à l'âge de 30 ans, Jacob Obrecht est un représentant majeur de l'école franco-flamande.
 
-*- ouvrir l'article pour accéder au pdf -*
+*Afficher la partition :*
 
 Lireplus
 
