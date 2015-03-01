@@ -17,6 +17,8 @@ Faux-bourdon parisien du 2e ton (1778)
 **Trait : Qui habitat**  
 Faux-bourdon parisien du 2e ton
 
+&nbsp;
+
 **Offertoire : Parce Domine**  
 Jacob Obrecht 1457-1505
 
