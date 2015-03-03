@@ -5,8 +5,8 @@ title: Projection / Concert
 
 ![Exposiition Gérard Breuil.jpg](/images/Exposiition Gérard Breuil.jpg)
 
-**Encres de Gérard Breuil**     **&**  
-***Messe Nostre-Dame*** **- Guillaume de Machaut**
+**encres de Gérard Breuil**    
+& ***Messe Nostre-Dame*** **- Guillaume de Machaut**
 
 **Lundi 16 mars 2015 à 19h**  
 **au Collège Supérieur de Lyon**  
