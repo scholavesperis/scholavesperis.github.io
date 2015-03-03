@@ -8,7 +8,8 @@ title: Projection / Concert
 **Encres de Gérard Breuil**     **&**  
 ***Messe Nostre-Dame*** **- Guillaume de Machaut**
 
-**Lundi 16 mars 2015**  
+**Lundi 16 mars 2015 au** ***Collège Supérieur***
+***entrée libre***
 
 &nbsp;
 
@@ -20,9 +21,8 @@ La schola interviendra à 19h, pendant la projection du film *La lumière & l'in
 
 **Exposition du 16 mars au 11 avril 2015**  
 **Vernissage le lundi 16 mars de 18 à 21h**  
-***entrée libre***
 
 &nbsp;
 
-*Collège Supérieur de Lyon*  
+*Le Collège Supérieur*  
 *17 rue Mazagran, Lyon 7e*
