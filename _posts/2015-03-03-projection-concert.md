@@ -8,8 +8,9 @@ title: Projection / Concert
 **Encres de Gérard Breuil**     **&**  
 ***Messe Nostre-Dame*** **- Guillaume de Machaut**
 
-**Lundi 16 mars 2015 au** ***Collège Supérieur***
-***entrée libre***
+**Lundi 16 mars 2015 à 19h**  
+**au Collège Supérieur**  
+ ***-entrée libre-***
 
 &nbsp;
 
