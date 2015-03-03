@@ -16,4 +16,5 @@ La schola interviendra à 19h, pendant la projection du film *La lumière & l'in
 
 **Exposition du 16 mars au 11 avril 2015**  
 **Vernissage le lundi 16 mars, de 18 à 21h**  
-***Collège Supérieur*** **de Lyon : 17 rue Mazagran - 69007**
+*Collège Supérieur de Lyon*  
+*17 rue Mazagran, Lyon 7e*
