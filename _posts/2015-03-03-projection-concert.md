@@ -7,7 +7,7 @@ title: Projection / Concert
 
 
 **Encres de Gérard Breuil**     **&**  
-***Messe Nostre-Dame*** - **Guillaume de Machaut**
+***Messe Nostre-Dame*** **- Guillaume de Machaut**
 
 **Lundi 16 mars 2015**  
 
