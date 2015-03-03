@@ -6,7 +6,8 @@ title: Projection / Concert
 ![Exposiition Gérard Breuil.jpg](/images/Exposiition Gérard Breuil.jpg)
 
 
-**Encres de Gérard Breuil**  **&** ***Messe Nostre-Dame*** **de Guillaume de Machaut**
+**Encres de Gérard Breuil**     **&**  
+***Messe Nostre-Dame*** **de Guillaume de Machaut**
 
 **Lundi 16 mars 2015**  
 
