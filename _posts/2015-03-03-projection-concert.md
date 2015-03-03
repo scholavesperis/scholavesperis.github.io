@@ -5,8 +5,6 @@ title: Projection / Concert
 
 ![Exposiition Gérard Breuil.jpg](/images/Exposiition Gérard Breuil.jpg)
 
-&nbsp;
-
 **Encres de Gérard Breuil**     **&**  
 ***Messe Nostre-Dame*** **- Guillaume de Machaut**
 
