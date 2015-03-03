@@ -8,7 +8,7 @@ title: Projection / Concert
 
 **Encres de Gérard Breuil**  **&** ***Messe Nostre-Dame*** **de Guillaume de Machaut**
 
-*Lundi 16 mars 2015*  
+**Lundi 16 mars 2015**  
 
 A l'occasion du vernissage de l'exposition *d'encre & de silence* de Gérard Breuil, la Schola Vesperis interprétera la *Messe Nostre-Dame* de Guillaume de Machaut (1300-1377).
 
