@@ -9,7 +9,7 @@ title: Projection / Concert
 ***Messe Nostre-Dame*** **- Guillaume de Machaut**
 
 **Lundi 16 mars 2015 à 19h**  
-**au Collège Supérieur**  
+**au Collège Supérieur de Lyon**  
  ***-entrée libre-***
 
 &nbsp;
