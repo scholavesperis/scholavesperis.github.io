@@ -15,4 +15,4 @@ A l'occasion du vernissage de l'exposition *d'encre & de silence* de Gérard Bre
 La schola interviendra à 19h, pendant la projection du film *La lumière & l'insondable*, retraçant la création du peintre au coeur de l'église Saint-Martin de Chapaize (mai 2010).
 
 **Exposition du 16 mars au 11 avril 2015**  
-**Vernissage le lundi 16 mars, de 18 à 21h, au** ***Collège Supérieur*** **de Lyon (17 rue Mazagran - 69007)**  
+**Vernissage le lundi 16 mars, de 18 à 21h, au** ***Collège Supérieur*** **de Lyon (17 rue Mazagran - 69007)**
