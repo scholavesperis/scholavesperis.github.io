@@ -17,7 +17,7 @@ Lors du vernissage de l'exposition
 
 **Lundi 16 mars 2015 à 19h**  
 **Collège Supérieur de Lyon**  
-*17 rue Mazagran, Lyon 7e*
+17 rue Mazagran, Lyon 7e
 
 &nbsp;
 
