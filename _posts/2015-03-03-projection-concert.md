@@ -18,13 +18,17 @@ Lors du vernissage de l'exposition
 **Lundi 16 mars 2015 à 19h**  
 **au Collège Supérieur de Lyon**  
 *17 rue Mazagran, Lyon 7e*
+
+&nbsp;
+
 ***-entrée libre-***
+ 
+ &nbsp;
  
 **Schola Vesperis**  
 Superius : *Marie Cezariat, Sarah Lyonnet*  
 Altus : *Maximin Catineau, John Page*  
 Tenor : *Yves Mermiliod, François Ramet*  
-Bassus : *Gérard Mantel-Ferréol,*  
-         *Stéphane Lyonnet*
+Bassus : *Gérard Mantel, Stéphane Lyonnet*
 
 
