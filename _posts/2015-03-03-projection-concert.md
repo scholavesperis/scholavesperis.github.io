@@ -5,23 +5,26 @@ title: Projection / Concert
 
 ![Exposiition Gérard Breuil.jpg](/images/Exposiition Gérard Breuil.jpg)
 
-**encres de Gérard Breuil**    
-& ***Messe Nostre-Dame*** **- Guillaume de Machaut**
+Lors du vernissage de l'exposition *d'encre & de silence* du peintre Gérard Breuil:  
+
+&nbsp;
+
+**Messe Nostre-Dame de Guillaume de Machaut**  
+& projection du film *La lumière & l'insondable* 
+
+&nbsp;
+
+**Schola Vesperis**  
+Superius : *Marie Cezariat, Sarah Lyonnet*  
+Altus : *Maximin Catineau, John Page*  
+Tenor : *Yves Mermiliod, François Ramet*  
+Bassus : *Gérard Mantel-Ferréol, Stéphane Lyonnet*
+
 
 **Lundi 16 mars 2015 à 19h**  
 **au Collège Supérieur de Lyon**  
  ***-entrée libre-***
 
-&nbsp;
-
-A l'occasion du vernissage de l'exposition *d'encre & de silence* de Gérard Breuil, la Schola Vesperis interprétera la *Messe Nostre-Dame* de Guillaume de Machaut (1300-1377).
-
-La schola interviendra à 19h, pendant la projection du film *La lumière & l'insondable*, retraçant la création du peintre au sein de l'église Saint-Martin de Chapaize (mai 2010).
-
-&nbsp;
-
-**Exposition du 16 mars au 11 avril 2015**  
-**Vernissage le lundi 16 mars de 18 à 21h**  
 
 &nbsp;
 
