@@ -9,7 +9,6 @@ Lors du vernissage de l'exposition
 *d'encre & de silence* du peintre Gérard Breuil :  
 
 &nbsp;  
-&nbsp;  
 
 
 **Messe Nostre-Dame** de **Guillaume de Machaut**  
