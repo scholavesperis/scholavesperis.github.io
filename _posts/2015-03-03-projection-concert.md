@@ -14,6 +14,7 @@ Lors du vernissage de l'exposition
 & projection du film *La lumière & l'insondable* 
 
 &nbsp;
+&nbsp;
 
 **Lundi 16 mars 2015 à 19h**  
 **Collège Supérieur de Lyon**  
