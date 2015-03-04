@@ -3,7 +3,7 @@ published: true
 title: Projection / Concert
 ---
 
-![Exposiition Gérard Breuil.jpg](/images/Exposiition Gérard Breuil.jpg)
+![Exposiition Gérard Breuil.jpg](/images/Exposiition Gérard Breuil.jpg)  
 
 Lors du vernissage de l'exposition  
 *d'encre & de silence* du peintre Gérard Breuil :  
