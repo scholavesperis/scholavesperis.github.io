@@ -9,11 +9,12 @@ Lors du vernissage de l'exposition
 *d'encre & de silence* du peintre Gérard Breuil :  
 
 &nbsp;
+&nbsp;
+
 
 **Messe Nostre-Dame** de **Guillaume de Machaut**  
 & projection du film *La lumière & l'insondable* 
 
-&nbsp;
 &nbsp;
 
 **Lundi 16 mars 2015 à 19h**  
