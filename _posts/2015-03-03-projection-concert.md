@@ -10,7 +10,7 @@ Lors du vernissage de l'exposition
 
 &nbsp;
 
-**Messe Nostre-Dame de Guillaume de Machaut**  
+**Messe Nostre-Dame** de **Guillaume de Machaut**  
 & projection du film *La lumière & l'insondable* 
 
 &nbsp;
