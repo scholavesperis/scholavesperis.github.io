@@ -5,8 +5,8 @@ title: Projection / Concert
 
 ![Exposiition Gérard Breuil.jpg](/images/Exposiition Gérard Breuil.jpg)
 
-Lors du vernissage de l'exposition *d'encre & de silence*  
-du peintre Gérard Breuil :  
+Lors du vernissage de l'exposition  
+*d'encre & de silence* du peintre Gérard Breuil :  
 
 &nbsp;
 
@@ -17,7 +17,8 @@ du peintre Gérard Breuil :
 
 **Lundi 16 mars 2015 à 19h**  
 **au Collège Supérieur de Lyon**  
- ***-entrée libre-***
+*17 rue Mazagran, Lyon 7e*
+***-entrée libre-***
  
 **Schola Vesperis**  
 Superius : *Marie Cezariat, Sarah Lyonnet*  
@@ -27,12 +28,3 @@ Bassus : *Gérard Mantel-Ferréol,*
          *Stéphane Lyonnet*
 
 
-**Lundi 16 mars 2015 à 19h**  
-**au Collège Supérieur de Lyon**  
- ***-entrée libre-***
-
-
-&nbsp;
-
-*Le Collège Supérieur*  
-*17 rue Mazagran, Lyon 7e*
