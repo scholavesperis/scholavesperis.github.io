@@ -5,7 +5,6 @@ title: Projection / Concert
 
 ![Exposiition Gérard Breuil.jpg](/images/Exposiition Gérard Breuil.jpg)  
 &nbsp;
-
 Lors du vernissage de l'exposition  
 *d'encre & de silence* du peintre Gérard Breuil :  
 
