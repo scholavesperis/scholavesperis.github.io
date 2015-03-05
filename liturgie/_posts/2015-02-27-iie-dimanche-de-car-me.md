@@ -26,18 +26,18 @@ Hymne & alternance de Guillaume Dufay (1400-1474)
 **Consécration :** ***Tu lumen***  
 Josquin Desprez (1450-1521)
 
-**Communion :** ***Agnus Dei***
-Johannes Ockeghem (1410-1497) *Missa mi-mi*
+**Communion :** ***O salutaris Hostia***  
+Pierre de la Rue (1452-1518)
 
 **Au dernier évangile :** ***Ave Regina caelorum***    
 
-**Sortie :** ***Deo gratias***  
-Guillaume de Machaut (1300-1377) *Missa Nostre-Dame*
+**Sortie :** ***Benedicamus Domino***  
+Jacob Obrecht (1457-1505)
 
 Lireplus
 
 &nbsp;
 
-![Deo Gratias.jpeg](/images/Deo Gratias.jpeg)
-**Ite missa est, Deo gratias** Guillame de Machaut  *Missa Nostre-Dame*  
-Paris, Bibliothèque Nationale, fonds français, 1584
+![5e ton graduel Lyon.jpg](/images/5e ton graduel Lyon.jpg)
+
+**Faux-bourdon du Ve ton** *Vespéral romain pour tous les jours de l'année*, Lyon 1817
