@@ -18,7 +18,7 @@ Faux-bourdon du 3e ton, Guillaume Dufay (1400-1474)
 **Trait : Ad te levavi**  
 Faux-bourdon du 8e ton, anonyme XVe - ms de Trente
 
-
+&nbsp;
 
 **Offertoire : Pauper sum ego**  
 Josquin Desprez (1450-1521)
