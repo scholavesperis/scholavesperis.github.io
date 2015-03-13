@@ -40,4 +40,4 @@ Lireplus
 &nbsp;
 
 ![Deo Gratias.jpeg](/images/Deo%20Gratias.jpeg)
-**Ite missa est - Deo gratias** Guillaume de Machaut (1300-1374) *Messe de Nostre-Dame* Paris, Bibliothèque Nationale, fonds français, 1584
+**Ite missa est - Deo gratias** Guillaume de Machaut (1300-1377) *Messe de Nostre-Dame* Paris, Bibliothèque Nationale, fonds français, 1584
