@@ -8,7 +8,7 @@ title: "IVe dimanche de Carême - Laetare"
 **Dimanche 15 mars 2015, messe de 19h**  
 
 *Jerusalem, quae aedificatur ut civitas, cujus participatio cujus in idipsum*  
-Jérusalem est bâtie comme une cité où tout enxsemble fait corps.
+Jérusalem est bâtie comme une cité où tout ensemble fait corps.
 
 **Introït : Laetare Jerusalem**  
 
