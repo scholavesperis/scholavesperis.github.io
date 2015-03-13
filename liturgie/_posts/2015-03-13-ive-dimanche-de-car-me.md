@@ -1,8 +1,7 @@
 ---
-published: false
+published: true
 title: "IVe dimanche de Carême - Laetare"
 ---
-
 
 ![Laetare.jpg](/images/Laetare.jpg)
 
