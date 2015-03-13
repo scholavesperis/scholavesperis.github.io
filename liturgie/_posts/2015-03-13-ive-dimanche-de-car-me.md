@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 title: "IVe dimanche de Carême - Laetare"
 ---
 
-![Laetare.jpg](/images/_posts/Laetare.jpg)
 
+![Laetare.jpg](/images/_posts/Laetare.jpg)
 
 **Dimanche 15 mars 2015, messe de 19h**  
 
