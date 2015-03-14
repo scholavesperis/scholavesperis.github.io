@@ -12,6 +12,9 @@ Jérusalem est bâtie comme une cité où tout ensemble fait corps.
 
 **Introït : Laetare Jerusalem**  
 
+**Kyrie**  
+*Messe de Nostre-Dame* - Guillaume de Machaut (1300-1377)
+
 **Graduel : Laetatus sum**  
 Faux-bourdon du 7e ton - Guillaume Dufay (1400-1474)
 
@@ -22,14 +25,14 @@ Faux-bourdon du 8e ton - Anonyme XVe, manuscrit de Trente
 d'après Guillaume Dufay
 
 **Sanctus**  
-*Messe de Nostre-Dame* - Guillaume de Machaut (1300-1377)
+*Messe de Nostre-Dame*  
 
 **Communion : Agnus Dei**  
 *Messe de Nostre-Dame*
 
 **Au dernier évangile : Ave Regina caelorum**
 
-**Sortie : Deo gratias**
+**Sortie : Deo gratias**  
 *Messe de Nostre-Dame*
 
 Lireplus
