@@ -22,7 +22,7 @@ Faux-bourdon du 8e ton - Anonyme XVe, manuscrit de Trente
 d'après Guillaume Dufay
 
 **Sanctus**  
-*Messe de Nostre-Dame* Guillaume de Machaut 
+*Messe de Nostre-Dame* - Guillaume de Machaut 
 
 **Communion : Agnus Dei**  
 *Messe de Nostre-Dame*
