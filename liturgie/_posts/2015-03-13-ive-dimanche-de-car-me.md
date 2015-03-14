@@ -40,5 +40,5 @@ Lireplus
 &nbsp;
 
 ![Kyrie Machaut.jpg](/images/Kyrie%20Machaut.jpg)
-**Kyrie** *Messe de Nostre-Dame* Guillaume de Machaut (1300-1377)  
+**Kyrie** *Messe de Nostre-Dame* - Guillaume de Machaut (1300-1377)  
 Paris, Bibliothèque Nationale, fonds français, 1584
