@@ -27,8 +27,11 @@ d'après Guillaume Dufay
 **Sanctus**  
 *Messe de Nostre-Dame*  
 
-**Communion : Agnus Dei**  
+**Agnus Dei**  
 *Messe de Nostre-Dame*
+
+**Communion : O sacrum convivium**  
+Anonyme XVe, manuscrit de Trente
 
 **Au dernier évangile : Ave Regina caelorum**
 
