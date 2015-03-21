@@ -16,7 +16,7 @@ Salut, ô Croix, seule espérance !
 Faux-bourdon du 3e ton, Guillaume Dufay (1400-1474)
 
 **Trait : Saepe expugnaverunt me**  
-Faux-bourdon du 8e ton, Graduel de Lyon 1817
+Faux-bourdon du 8e ton, Graduel de Lyon
 
 **Offertoire : Vexilla regis**  
 Alternance polyphonique du Cancionero de Montecassino, Anonyme XVe
