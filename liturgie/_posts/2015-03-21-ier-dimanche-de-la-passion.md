@@ -19,7 +19,7 @@ Faux-bourdon du 3e ton, Guillaume Dufay (1400-1474)
 Faux-bourdon du 8e ton, Missel de Lyon 1817
 
 **Offertoire : Vexilla regis**  
-Alternance polyphonique du Cancionero de Montecassino, anonyme XVe
+Alternance polyphonique du Cancionero de Montecassino, Anonyme XVe
 
 **Sanctus**
 Anonyme XVe, Cancionero de la Colombina
