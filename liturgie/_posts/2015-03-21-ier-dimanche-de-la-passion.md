@@ -30,4 +30,4 @@ Heinrich Isaac (1450-1517), Choralis Constantinus
 **Au dernier évangile : Ave Regina caelorum**
 
 **Sortie : O Crux, ave**
-adapté d'après *Triste Espana*, Cancionero de Palacio
+adapté d'après *Triste Espana*,Juan del Enzina Cancionero de Palacio
