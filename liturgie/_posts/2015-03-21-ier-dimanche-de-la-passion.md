@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ier Dimanche de la Passion
 ---
 
@@ -31,5 +31,3 @@ Heinrich Isaac (1450-1517), Choralis Constantinus
 
 **Sortie : O Crux, ave**
 adapté d'après *Triste Espana*, Cancionero de Palacio
-
-
