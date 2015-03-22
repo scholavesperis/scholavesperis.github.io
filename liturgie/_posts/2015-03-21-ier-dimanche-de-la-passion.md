@@ -13,7 +13,7 @@ Salut, ô Croix, seule espérance !
 **Introït : judica me**
 
 **Graduel : Eripe me**  
-Faux-bourdon du 3e ton, Guillaume Dufay (1400-1474)
+Faux-bourdon du 6e ton, Engarandus Juvenis XVe
 
 **Trait : Saepe expugnaverunt me**  
 Faux-bourdon du 8e ton, Graduel de Lyon
