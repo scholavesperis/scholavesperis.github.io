@@ -34,7 +34,7 @@ d’après Triste Espana, Juan del Enzina (1468-1533) Cancionero de Palacio
 
 Lireplus
 
-;nbsp
+&nbsp;
 
 ![Glorialaus-Binchois.jpg](/images/Glorialaus-Binchois.jpg)
 
