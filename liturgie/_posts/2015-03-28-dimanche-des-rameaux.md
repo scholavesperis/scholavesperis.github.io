@@ -37,7 +37,5 @@ Lireplus
 &nbsp;
 
 ![Glorialaus-Binchois.jpg](/images/Glorialaus-Binchois.jpg)
-
-
 **Gloria, laus et honor** - hymne processionnel du dimanche des Rameaux  
 Gilles Binchois (1400-1460) manuscrit de Trente Tr87
