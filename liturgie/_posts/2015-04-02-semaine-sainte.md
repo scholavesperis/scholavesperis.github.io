@@ -13,7 +13,7 @@ title: Semaine Sainte
 *Adoration au reposoir jusqu'à minuit*
 
 **Vendredi Saint**  
-*Office des ténbres* (à l'église St Just) à 7h30  
+*Office des ténèbres* (à l'église St Just) à 7h30  
 *Chemin de Croix* à 12h30 et 15h  
 *Office de la Passion* à 19h30
 
