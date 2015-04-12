@@ -8,6 +8,7 @@ title: Dimanche de Quasimodo
 **Dimanche 12 avril 2015, messe de 19**  
 
 *Quasi modo geniti infantes, rationabile, sine dolo lac concupiscite.*  
+
 Comme des enfants nouveaux-nés, ayez soif d'un lait spirituel très pur.
 
 **Introit : Quasi modo**  
