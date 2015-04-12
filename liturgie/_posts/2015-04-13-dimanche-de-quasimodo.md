@@ -5,6 +5,8 @@ title: Dimanche de Quasimodo
 
 ![Quasimodo st gallen stiftsbibliothekq, cod sang 376.jpg](/images/Quasimodo st gallen stiftsbibliothekq, cod sang 376.jpg)
 
+**Dimanche 12 avril 2015, messe de 19**  
+
 *Quasi modo geniti infantes, rationabile, sine dolo lac concupiscite.*  
 Comme des enfants nouveaux-nés, ayez soif d'un lait spirituel très pur.
 
