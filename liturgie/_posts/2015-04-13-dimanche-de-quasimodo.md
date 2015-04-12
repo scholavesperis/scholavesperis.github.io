@@ -28,5 +28,6 @@ Lireplus
 
 &nbsp;
 
-![surrexit christus.jpg](/images/surrexit christus.jpg)
+![Surrexit christus.jpg](/images/Surrexit christus.jpg)
+
 **Surrexit Christus** Anonyme tchèque XVe
