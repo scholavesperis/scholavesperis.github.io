@@ -16,7 +16,7 @@ Celui qui demeure en moi et en qui je demeure, celui-là porte beaucoup de fruit
 **Alleluia : Confitebuntur & Posuisti**
 
 **Offertoire : Deus tuorum militum**  
-Hymne & alternance polyphonique de Guillaume Dufay (1400-1474)
+Hymne grégorien & alternance polyphonique de Guillaume Dufay (1400-1474)
 
 **Communion : Da pacem**  
 Anonyme XVe, manuscrit de Trente
