@@ -31,7 +31,7 @@ Lireplus
 &nbsp;
 
 ![Da pacem Trente.jpg](/images/Da pacem Trente.jpg)
-**Da pacem** Anonyme XVe, manuscrit de Trente Tr91  
+**Da pacem**  Anonyme XVe - manuscrit de Trente Tr91  
 
 *Da pacem, Domine, in diebus nostris,  
 quia non est alius qui pugnet pro nobis, nisi tu Deus noster.*  
