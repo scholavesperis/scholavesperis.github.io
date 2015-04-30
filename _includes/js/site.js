@@ -4,7 +4,11 @@
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-ga('create', 'UA-55744005-1', 'auto');
+ga('create', 'UA-55744005-1', {" +
+"  'storage': 'none'" + // no cookies
+"})");
+// use ip address
+ga('set', 'anonymizeIp', true);
 function gaPageview() {
   if (window.location.pathname !== "/") {
 		ga('send', 'pageview');
