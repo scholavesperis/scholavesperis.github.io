@@ -36,7 +36,7 @@ Lireplus
 *Ad coenam Agni providi,  
 stolis salutis candidi,  
 post transitum maris Rubri  
-Christo canamus principi*  
+Christo canamus principi.*  
 
 L'Agneau nous convie à sa table,  
 vêtus de blanc par son salut;  
