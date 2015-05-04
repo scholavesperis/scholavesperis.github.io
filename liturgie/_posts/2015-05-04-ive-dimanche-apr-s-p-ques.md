@@ -15,7 +15,7 @@ Chantez au Seigneur un chant nouveau, alleluia !
 **Alleluia : Dexetera Domini & Christus resurgens**  
 
 **Offertoire : Ad coenam Agni providi**  
-Hymne & alternance de Guillaume dUfay 1400-1474
+Hymne & alternance de Guillaume Dufay 1400-1474
 
 **Communion : O sacrum convivium**  
 Anonyme XVe, manuscrit de Trente
