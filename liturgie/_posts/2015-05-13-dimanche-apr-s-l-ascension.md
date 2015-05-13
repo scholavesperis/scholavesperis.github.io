@@ -25,3 +25,10 @@ Pierre Moulu 1484-1550 (Missa Missus est Gabriel angelus)
 
 **Sortie : Benedicamus Domino**    
 Guillaume Dufay 1400-1474
+
+Lireplus
+
+&nbsp;
+
+![Agnus Pierre Moulu.jpg](/images/Agnus Pierre Moulu.jpg)
+**Agnus Dei I & II** Pierre Moulu (1484-1550) *Missa Missus est Gabriel angelus* manuscrit mus.ms.F bibliothèque de Munich
