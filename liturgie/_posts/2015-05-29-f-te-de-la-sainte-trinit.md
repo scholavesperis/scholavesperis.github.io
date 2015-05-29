@@ -32,5 +32,5 @@ Lireplus
 &nbsp;
 
 ![Trinitatis Frye.jpg]({{site.baseurl}}/images/Trinitatis Frye.jpg)
-**Trinitatis dies** Walter Frye  
+**Trinitatis dies** *Walter Frye*   
 Manuscrit  D-Mbs Cgm. 810 - Bibliothèque de Munich
