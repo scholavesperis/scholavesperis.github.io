@@ -26,3 +26,11 @@ Robert Fayrfax (1464-1521)
 
 **Sortie : Gloria Patri**  
 Josquin Desprez (1450-1521)
+
+Lireplus
+
+&nbsp;
+
+![Trinitatis Frye.jpg]({{site.baseurl}}/images/Trinitatis Frye.jpg)
+**Trinitatis dies** Walter Frye  
+Manuscrit  D-Mbs Cgm. 810 - Bibliothèque de Munich
