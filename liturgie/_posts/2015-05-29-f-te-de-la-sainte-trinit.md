@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 title: Fête de la sainte Trinité
 ---
+
 
 ![trinité 2.jpg]({{site.baseurl}}/images/trinité 2.jpg)
 **Dimanche 31 mai 2015, messe de 19h**  
