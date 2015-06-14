@@ -26,7 +26,7 @@ Intonation de Jacob Obrecht (1457-1505) *Missa Malheur me bat*
 Antoine de Févin (1470-1512) *Missa de Feria*  
 
 **Communion : Agnus Dei**  
-Jacob Obercht *Missa Malheur me bat*  
+Jacob Obrecht *Missa Malheur me bat*  
 
 **Au dernier évangile : Salve Regina**
 
