@@ -20,13 +20,13 @@ Si quelqu'un a soif, qu'il vienne à moi et qu'il boive, alleluia !
 Faux-bourdon du 3e ton
 
 **Sanctus**  
-Intonation de Jacob Obrecht (1457-1505) Missa *Malheur me bat*  
+Intonation de Jacob Obrecht (1457-1505) *Missa Malheur me bat*  
 
 **Consécration : Hosanna in excelsis**  
-Antoine de Févin (1470-1512) Missa de Feria  
+Antoine de Févin (1470-1512) *Missa de Feria*  
 
 **Communion : Agnus Dei**  
-Jacob Obercht - Missa *Malheur me bat*  
+Jacob Obercht *Missa Malheur me bat*  
 
 **Au dernier évangile : Salve Regina**
 
