@@ -38,5 +38,5 @@ Lireplus
 &nbsp;
 
 ![Agnus Dei Obrecht Malheur me bat.jpg]({{site.baseurl}}/images/Agnus Dei Obrecht Malheur me bat.jpg)
-**Agnus Dei** Jacob Obrecht *Missa Malheur me bat*  
+**Agnus Dei** Jacob Obrecht - *Missa Malheur me bat*  
 partie de Superius issue de "Misse Obrecht" d'Ottaviano Petrucci
