@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 title: "Fête du Sacré-Coeur de Jésus"
 ---
+
 
 ![Christ Santa Maria Assunta di U Favalellu.jpg]({{site.baseurl}}/images/Christ Santa Maria Assunta di U Favalellu.jpg)
 
@@ -31,6 +32,3 @@ Jacob Obercht - Missa *Malheur me bat*
 
 **Sortie : Benedicamus Domino**  
 Anonyme XVe - manuscrit de Munchen
-
-
-
