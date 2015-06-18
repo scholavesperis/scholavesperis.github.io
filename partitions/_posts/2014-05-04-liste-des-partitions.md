@@ -44,6 +44,7 @@ Lireplus
 - ***Agnus Dei*** Anonyme, manuscrit de Trente -3vx
 - ***Agnus Dei*** Johannes Ockeghem (1420-1495), Missa Mi-mi « dona nobis pacem » -4vx
 - ***Agnus Dei*** Johannes Ockeghem (1420-1495), adaptation d'après Miserere, mors tu as navré - 4vx
+- ***Agnus Dei*** Antoine de Févin (1470-1512), d'après *Si ambulem* -4vx
 - ***Agnus Dei*** Colinet de Lannoys 1456-1506 -3vx
 - ***Agnus Dei*** Antoine Brumel (1460-1512 ), Missa Berzette Savoyarde -3 & 4vx
 - ***Agnus Dei*** Pierre Moulu (1484-1550), Missa Missus est Gabriel angelus -4vx
