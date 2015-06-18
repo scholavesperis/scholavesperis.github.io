@@ -5,6 +5,7 @@ published: true
 permalink: "/partitions/liste-des-partitions/"
 ---
 
+
 ![](/images/2013-05-04-partition-salutaris-2.jpg)
 
 **Partitions liturgiques éditées par la schola**
@@ -21,24 +22,32 @@ Lireplus
 
 ## Parties de la messe
 
+- ***Kyrie*** Guillaume de Machaut (1300-1377), Missa Nostre-Dame - 4vx
+- ***Kyrie*** Antoine de Févin (1470-1512), Missa pros fidelibus defunctis -4vx
 - ***Kyrie*** Pierre de la Rue (1460-1518 ), Missa pro defunctis -4vx
 - ***Kyrie Leroy*** John Taverner (1490-1545) -4vx
 - ***Kyrie*** Josquin Desprez (1450-1521), Missa La sol fa re mi -4vx
 - ***Kyrie*** Engarandus Juvenis (XVe), Missa pro defunctis, codex de Staffarda -3 & 4vx
 - ***Kyrie*** Antoine Brumel (1460-1520), Missa A l'ombre d'ung buissonet -4vx
 
+- ***Sanctus*** Guillaume de Machaut (1300-1377), Missa Nostre-Dame - 4vx
+- ***Sanctus*** Johannes Brassart (1400-1455) -3vx
 - ***Sanctus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
+- ***Sanctus*** Anonyme XVe, Cancionero de la Colombina -4vx
 - ***Hosanna in excelsis*** Antoine de Févin (1470-1512), Missa de Feria -4vx
 - ***Hosanna in excelsis*** Jacob Obrecht (1457-1505), Missa de Sancto Donatiano -4vx
 - ***Hosanna in excelsis*** d'après Johannes Martini (1440-1497)
 
+- ***Agnus Dei*** Guillaume de Machaut (1300-1377), Missa Nostre-Dame - 4vx
 - ***Agnus Dei*** Touront (XVe), Missa Sine nomine, manuscrit de Trente -3vx
 - ***Agnus Dei*** Anonyme, manuscrit de Trente -3vx
 - ***Agnus Dei*** Johannes Ockeghem (1420-1495), Missa Mi-mi « dona nobis pacem » -4vx
+- ***Agnus Dei*** Johannes Ockeghem (1420-1495), adaptation d'après Miserere, mors tu as navré - 4vx
 - ***Agnus Dei*** Colinet de Lannoys 1456-1506 -3vx
 - ***Agnus Dei*** Antoine Brumel (1460-1512 ), Missa Berzette Savoyarde -3 & 4vx
 - ***Agnus Dei*** Pierre Moulu (1484-1550), Missa Missus est Gabriel angelus -4vx
 - ***Agnus Dei*** Josquin Desprez (1450-1521), Missa la sol fa re mi -4vx
+- ***Agnus Dei*** Jacob Obrecht (1457-1505 ), Missa Malheur me bat -4vx
 - ***Agnus Dei*** Jacob Obrecht (1457-1505 ), Missa Je ne seray plus -3vx
 - ***Agnus Dei I&II*** Jacob Obrecht (1457-1505 ), Missa Maria zart -4&3vx
 - ***Agnus Dei*** Jacob Obrecht (1457-1505), d'après "Mille quingentis" -4vx
@@ -48,6 +57,9 @@ Lireplus
 - ***Agnus Dei*** Jean Mouton (1459-1522), Missa Dictes moy toutes vos pensées - 5vx
 - ***Agnus Dei*** Anonyme XVe, d'après le codex Specialnik -3vx
 
+- ***Benedicamus Domino*** Guillaume de Machaut (1300-1377), Missa Nostre-Dame - 4vx
+- ***Benedicamus Domino*** Gilles Binchois (1400-1460) -3vx
+- ***Benedicamus Domino*** Anonyme XVe, ms de Munchen -4vx
 - ***Benedicamus Domino*** Guillaume Dufay (1400-1474) -3vx
 - ***Benedicamus Domino*** Nesbet, manuscrit de Pepys -3vx
 - ***Benedicamus Domino I&II*** Jacob Obrecht (1457-1505) -4vx
@@ -57,6 +69,7 @@ Lireplus
 
 - ***Gloria Patri*** Josquin Desprez (1450-1521) -4vx
 - ***Gloria Patri*** William Byrd (1543-1623 ) -4vx
+- ***Gloria Patri*** Anonyme XVe, d'après Fortuna desperata -3vx
 
 - ***O salutaris Hostia*** Anonyme XVIe -4vx
 - ***O salutaris Hostia*** Pierre de la Rue (1460-1518 ) -4vx
@@ -78,6 +91,7 @@ Lireplus
 - ***Dicite pusillanimes***
 - ***Dominus Firmamentum***
 - ***Ego sum pastor bonus***
+- ***Hoc corpus***
 - ***Illumina***
 - ***In salutari tuo*** (3 et 4vx)
 - ***Jerusalem***
@@ -106,6 +120,7 @@ Lireplus
 
 ## Motets & Hymnes:
 
+- ***Ad coenam agni providi*** Guillaume Dufay (1400-1474) -3vx
 - ***Adoramus te*** Anonyme, cancionero de Montecassino -4vx
 - ***Adoramus te*** Loyset Compère (1445-1518), Missa Galeazescha « Ad elevationem » -4vx
 - ***Alleluia*** Perotin le Grand (1160-1230) -3vx
@@ -113,12 +128,14 @@ Lireplus
 - ***Audi benigne Conditor*** Guillaume Dufay (1400-1474) -3vx
 - ***Ave Maria*** Johannes Prioris (1460-1514) -3vx
 - ***Ave Maria*** Anonyme XVe, Codex Basevi -5vx
+- ***Ave Maria*** Jacob Obrecht (1457-1505) -4vx
 - ***Ave Maria, benedicta tu*** Jean Mouton (1459-1522) -4vx
 - ***Ave Regina caelorum*** Anonyme XVe, codex Franus -3vx
 - ***Ave Regina caelorum*** Jacob Obrecht (1457-1505) -4vx
 - ***Ave verum corpus*** d'après Loyset Compère (1445-1518) -3vx
 - ***Beata es Maria*** Anonyme XVe, Chansonnier des ducs de Lorraine -3vx
 - ***Christe qui lux es*** Robert White (1538-1574) -5vx
+- ***Conditor alme siderum*** Costanzo Festa (1495-1545) -4vx
 - ***Crux triumphans*** Loyset Compère (1445-1518) -4vx
 - ***Cuius sacrata viscera*** Jacob Obrecht (1457-1505) -4vx
 - ***Da pacem*** Anonyme (XVIe), codex Rusconi -4vx
@@ -127,8 +144,10 @@ Lireplus
 - ***Dei Genitrix*** Johannes Prioris (1460-1514) -4vx
 - ***De profundis*** Josquin Desprez (1450-1521) -4vx
 - ***De profundis II*** Josquin Desprez (1450-1521) -5vx
+- ***Deus tuorum militum*** Guillaume Dufay (1400-1474) -3vx
 - ***Dextera Domini*** G.B.Martini (1706-1784) -4vx
 - ***Domine salvam fac galliam*** faux-bourdon parisien du VIe ton royal -4vx
+- ***Gloria, laus et honor*** Gilles Binchois (1400-1460) -3vx
 - ***Heth. Cogitavit Dominus*** Antoine Brumel (1460-1512) -4vx
 - ***Jesu rex admirabilis*** G.P. Palestrina (1525-1594) -3vx
 - ***Laetatus sum*** Orlando de Lassus (1532-1594) -3vx
@@ -138,19 +157,24 @@ Lireplus
 - ***Magnum miraculum*** Anonyme XVe, Codex Specialnik -3vx
 - ***Media vita*** John Sheppard (1515-1558) -réduction à 5vx
 - ***Miserere in patientia*** Johannes Ghiselin (1455-1511) -3vx
+- ***O Crux, ave*** Anonyme XVe, d'après Triste Espana -4vx
 - ***O Domina sanctissima*** Johannes Ghiselin (1455-1511) -4vx
+- ***O felicem genitricem*** Petrus Wilhelmi Grudencz (1392-1480) -2vx
 - ***O florens rosa*** Johannes Ghiselin (1455-1511) -3vx
 - ***O florens rosa*** Walter Frye (+1474) -3vx
 - ***Panis angelicus*** d'après Alexander Agricola (1446-1506) -3vx
 - ***Parce Domine*** Jacob Obrecht (1450-1505) -3vx
 - ***Pauper sum ego*** Josquin Desprez (1450-1521) -3vx
+- ***Plange regni respublica*** Guillaume de Machaut (1300-1377) -4vx
 - ***Regem cui omnia vivunt*** Cristobal de Morales (1500-1553) -4vx
 - ***Regina caeli*** Anonyme XVIe, manuscrit de Bologne -4vx
 - ***Regina caeli*** Anonyme XVIe, Allemagne -4vx
 - ***Regina caeli*** Johannes Ghiselin (1455-1511) -4vx
 - ***Requiem aeternam*** Engarandus Juvenis (XVe), codex de Staffarda -3vx
+- ***Si ambulem*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -4vx
 - ***Si dedero*** Alexander Agricola (1446-1506) -3vx
 - ***Sitivit*** Antoine de Févin (1470-1511) -3vx
+- ***Surrexit Christus hodie*** Anonyme tchèque XVe, Codex Franus -2vx
 - ***Tantum ergo*** Anonyme (XVIe), Occo codex -4vx
 - ***Te decet laus*** Pierre De la Rue (1452-1518) -5vx
 - ***Trinitatis dies*** Walter Frye (+1474) -3vx
