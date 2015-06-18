@@ -30,6 +30,7 @@ Lireplus
 - ***Kyrie*** Engarandus Juvenis (XVe), Missa pro defunctis, codex de Staffarda -3 & 4vx
 - ***Kyrie*** Antoine Brumel (1460-1520), Missa A l'ombre d'ung buissonet -4vx
 
+- ***Sanctus*** Jacob Obrecht (1457-1505), Missa Malheur me bat *intonation* -4vx
 - ***Sanctus*** Guillaume de Machaut (1300-1377), Missa Nostre-Dame - 4vx
 - ***Sanctus*** Johannes Brassart (1400-1455) -3vx
 - ***Sanctus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
