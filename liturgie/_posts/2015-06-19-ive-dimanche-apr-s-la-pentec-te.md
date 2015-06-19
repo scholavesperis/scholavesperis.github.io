@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 title: IVe dimanche après la Pentecôte
 ---
+
 
 ![Rouault Christ & pêcheurs.Jpeg]({{site.baseurl}}/images/Rouault Christ & pêcheurs.Jpeg)
 
