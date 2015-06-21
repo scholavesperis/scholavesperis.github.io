@@ -18,7 +18,7 @@ Avance en eau profonde, et jetez vos filets pour la pêche.
 Faux-bourdon du 5e ton, G.M.Asola (1532-1609)
 
 **Alleluia : Deus qui sedes**  
-Verset en faux-bourdon, Guillaume Dufay (1400-1474)
+verset en faux-bourdon, Guillaume Dufay (1400-1474)
 
 **Offertoire : Tu lumen**  
 Josquin Desprez (1450-1521)
