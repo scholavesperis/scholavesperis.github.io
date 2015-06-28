@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Solennité de Saint Irénée et ses compagnons, martyrs"
+title: "Solennité de saint Irénée et ses compagnons, martyrs"
 ---
 
 
