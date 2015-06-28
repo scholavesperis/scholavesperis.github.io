@@ -5,6 +5,7 @@ title: "Solennité de saint Irénée et ses compagnons, martyrs"
 
 
 
+
 ![saints matyrs.jpg]({{site.baseurl}}/images/saints matyrs.jpg)
 
 
@@ -34,5 +35,5 @@ intonation de Jacob Obrecht *Missa Malheur me bat*
 **Communion : Agnus Dei**  
 Jacob Obrecht (1455-1507) *Missa Malheur me bat*  
 
-**Sortie : Gloria Patri**  
-William Byrd (1543-1623)
+**Sortie : Benedicamus Domino**  
+Jacob Obrecht
