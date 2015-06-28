@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 title: "Solennité de Saint Irénée et ses compagnons, martyrs"
 ---
+
 
 
 ![saints matyrs.jpg]({{site.baseurl}}/images/saints matyrs.jpg)
