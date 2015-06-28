@@ -1,10 +1,11 @@
 ---
 published: true
-title: Solennité de Saint Irénée de Lyon
+title: "Solennité de Saint Irénée et ses compagnons, martyrs"
 ---
 
 
-![Saint Irénée.jpg]({{site.baseurl}}/images/Saint Irénée.jpg)
+![saints matyrs.jpg]({{site.baseurl}}/images/saints matyrs.jpg)
+
 
 
 **Dimanche 28 juin 2015, messe de 19h**  
