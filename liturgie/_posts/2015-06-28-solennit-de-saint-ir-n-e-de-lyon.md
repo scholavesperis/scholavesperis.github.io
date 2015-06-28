@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 title: Solennité de Saint Irénée de Lyon
 ---
+
 
 ![Saint Irénée.jpg]({{site.baseurl}}/images/Saint Irénée.jpg)
 
@@ -28,6 +29,8 @@ alternance polyphonique de Johannes Martini (1440-1497)
 **Sanctus**
 intonation de Jacob Obrecht *Missa Malheur me bat*  
 
-**Communion : **  
+**Communion : Agnus Dei**  
+Jacob Obrecht (1455-1507) *Missa Malheur me bat*  
 
-**Sortie : ** 
+**Sortie : Gloria Patri**  
+William Byrd (1543-1623)
