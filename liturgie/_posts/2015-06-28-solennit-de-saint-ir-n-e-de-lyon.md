@@ -6,6 +6,7 @@ title: "Solennité de saint Irénée et ses compagnons, martyrs"
 
 
 
+
 ![saints matyrs.jpg]({{site.baseurl}}/images/saints matyrs.jpg)
 
 
@@ -37,3 +38,10 @@ Jacob Obrecht (1455-1507) *Missa Malheur me bat*
 
 **Sortie : Benedicamus Domino**  
 Jacob Obrecht
+
+Lireplus
+
+&nbsp;
+
+![]({{site.baseurl}}/images/faux%20bourdon%20lyon%20Ve%20ton.jpg)
+Faux-bourdon du Ve ton *Graduel de Lyon* 1817
