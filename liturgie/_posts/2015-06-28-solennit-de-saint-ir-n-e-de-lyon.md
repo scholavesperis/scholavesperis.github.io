@@ -44,4 +44,4 @@ Lireplus
 &nbsp;
 
 ![]({{site.baseurl}}/images/faux%20bourdon%20lyon%20Ve%20ton.jpg)
-Faux-bourdon du Ve ton *Graduel de Lyon* 1817
+**Faux-bourdon du Ve ton** *Graduel de Lyon* 1817
