@@ -1,6 +1,6 @@
 ---
 desc: ""
-published: false
+published: true
 title: XVe dimanche après la Pentecôte
 ---
 
