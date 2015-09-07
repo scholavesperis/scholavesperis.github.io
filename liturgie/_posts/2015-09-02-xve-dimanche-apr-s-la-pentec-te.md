@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: XVe dimanche après la Pentecôte
 ---
+
 
 ![Christ San Tumasgiu di Pastureccia.jpg]({{site.baseurl}}/images/Christ San Tumasgiu di Pastureccia.jpg)
 
