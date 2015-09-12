@@ -9,7 +9,8 @@ title: Funérailles de M. Guy du Jonchay
 ![de profundis.jpeg]({{site.baseurl}}/images/de profundis.jpeg)
 
 
-**Samedi 12 septembre 2015, église St Georges**
+**Samedi 12 septembre 2015, 10h30**  
+**église St Georges**
 
 *Sitivit anima mea ad Deum vivum*  
 Mon âme a soif du Dieu vivant.
