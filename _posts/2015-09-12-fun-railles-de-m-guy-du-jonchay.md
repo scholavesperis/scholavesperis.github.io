@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: Funérailles de M. Guy du Jonchay
 ---
+
 
 
 ![de profundis.jpeg]({{site.baseurl}}/images/de profundis.jpeg)
@@ -45,7 +46,3 @@ Antoine de Févin *Missa pro fidelibus defunctis*
 
 **Sortie : Ave Maria**  
 Anonyme XVe *Codex Basevi*
-
-
-
-
