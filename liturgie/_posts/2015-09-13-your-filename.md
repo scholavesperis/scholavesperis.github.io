@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
-title: ""
+published: true
+title: XVIe dimanche après la Pencôte
 ---
+
 
 ![Christ Pantocrator Corse.jpg]({{site.baseurl}}/images/Christ Pantocrator Corse.jpg)
 
