@@ -4,6 +4,7 @@ published: true
 title: "Solennité de sainte Thérèse de l'Enfant Jésus"
 ---
 
+
 ![chagall cantique.jpg]({{site.baseurl}}/images/chagall cantique.jpg)
 
 **Dimanche 27 septembre 2015, messe de 19h**
@@ -18,7 +19,7 @@ Faux-bourdon du 5e ton *Graduel de Lyon*
 
 **Alleluia : Quasi rosa**  
 
-**Offertoire : Veni de Libano**  
+**Offertoire : Veni sponsa mea**  
 *Hortus conclusus-secunda pars* Rodrigo de Ceballos 1525-1571
 
 **Communion : Jesu corona virginum**  
@@ -26,8 +27,8 @@ Alternance polyphonique de Guillaume Dufay 1400-1474
 
 **Au dernier évangile : Salve Regina**  
 
-**Sortie : Gloria Patri**  
-Anonyme XVe
+**Sortie : Benedicamus Domino**  
+d'après Jacob Obrecht 1455-1507
 
 Lireplus
 
