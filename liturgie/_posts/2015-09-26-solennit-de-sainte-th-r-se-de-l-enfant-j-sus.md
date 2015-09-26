@@ -1,6 +1,6 @@
 ---
 desc: ""
-published: false
+published: true
 title: "Solennité de sainte Thérèse de l'Enfant Jésus"
 ---
 
