@@ -4,10 +4,7 @@ published: true
 title: "Solennité de sainte Thérèse de l'Enfant Jésus"
 ---
 
-
-
 ![chagall cantique.jpg]({{site.baseurl}}/images/chagall cantique.jpg)
-
 
 **Dimanche 27 septembre 2015, messe de 19h**
 
