@@ -5,6 +5,7 @@ title: "Solennité de sainte Thérèse de l'Enfant Jésus"
 ---
 
 
+
 ![chagall cantique.jpg]({{site.baseurl}}/images/chagall cantique.jpg)
 
 
@@ -37,4 +38,3 @@ Lireplus
 
 ![Jesu corona hymne.jpg]({{site.baseurl}}/images/Jesu corona hymne.jpg)
 **Jesu corona virginum** Guillaume Dufay *Codex Modena M.1.11*
-
