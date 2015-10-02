@@ -5,7 +5,9 @@ title: "Solennité de Notre-Dame du Rosaire"
 ---
 
 
-![Marie Fra Angelico.jpg]({{site.baseurl}}/images/Marie Fra Angelico.jpg)
+
+![Annonciation 2.jpg]({{site.baseurl}}/images/Annonciation 2.jpg)
+
 
 
 **Dimanche 4 octobre 2015, messe de 19h** 
