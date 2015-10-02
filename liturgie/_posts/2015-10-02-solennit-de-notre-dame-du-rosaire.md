@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: "Solennité de Notre-Dame du Rosaire"
 ---
+
 
 ![Marie Fra Angelico.jpg]({{site.baseurl}}/images/Marie Fra Angelico.jpg)
 
