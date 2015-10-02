@@ -22,6 +22,8 @@ Faux-bourdon du 5e ton - Graduel de Lyon
 
 **Alleluia : Solemnitas**
 
+&nbsp;
+
 **Offertoire : Ave Maria**  
 Jean Mouton 1459-1522
 
