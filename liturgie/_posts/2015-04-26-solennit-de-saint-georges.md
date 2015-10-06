@@ -1,7 +1,9 @@
 ---
 published: true
 title: Solennité de saint Georges
+desc: ""
 ---
+
 
 ![Saint Georges.jpg](/images/Saint Georges.jpg)
 
@@ -38,3 +40,5 @@ quia non est alius qui pugnet pro nobis, nisi tu Deus noster.*
 
 Donne la paix, Seigneur, à nos jours,
 car il n'y a personne d'autre que Toi notre Dieu qui combatte pour nous.
+![100_1568.JPG]({{site.baseurl}}/images/100_1568.JPG)
+
