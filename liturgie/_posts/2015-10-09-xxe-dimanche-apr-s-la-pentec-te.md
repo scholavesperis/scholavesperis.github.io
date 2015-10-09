@@ -11,7 +11,7 @@ title: XXe dimanche après la Pentecôte
 
 **Dimanche 11 octobre 2015, messe de 19h**
 
-*Super flumina Babylonis illic sedimus et flevimus, dum recordaremur tui, Sion*  
+*Super flumina Babylonis illic sedimus et flevimus, dum recordaremur tui, Sion.*  
 Au bord des fleuves de Babylone, nous étions assis et nous pleurions, nous souvenant de toi, Sion.
 
 **Introït : Omnia, que fecisti nobis**
