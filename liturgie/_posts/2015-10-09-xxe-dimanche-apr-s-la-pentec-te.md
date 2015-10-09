@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: XXe dimanche après la Pentecôte
 ---
+
 
 ![tristesse2.jpg]({{site.baseurl}}/images/tristesse2.jpg)
 
