@@ -22,7 +22,7 @@ Faux-bourdon parisien du 7e ton
 &nbsp;
 
 **Alleluia : Paratum cor meum**  
-Alternance en faux-bourdon, Johannes Martini 1440-1498
+Alternance en faux-bourdon 3e ton, Johannes Martini 1440-1498
 
 **Offertoire : Super flumina Babylonis**  
 Costanzo Festa 1495-1545
