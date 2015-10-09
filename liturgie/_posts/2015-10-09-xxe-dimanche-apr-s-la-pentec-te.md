@@ -19,6 +19,8 @@ Au bord des fleuves de Babylone, nous étions assis et nous pleurions, nous souv
 **Graduel : Oculi omnium**  
 Faux-bourdon parisien du 7e ton
 
+&nbsp;
+
 **Alleluia : Paratum cor meum**  
 Alternance en faux-bourdon, Johannes Martini 1440-1498
 
