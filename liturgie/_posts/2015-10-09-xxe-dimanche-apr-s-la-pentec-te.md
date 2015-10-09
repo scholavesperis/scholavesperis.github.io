@@ -31,3 +31,9 @@ Missa cuiusvis toni - Johannes Ockeghem 1410-1497
 **Sortie : Salve Regina**  
 Anonyme XVe - ms de Trente
 
+Lireplus
+
+&nbsp;
+
+![Agnus cuiusvis toni.jpg]({{site.baseurl}}/images/Agnus cuiusvis toni.jpg)
+**Agnus Dei** Missa cuiusvis toni *Johannes Ockeghem* - ms Vaticana Chig.C.VIII
