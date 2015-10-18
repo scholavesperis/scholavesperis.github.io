@@ -37,4 +37,4 @@ Lireplus
 &nbsp;
 
 ![Binchois Deo gratias.png]({{site.baseurl}}/images/Binchois Deo gratias.png)
-**Deo gratias** Gilles Binchois *manuscrit de Trente -Ms Tr92-
+**Deo gratias** Gilles Binchois *manuscrit de Trente -Ms Tr92-*
