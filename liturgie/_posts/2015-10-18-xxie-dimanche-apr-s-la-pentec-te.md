@@ -11,12 +11,12 @@ title: XXIe dimanche après la Pentecôte
 *Domine refugium factus es nobis, a generatione et progenie.*  
 Seigneur, tu t'es fait notre refuge de génération en génération.
 
-&nbsp;
-
 **Introït : In voluntate tua**
 
 **Graduel : Domine refugium**  
 Faux-bourdon parisien du 2e ton
+
+&nbsp;
 
 **Alleluia : In exitu Israël**  
 Verset en faux-bourdon parisien du 2e ton
