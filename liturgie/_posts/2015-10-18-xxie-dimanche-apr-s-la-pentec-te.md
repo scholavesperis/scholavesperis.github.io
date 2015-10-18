@@ -5,6 +5,7 @@ title: XXIe dimanche après la Pentecôte
 ---
 
 
+
 ![Oculi mei.jpg]({{site.baseurl}}/images/Oculi%20mei.jpg)
 **Dimanche 18 octobre 2015, messe de 19h**
 
@@ -19,7 +20,7 @@ Faux-bourdon parisien du 2e ton
 &nbsp;
 
 **Alleluia : In exitu Israël**  
-Verset en faux-bourdon parisien du 2e ton
+Verset en faux-bourdon - Johannes Martini (1440-1498)
 
 **Consécration : O salutaris Hostia**  
 Anonyme XVe
