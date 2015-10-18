@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: XXIe dimanche après la Pentecôte
 ---
+
 
 ![Oculi mei.jpg]({{site.baseurl}}/images/Oculi%20mei.jpg)
 **Dimanche 18 octobre 2015, messe de 19h**
