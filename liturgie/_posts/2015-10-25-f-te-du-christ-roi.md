@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: "Fête du Christ-Roi"
 ---
+
 
 ![Agnus Dei 2.jpg]({{site.baseurl}}/images/Agnus Dei 2.jpg)
 
