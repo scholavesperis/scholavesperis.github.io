@@ -42,4 +42,4 @@ Lireplus
 &nbsp;
 
 ![Benedicamus Munchen.jpg]({{site.baseurl}}/images/Benedicamus Munchen.jpg)
-**Benedicamus Domino** Anonyme XVe *Musique de la Chapelle de la cour impériale de Maximilien Ier* Münich Mus.Ms.52
+**Benedicamus Domino** Anonyme XVe *Musique de la Chapelle de la cour impériale de Maximilien Ier* Munich Mus.Ms.52
