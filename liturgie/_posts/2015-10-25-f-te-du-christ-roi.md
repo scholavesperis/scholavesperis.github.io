@@ -5,13 +5,14 @@ title: "Fête du Christ-Roi"
 ---
 
 
+
 ![Agnus Dei 2.jpg]({{site.baseurl}}/images/Agnus Dei 2.jpg)
 
 
 **Dimanche 25 octobre 2015, messe de 19h**
 
-*Dominabitur a mari, usque ad mare: et a flumine usque ad terminos orbis terrarum*  
-Il règnera d'une mer à l'autre, et du fleuve jusqu'aux extrémités de la terre.
+*Dignus est Agnus, qui occisus est, accipere virtutem, et divinitatem, et sapientiam, et fortitudinem, et honorem.*  
+Il est digne, l'Agneau qui a été immolé, de recevoir la puissance et la divinité, la sagesse, la force et l'honneur.
 
 **Introït : Dignus est Agnus**
 
@@ -23,8 +24,6 @@ Verset en faux-bourdon parisien du Ier ton royal
 
 **Offertoire : Jesu Rex admirabilis**  
 Alternance polyphonique de G.P.Palestrina 1525-1594
-
-&nbsp;
 
 **Agnus Dei**  
 Antoine Brumel 1460-1512 *Missa A l'ombre d'ung buissonet*
