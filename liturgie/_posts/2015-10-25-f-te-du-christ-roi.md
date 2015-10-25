@@ -24,6 +24,8 @@ Verset en faux-bourdon parisien du Ier ton royal
 **Offertoire : Jesu Rex admirabilis**  
 Alternance polyphonique de G.P.Palestrina 1525-1594
 
+&nbsp;
+
 **Agnus Dei**  
 Antoine Brumel 1460-1512 *Missa A l'ombre d'ung buissonet*
 
