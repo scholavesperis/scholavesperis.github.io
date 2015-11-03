@@ -32,5 +32,6 @@ Guillaume Machaut (1300-1377) *Missa Nostre-Dame*
 Lireplus
 
 &nbsp;
+
 ![Dufay Christe redemptor.jpg]({{site.baseurl}}/images/Dufay Christe redemptor.jpg)
 Hymne de la Toussaint **Christe redemptor omnium** Guillaume Dufay *ms Modena X.1.11*
