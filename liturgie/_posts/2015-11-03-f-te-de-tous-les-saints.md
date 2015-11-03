@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: Fête de tous les Saints
 ---
+
 
 ![Saints Giovanni da Milano.jpg]({{site.baseurl}}/images/Saints Giovanni da Milano.jpg)
 
