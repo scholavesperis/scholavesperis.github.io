@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: XXIIIe dimanche après la Pentecôte
 ---
+
 
 ![XXIIIe dim Einsiedeln Codex 121.jpg]({{site.baseurl}}/images/XXIIIe dim Einsiedeln Codex 121.jpg)
 
