@@ -20,7 +20,7 @@ Vous m'invoquerez, et je vous écouterai.
 Faux-bourdon du 7e ton, Guillaume Dufay 1400-1474
 
 **Alleluia : De profundis**    
-Verset en faux-bourdon, Guillaume Dufay
+verset en faux-bourdon, Guillaume Dufay
 
 
 **Offertoire : De profundis**  
