@@ -5,6 +5,7 @@ title: XXIIIe dimanche après la Pentecôte
 ---
 
 
+
 ![XXIIIe dim Einsiedeln Codex 121.jpg]({{site.baseurl}}/images/XXIIIe dim Einsiedeln Codex 121.jpg)
 
 
@@ -18,7 +19,9 @@ Vous m'invoquerez, et je vous écouterai.
 **Graduel : Liberasti nos**  
 Faux-bourdon du 7e ton, Guillaume Dufay 1400-1474
 
-**Alleluia : De profundis**  
+**Alleluia : De profundis**    
+Verset en faux-bourdon, Guillaume Dufay
+
 
 **Offertoire : De profundis**  
 Josquin Desprez 1450-1521
