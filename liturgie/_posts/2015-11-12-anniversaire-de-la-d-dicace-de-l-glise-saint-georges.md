@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: "Anniversaire de la Dédicace de l'église Saint Georges"
 ---
+
 
 ![Procession- Paolo Uccello.JPG]({{site.baseurl}}/images/Procession- Paolo Uccello.JPG)
 
@@ -27,5 +28,3 @@ d'après Guillaume Dufay
 Anonyme XVe *Cancionero de Montecassino*
 
 **Au dernier évangile : Salve Regina**
-
-
