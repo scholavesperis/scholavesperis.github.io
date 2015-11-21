@@ -5,6 +5,7 @@ title: "Dernier dimanche après la Pentecôte - Sainte Cécile"
 ---
 
 
+
 ![le dit de la harpe.jpg]({{site.baseurl}}/images/le dit de la harpe.jpg)
 
 **Dimanche 22 novembre 2015, messe de 19h**
