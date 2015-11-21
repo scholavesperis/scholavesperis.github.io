@@ -1,6 +1,6 @@
 ---
 desc: ""
-published: false
+published: true
 title: "Dernier dimanche après la Pentecôte - Sainte Cécile"
 ---
 
