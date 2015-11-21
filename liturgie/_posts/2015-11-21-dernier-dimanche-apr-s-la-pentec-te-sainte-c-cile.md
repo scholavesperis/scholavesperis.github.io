@@ -1,7 +1,7 @@
 ---
 desc: ""
 published: true
-title: "Dernier dimanche après la Pentecôte - Sainte Cécile"
+title: "Dernier dimanche après la Pentecôte - Fête de sainte Cécile"
 ---
 
 
