@@ -6,6 +6,7 @@ title: "Dernier dimanche après la Pentecôte - Fête de sainte Cécile"
 
 
 
+
 ![le dit de la harpe.jpg]({{site.baseurl}}/images/le dit de la harpe.jpg)
 
 **Dimanche 22 novembre 2015, messe de 19h**
@@ -25,7 +26,7 @@ verset en faux-bourdon, 7e ton - Guillaume Dufay
 Hymne & alternance polyphonique de Guillaume Dufay
 
 **Agnus Dei**
-Antoine Brumel *Missa A l'ombre d'ung buissonet*
+Antoine Brumel (1460-1512)*Missa A l'ombre d'ung buissonet*
 
 **Communion : Hortus conclusus**  
 Rodrigo de Ceballos (1525-1591)
