@@ -15,7 +15,7 @@ title: "Dernier dimanche après la Pentecôte - Fête de sainte Cécile"
 *Atque laudibus post te canentes cursitant hymnosque dulces personant*  
 Elles s'empressent sur tes pas en chantant tes louanges, et font résonner des hymnes mélodieuses.
 
-**Introït : Terribilis locus iste**
+**Introït : Dicit Dominus**
 
 **Graduel : Liberasti nos**  
 Faux-bourdon du 7e ton - Guillaume Dufay 1400-1474
