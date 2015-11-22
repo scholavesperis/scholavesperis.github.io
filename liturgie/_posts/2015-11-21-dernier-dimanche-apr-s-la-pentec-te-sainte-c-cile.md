@@ -7,6 +7,7 @@ title: "Dernier dimanche après la Pentecôte - Fête de sainte Cécile"
 
 
 
+
 ![le dit de la harpe.jpg]({{site.baseurl}}/images/le dit de la harpe.jpg)
 
 **Dimanche 22 novembre 2015, messe de 19h**
@@ -16,10 +17,10 @@ Elles s'empressent sur tes pas en chantant tes louanges, et font résonner des h
 
 **Introït : Terribilis locus iste**
 
-**Graduel : Locus iste**  
-Faux-bourdon du 5e ton - Guillaume Dufay 1400-1474
+**Graduel : Liberasti nos**  
+Faux-bourdon du 7e ton - Guillaume Dufay 1400-1474
 
-**Alleluia : Adorabo ad templum sanctum tuum**  
+**Alleluia : De profundis**  
 verset en faux-bourdon, 7e ton - Guillaume Dufay
 
 **Offertoire : Jesu corona Virginum**  
