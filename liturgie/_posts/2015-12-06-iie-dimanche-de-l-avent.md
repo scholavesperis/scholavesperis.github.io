@@ -16,16 +16,16 @@ Fais-nous voir, Seigneur, ton amour, et ton Salut, donne-le nous.
 **Introït : Populus Sion**  
 
 **Graduel : Ex Sion**  
-Faux-bourdon du 5e ton, Guillaume Dufay (1400-1474)
+faux-bourdon du 5e ton, Guillaume Dufay (1400-1474)
 
 **Alleluia : Laetatus sum**  
-Verset en faux-bourdon du 1er ton, Guillaume Dufay
+verset en faux-bourdon du 1er ton, Guillaume Dufay
 
 **Offertoire : Conditor alme siderum**  
-Alternances polyphoniques de Costanzo Festa (1495-1545)
+alternance polyphonique de Costanzo Festa (1495-1545)
 
 **Consécration : O salutaris Hostia**  
-D'après Johannes Brassart -1400-1455)  
+d'après Johannes Brassart -1400-1455)  
 
 **Communion : O sacrum convivium**  
 Anonyme XVe *ms de Trente*
