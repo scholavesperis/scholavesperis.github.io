@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: "IIe dimanche de l'Avent"
 ---
+
 
 ![Populus Sion.jpg]({{site.baseurl}}/images/Populus Sion.jpg)
 
