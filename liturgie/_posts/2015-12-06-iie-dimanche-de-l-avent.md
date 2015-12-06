@@ -43,4 +43,4 @@ Lireplus
 *Qui condolens* alternance polyphonique du *Conditor alme siderum*, Cosatnzo Festa, archive du Vatican
 
 ![conditor 2.jpeg]({{site.baseurl}}/images/conditor 2.jpeg)
-**Conditor alme siderum** hymne grégorien *hymnaire de Ferdinad d'Aragon*
+**Conditor alme siderum** hymne grégorien - *hymnaire de Ferdinand d'Aragon*
