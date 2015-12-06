@@ -26,7 +26,7 @@ Anonyme XVe *ms de Trente*
 **Communion : Conditor alme siderum**  
 Alternance polyphonique de Costanzo Festa (1495-1545)
 
-**Au dernier évangile : Alma redemptoris Mater*
+**Au dernier évangile : Alma redemptoris Mater**
 
 **Sortie : Benedicamus Domino**  
 Jacob Obrecht (1457-1505)
