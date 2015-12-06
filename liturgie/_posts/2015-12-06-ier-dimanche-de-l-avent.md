@@ -28,5 +28,5 @@ Alternance polyphonique de Costanzo Festa (1495-1545)
 
 **Au dernier évangile : Alma redemptoris Mater*
 
-**Sortie : Benedicamus Domiono**  
-Jacob Obrecht (1455-1507)
+**Sortie : Benedicamus Domino**  
+Jacob Obrecht (1457-1505)
