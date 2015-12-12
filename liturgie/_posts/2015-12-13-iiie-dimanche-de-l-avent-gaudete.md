@@ -8,7 +8,7 @@ title: "IIIe dimanche de l'Avent - Gaudete"
 **Dimanche 13 décembre 2015, messe de 19h**
 
 *Excita, Domine, potentiam tuam, et veni, ut salvos facias nos.*  
-Seigneur, réveille ta puissance et viens nous sauver.
+Seigneur, réveille ta puissance, et viens nous sauver.
 
 **Introït : Gaudete in Domino**  
 
