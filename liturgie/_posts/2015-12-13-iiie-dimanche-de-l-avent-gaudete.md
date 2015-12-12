@@ -10,7 +10,7 @@ title: "IIIe dimanche de l'Avent - Gaudete"
 *Excita, Domine, potentiam tuam, et veni, ut salvos facias nos.*  
 Seigneur, réveille ta puissance et viens nous sauver.
 
-**Introït : Gaudete**  
+**Introït : Gaudete in Domino**  
 
 **Graduel : Qui sedes**  
 faux-bourdon du 7e ton, Guillaume Dufay (1400-1474)
