@@ -4,8 +4,6 @@ published: true
 title: "IIIe dimanche de l'Avent - Gaudete"
 ---
 
-
-
 ![Gaudete.jpg]({{site.baseurl}}/images/Gaudete.jpg)
 **Dimanche 13 décembre 2015, messe de 19h**
 
