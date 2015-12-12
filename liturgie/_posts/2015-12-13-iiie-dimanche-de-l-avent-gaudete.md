@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: "IIIe dimanche de l'Avent - Gaudete"
 ---
+
 
 
 ![Gaudete.jpg]({{site.baseurl}}/images/Gaudete.jpg)
