@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: "IVe dimanche de l'Avent - Rorate"
 ---
+
 
 ![Rorate Einsiedeln cod121.jpg]({{site.baseurl}}/images/Rorate Einsiedeln cod121.jpg)
 
@@ -36,4 +37,4 @@ Lireplus
 &nbsp;
 
 ![Ave Maria codex Basevi.png]({{site.baseurl}}/images/Ave Maria codex Basevi.png)
-**Ave Maria** à 5 voix *Anonyme XVe* - codex Basevi  
+**Ave Maria** à 5 voix *Anonyme XVe* - codex Basevi
