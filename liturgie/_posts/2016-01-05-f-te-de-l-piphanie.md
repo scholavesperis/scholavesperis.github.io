@@ -19,7 +19,7 @@ Lève-toi et resplendis Jérusalem, car la gloire du Seigneur s'est levée sur t
 faux-bourdon du 5e ton, G.M.Asola 1532-1609
 
 **Alleluia : Vidimus stellam ejus**  
-verset en faux-bourdon parisien du 2é ton
+verset en faux-bourdon parisien du 2e ton
 
 **Consécration : O salutaris Hostia**  
 Anonyme XVe
