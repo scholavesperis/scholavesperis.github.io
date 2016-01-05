@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: "Fête de l'Épiphanie"
 ---
+
 
 ![adoration mages giotto.jpg]({{site.baseurl}}/images/adoration mages giotto.jpg)
 
