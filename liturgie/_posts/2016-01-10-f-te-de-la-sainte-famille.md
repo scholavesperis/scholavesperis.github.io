@@ -22,7 +22,7 @@ faux-bourdon du 1er ton, Guillaume Dufay 1400-1474
 verset en faux-bourdon du 8e ton, Johannes Brassart 1400-1455
 
 **Offertoire : O lux beata caelitum**  
-hymne de la Sainte Famille, d'après Cancioneiro de Palacio - XVe
+hymne de la Sainte Famille, d'après le *Cancionero de Palacio* XVe
 
 **Communion : Panis angelicus**  
 d'après "Si dedero" Alexander Agricola 1446-1506
