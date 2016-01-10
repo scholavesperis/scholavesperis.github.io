@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: Fête de la Sainte Famille
 ---
+
 
 ![Jesus au temple.jpg]({{site.baseurl}}/images/Jesus au temple.jpg)
 
