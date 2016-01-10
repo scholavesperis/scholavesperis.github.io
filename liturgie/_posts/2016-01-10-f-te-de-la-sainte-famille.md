@@ -11,7 +11,7 @@ title: Fête de la Sainte Famille
 **Dimanche 10 janvier 2016, messe de 19h**
 
 *Gaudeat Pater tuus et Mater tua, et exsultet quae genuit te.*  
-Que ton père et ta mère se réjouisse, qu'exulte celle qui t'a donné le jour.
+Que ton père et ta mère se réjouissent, qu'exulte celle qui t'a donné le jour.
 
 **Introït : Exsultat gaudio**
 
