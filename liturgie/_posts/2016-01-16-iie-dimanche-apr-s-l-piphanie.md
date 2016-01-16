@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: "IIe dimanche après l'Épiphanie"
 ---
+
 
 **Dimanche 17 janvier 2016, messe de 19h**
 
@@ -40,4 +41,3 @@ Lireplus
 
 ![Te Deum.jpg]({{site.baseurl}}/images/Te Deum.jpg)
 **Te Deum** Gilles Binchois *ms Modena B*
-
