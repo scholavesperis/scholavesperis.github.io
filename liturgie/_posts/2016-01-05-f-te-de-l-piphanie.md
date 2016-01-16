@@ -4,11 +4,9 @@ published: true
 title: "Fête de l'Épiphanie"
 ---
 
+**Dimanche 3 janvier 2016, messe de 19h**  
 
 ![adoration mages giotto.jpg]({{site.baseurl}}/images/adoration mages giotto.jpg)
-
-
-**Dimanche 3 janvier 2016, messe de 19h**  
 
 *Surge, et illuminare Jerusalem, quia gloria Domini super te orta est.*  
 Lève-toi et resplendis Jérusalem, car la gloire du Seigneur s'est levée sur toi.
