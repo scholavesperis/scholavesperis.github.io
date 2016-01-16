@@ -21,10 +21,10 @@ faux-bourdon du 7e ton, Guillaume Dufay 1400-1474
 verset en faux-bourdon, Gilles Binchois 1400-1460
 
 **Sanctus**  
-Antoine de Févin 1470-1512 *Missa pro fidelibus defunctis*
+Antoine de Févin 1470-1512 *Occo codex*
  
 **Consécration : Benedictus**  
-Antoine de Févin *Missa pro fidelibus defunctis* Occo codex
+Antoine de Févin *Occo codex*
 
 **Communion : Te Deum**  
 Gilles Binchois
