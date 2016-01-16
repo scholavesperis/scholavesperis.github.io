@@ -4,22 +4,12 @@ published: true
 title: "IIe dimanche après l'Épiphanie"
 ---
 
-  
+  **Dimanche 17 janvier 2016, messe de 19h**
+
 ![noces de Cana.jpg]({{site.baseurl}}/images/noces de Cana.jpg)
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Dimanche 17 janvier 2016, messe de 19h**
 
 *Misit Dominus verbum suum, et sanavit eos*  
 Le Seigneur a envoyé sa parole, et il les a guéris.
-
 
 
 **Introït : Omnis terra**
