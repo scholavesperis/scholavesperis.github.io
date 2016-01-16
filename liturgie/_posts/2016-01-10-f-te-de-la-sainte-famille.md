@@ -5,10 +5,9 @@ title: Fête de la Sainte Famille
 ---
 
 
-![Jesus au temple.jpg]({{site.baseurl}}/images/Jesus au temple.jpg)
-
-
 **Dimanche 10 janvier 2016, messe de 19h**
+
+![Jesus au temple.jpg]({{site.baseurl}}/images/Jesus au temple.jpg)
 
 *Gaudeat Pater tuus et Mater tua, et exsultet quae genuit te.*  
 Que ton père et ta mère se réjouissent, qu'exulte celle qui t'a donné le jour.
