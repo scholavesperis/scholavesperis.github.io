@@ -39,4 +39,4 @@ Lireplus
 &nbsp;
 
 ![Te Deum.jpg]({{site.baseurl}}/images/Te Deum.jpg)
-**Te Deum** Gilles Binchois *ms Modena B*
+**Te Deum** de Gilles Binchois *manuscrit Modena B*
