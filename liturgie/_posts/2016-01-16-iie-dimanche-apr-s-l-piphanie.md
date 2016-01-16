@@ -14,6 +14,8 @@ title: "IIe dimanche après l'Épiphanie"
 *Misit Dominus verbum suum, et sanavit eos*  
 Le Seigneur a envoyé sa parole, et il les a guéris.
 
+&nbsp;
+
 **Introït : Omnis terra**
 
 **Graduel : Misit Dominus**  
