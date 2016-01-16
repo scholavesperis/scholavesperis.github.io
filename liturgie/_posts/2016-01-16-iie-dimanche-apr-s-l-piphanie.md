@@ -13,6 +13,8 @@ title: "IIe dimanche après l'Épiphanie"
 
 &nbsp;
 
+&nbsp;
+
 **Dimanche 17 janvier 2016, messe de 19h**
 
 *Misit Dominus verbum suum, et sanavit eos*  
