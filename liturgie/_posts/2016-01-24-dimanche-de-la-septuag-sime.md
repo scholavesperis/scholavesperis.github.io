@@ -6,6 +6,8 @@ title: Dimanche de la Septuagésime
 
 
 **Dimanche 24 janvier 2016, messe de 19h**
+
+
 ![]({{site.baseurl}}/images/Giotto%20femmes.jpg)
 
 *Quoniam non in finem oblivio erit pauperis, patientia pauperum non peribit in aeternum*  
