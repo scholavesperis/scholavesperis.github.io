@@ -58,3 +58,4 @@ Amen.*
 
 traduction : http://notredamedesneiges.over-blog.com/article-o-salutaris-hostia-version-traditionnelle-pour-la-france-92855244.html
 
+lien audio : https://www.youtube.com/watch?v=Wqim7lhanhM
