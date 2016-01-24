@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: Dimanche de la Septuagésime
 ---
+
 
 **Dimanche 24 janvier 2016, messe de 19h**
 ![]({{site.baseurl}}/images/Giotto%20femmes.jpg)
