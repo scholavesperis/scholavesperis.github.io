@@ -5,6 +5,7 @@ title: Dimanche de la Septuagésime
 ---
 
 
+
 **Dimanche 24 janvier 2016, messe de 19h**
 
 
@@ -31,3 +32,29 @@ Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Sortie : Te decet laus**  
 Pierre de la Rue 1452-1518
+
+Lireplus
+
+&nbsp;
+
+![Salutaris Josquin.png]({{site.baseurl}}/images/Salutaris Josquin.png)
+**O salutaris Hostia**  attribué à Josquin Desprez & prose pour la France (2e strophe)  
+
+*O salutaris Hostia  
+Quae cœli pandis ostium.
+Bella premunt hostilia;
+Da robur, fer auxilium.*
+
+*O vere digna Hostia,
+Spes unica fidelium,
+In te confidit Francia,
+Da pacem, serva lilium.*
+
+*Uni trinoque Domino
+Sit sempiterna gloria:
+Qui vitam sine termino,
+Nobis donet in patria.
+Amen.*
+
+traduction : http://notredamedesneiges.over-blog.com/article-o-salutaris-hostia-version-traditionnelle-pour-la-france-92855244.html
+
