@@ -6,6 +6,7 @@ title: Dimanche de la Septuagésime
 
 
 
+
 **Dimanche 24 janvier 2016, messe de 19h**
 
 
@@ -28,7 +29,7 @@ attribué à Josquin Desprez 1450-1521
 **Communion : Illumina faciem tuam**  
 Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
-**Au dernier évangile : Ave Regina caelorum**
+**Au dernier évangile : Alma redemptoris Mater**
 
 **Sortie : Te decet laus**  
 Pierre de la Rue 1452-1518
