@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: Dimanche de la Sexagésime
 ---
+
 
 **Dimanche 31 janvier 2016, messe de 19h**
 ![Giotto visage 2.jpg]({{site.baseurl}}/images/Giotto visage 2.jpg)
