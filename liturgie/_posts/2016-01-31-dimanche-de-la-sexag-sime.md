@@ -22,7 +22,7 @@ faux-bourdon parisien du 8e ton
 **Offertoire : Da pacem**  
 Anonyme XVIe *Codex Rusconi*
 
-**Communion : Introibo**  
+**Communion : Illumina**  
 Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Au dernier évangile : Alma redemptoris Mater**  
