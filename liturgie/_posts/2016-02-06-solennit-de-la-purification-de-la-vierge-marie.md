@@ -29,11 +29,13 @@ Alternance polyphonique de Robert White 1538-1574
 
 **Au dernier évangile : Ave Regina caelorum**
 
-**Sortie : Mater Christi**
+**Sortie : Mater Christi**  
 Adriano Banchieri 1568-1634
 
 Lireplus
 
 &nbsp;
 
-![]({{site.baseurl}}/)
+![Mater Christi.jpg]({{site.baseurl}}/images/Mater Christi.jpg)
+**Mater Christi** Adriano Banchieri *Cartella Musicale - 1601*
+
