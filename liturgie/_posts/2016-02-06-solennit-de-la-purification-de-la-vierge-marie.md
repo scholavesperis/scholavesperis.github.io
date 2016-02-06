@@ -5,12 +5,13 @@ title: Solennité de la Purification de la Vierge Marie
 ---
 
 
+
 **Dimanche 7 février 2016, messe de 19h**
 
 ![Vierge à l'enfant Modena2.jpg]({{site.baseurl}}/images/Vierge à l'enfant Modena2.jpg)
 
 
-*Lumen ad revelationem gentium, et gloriam plebis tuae Israël*
+*Lumen ad revelationem gentium, et gloriam plebis tuae Israël*  
 Lumière pour éclairer les nations, et gloire de ton peuple Israël !
 
 **Introït : Suscepimus Deus**
@@ -38,4 +39,3 @@ Lireplus
 
 ![Mater Christi.jpg]({{site.baseurl}}/images/Mater Christi.jpg)
 **Mater Christi** Adriano Banchieri *Cartella Musicale - 1601*
-
