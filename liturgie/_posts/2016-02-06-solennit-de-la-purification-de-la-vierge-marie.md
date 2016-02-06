@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: Solennité de la Purification de la Vierge Marie
 ---
+
 
 **Dimanche 7 février 2016, messe de 19h**
 
