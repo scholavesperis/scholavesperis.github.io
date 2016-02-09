@@ -11,12 +11,12 @@ title: Mercredi des Cendres
 
 **Antienne : Exaudi nos Domine**
 
-***Imposition des cendres***
+***-Imposition des cendres-***
 
 **Miserere**  
 alternance en faux-bourdon de Giovanni Maria Nanino 1543-1607
 
-***Messe des Cendres***
+***-Messe des Cendres-***
 
 **Introït : Misereris omnium**
 
