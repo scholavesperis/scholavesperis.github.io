@@ -26,7 +26,7 @@ faux-bourdon lyonnais du 2e ton
 **Offertoire : Parce Domine**  
 Jacob Obrecht 1457-1505
 
-**Sanctus & benedictus**  
+**Sanctus & Benedictus**  
 Antoine de Févin 1470-1512 *Occo codex*
 
 **Communion : De profundis**  
