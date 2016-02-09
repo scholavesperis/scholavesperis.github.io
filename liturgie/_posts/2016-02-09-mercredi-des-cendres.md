@@ -16,6 +16,8 @@ title: Mercredi des Cendres
 **Miserere**  
 alternance en faux-bourdon de Giovanni Maria Nanino 1543-1607
 
+***Messe des Cendres***
+
 **Introït : Misereris omnium**
 
 **Graduel : Miserere mei**
