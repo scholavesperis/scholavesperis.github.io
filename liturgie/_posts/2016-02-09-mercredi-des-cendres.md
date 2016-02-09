@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: Mercredi des Cendres
 ---
+
 
 **Mercredi 10 février 2016, messe de 19h**
 
