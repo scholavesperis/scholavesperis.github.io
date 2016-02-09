@@ -9,6 +9,8 @@ title: Mercredi des Cendres
 
 ![Matteo Giovannetti.jpg]({{site.baseurl}}/images/Matteo Giovannetti.jpg)
 
+*Homme, souviens-toi que tu es poussière et que tu retomberas en poussière*
+
 **Antienne : Exaudi nos Domine**
 
 ***-Imposition des cendres-***
