@@ -5,7 +5,7 @@ title: Mercredi des Cendres
 ---
 
 
-**Mercredi 10 février 2016, messe de 19h**
+**Mercredi 10 février 2016, messe à 19h**
 
 ![Matteo Giovannetti.jpg]({{site.baseurl}}/images/Matteo Giovannetti.jpg)
 
