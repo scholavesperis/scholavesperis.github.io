@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: Ier dimanche de Carême
 ---
+
 
 **Dimanche 14 février 2016**  
 
@@ -32,4 +33,3 @@ Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Sortie : Benedicamus Domino**  
 d'après Elzéar Genet de Carpentras 1470-1548
-
