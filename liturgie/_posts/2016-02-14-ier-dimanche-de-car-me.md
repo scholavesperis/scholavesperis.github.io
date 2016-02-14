@@ -33,3 +33,10 @@ Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Sortie : Benedicamus Domino**  
 d'après Elzéar Genet de Carpentras 1470-1548
+
+Lireplus
+
+&nbsp;
+
+![2014-03-18-parce-obrecht.jpg]({{site.baseurl}}/images/2014-03-18-parce-obrecht.jpg)
+**Parce Domine** Jacob Obrecht *ms Bologna Q18*
