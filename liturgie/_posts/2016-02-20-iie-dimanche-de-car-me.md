@@ -5,9 +5,9 @@ title: IIe dimanche de Carême
 ---
 
 
-**Dimanche 21 février 2016, messe de 19h**  
-
 ![Christ Buoninsegna.jpg]({{site.baseurl}}/images/Christ Buoninsegna.jpg)
+
+**Dimanche 21 février 2016, messe de 19h**  
 
 *Reminiscere miserationum tuarum, Domine, quae a saeculo sunt*  
 Souviens-toi, Seigneur, de ta tendresse et de ta miséricorde car elles sont éternelles.
