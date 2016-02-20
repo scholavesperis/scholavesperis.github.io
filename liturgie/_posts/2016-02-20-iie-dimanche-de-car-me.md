@@ -39,4 +39,4 @@ Lireplus
 &nbsp;
 
 ![Kyrie O sacra Virgo.png]({{site.baseurl}}/images/Kyrie O sacra Virgo.png)  
-Kyrie O sacra Virgo **Anonyme XIVe** *manuscrit du Trésor d'Apt,16 bis*
+**Kyrie O sacra Virgo** Anonyme XIVe *manuscrit du Trésor d'Apt,16 bis*
