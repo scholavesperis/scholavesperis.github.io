@@ -33,3 +33,10 @@ Anonyme XVe, d'après *manuscrit de Trente*
 
 **Sortie : Ave Regina caelorum**  
 Anonyme XVe *codex Franus*
+
+Lireplus
+
+&nbsp;
+
+![Kyrie O sacra Virgo.png]({{site.baseurl}}/images/Kyrie O sacra Virgo.png)
+Kyrie O sacra Virgo **Anonyme XIVe** *manuscrit du Trésor d'Apt,16 bis*
