@@ -5,6 +5,7 @@ title: IIe dimanche de Carême
 ---
 
 
+
 ![Christ Buoninsegna.jpg]({{site.baseurl}}/images/Christ Buoninsegna.jpg)
 
 **Dimanche 21 février 2016, messe de 19h**  
@@ -31,8 +32,8 @@ Anonyme XVe, d'après *manuscrit de Trente*
 
 **Au denier évangile : Ave Regina caelorum**  
 
-**Sortie : Ave Regina caelorum**  
-Anonyme XVe *codex Franus*
+**Sortie : Benedicamus Domino**  
+d'après Antoine de Févin 1470-1512
 
 Lireplus
 
