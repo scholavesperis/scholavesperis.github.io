@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: IIe dimanche de Carême
 ---
+
 
 **Dimanche 21 février 2016, messe de 19h**  
 
@@ -32,4 +33,3 @@ Anonyme XVe, d'après *manuscrit de Trente*
 
 **Sortie : Ave Regina caelorum**  
 Anonyme XVe *codex Franus*
-
