@@ -164,6 +164,7 @@ Lireplus
 - ***Gloria, laus et honor*** Gilles Binchois (1400-1460) -3vx
 - ***Heth. Cogitavit Dominus*** Antoine Brumel (1460-1512) -4vx
 - ***Hodie puer nascitur*** Anonyme XIVe, ms de Chypre -4vx
+- ***Hortus conclusus*** Rodrigo de Ceballos (1525-1571) -4vx
 - ***Jesu corona virginum*** Guillaume Dufay (1400-1474) -3vx
 - ***Jesu rex admirabilis*** G.P. Palestrina (1525-1594) -3vx
 - ***Laetatus sum*** Orlando de Lassus (1532-1594) -3vx
