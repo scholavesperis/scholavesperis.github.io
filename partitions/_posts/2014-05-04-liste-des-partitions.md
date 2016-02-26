@@ -83,6 +83,8 @@ Lireplus
 - ***O salutaris Hostia*** Anonyme XVIe -4vx
 - ***O salutaris Hostia*** Pierre de la Rue (1460-1518 ) -4vx
 - ***O salutaris Hostia*** d'après Johannes Prioris (1460-1514) -3vx
+- ***O salutaris Hostia*** attribué à Josquin Desprez (1450-1521) -4vx
+- ***O salutaris Hostia*** d'après Robert White (1538-1574) *Christe qui lux es* -5vx
 - ***O salutaris Hostia*** d'après Cristobal de Moralès (1500-1553) -4vx
 - ***O salutaris Hostia*** d'après Walter Frye (+1474) -3vx
 - ***O salutaris Hostia*** d'après Johannes Tinctoris (1435-1511) -3vx
