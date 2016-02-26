@@ -3,7 +3,9 @@ title: Liste des partitions
 description: "Partitions liturgiques éditées par la schola : Adoramus te Anonyme, cancionero de Montecassino -4vx Adoramus te Loyset Compère (1445-1518), Missa Galeazescha « Ad elevationem » -4vx Agnus Dei Touront (XVe), Missa Sine nomine, manuscrit de Trente -3vx..."
 published: true
 permalink: "/partitions/liste-des-partitions/"
+desc: ""
 ---
+
 
 
 ![](/images/2013-05-04-partition-salutaris-2.jpg)
@@ -58,15 +60,20 @@ Lireplus
 - ***Agnus Dei*** Johannes Tinctoris (1435-1511), Missa sine nomine -3vx
 - ***Agnus Dei*** Jean Mouton (1459-1522), Missa Dictes moy toutes vos pensées - 5vx
 - ***Agnus Dei*** Anonyme XVe, d'après le codex Specialnik -3vx
+- ***Agnus Dei*** Anonyme XIVe, manuscrit d'Apt -3vx  
 
 - ***Benedicamus Domino*** Guillaume de Machaut (1300-1377), Missa Nostre-Dame - 4vx
 - ***Benedicamus Domino*** Gilles Binchois (1400-1460) -3vx
 - ***Benedicamus Domino*** Anonyme XVe, ms de Munchen -4vx
+- ***Benedicamus Domino, Alleluia*** Anonyme XVe, ms de Munchen -4vx
 - ***Benedicamus Domino*** Guillaume Dufay (1400-1474) -3vx
 - ***Benedicamus Domino*** Nesbet, manuscrit de Pepys -3vx
 - ***Benedicamus Domino I&II*** Jacob Obrecht (1457-1505) -4vx
 - ***Benedicamus Domino IV*** Costanzo Festa (1485-1545) -4vx
 - ***Benedicamus Domino*** d'après Antoine de Févin (1470-1512) -5vx
+- ***Benedicamus Domino II*** d'après Antoine de Févin *Ghimel* -3vx
+- ***Benedicamus Domino II*** d'après Elzèar de Carpentras (1470-1548) -4vx
+
 - ***Benedictus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
 
 - ***Gloria Patri*** Josquin Desprez (1450-1521) -4vx
@@ -81,6 +88,7 @@ Lireplus
 - ***O salutaris Hostia*** d'après Johannes Tinctoris (1435-1511) -3vx
 - ***O salutaris Hostia*** d'après Jacob Obrecht (1457-1505) -3vx
 - ***O salutaris Hostia*** Anonyme, d'après la Cantinela du couvent de Niolu -2vx
+- ***O salutaris Hostia*** Anonyme XIVe, d'après *Si doulcement* manuscrit de Chypre -4vx
 
 ## H.Isaac (1450-1517 ), Choralis Constantinus (4vx) :
 
@@ -138,6 +146,7 @@ Lireplus
 - ***Beata es Maria*** Anonyme XVe, Chansonnier des ducs de Lorraine -3vx
 - ***Christe qui lux es*** Robert White (1538-1574) -5vx
 - ***Conditor alme siderum*** Costanzo Festa (1495-1545) -4vx
+- ***Conditor alme siderum*** Guillaume Dufay (1400(1474) -3vx
 - ***Crux triumphans*** Loyset Compère (1445-1518) -4vx
 - ***Cuius sacrata viscera*** Jacob Obrecht (1457-1505) -4vx
 - ***Da pacem*** Anonyme (XVIe), codex Rusconi -4vx
@@ -147,13 +156,16 @@ Lireplus
 - ***De profundis*** Josquin Desprez (1450-1521) -4vx
 - ***De profundis II*** Josquin Desprez (1450-1521) -5vx
 - ***Deus tuorum militum*** Guillaume Dufay (1400-1474) -3vx
+- ***Deus tuorum militum*** Johannes Martini (1440-1497) -3vx
 - ***Dextera Domini*** G.B.Martini (1706-1784) -4vx
 - ***Domine salvam fac galliam*** faux-bourdon parisien du VIe ton royal -4vx
 - ***Gloria, laus et honor*** Gilles Binchois (1400-1460) -3vx
 - ***Heth. Cogitavit Dominus*** Antoine Brumel (1460-1512) -4vx
+- ***Hodie puer nascitur*** Anonyme XIVe, ms de Chypre -4vx
+- ***Jesu corona virginum*** Guillaume Dufay (1400-1474) -3vx
 - ***Jesu rex admirabilis*** G.P. Palestrina (1525-1594) -3vx
 - ***Laetatus sum*** Orlando de Lassus (1532-1594) -3vx
-- ***Laudate pueri Dominul*** d'après G.Dufay (1400-1474) -3 et 4vx
+- ***Laudate pueri Dominum*** d'après G.Dufay (1400-1474) -3 et 4vx
 - ***Lux aeterna*** Antoine de Fevin (1470-1511) -3 & 4vx
 - ***Magnificat IIIe ton*** Guillaume Dufay (1400-1474) -4vx
 - ***Magnum miraculum*** Anonyme XVe, Codex Specialnik -3vx
@@ -161,9 +173,11 @@ Lireplus
 - ***Miserere in patientia*** Johannes Ghiselin (1455-1511) -3vx
 - ***O Crux, ave*** Anonyme XVe, d'après Triste Espana -4vx
 - ***O Domina sanctissima*** Johannes Ghiselin (1455-1511) -4vx
+- ***O Domine Jesu Christe*** Anonyme XVIe, ms Royal.G.VII -4vx
 - ***O felicem genitricem*** Petrus Wilhelmi Grudencz (1392-1480) -2vx
 - ***O florens rosa*** Johannes Ghiselin (1455-1511) -3vx
 - ***O florens rosa*** Walter Frye (+1474) -3vx
+- ***O sacra Virgo, Kyrie*** Anonyme XIVe, manuscrit d'Apt -3vx
 - ***Panis angelicus*** d'après Alexander Agricola (1446-1506) -3vx
 - ***Parce Domine*** Jacob Obrecht (1450-1505) -3vx
 - ***Pauper sum ego*** Josquin Desprez (1450-1521) -3vx
