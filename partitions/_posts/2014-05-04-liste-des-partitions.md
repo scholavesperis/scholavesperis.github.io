@@ -72,7 +72,7 @@ Lireplus
 - ***Benedicamus Domino IV*** Costanzo Festa (1485-1545) -4vx
 - ***Benedicamus Domino*** d'après Antoine de Févin (1470-1512) -5vx
 - ***Benedicamus Domino II*** d'après Antoine de Févin *Ghimel* -3vx
-- ***Benedicamus Domino II*** d'après Elzèar de Carpentras (1470-1548) -4vx
+- ***Benedicamus Domino*** d'après Elzèar de Carpentras (1470-1548) -4vx
 
 - ***Benedictus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
 
