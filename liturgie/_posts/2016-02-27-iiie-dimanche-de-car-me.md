@@ -14,7 +14,7 @@ Mes yeux sont toujours levés vers le Seigneur.
 
 **Introït : Oculi mei**  
 
-**Graduel : Exsurge Domine**
+**Graduel : Exsurge Domine**  
 faux-bourdon du 3e ton
 
 **Trait : Ad te levavi**  
