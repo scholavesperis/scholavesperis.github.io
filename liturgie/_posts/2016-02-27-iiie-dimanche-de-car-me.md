@@ -5,10 +5,9 @@ title: IIIe dimanche de Carême
 ---
 
 
-**Dimanche 28 février, messe de 19h**
-
 ![Giotto - détail.jpg]({{site.baseurl}}/images/Giotto - détail.jpg)
 
+**Dimanche 28 février, messe de 19h**
 
 *Oculi mei semper ad Dominum*  
 Mes yeux sont toujours levés vers le Seigneur.
