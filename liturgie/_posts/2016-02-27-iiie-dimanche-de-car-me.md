@@ -5,6 +5,7 @@ title: IIIe dimanche de Carême
 ---
 
 
+
 ![Giotto - détail.jpg]({{site.baseurl}}/images/Giotto - détail.jpg)
 
 **Dimanche 28 février, messe de 19h**
@@ -32,4 +33,4 @@ d'après *Mille quingentis* Jacob Obrecht 1457-1505
 **Au dernier évangile : Ave Regina caelorum**  
 
 **Sortie : Benedicamus Domino**  
-Antoine de Févin 1470-1512
+Thomas Tallis 1505-1585 *Daleth*
