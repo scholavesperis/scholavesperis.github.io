@@ -6,6 +6,7 @@ title: IIIe dimanche de Carême
 
 
 
+
 ![Giotto - détail.jpg]({{site.baseurl}}/images/Giotto - détail.jpg)
 
 **Dimanche 28 février, messe de 19h**
@@ -34,3 +35,10 @@ d'après *Mille quingentis* Jacob Obrecht 1457-1505
 
 **Sortie : Benedicamus Domino**  
 Thomas Tallis 1505-1585 *Daleth*
+
+Lireplus
+
+&nbsp;
+
+![Audi Dufay.jpg]({{site.baseurl}}/images/Audi Dufay.jpg)
+**Audi benigne Conditor** hymne du Temps de Carême. Alternance polyhonique de Guillaume Dufay *ms Modena B "Alpha.X.1.11"*
