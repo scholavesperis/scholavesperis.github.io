@@ -37,4 +37,6 @@ Lireplus
 &nbsp;
 
 ![Agnus Dei Perugia.jpg]({{site.baseurl}}/images/Agnus Dei Perugia.jpg)
-**Ave sancta mundi salus / Agnus Dei** Matteo da Perugia, ms Modena *alpha.M.5.24*
+**Ave sancta mundi salus / Agnus Dei**  
+Agnus Dei tropé en l'honneur du Saint-Sacrement  
+Matteo da Perugia, ms Modena *alpha.M.5.24*
