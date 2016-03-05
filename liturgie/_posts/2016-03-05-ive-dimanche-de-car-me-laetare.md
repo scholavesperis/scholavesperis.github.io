@@ -4,6 +4,7 @@ published: false
 title: "IVe dimanche de Carême - Laetare"
 ---
 
+
 **Dimanche 6 mars 2016, messe de 19h**
 
 ![Jerusalem.jpg]({{site.baseurl}}/images/Jerusalem.jpg)
