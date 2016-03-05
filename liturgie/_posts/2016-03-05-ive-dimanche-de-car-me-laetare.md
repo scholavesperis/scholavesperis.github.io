@@ -13,7 +13,7 @@ title: "IVe dimanche de Carême - Laetare"
 *Laetare Jerusalem : et conventum facite, omnes qui diligitis eam.*  
 Réjouis-toi, Jérusalem; et rassemblez-vous, vous tous qui l'aimez.
 
-**Introït : Laetare**
+**Introït : Laetare Jerusalem**
 
 **Graduel : Laetatus sum**  
 faux-bourdon du 7e ton
