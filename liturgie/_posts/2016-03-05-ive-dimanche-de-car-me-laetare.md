@@ -27,7 +27,7 @@ faux-bourdon du 7e ton
 faux-bourdon lyonnais du 8e ton
 
 **Offertoire : Laudate Dominum**  
-d'après *Doleo super te* Pierre de la Rue 1452-1518
+d'après Pierre de la Rue 1452-1518
 
 **Communion : Ave sancta mundi salus / Agnus Dei**  
 Matteo da Perugia (début XVe)
