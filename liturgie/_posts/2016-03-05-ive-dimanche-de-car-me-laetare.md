@@ -5,6 +5,7 @@ title: "IVe dimanche de Carême - Laetare"
 ---
 
 
+
 **Dimanche 6 mars 2016, messe de 19h**
 
 ![Jerusalem.jpg]({{site.baseurl}}/images/Jerusalem.jpg)
@@ -14,6 +15,9 @@ title: "IVe dimanche de Carême - Laetare"
 Réjouis-toi, Jérusalem; et rassemblez-vous, vous tous qui l'aimez.
 
 **Introït : Laetare Jerusalem**
+
+**Kyrie**  
+Guillaume de Machaut 1300-1377 *Messe Nostre-Dame*
 
 **Graduel : Laetatus sum**  
 faux-bourdon du 7e ton
