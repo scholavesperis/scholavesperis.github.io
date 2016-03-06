@@ -6,6 +6,7 @@ title: "IVe dimanche de Carême - Laetare"
 
 
 
+
 **Dimanche 6 mars 2016, messe de 19h**
 
 ![Jerusalem.jpg]({{site.baseurl}}/images/Jerusalem.jpg)
@@ -34,7 +35,7 @@ Matteo da Perugia (début XVe)
 **Au dernier évangile : Ave Regina caelorum**  
 
 **Sortie : Benedicamus Domino**  
-Thomas Tallis 1505-1585 *Beth*
+Antoine de Févin 1470-1512 *Ghimel*
 
 Lireplus
 
