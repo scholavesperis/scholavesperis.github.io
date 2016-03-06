@@ -35,7 +35,7 @@ Matteo da Perugia (début XVe)
 **Au dernier évangile : Ave Regina caelorum**  
 
 **Sortie : Benedicamus Domino**  
-Antoine de Févin 1470-1512 *Ghimel*
+d'après Antoine de Févin 1470-1512 *Ghimel*
 
 Lireplus
 
