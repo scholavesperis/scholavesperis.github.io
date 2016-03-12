@@ -21,7 +21,7 @@ faux-bourdon du 3e ton *Engarandus Juvenis* XVe
 faux-bourdon lyonnais du 8e ton
 
 **Offertoire : O Domine Jesu Christe**  
-Anonyme XVIe *ms. Royal.8.G.VII
+Anonyme XVIe *ms. Royal.8.G.VII*
 
 **Consécration : O salutaris Hostia**  
 attribué à Josquin Desprez 1450-1521
