@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: Dimanche de la Passion
 ---
+
 
 **Dimanche 13 mars 2016, messe de 19h**
 
@@ -39,4 +40,3 @@ Lireplus
 
 ![O domine.jpg]({{site.baseurl}}/images/O domine.jpg)
 **O Domine Jesu Christe** Prima pars, Anonyme XVIe *Spy's Choirbook, ms. Royal.8.G.VII*
-
