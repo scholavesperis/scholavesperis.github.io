@@ -22,7 +22,7 @@ faux-bourdon du 4e ton, Ludwig Senfl 1486-1542
 **Trait : Deus, Deus meus**  
 faux-bourdon lyonnais du 2e ton
 
-**Offertoire : Vexilla Regis/Passio Domini nostri**  
+**Offertoire : Vexilla Regis/Passio Domini**  
 Pierre de la Rue 1452-1518
 
 **Consécration : Hosanna in excelsis**  
@@ -38,4 +38,4 @@ Lireplus
 &nbsp;
 
 ![]({{site.baseurl}}/images/Vexilla%20de%20la%20Rue.jpg)
-**Vexilla Regis / Passio Domini nostri** Pierre de la Rue *manuscrit Royal 8.G.VII*
+**Vexilla Regis / Passio Domini** Pierre de la Rue *manuscrit Royal 8.G.VII*
