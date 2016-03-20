@@ -38,4 +38,4 @@ Lireplus
 &nbsp;
 
 ![]({{site.baseurl}}/images/Vexilla%20de%20la%20Rue.jpg)
-**Vexilla Regis / Passio Domini** Pierre de la Rue *manuscrit Royal 8.G.VII*
+**Vexilla Regis / Passio Domini** Pierre de la Rue *manuscrit Royal 8.G.VII - "Spy's choirbook"*
