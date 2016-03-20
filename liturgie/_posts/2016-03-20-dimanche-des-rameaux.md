@@ -37,5 +37,5 @@ Lireplus
 
 &nbsp;
 
-![]({{site.baseurl}}/images/Vexilla%20de%20la%20Rue.jpg)![Vexilla de la Rue.jpg]({{site.baseurl}}/images/Vexilla de la Rue.jpg)
+![]({{site.baseurl}}/images/Vexilla%20de%20la%20Rue.jpg)
 **Vexilla Regis / In illo tempore** Pierre de la Rue *manuscrit Royal 8.G.VII*
