@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: Dimanche des Rameaux
 ---
+
 
 **Dimanche 20 mars 2016, messe de 19h**
 ![Rameaux Breviari d'amor2.jpg]({{site.baseurl}}/images/Rameaux Breviari d'amor2.jpg)
