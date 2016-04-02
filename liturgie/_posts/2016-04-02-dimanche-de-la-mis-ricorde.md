@@ -18,7 +18,7 @@ Cantio tchèque anonyme du XVe
 **introït : Quasi modo**  
 
 **Alleluia : In die resurrectionis & Post dies**  
-Alternaces en faux-bourdon du 7e ton - Guillaume Dufay 1400-1474
+Alternances en faux-bourdon du 7e ton - Guillaume Dufay 1400-1474
 
 **Offertoire : Ad coenam Agni providi**  
 Hymne grégorien & alternance polyphonique de Guillaume Dufay
