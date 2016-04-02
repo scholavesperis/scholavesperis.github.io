@@ -5,6 +5,7 @@ title: Dimanche de la Miséricorde
 ---
 
 
+
 **Dimanche 3 avril 2016, messe de 19h**
 
 ![Quasimodo.jpg]({{site.baseurl}}/images/Quasimodo.jpg)
@@ -13,9 +14,9 @@ title: Dimanche de la Miséricorde
 Comme des enfants nouveaux-nés, ayez soif d'un lait spirituel très pur.
 
 **Entrée : Surrexit Christus, Alleluia**  
-Cantio tchèque anonyme du XVe
+cantio tchèque anonyme du XVe
 
-**introït : Quasi modo**  
+**Introït : Quasi modo**  
 
 **Alleluia : In die resurrectionis & Post dies**  
 Alternances en faux-bourdon du 7e ton - Guillaume Dufay 1400-1474
@@ -35,4 +36,4 @@ Lireplus
 &nbsp;
 
 ![surrexit 1chru.jpg]({{site.baseurl}}/images/surrexit 1chru.jpg)
-**Surrexit Christus, Alleluia** Cantio tchèque anonyme *codex Franus, folio 273r*
+**Surrexit Christus, Alleluia** cantio tchèque anonyme *Codex Franus, folio 273r*
