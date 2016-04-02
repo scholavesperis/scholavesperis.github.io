@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: Dimanche de la Miséricorde
 ---
+
 
 **Dimanche 3 avril 2016, messe de 19h**
 
