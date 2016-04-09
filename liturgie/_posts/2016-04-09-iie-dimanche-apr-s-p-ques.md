@@ -19,7 +19,7 @@ De la miséricorde du Seigneur, la terre est remplie, alleluia !
 alternance de faux-bourdons, Guillaume Dufay & Anonyme parisien
 
 **Offertoire : Deus, Deus meus**  
-Alternance d'organa - Anonyme XIIIe *ms de Florence*
+Alternance d'organa à 3 voix - Anonyme XIIIe *ms de Florence*
 
 **Communion : O salutaris Hostia**  
 d'après Walter Frye +1474
