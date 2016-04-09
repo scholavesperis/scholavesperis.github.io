@@ -1,8 +1,9 @@
 ---
 desc: ""
-published: false
+published: true
 title: IIe dimanche après Pâques
 ---
+
 
 **Dimanche 10 avril 2016, messe de 19h**  
 
@@ -27,4 +28,3 @@ d'après Walter Frye +1474
 
 **Sortie : Benedicamus Domino**  
 d'après Antoine de Févin 1470-1512
-
