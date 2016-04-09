@@ -15,7 +15,7 @@ De la miséricorde du Seigneur, la terre est remplie, alleluia !
 
 **Introït : Misericordia Domini**
 
-**Alleluia : Cognoverunt & Ego sum**  
+**Alleluia : Cognoverunt & Ego sum pastor bonus**  
 alternance de faux-bourdons, Guillaume Dufay & Anonyme parisien
 
 **Offertoire : Deus, Deus meus**  
