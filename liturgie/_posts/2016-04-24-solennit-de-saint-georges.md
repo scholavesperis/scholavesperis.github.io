@@ -1,6 +1,6 @@
 ---
 desc: ""
-published: false
+published: true
 title: Solennité de Saint Georges
 ---
 **Samedi 23 avril 2016, messe de 11h30**
