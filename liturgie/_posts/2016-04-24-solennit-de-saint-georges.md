@@ -20,3 +20,5 @@ Hymne & alternance polyphonique de G.Dufay
 
 **Communion : Laetabitur justus**  
 G.Dufay
+
+**Au dernier évangile : Regina caeli**
