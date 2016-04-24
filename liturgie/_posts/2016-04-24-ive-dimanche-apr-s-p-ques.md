@@ -7,7 +7,7 @@ title: IVe dimanche après Pâques
 
 ![]({{site.baseurl}}/images/chantres%20chaumont%20BM%20ms.0036.jpg)
 
-*Cantate Domino canticum novum*  
+*Cantate Domino canticum novum, alleluia.*  
 Chantez au Seigneur un chant nouveau, alleluia !
 
 **Introït : Cantate Domino**
