@@ -13,7 +13,7 @@ Chantez au Seigneur un chant nouveau, alleluia !
 **Introït : Cantate Domino**
 
 **Alleluia : Dextera Dei & Christus resurgens**  
-Alternance de faux-bourdon - Guillaume Dufay & 1er ton royal parisien
+Alternances de faux-bourdons - Guillaume Dufay & 1er ton royal parisien
 
 **Offertoire : Venite exusltemus Domino**  
 d'après Guillaume de Machaut 1300-1377
