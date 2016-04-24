@@ -13,7 +13,7 @@ Le juste trouve sa joie dans le Seigneur, il met en lui sa confiance
 **Introït : Protexisti me**
 
 **Alleluia : Confitebuntur & Posuisti**  
-Alternance de faux-bourdons - Guillaume Dufay 1400-1474
+Alternances de faux-bourdons - Guillaume Dufay 1400-1474
 
 **Offertoire : Deus tuorum militum**  
 Hymne & alternance polyphonique de G.Dufay
