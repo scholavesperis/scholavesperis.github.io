@@ -1,6 +1,6 @@
 ---
 desc: ""
-published: false
+published: true
 title: IVe dimanche après Pâques
 ---
 **Dimanche 24 avril 2016, messe de 19h**
@@ -25,4 +25,3 @@ Anonyme XVe *ms de Trente*
 
 **Sortie : Benedicamus Domino, Alleluia**  
 Nesbet XVe *ms de Peppy's*
-
