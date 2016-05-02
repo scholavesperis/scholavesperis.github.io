@@ -1,6 +1,6 @@
 ---
 desc: ""
-published: false
+published: true
 title: Ve Dimanche après Pâques
 ---
 **Dimanche 1er mai 2016, messe de 19h**
@@ -25,6 +25,3 @@ Anonyme XIIIe *ms Pluteus 29.1*
 
 **Sortie : Benedicamus Domino**  
 Antoine de Févin 1470-1512 - Ghimel
-
-
-
