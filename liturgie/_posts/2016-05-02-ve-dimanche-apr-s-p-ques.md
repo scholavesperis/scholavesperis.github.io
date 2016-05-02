@@ -3,9 +3,10 @@ desc: ""
 published: true
 title: Ve Dimanche après Pâques
 ---
-**Dimanche 1er mai 2016, messe de 19h**
 
 ![chantres 2.jpg]({{site.baseurl}}/images/chantres 2.jpg)
+
+**Dimanche 1er mai 2016, messe de 19h**
 
 *Benedicite gentes, Dominum Deum nostrum, et obaudite vocem laudis ejus*  
 Peuples, bénissez le Seigneur notre Dieu, et faites retentir sa louange !
