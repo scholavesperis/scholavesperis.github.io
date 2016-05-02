@@ -4,7 +4,8 @@ published: true
 title: Ve Dimanche après Pâques
 ---
 
-![chantres 2.jpg]({{site.baseurl}}/images/chantres 2.jpg)
+![chantres 2b.jpg]({{site.baseurl}}/images/chantres 2b.jpg)
+
 
 **Dimanche 1er mai 2016, messe de 19h**
 
