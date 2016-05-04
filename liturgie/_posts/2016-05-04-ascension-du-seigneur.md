@@ -1,6 +1,6 @@
 ---
 desc: ""
-published: false
+published: true
 title: Ascension du Seigneur
 ---
 **Jeudi 5 mai 2016, messe de 19h**  
