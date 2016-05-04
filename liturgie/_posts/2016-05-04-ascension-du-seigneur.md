@@ -8,7 +8,7 @@ title: Ascension du Seigneur
 ![Christ St Michel 2.jpg]({{site.baseurl}}/images/Christ St Michel 2.jpg)
 
 
-*Dominus in Sina in sancto, ascendens in altum*  
+*Dominus in Sina in sancto, ascendens in altum. Alleluia*  
 De sa sainte montagne le Seigneur est monté au ciel.
 
 **Introït : Viri Galilei**  
@@ -25,7 +25,7 @@ hymne grégorien & alternance polyphonique de Guillaume Dufay 1400-1474
 **Au dernier évangile : Regina caeli**  
 
 **Sortie : Ascendendo Dominus**  
-Anonyme XIIIe *Codex de Montpellier
+Anonyme XIIIe *Codex de Montpellier*
 
 Lireplus
 
