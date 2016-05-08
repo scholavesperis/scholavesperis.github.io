@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Solennité de Sainte Jeanne d'Arc"
 ---
 **Dimanche 8 mai 2016, messe de 19h**  
