@@ -30,3 +30,4 @@ Lireplus
 &nbsp;
 
 ![Machaut plange (Paris, Bibliothèque Nationale, fonds français, 1584).jpeg]({{site.baseurl}}/images/Machaut%20plange%20(Paris%2C%20Biblioth%C3%A8que%20Nationale%2C%20fonds%20fran%C3%A7ais%2C%201584).jpeg)
+**Plange regni respublica / Apprehende arma / Tu qui gregem** Guillaume de Machaut *Bibliothèque Nationale, fonds français 1584*
