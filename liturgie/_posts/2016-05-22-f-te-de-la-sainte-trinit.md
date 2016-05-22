@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Sainte Trinité
 ---
 **Dimanche 22 mai 2016, messe de 19h**
@@ -27,4 +27,3 @@ Robert Fayrfax 1464-1521
 
 **Sortie : Alta beata Trinita**  
 Anonyme XVe, Italie
-
