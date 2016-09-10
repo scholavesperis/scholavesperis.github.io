@@ -1,0 +1,70 @@
+prose:
+  rooturl: ''
+  ignore:
+    - /audio
+    - /images
+    - /_includes
+    - /js
+    - /_layouts
+    - /_sass
+    - /_site
+    - 404.md
+    - articles.json
+    - atom.xml
+    - config.rb
+    - _config.yml
+    - _prose.yml
+    - eglise-st-georges.html
+    - enregistrements.html
+    - Gemfile
+    - Gemfile.lock
+    - index.html
+    - LICENCE.md
+    - links.jsonp
+    - liturgie.html
+    - membres.html
+    - partitions.html
+    - pdf
+    - README.md
+    - site.js
+    - site.scss
+    - styleguide.html
+    - .sass-cache
+    - .gitignore
+  siteurl: 'http://scholavesperis.github.io/'
+  relativeLinks: 'http://scholavesperis.github.io/links.jsonp'
+  media: 'images'
+  metadata:
+    "":
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titre"
+          value: ""
+      - name: "desc"
+        field:
+          element: "text"
+          label: "Description"
+          value: ""
+    enregistrements:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titre de l'article"
+          value: ""
+      - name: "name"
+        field:
+          element: "text"
+          label: "Titre"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Auteur"
+          value: ""
+      - name: "link"
+        field:
+          element: "text"
+          label: "Lien"
+          value: ""
+
