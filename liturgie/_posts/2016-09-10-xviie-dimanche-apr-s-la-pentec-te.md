@@ -7,7 +7,7 @@ title: XVIIe dimanche après la Pentecôte
 ![]({{site.baseurl}}/images/David.jpg)
 
 *Tu aimeras le Seigneur ton Dieu de tout ton coeur,
-de toute ton âme et de tout ton esprit.
+de toute ton âme et de tout ton esprit.  
 Tu aimeras ton prochain comme toi-même*
 
 **Introït : Justus es**
