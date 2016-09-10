@@ -4,7 +4,7 @@ title: XVIIe dimanche après la Pentecôte
 ---
 **Dimanche 11 septembre 2016, messe de 19h**
 
-![]({{site.baseurl}}//David.jpg)
+![]({{site.baseurl}}/images/David.jpg)
 
 *Tu aimeras le Seigneur ton Dieu de tout ton coeur,
 de toute ton âme et de tout ton esprit.
