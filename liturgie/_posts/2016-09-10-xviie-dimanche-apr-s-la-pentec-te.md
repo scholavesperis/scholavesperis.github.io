@@ -1,3 +1,7 @@
+---
+published: true
+title: XVIIe dimanche après la Pentecôte
+---
 **Dimanche 11 septembre 2016, messe de 19h**
 
 ![]({{site.baseurl}}//David.jpg)
