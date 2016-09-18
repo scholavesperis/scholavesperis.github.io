@@ -4,7 +4,7 @@ title: XVIIIe dimanche après la Pentecôte
 ---
 **Dimanche 18 septembre, messe de 19h**  
 
-![]({{site.baseurl}}/images/Da%20pacem.jpg)!
+![]({{site.baseurl}}/images/Da%20pacem.jpg)
 
 
 *Fiat pax in virtute tua, et abundantia in turribus tuis*  
@@ -19,7 +19,7 @@ faux-bourdon parisien du 7e ton
 verset en faux-bourdon parisien du 1er ton
 
 **Consécration : O salutaris Hostia**  
-Attribué à Josquin Desprez 1450-1521
+attribué à Josquin Desprez 1450-1521
 
 **Communion : Tollite hostias**  
 H.Isaac 1450-1517 *Choralis Constantinus*
