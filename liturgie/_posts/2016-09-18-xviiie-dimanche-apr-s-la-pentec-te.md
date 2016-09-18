@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XVIIIe dimanche après la Pentecôte
 ---
 **Dimanche 18 septembre, messe de 19h**  
