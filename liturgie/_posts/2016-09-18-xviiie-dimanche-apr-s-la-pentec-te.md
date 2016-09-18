@@ -4,7 +4,7 @@ title: XVIIIe dimanche après la Pentecôte
 ---
 **Dimanche 18 septembre, messe de 19h**  
 
-![]({{site.baseurl}}/images/Da%20pacem.jpg)![Da pacem.jpg]({{site.baseurl}}/images/Da pacem.jpg)
+![]({{site.baseurl}}/images/Da%20pacem.jpg)!
 
 
 *Fiat pax in virtute tua, et abundantia in turribus tuis*  
