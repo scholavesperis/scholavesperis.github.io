@@ -21,7 +21,7 @@ Faux-bourdon parisien du 7e ton
 Verset en faux-bourdon du 2 ton *Graduel de Lyon*
 
 **Offertoire : Si ambulem**  
-Antoinde de Févin 1470_1512 *Occo codex*
+Antoinde de Févin 1470-1512 *Occo codex*
 
 **Communion : Tu mandasti**  
 Heinrich Isaac 1450-1517 *Choralis Constantinus*
