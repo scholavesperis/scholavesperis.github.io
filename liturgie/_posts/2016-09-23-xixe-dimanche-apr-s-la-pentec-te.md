@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XIXe dimanche après la Pentecôte
 ---
 
