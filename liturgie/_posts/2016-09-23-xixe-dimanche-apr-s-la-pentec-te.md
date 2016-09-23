@@ -8,7 +8,7 @@ title: XIXe dimanche après la Pentecôte
 ![Salus populi.jpg]({{site.baseurl}}/images/Salus populi.jpg)
 
 
-*Salus populi ego sum, dicit Dominus*
+*Salus populi ego sum, dicit Dominus*  
 Le salut de mon peuple, c'est moi, dit le Seigneur
 
 **Introït : Salus populi**
