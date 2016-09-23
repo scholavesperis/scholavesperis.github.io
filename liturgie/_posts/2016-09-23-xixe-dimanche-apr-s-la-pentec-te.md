@@ -5,7 +5,8 @@ title: XIXe dimanche après la Pentecôte
 
 **Dimanche 25 septembre 2016, messe de 19h**
 
-![Salus populi.jpg]({{site.baseurl}}/images/Salus populi.jpg)
+![Salus populi 2.jpg]({{site.baseurl}}/images/Salus populi 2.jpg)
+
 
 
 *Salus populi ego sum, dicit Dominus*  
