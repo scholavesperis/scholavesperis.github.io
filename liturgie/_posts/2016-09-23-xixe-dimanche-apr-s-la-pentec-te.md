@@ -13,7 +13,7 @@ Le salut de mon peuple, c'est moi, dit le Seigneur
 
 **Introït : Salus populi**
 
-**Graduel : Dirigatur Domine**  
+**Graduel : Dirigatur oratio mea**  
 Faux-bourdon parisien du 7e ton
 
 **Alleluia : Confitemini Domino**  
