@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Solennité de Notre-Dame du Rosaire
 ---
 **Dimanche 2 octobre 2016, messe de 19h**
