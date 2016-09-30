@@ -7,7 +7,7 @@ title: Solennité de Notre-Dame du Rosaire
 ![annonciation.jpg]({{site.baseurl}}/images/annonciation.jpg)
 
 
-*Florete, flores, quasi lilium; et frondete in gratiam.*
+*Florete, flores, quasi lilium; et frondete in gratiam.*  
 Fleurissez, comme le lis, et donnez un feuillage gracieux.
 
 **Introït : Gaudeamus**
