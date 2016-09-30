@@ -4,7 +4,7 @@ title: Solennité de Notre-Dame du Rosaire
 ---
 **Dimanche 2 octobre 2016, messe de 19h**
 
-![annonciation.jpg]({{site.baseurl}}/images/annonciation.jpg)
+![]({{site.baseurl}}/images/Psautier%20de%20Li%C3%A8ge.jpg)
 
 
 *Florete, flores, quasi lilium; et frondete in gratiam.*  
