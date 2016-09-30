@@ -5,7 +5,7 @@ title: Ve Dimanche après Pâques
 **Dimanche 1er mai 2016, messe de 19h**
 
 
-![Psautier de Liège.jpg]({{site.baseurl}}/images/Psautier de Liège.jpg)
+![]({{site.baseurl}}/images/chantres%20chaumont%20BM%20ms.0036.jpg)
 
 
 
