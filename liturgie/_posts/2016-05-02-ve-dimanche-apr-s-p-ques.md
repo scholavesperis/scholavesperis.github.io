@@ -5,7 +5,7 @@ title: Ve Dimanche après Pâques
 **Dimanche 1er mai 2016, messe de 19h**
 
 
-![]({{site.baseurl}}/images/chantres%20chaumont%20BM%20ms.0036.jpg)
+![]({{site.baseurl}}/)
 
 
 
