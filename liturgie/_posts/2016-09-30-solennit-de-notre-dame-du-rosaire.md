@@ -22,7 +22,7 @@ verset en faux-bourdon parisien du 7e ton
 Johannes Prioris 1460-1514
 
 **Sanctus & Benedictus : Messe de la Sorbonne**  
-Anonyme XIVe - version restaurée par Raphaël Picazos 
+Anonyme XIVe (version restaurée par Raphaël Picazos) 
 
 **Communion : Florete, flores**
 
