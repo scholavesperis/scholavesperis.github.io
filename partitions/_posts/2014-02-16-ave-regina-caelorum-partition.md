@@ -1,6 +1,10 @@
 ---
-title: "&quot;Ave Regina caelorum&quot; - Partition"
-description: "Antienne mariale du temps de Carême (du 2 février jusqu'au Mercredi Saint) Version anonyme à 3 voix provenant du Codex Franus, manuscrit tchèque du début du XVIe siècle (image ci-contre). A part quelques légères nuances on y retrouve le texte de l'antienne..."
+title: '&quot;Ave Regina caelorum&quot; - Partition'
+description: >-
+  Antienne mariale du temps de Carême (du 2 février jusqu'au Mercredi Saint)
+  Version anonyme à 3 voix provenant du Codex Franus, manuscrit tchèque du début
+  du XVIe siècle (image ci-contre). A part quelques légères nuances on y
+  retrouve le texte de l'antienne...
 published: true
 ---
 
@@ -31,6 +35,7 @@ Lireplus
 
 [Ave Regina caelorum.pdf](/pdf/ave-regina-caelorum.pdf)
 
-- lien vers une version audio (dans la rubrique audio/vidéo):
+Une autre version manuscrite de cette pièce apparaît également dans le manuscrit *E-Bbc MS BM 853b* qui contient des pièces du répertoire chanté au Palais des papes d'Avignon, fin XIVe.
+![Ave Regina caelorum.png]({{site.baseurl}}/images/Ave Regina caelorum.png)
+*Image extraite du manuscrit f.11v*
 
-[http://www.capilla.be/EN/Salve_Mater__Salve_Jesu__Chant_and_Polyhpony_from_Bohemia_around_1500-discografie-5.php](http://www.capilla.be/EN/Salve_Mater__Salve_Jesu__Chant_and_Polyhpony_from_Bohemia_around_1500-discografie-5.php)
