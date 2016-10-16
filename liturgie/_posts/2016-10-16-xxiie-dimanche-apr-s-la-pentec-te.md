@@ -30,6 +30,7 @@ d'après *Judea et Jerusalem* anonyme anglais XIVe
 Lireplus
 
 &nbsp;
-![Virgo pudicicie.png]({{site.baseurl}}/images/Virgo pudicicie.png)
+
+![Virgo pudicicie.png]({{site.baseurl}}/images/Virgo pudicicie.png)  
 Extrait du **Virgo pudicicie** *ms Rawl.Liturg.d.3*  
 (http://www.diamm.ac.uk/jsp/Descriptions?op=ITEM&itemKey=2354)
