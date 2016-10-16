@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXIIe dimanche après la Pentecôte
 ---
 **Dimanche 16 octobre 2016, messe de 19h**
@@ -26,3 +26,9 @@ d'après *Judea et Jerusalem* anonyme anglais XIVe
 
 **Sortie : Benedicamus Domino / Flos Filius**  
 *Codex de Montpellier* anonyme XIIIe
+
+Lireplus
+
+![Virgo pudicicie.png]({{site.baseurl}}/images/Virgo pudicicie.png)
+Extrait du **Virgo pudicicie** *ms Rawl.Liturg.d.3*  
+(http://www.diamm.ac.uk/jsp/Descriptions?op=ITEM&itemKey=2354)
