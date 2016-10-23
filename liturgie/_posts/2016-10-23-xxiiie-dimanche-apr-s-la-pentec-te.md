@@ -7,7 +7,7 @@ title: XXIIIe dimanche après la Pentecôte
 ![Dom XXIII.jpg]({{site.baseurl}}/images/Dom XXIII.jpg)
 
 *Invocabitis me, et ego exaudiam vos. Et reducam captivitatem vestram de cunctis locis.*  
-Vous m'invoquerez, et je vous écouterai. De partout je ramènerai vos captifs. ***Jer.29***
+Vous m'invoquerez, et je vous écouterai. De partout je ramènerai vos captifs. ***Jer.29,11***
 
 **Introït : Dicit Dominus : ego cogito**
 
