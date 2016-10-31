@@ -17,7 +17,7 @@ faux-bourdon parisien du 1er ton royal
 **Alleluia : Venite ad me**  
 
 **Offertoire : Christe redemptor omnium**  
-Alternances polyphoniques du *ms d'Apt* anonyme XIVe
+Alternances polyphoniques *manuscrit d'Apt* anonyme XIVe
 
 **Communion : Adoro te**  
 d'après *Codex Montpellier* anonyme XIIIe
@@ -32,4 +32,4 @@ Lireplus
 &nbsp;
 
 ![Christe redemptor Apt.png]({{site.baseurl}}/images/Christe redemptor Apt.png)
-**Christe redemptor omnium** Alternance polyphonique à 3 voix *manuscrit d'Apt F-Apt Trésor 16bis, f.14v* anonyme XIVe
+**Christe redemptor omnium** Alternance polyphonique à 3 voix *manuscrit d'Apt (Trésor 16bis) f.14v* anonyme XIVe
