@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de tous les saints
 ---
 **Mardi 1er novembre 2016, messe de 19h**
