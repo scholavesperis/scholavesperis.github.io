@@ -32,4 +32,4 @@ Lireplus
 &nbsp;
 
 ![Christe redemptor Apt.png]({{site.baseurl}}/images/Christe redemptor Apt.png)
-**Christe redemptor omnium** Alternance polyphonique à 3 voix *manuscrit d'Apt (Trésor 16bis) f.14v* anonyme XIVe
+**Christe redemptor omnium** Alternance polyphonique à 3 voix *manuscrit d'Apt (Trésor 16bis) f.14v* - anonyme XIVe
