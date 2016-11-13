@@ -7,8 +7,8 @@ title: XXVIe dimanche après la Pentcôte
 ![priere Pacino di Buonaguida Add 35254B.jpg]({{site.baseurl}}/images/priere Pacino di Buonaguida Add 35254B.jpg)
 
 
-*Caelum et terra transibut, verba autem mea non transibut, dicit Dominus*  
-Le ciel et la terre passeront, mes paroles ne passeront pas, dit le Seigneur.
+*...et fit arbor, ita ut volucres caeli veniant, et habitent in ramis ejus*  
+...puis elle devient un arbre, si bien que les oiseaux du ciel viennent loger dans ses branches.
 
 
 **Introït : Dicit Dominus "Ego cogito"**
