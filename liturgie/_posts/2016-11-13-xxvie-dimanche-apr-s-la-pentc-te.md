@@ -7,8 +7,8 @@ title: XXVIe dimanche après la Pentcôte
 ![priere Pacino di Buonaguida Add 35254B.jpg]({{site.baseurl}}/images/priere Pacino di Buonaguida Add 35254B.jpg)
 
 
-*At Jesus conversus et videns eam dixit : Confide filia, fides tuam te salvam fecit*  
-Jésus se retourna et, la voyant il dit : confiance ma fille, ta foi t'a sauvée.
+*Caelum et terra transibut, verba autem mea non transibut, dicit Dominus*  
+Le ciel et la terre passeront, mes paroles ne passeront pas, dit le Seigneur.
 
 
 **Introït : Dicit Dominus "Ego cogito"**
