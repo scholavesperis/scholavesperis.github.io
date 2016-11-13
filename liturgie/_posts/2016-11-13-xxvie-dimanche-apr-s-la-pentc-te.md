@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXVIe dimanche après la Pentcôte
 ---
 **Dimanche 13 novembre 2016, messe de 19h**  
@@ -36,4 +36,3 @@ Lireplus
 
 ![Ave Maria Mo93.jpg]({{site.baseurl}}/images/Ave Maria Mo93.jpg)
 **Ave Maria, gratia plena**  partie de motetus *codex de Montpellier - f.94r
-
