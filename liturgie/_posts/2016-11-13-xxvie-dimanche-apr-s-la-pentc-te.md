@@ -11,7 +11,7 @@ title: XXVIe dimanche après la Pentcôte
 Jésus se retourna et, la voyant il dit : confiance ma fille, ta foi t'a sauvée.
 
 
-**Introït : Dicit Dominus "ego cogito"**
+**Introït : Dicit Dominus "Ego cogito"**
 
 **Graduel : Liberasti nos**  
 faux-bourdon du 7e ton - Guillaume Dufay 1400-1474
