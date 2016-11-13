@@ -8,7 +8,7 @@ title: XXVIe dimanche après la Pentcôte
 
 
 *...et fit arbor, ita ut volucres caeli veniant, et habitent in ramis ejus*  
-...puis elle devient un arbre, si bien que les oiseaux du ciel viennent loger dans ses branches.
+mais quand elle a poussé...elle devient arbre, si bien que les oiseaux du ciel viennent loger dans ses branches.
 
 
 **Introït : Dicit Dominus "Ego cogito"**
