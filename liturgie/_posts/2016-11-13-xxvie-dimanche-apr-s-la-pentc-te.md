@@ -4,7 +4,7 @@ title: XXVIe dimanche après la Pentcôte
 ---
 **Dimanche 13 novembre 2016, messe de 19h**  
 
-![priere Pacino di Buonaguida Add 35254B.jpg]({{site.baseurl}}/images/priere Pacino di Buonaguida Add 35254B.jpg)
+![Avignon Palais des Papes.jpg]({{site.baseurl}}/images/Avignon Palais des Papes.jpg)
 
 
 *...et fit arbor, ita ut volucres caeli veniant, et habitent in ramis ejus*  
