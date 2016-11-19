@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dernier dimanche après la Pentecôte
 ---
 **Dimanche 20 novembre 2016, messe de 19h** 
