@@ -9,7 +9,7 @@ title: Dernier dimanche après la Pentecôte
 *Et videbunt Filium hominis venientem in nubibus caeli cum virtute multa, et majestate*  
 Ils verront le Fils de l'homme venant sur les nuées du ciel avec beaucoup de puissance et de gloire.
 
-**Introït : Dicit Dominus “Ego cogito”
+**Introït : Dicit Dominus “Ego cogito”**
 
 **Graduel : Liberasti nos**  
 faux-bourdon du 7e ton - Guillaume Dufay 1400-1474
