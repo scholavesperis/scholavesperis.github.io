@@ -69,6 +69,7 @@ Lireplus
 - ***Benedicamus Domino*** Guillaume de Machaut (1300-1377), Missa Nostre-Dame - 4vx
 - ***Benedicamus Domino*** Gilles Binchois (1400-1460) -3vx
 - ***Benedicamus Domino*** Anonyme XVe, ms de Munchen -4vx
+- ***Benedicamus Domino*** Anonyme XIIIe, ms d'Assise -3vx  
 - ***Benedicamus Domino, Alleluia*** Anonyme XVe, ms de Munchen -4vx
 - ***Benedicamus Domino*** Guillaume Dufay (1400-1474) -3vx
 - ***Benedicamus Domino*** Nesbet, manuscrit de Pepys -3vx
@@ -124,6 +125,7 @@ Lireplus
 - ***Ascendit Deus*** Anonyme -3vx
 - ***Alleluia*** Anonyme, Pentecôte -3vx
 - ***Ave tu rosa*** Anonyme -3vx
+- ***Benedicamus in laude*** Anonyme -3vx  
 - ***Christus resurgens*** Anonyme -3vx
 - ***Da pacem*** Anonyme -3vx
 - ***Factus est repente*** Anonyme -3vx
@@ -211,7 +213,9 @@ Lireplus
 - ***Virgo mitis*** Loyset Compère (1445-1518) -4vx
 
 ## Codex Montpellier (XIIIe)  
+
 - ***Adoro te / Valare*** adaptation  -3vx  
+- ***Ascendendo Dominus / Domini*** -3vx  
 - ***Ave Maria / Ave maris stella***  -3vx  
 - ***Dominus regit me*** adaptation  -3vx  
 - ***Benedicamus / Flos Filius*** adaptation  -3vx  
