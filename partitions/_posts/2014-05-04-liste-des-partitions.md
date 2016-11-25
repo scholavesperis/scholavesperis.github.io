@@ -95,6 +95,7 @@ Lireplus
 - ***O salutaris Hostia*** d'après Jacob Obrecht (1457-1505) -3vx
 - ***O salutaris Hostia*** Anonyme, d'après la Cantinela du couvent de Niolu -2vx
 - ***O salutaris Hostia*** Anonyme XIVe, d'après *Si doulcement* manuscrit de Chypre -4vx
+- ***O salutaris Hostia*** Anonyme anglais XIVe, d'après *Virgo pudicicie* -3vx  
 
 ## H.Isaac (1450-1517 ), Choralis Constantinus (4vx) :
 
