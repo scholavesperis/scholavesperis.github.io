@@ -168,6 +168,7 @@ Lireplus
 - ***Deus tuorum militum*** Guillaume Dufay (1400-1474) -3vx
 - ***Deus tuorum militum*** Johannes Martini (1440-1497) -3vx
 - ***Dextera Domini*** G.B.Martini (1706-1784) -4vx
+- ***Dixit Dominus*** Diego Ortiz (1510-1570), Musices liber primus -4vx
 - ***Domine salvam fac galliam*** faux-bourdon parisien du VIe ton royal -4vx
 - ***Gloria, laus et honor*** Gilles Binchois (1400-1460) -3vx
 - ***Heth. Cogitavit Dominus*** Antoine Brumel (1460-1512) -4vx
