@@ -188,7 +188,8 @@ Lireplus
 - ***O florens rosa*** Walter Frye (+1474) -3vx
 - ***O sacra Virgo, Kyrie*** Anonyme XIVe, manuscrit d'Apt -3vx
 - ***Panis angelicus*** d'après Alexander Agricola (1446-1506) -3vx
-- ***Pange lingua*** d'après Anonyme (XIIIe), codex Huelgas - 2 & 3 voix  
+- ***Pange lingua*** d'après Anonyme (XIIIe), codex Huelgas -2 & 3 voix  
+- ***Pange lingua*** d'après *Virgo pudicicie* Anonyme anglais XIVe -3vx  
 - ***Parce Domine*** Jacob Obrecht (1450-1505) -3vx
 - ***Pauper sum ego*** Josquin Desprez (1450-1521) -3vx
 - ***Plange regni respublica*** Guillaume de Machaut (1300-1377) -4vx
