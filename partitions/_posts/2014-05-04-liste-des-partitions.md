@@ -78,7 +78,7 @@ Lireplus
 - ***Benedicamus Domino*** d'après Antoine de Févin (1470-1512) -5vx
 - ***Benedicamus Domino II*** d'après Antoine de Févin *Ghimel* -3vx
 - ***Benedicamus Domino*** d'après Elzèar de Carpentras (1470-1548) -4vx
-
+- ***Deo gratias*** Anonyme anglais (XIVe) -4vx   
 
 - ***Gloria Patri*** Josquin Desprez (1450-1521) -4vx
 - ***Gloria Patri*** William Byrd (1543-1623 ) -4vx
