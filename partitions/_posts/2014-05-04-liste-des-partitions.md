@@ -1,9 +1,12 @@
 ---
 title: Liste des partitions
-description: "Partitions liturgiques éditées par la schola : Adoramus te Anonyme, cancionero de Montecassino -4vx Adoramus te Loyset Compère (1445-1518), Missa Galeazescha « Ad elevationem » -4vx Agnus Dei Touront (XVe), Missa Sine nomine, manuscrit de Trente -3vx..."
+description: >-
+  Partitions liturgiques éditées par la schola : Adoramus te Anonyme, cancionero
+  de Montecassino -4vx Adoramus te Loyset Compère (1445-1518), Missa Galeazescha
+  « Ad elevationem » -4vx Agnus Dei Touront (XVe), Missa Sine nomine, manuscrit
+  de Trente -3vx...
 published: true
-permalink: "/partitions/liste-des-partitions/"
-desc: ""
+permalink: /partitions/liste-des-partitions/
 ---
 
 
@@ -22,7 +25,7 @@ Lireplus
 
 &nbsp;
 
-## Parties de la messe
+## Kyriale
 
 - ***Kyrie*** Guillaume de Machaut (1300-1377), Missa Nostre-Dame - 4vx
 - ***Kyrie*** Antoine de Févin (1470-1512), Missa pros fidelibus defunctis -4vx
@@ -37,6 +40,7 @@ Lireplus
 - ***Sanctus*** Johannes Brassart (1400-1455) -3vx
 - ***Sanctus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
 - ***Sanctus*** Anonyme XVe, Cancionero de la Colombina -4vx
+- ***Benedictus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
 - ***Hosanna in excelsis*** Antoine de Févin (1470-1512), Missa de Feria -4vx
 - ***Hosanna in excelsis*** Jacob Obrecht (1457-1505), Missa de Sancto Donatiano -4vx
 - ***Hosanna in excelsis*** d'après Johannes Martini (1440-1497)
@@ -74,7 +78,6 @@ Lireplus
 - ***Benedicamus Domino II*** d'après Antoine de Févin *Ghimel* -3vx
 - ***Benedicamus Domino*** d'après Elzèar de Carpentras (1470-1548) -4vx
 
-- ***Benedictus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
 
 - ***Gloria Patri*** Josquin Desprez (1450-1521) -4vx
 - ***Gloria Patri*** William Byrd (1543-1623 ) -4vx
@@ -182,6 +185,7 @@ Lireplus
 - ***O florens rosa*** Walter Frye (+1474) -3vx
 - ***O sacra Virgo, Kyrie*** Anonyme XIVe, manuscrit d'Apt -3vx
 - ***Panis angelicus*** d'après Alexander Agricola (1446-1506) -3vx
+- ***Pange lingua*** d'après Anonyme (XIIIe), codex Huelgas - 2 & 3 voix  
 - ***Parce Domine*** Jacob Obrecht (1450-1505) -3vx
 - ***Pauper sum ego*** Josquin Desprez (1450-1521) -3vx
 - ***Plange regni respublica*** Guillaume de Machaut (1300-1377) -4vx
@@ -205,6 +209,15 @@ Lireplus
 - ***Veni, veni Emmanuel*** Anonyme XVe -2vx
 - ***Vexilla Regis*** Alonso Dalua (XVIe) -4vx
 - ***Virgo mitis*** Loyset Compère (1445-1518) -4vx
+
+## Codex Montpellier (XIIIe)  
+- ***Adoro te / Valare*** adaptation  -3vx  
+- ***Ave Maria / Ave maris stella***  -3vx  
+- ***Dominus regit me*** adaptation  -3vx  
+- ***Benedicamus / Flos Filius*** adaptation  -3vx  
+
+
+
 
 ## Chants Traditionnels (partitions en ligne):
 
