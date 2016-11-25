@@ -40,6 +40,7 @@ Lireplus
 - ***Sanctus*** Johannes Brassart (1400-1455) -3vx
 - ***Sanctus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
 - ***Sanctus*** Anonyme XVe, Cancionero de la Colombina -4vx
+- ***Sanctus*** Anonyme XIVe, messe de la Sorbonne -3vx
 - ***Benedictus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
 - ***Hosanna in excelsis*** Antoine de Févin (1470-1512), Missa de Feria -4vx
 - ***Hosanna in excelsis*** Jacob Obrecht (1457-1505), Missa de Sancto Donatiano -4vx
