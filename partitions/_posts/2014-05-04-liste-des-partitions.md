@@ -152,7 +152,7 @@ Lireplus
 - ***Ave verum corpus*** d'après Loyset Compère (1445-1518) -3vx
 - ***Beata es Maria*** Anonyme XVe, Chansonnier des ducs de Lorraine -3vx
 - ***Christe qui lux es*** Robert White (1538-1574) -5vx
-- ***Christe redemptor omnium*** Anonyme XIVe, ms d'Apt -3vx
+- ***Christe redemptor omnium*** Anonyme XIVe, ms d'Apt -3vx  
 - ***Conditor alme siderum*** Costanzo Festa (1495-1545) -4vx
 - ***Conditor alme siderum*** Guillaume Dufay (1400(1474) -3vx
 - ***Crux triumphans*** Loyset Compère (1445-1518) -4vx
