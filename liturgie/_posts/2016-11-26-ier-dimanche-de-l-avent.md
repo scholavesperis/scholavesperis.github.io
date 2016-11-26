@@ -13,7 +13,7 @@ Il y aura des signes dans le soleil, la lune et les étoiles.
 **Introït : Ad te levavi animam meam**  
 
 **Graduel : Universi**  
-Faux-bourdon du 1er ton - Guillaume Dufay (1400-1474)
+Faux-bourdon du 1er ton - Guillaume Dufay 1400-1474
 
 **Alleluia : Ostende nobis**  
 
