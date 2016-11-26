@@ -4,7 +4,7 @@ title: Ier dimanche de l'Avent
 ---
 **Dimanche 27 novembre 2016, messe de 19h**
 
-*Erunt signa in sole, et luna, et stellis*  
+*Erunt signa in sole, et luna, et stellis...*  
 Il y aura des signes dans le soleil, la lune et les étoiles.
 
 ![Beatus Sever.jpeg]({{site.baseurl}}/images/Beatus Sever.jpeg)
