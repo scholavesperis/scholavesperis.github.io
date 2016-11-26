@@ -18,7 +18,7 @@ Faux-bourdon du 1er ton - Guillaume Dufay (1400-1474)
 **Alleluia : Ostende nobis**  
 
 **Offertoire : Conditor alme siderum**  
-alternance polyphonique de Guillaume Dufay 1400-1474
+alternance polyphonique de Guillaume Dufay
 
 **Communion : Pange lingua**  
 adaptation d'après *Codex Huelgas* anonyme XIIIe
