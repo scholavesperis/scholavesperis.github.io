@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ier dimanche de l'Avent
 ---
 **Dimanche 27 novembre 2016, messe de 19h**
