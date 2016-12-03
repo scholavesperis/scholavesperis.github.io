@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche de l'Avent
 ---
 
