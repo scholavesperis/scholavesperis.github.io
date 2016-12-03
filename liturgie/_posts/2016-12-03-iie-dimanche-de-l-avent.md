@@ -18,7 +18,7 @@ Faux-bourdon du 3e ton, Guillaume Dufay (1400-1474)
 **Alleluia : Laetatus sum**
 
 **Offertoire : Veni splendor mirabilis**  
-attribué à Jean Hanelle 1380-1436 *manuscrit de Chypre*
+attribué à Jean Hanelle 1380-1436 *manuscrit de Chypre J.II.9*
 
 **Communion : Rex caeli Domine**  
 Anonyme IXe *Musica enchiriadis*
