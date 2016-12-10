@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche de l'Avent - Gaudete
 ---
 **Dimanche 11 décembre 2016, messe de 19h**
@@ -36,4 +36,3 @@ Lireplus
 ![Deo Gratias.jpeg]({{site.baseurl}}/images/Deo%20Gratias.jpeg)
 **Ite missa est - Deo gratias** Guillaume de Machaut *Missa Nostre-Dame*  
 Paris, Bibliothèque Nationale, fonds français, 1584
-
