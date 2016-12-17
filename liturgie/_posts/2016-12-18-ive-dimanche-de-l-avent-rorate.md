@@ -22,7 +22,7 @@ verset en faux-bourdon du 3e ton, Guillaume Dufay
 Anonyme anglais, XIVe
 
 **Communion : Salve sancta Christi parens**  
-Anonyme XIVe *codex Huelgas*
+Anonyme XIIIe *codex Huelgas*
 
 **Au dernier évangile : Alma redemptoris Mater**  
 
