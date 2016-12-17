@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche de l'Avent - Rorate
 ---
 **Dimanche 18 décembre 2016, messe de 19h**  
@@ -28,4 +28,3 @@ Anonyme XIVe *codex Huelgas*
 
 **Sortie : Veni, veni Emmanuel**  
 hymne de l'Avent, anonyme
-
