@@ -148,6 +148,7 @@ Lireplus
 - ***Ave Maria*** Johannes Prioris (1460-1514) -3vx
 - ***Ave Maria*** Anonyme XVe, Codex Basevi -5vx
 - ***Ave Maria*** Jacob Obrecht (1457-1505) -4vx
+- ***Ave Maria*** Anonyme anglais XIIIe -3vx
 - ***Ave Maria, benedicta tu*** Jean Mouton (1459-1522) -4vx
 - ***Ave Regina caelorum*** Anonyme XVe, codex Franus -3vx
 - ***Ave Regina caelorum*** Jacob Obrecht (1457-1505) -4vx
