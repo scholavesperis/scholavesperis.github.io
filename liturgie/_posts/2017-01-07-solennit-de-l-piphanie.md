@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Solennité de l'Épiphanie
 ---
 **Dimanche 8 janvier 2017, messe de 19h**  
