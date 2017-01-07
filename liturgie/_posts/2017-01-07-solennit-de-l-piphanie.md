@@ -32,7 +32,7 @@ d'après J.B.Lully 1632-1687
 
 Lireplus
 
-;&nbsp
+&nbsp;
 
 ![]({{site.baseurl}}/images/Hostis%20Herodes%20Dufay.jpg)![Hostis Herodes Dufay.jpg]({{site.baseurl}}/images/Hostis Herodes Dufay.jpg)
 **Hostis Herodes impie** Guillaume Dufay *manuscrit Modena B*
