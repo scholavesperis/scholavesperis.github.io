@@ -214,6 +214,7 @@ Lireplus
 - ***Usquequo piger dormies*** Pierre de Manchicourt (1510-1564) -4vx
 - ***Victimae paschali laudes*** Josquin Desprez (1450-1521) -4vx
 - ***Veni Creator Spiritus*** Alonso Dalua (XVIe) -3vx
+- ***Veni splendor mirabilis*** attribué à Jean Hanelle 1380-1436 -4vx
 - ***Veni, veni Emmanuel*** Anonyme XVe -2vx
 - ***Vexilla Regis*** Alonso Dalua (XVIe) -4vx
 - ***Virgo mitis*** Loyset Compère (1445-1518) -4vx
