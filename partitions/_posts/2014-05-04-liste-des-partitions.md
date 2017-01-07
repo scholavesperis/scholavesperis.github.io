@@ -192,7 +192,7 @@ Lireplus
 - ***O florens rosa*** Walter Frye (+1474) -3vx
 - ***O sacra Virgo, Kyrie*** Anonyme XIVe, manuscrit d'Apt -3vx
 - ***Panis angelicus*** d'après Alexander Agricola (1446-1506) -3vx
-- ***Pange lingua*** d'après Anonyme (XIIIe), codex Huelgas -2 & 3 voix  
+- ***Pange lingua*** d'après Anonyme (XIIIe), codex Huelgas -2 & 3vx  
 - ***Pange lingua*** d'après *Judea et Jerusalem* Anonyme anglais XIVe -3vx  
 - ***Parce Domine*** Jacob Obrecht (1450-1505) -3vx
 - ***Pauper sum ego*** Josquin Desprez (1450-1521) -3vx
@@ -202,6 +202,7 @@ Lireplus
 - ***Regina caeli*** Anonyme XVIe, Allemagne -4vx
 - ***Regina caeli*** Johannes Ghiselin (1455-1511) -4vx
 - ***Requiem aeternam*** Engarandus Juvenis (XVe), codex de Staffarda -3vx
+- ***Salve sancta Christi parens*** Anonyme XIIIe, codex Huelgas -2 & 3vx
 - ***Si ambulem*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -4vx
 - ***Si dedero*** Alexander Agricola (1446-1506) -3vx
 - ***Sitivit*** Antoine de Févin (1470-1511) -3vx
