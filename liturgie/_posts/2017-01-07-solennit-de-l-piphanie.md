@@ -34,5 +34,5 @@ Lireplus
 
 &nbsp;
 
-![]({{site.baseurl}}/images/Hostis%20Herodes%20Dufay.jpg)!
+![]({{site.baseurl}}/images/Hostis%20Herodes%20Dufay.jpg)
 **Hostis Herodes impie** Guillaume Dufay *manuscrit Modena B*
