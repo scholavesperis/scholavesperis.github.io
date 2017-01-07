@@ -203,6 +203,7 @@ Lireplus
 - ***Regina caeli*** Anonyme XVIe, Allemagne -4vx
 - ***Regina caeli*** Johannes Ghiselin (1455-1511) -4vx
 - ***Requiem aeternam*** Engarandus Juvenis (XVe), codex de Staffarda -3vx
+- ***Rex caeli Domine*** Anonyme IXe, Musica enchiriadis -2vx
 - ***Salve sancta Christi parens*** Anonyme XIIIe, codex Huelgas -2 & 3vx
 - ***Si ambulem*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -4vx
 - ***Si dedero*** Alexander Agricola (1446-1506) -3vx
