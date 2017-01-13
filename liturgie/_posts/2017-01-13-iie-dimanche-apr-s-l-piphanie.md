@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche après l'Épiphanie
 ---
 **Dimanche 15 janvier 2017, messe de 19h**  
