@@ -30,7 +30,7 @@ d'après *O pia* Jacob Obrecht 1457-1505
 
 Lireplus
 
-&nbsp:
+&nbsp;
 
 ![Te Deum.jpg]({{site.baseurl}}/)
 **Te Deum** de Gilles Binchois *manuscrit Modena B*
