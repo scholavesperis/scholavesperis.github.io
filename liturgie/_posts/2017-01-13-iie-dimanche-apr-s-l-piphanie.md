@@ -12,10 +12,10 @@ Acclamez Dieu, toute la terre ! Chantez un psaume en son nom.
 **Introït : Omnis terra**  
 
 **Graduel : Misit Dominus**  
-Faux-bourdon du 7e ton, Guillaume Dufay 1400-1474
+faux-bourdon du 7e ton, Guillaume Dufay 1400-1474
 
 **Alleluia : Laudate Dominum**  
-Faux-bourdon du 4e ton, Gilles Binchois 1400-1460
+faux-bourdon du 4e ton, Gilles Binchois 1400-1460
 
 **Offertoire : Laudate Dominum**  
 d'après Pierre de la Rue 1452-1518
