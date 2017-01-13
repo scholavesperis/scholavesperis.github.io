@@ -7,9 +7,9 @@ title: IIe dimanche après l'Épiphanie
 ![Cana-bible Amiens108.jpg]({{site.baseurl}}/images/Cana-bible Amiens108.jpg)
 
 *Jubilate Deo omnis terra, psalmum dicite nomini ejus*  
-Acclamez Dieu, toute la terre ! chantez un psaume en son nom.
+Acclamez Dieu, toute la terre ! Chantez un psaume en son nom.
 
-**Introït : omnis terra**  
+**Introït : Omnis terra**  
 
 **Graduel : Misit Dominus**  
 Faux-bourdon du 7e ton, Guillaume Dufay 1400-1474
