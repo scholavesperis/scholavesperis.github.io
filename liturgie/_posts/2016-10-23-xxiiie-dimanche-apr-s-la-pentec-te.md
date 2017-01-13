@@ -21,7 +21,7 @@ verset en faux-bourdon, d'après G.Dufay
 d'après le *codex de Montpellier* - Anonyme XIIIe
 
 **Communion : Pange lingua**  
-d'après Virgo pudicicie, Anonyme anglais XIVe
+d'après *Judea et Jerusalem* Anonyme anglais XIVe
 
 **Au dernier évangile : Salve Regina**
 
