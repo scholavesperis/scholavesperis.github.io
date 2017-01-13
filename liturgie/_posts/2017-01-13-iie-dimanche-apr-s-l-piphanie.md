@@ -32,5 +32,5 @@ Lireplus
 
 &nbsp;
 
-![Te Deum.jpg]({{site.baseurl}}/)
+![Te Deum.jpg]({{site.baseurl}}/images/Te%20Deum.jpg)
 **Te Deum** de Gilles Binchois *manuscrit Modena B*
