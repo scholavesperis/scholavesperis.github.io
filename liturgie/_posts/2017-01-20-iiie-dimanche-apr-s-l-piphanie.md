@@ -28,7 +28,7 @@ d’après Guillaume de Machaut 1300-1377
 
 **Au dernier évangile : Alma redemptoris Mater**  
 
-**Sortie : Domine salvam fac Galliam**
+**Sortie : Domine salvam fac Galliam**  
 Faux-bourdon parisien du VIe ton *Bibliothèque Inguimbertine*
 
 Lireplus
