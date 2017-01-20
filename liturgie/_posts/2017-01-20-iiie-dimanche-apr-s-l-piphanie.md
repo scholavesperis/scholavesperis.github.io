@@ -6,7 +6,7 @@ title: IIIe dimanche après l'Épiphanie
 
 ![Anges St Savin.jpg]({{site.baseurl}}/images/Anges St Savin.jpg)
 
-*Adorate Deum, omnes angeli ejus; audivit et laetata est Sion.*  
+*Adorate Deum, omnes Angeli ejus; audivit et laetata est Sion.*  
 Adorez Dieu, vous tous ses anges; Sion a entendu et s'est réjouie.
 
 **Introït : Adorate Deum**  
