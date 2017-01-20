@@ -35,7 +35,7 @@ Lireplus
 
 &nbsp;
 
-![Domine salvum fac regem.jpg]({{site.baseurl}}/images/Domine%20salvum%20fac%20regem.jpg)
+![Domine salvum fac regem.jpg]({{site.baseurl}}/images/Domine%20salvum%20fac%20regem.jpg)  
 
 **Domine salvum fac Regem** faux-bourdon parisien du VIe ton - Anonyme XVIIIe  
 *Bibliothèque Inguimbertine*
