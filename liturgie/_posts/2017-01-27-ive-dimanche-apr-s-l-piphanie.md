@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche après l'Épiphanie
 ---
 **Dimanche 29 janvier 2017, messe de 19h**
@@ -27,6 +27,3 @@ Gilles Binchois
 
 **Sortie : Deo Gratias**  
 Anonyme anglais XIVe
-
-
-
