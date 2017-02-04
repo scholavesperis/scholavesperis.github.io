@@ -9,9 +9,9 @@ title: Purification de la Sainte Vierge et Présentation de Jésus au Temple
 *Suscepimus Deus, misericordiam tuam in medio templi tui*  
 Nous avons reçu, Ô Dieu, ta miséricorde au milieu de ton temple.
 
-**Introït : Suscepimus**  
+**Introït : Suscepimus Deus**  
 
-**Graduel : Suscepimus**  
+**Graduel : Suscepimus Deus**  
 faux-bourdon du 5e ton G.M.Asola 1532-1609
 
 **Alleluia : Senex puerum**
