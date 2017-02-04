@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Purification de la Sainte Vierge & Présentation de Jésus au Temple
 ---
 **Dimanche 5 février 2017, messe de 19h**  
