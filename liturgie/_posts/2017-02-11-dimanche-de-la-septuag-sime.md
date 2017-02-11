@@ -2,7 +2,7 @@
 published: true
 title: Dimanche de la Septuagésime
 ---
-**Dimanche 12 février 2017, messe de 19**
+**Dimanche 12 février 2017, messe de 19h**
 
 ![Circumdederunt.jpg]({{site.baseurl}}/images/Circumdederunt.jpg)
 
