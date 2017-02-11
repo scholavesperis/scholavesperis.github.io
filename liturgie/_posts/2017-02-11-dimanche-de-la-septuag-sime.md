@@ -13,7 +13,7 @@ Que la lumière de ta face brille sur ton serviteur.
 **Introït : Circumdederunt me**
 
 **Graduel : Adjutor in opportunitatibus**  
-faux-bourdon du 3e ton, Guillaume Dufay 1400-1474
+faux-bourdon du 3e ton, Guillaume Dufay (1400-1474)
 
 **Trait : De profundis**  
 faux-bourdon lyonnais du 8e ton
