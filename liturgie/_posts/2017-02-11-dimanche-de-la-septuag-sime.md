@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Septuagésime
 ---
 **Dimanche 12 février 2017, messe de 19**
