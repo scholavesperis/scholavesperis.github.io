@@ -6,7 +6,7 @@ title: Dimanche de la Sexagésime
 
 ![Exsurge.jpg]({{site.baseurl}}/images/Exsurge.jpg)
 
-*Mirifica misericordias tuas, qui salvos facissperantes in te, Domine.*  
+*Mirifica misericordias tuas, qui salvos facis sperantes in te, Domine.*  
 Manifeste ton amour, Seigneur, toi qui sauves ceux qui se confient en toi.
 
 **Introït : Exsurge**
