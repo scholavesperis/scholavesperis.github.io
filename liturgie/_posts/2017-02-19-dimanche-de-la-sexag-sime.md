@@ -32,5 +32,5 @@ Lireplus
 
 &nbsp;
 
-![Kyrie Jesu dulcissime.jpg]({{site.baseurl}}/images/Kyrie Jesu dulcissime.jpg)
+![Kyrie Jesu dulcissime.jpg]({{site.baseurl}}/images/Kyrie Jesu dulcissime.jpg)  
 **Kyrie Jesu dulcissime** Defronciaco, *manuscrit du trésor d'Apt 16bis*
