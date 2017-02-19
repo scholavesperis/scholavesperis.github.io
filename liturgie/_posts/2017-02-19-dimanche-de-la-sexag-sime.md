@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Sexagésime
 ---
 **Dimanche 19 février 2017, messe de 19h**  
