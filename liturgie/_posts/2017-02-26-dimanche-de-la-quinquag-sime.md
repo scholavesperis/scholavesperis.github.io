@@ -17,8 +17,8 @@ Faux-bourdon du 3e ton, Guillaume Dufay 1400-1474
 **Trait : Jubilate Deo**  
 Faux-bourdon du 8e ton, Graduel de Lyon 1610 
 
-**Sanctus & Benedictus**  
-attribué à Johannes Lambuleti, XIVe *Messe de la Sorbonne*
+**Consécration : O salutaris Hostia**  
+d'après *Si doulcement* Anonyme XIVe *manuscrit de Chypre*
 
 **Communion : Manducaverunt**  
 H.Isaac 1450-1517 *Choralis Constantinus*
@@ -26,4 +26,4 @@ H.Isaac 1450-1517 *Choralis Constantinus*
 **Au dernier évangile : Ave Regina caelorum**
 
 **Sortie : Deo gratias**  
-d'après *Ghimel* Antoine de Févin 1470-1512
+d'après Guillaume Dufay 1400-1474
