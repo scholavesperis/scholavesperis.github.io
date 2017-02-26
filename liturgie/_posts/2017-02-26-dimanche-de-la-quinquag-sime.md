@@ -18,7 +18,7 @@ Faux-bourdon du 3e ton, Guillaume Dufay 1400-1474
 Faux-bourdon du 8e ton, Graduel de Lyon 1610 
 
 **Sanctus & Benedictus**  
-attribué à Lambuleti, XIVe *Messe de la Sorbonne*
+attribué à Johannes Lambuleti, XIVe *Messe de la Sorbonne*
 
 **Communion : Manducaverunt**  
 H.Isaac 1450-1517 *Choralis Constantinus*
