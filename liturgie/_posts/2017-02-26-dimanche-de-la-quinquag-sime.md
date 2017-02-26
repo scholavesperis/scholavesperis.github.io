@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Quinquagésime
 ---
 **Dimanche 26 février 2017, messe de 19h**  
