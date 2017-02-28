@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Mercredi des Cendres
 ---
 **Mercredi 1er mars 2017, messe de 19h30**
@@ -32,5 +32,3 @@ attribué à Jean Hanelle 1380-1436 *ms de Chypre*
 
 **Sortie : Benedicamus Domino**  
 Jacob Obrecht 1457-1505
-
-
