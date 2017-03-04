@@ -36,5 +36,5 @@ Lireplus
 &nbsp;
 
 ![Audi Dufay.jpg]({{site.baseurl}}/images/Audi%20Dufay.jpg)
-**Audi benigne Conditor** hymne du Temps de Carême. Alternance polyhonique de Guillaume Dufay  
-*ms Modena B “Alpha.X.1.11”*
+**Audi benigne Conditor** hymne du Temps de Carême.  
+Alternance polyhonique de Guillaume Dufay *ms Modena B “Alpha.X.1.11”*
