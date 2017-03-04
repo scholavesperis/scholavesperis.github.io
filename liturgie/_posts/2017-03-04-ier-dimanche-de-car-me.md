@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ier dimanche de Carême
 ---
 **Dimanche 5 mars 2017, messe de 19h**  
@@ -38,5 +38,3 @@ Lireplus
 ![Audi Dufay.jpg]({{site.baseurl}}/images/Audi%20Dufay.jpg)
 **Audi benigne Conditor** hymne du Temps de Carême. Alternance polyhonique de Guillaume Dufay  
 *ms Modena B “Alpha.X.1.11”*
-
-
