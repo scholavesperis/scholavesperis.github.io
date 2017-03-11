@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche de Carême
 ---
 **Dimanche 12 mars 2017, messe de 19h**  
@@ -30,6 +30,3 @@ attribué à Jean Hanelle 1380-1436 *manuscrit de Chypre*
 
 **Sortie : Benedicamus Domino**  
 d'après Thomas Tallis 1505-1585
-
-
-
