@@ -28,8 +28,8 @@ Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Au dernier évangile : Ave Regina caelorum**
 
-**Sortie : Benedicamus Domino**  
-Jacob Obrecht 1457-1505
+**Sortie : Attende Domine**  
+
 
 Lireplus
 
