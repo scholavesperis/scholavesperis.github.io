@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche de Carême
 ---
 **Dimanche 19 mars 2017, messe de 19h**
@@ -30,4 +30,3 @@ Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Sortie : Deo gratias**  
 d'après Guillaume Dufay
-
