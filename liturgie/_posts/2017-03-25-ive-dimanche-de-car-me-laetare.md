@@ -46,11 +46,11 @@ motet écrit en "acrostiche" du *Deo gratias* :
 **A**lmeque nobis, da quoque flamen,  	  
 **T**res Deus unus, deitas una,  
 **I**ubilet noster chorus, ut semper  
-**A**nimo puro pangitet hymnos     	
+**A**nimo puro pangitet hymnos  
 **S**upplexque Deo gratias dicat.  
 
 **Motetus**    
-**D**onis affatim perfluit orbis;      	
+**D**onis affatim perfluit orbis;  
 **E**rogat uno generi summus  
 **O**pifex queque jugiter illo  
 **G**urgite magno de pietatis  
