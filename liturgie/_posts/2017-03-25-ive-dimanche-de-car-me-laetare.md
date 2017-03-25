@@ -35,7 +35,7 @@ lireplus
 
 ![Da magne extrait.jpeg]({{site.baseurl}}/images/Da magne extrait.jpeg)
 **Da magne Pater / Donis affatim** attribué à Jean Hanelle  
-extrait du ms Torino J.II.9 f.90v dit *manuscrit de Chypre*  
+extrait du ms Torino J.II.9 (f.90v) dit *manuscrit de Chypre*  
 motet écrit en "acrostiche" du Deo gratias :  
 **Triplum**  
 **D**a, magne Pater, rector Olimpi,
