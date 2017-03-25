@@ -33,7 +33,8 @@ Lireplus
 
 &nbsp;
 
-![Da magne extrait.jpeg]({{site.baseurl}}/images/Da magne extrait.jpeg)
+![Da_magne extrait.jpeg]({{site.baseurl}}/images/Da_magne extrait.jpeg)
+
 **Da magne Pater / Donis affatim** attribué à Jean Hanelle  
 extrait du ms Torino J.II.9 (f.90v) dit *manuscrit de Chypre*  
 motet écrit en "acrostiche" du *Deo gratias* :  
@@ -59,4 +60,4 @@ motet écrit en "acrostiche" du *Deo gratias* :
 **T**amquam meriti memor accepti,  
 **I**llius odas ; referat grates,  
 **A**d regna poli queat ut tandem  
-**S**candere prepes, te duce, Christe. 
+**S**candere prepes, te duce, Christe.
