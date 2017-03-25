@@ -29,7 +29,7 @@ d'après Guillaume Dufay (1400-1474)
 **Sortie : Domine salvam fac Galliam**  
 faux-bourdon provençal de la bibliothèque Inguimbertine - XVIIIe
 
-lireplus
+Lireplus
 
 &nbsp;
 
