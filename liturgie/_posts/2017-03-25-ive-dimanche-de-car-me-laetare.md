@@ -36,27 +36,27 @@ lireplus
 ![Da magne extrait.jpeg]({{site.baseurl}}/images/Da magne extrait.jpeg)
 **Da magne Pater / Donis affatim** attribué à Jean Hanelle  
 extrait du ms Torino J.II.9 (f.90v) dit *manuscrit de Chypre*  
-motet écrit en "acrostiche" du Deo gratias :  
+motet écrit en "acrostiche" du *Deo gratias* :  
 **Triplum**  
-**D**a, magne Pater, rector Olimpi,
-**E**mpireo stans, cuncta gubernans
-**O**rdine miro, pie da nate,
-**G**remio Patris semper inherens,
-**R**erum conditor omnicreator
-**A**lmeque nobis, da quoque flamen,	
-**T**res Deus unus, deitas una,
-**I**ubilet noster chorus, ut semper
-**A**nimo puro pangitet hymnos	
-**S**upplexque Deo gratias dicat.
+**D**a, magne Pater, rector Olimpi,  
+**E**mpireo stans, cuncta gubernans  
+**O**rdine miro, pie da nate,  
+**G**remio Patris semper inherens,  
+**R**erum conditor omnicreator  
+**A**lmeque nobis, da quoque flamen,  	  
+**T**res Deus unus, deitas una,  
+**I**ubilet noster chorus, ut semper  
+**A**nimo puro pangitet hymnos  	
+**S**upplexque Deo gratias dicat.  
 
-**Motetus**  
-**D**onis affatim perfluit orbis ;	
-**E**rogat uno generi summus
-**O**pifex queque jugiter illo
-**G**urgite magno de pietatis
-**R**ecreans gratis bonus ingratos.
-**A**gitet ergo genus humanum,
-**T**amquam meriti memor accepti,
-**I**llius odas ; referat grates,
-**A**d regna poli queat ut tandem
-**S**candere prepes, te duce, Christe.
+**Motetus**    
+**D**onis affatim perfluit orbis ;  	
+**E**rogat uno generi summus  
+**O**pifex queque jugiter illo  
+**G**urgite magno de pietatis  
+**R**ecreans gratis bonus ingratos.  
+**A**gitet ergo genus humanum,  
+**T**amquam meriti memor accepti,  
+**I**llius odas ; referat grates,  
+**A**d regna poli queat ut tandem  
+**S**candere prepes, te duce, Christe. 
