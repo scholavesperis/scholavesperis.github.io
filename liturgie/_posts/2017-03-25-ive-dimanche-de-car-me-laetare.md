@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche de Carême - Laetare
 ---
 **Dimanche 26 mars 2017, messe de 19h**
