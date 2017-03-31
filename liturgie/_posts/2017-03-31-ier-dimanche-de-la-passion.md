@@ -41,5 +41,5 @@ Lireplus
 
 ![Domine salvum fac regem.jpg]({{site.baseurl}}/images/Domine%20salvum%20fac%20regem.jpg)
 
-**Domine salvam fac Regem** faux-bourdon provençal, fonds du chapitre cathédrale  
+**Domine salvum fac Regem** faux-bourdon provençal, fonds du chapitre cathédrale  
 Bibliothèque Inguimbertine.
