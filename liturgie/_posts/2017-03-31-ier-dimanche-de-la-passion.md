@@ -35,11 +35,5 @@ Anonyme XVe *Cancionero de Montecassino*
 **Sortie : Domine salvam fac Galliam**  
 faux-bourdon provençal (bibliothèque Inguimbertine) - XVIIe
 
-Lireplus 
 
-&nbsp;
 
-![Domine salvum fac regem.jpg]({{site.baseurl}}/images/Domine%20salvum%20fac%20regem.jpg)
-
-**Domine salvum fac Regem** faux-bourdon provençal, fonds du chapitre cathédrale  
-Bibliothèque Inguimbertine.
