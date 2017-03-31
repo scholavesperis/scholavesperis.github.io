@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ier dimanche de la Passion
 ---
 **Dimanche 2 avril 2017, messe de 19h**  
