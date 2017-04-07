@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Office des Ténèbres du Jeudi Saint
 ---
 **Mercredi 12 avril 2017, 21h30**  
@@ -13,5 +13,3 @@ L'église St Georges et la Schola Vesperis vous invitent à entrer dans le Tridu
 
    Alternance de chants grégoriens, polyphonies de la Renaissance, et faux-bourdons à voix d'hommes.  
    *(Pierre de la Rue, Antoine Brumel, Anotine de Févin, Costanzo Festa...)
-   
-   
