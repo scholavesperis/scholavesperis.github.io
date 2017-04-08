@@ -9,6 +9,7 @@ title: Dimanche des Rameaux
 *Hosanna, Filio David, benedictus qui venit in nomine Domini.*  
 Hosanna, Fils de David ! Béni soit celui qui vient au nom du Seigneur !
 
+**Entrée : Gloria, laus et honor**
 
 **Introït : Domine, ne longe facias**
 
@@ -31,4 +32,3 @@ d'après *Doleo super te* anoyme anglais XIVe
 
 **Sortie : Domine salvam fac Galliam**  
 faux-bourdon provençal (bibliothèque Inguimbertine) - XVIIe
-
