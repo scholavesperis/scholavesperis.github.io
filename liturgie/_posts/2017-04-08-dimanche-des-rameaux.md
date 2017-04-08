@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche des Rameaux
 ---
 **Dimanche 9 avril 2017, messe de 19h**  
