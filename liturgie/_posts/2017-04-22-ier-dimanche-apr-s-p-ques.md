@@ -32,4 +32,4 @@ Lireplus
 &nbsp;
 
 ![hec dies.jpg]({{site.baseurl}}/images/hec dies.jpg)
-**Hec dies letitie** anonyme XIIIe *ms Wolfenbuttel w2*
+**Hec dies letitie** anonyme XIIIe - école Notre-Dame *ms Wolfenbuttel w2*
