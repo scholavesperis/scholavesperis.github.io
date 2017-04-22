@@ -1,6 +1,6 @@
 ---
 published: true
-title: Ier dimanche après Pâques - Quasimodo
+title: Ier dimanche après Pâques
 ---
 **Dimanche 23 avril 2017, messe de 19h**
 
