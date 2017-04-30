@@ -6,8 +6,7 @@ title: IIe dimanche après Pâques
 
 ![Christ Bonaguida.jpg]({{site.baseurl}}/images/Christ Bonaguida.jpg)
 
-*Ego sum pastor bonus, et cognosco oves meas, et cognoscunt me meae, alleluia !*  
-
+*Ego sum pastor bonus, et cognosco oves meas, et cognoscunt me meae, alleluia !*   
 Je suis le bon pasteur, je connais mes brebis, et mes brebis me connaissent, alleluia !
 
 **Introït : Misericordia Domini**
