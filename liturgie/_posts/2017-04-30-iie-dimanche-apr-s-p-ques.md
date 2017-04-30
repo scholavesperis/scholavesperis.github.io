@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche après Pâques
 ---
 **Dimanche 30 avril 2017, messe de 19h**
@@ -25,4 +25,3 @@ Guillaume de Machaut 1300-1377
 
 **Sortie : Domine salvam fac Galliam**  
 faux-bourdon provençal (bibliothèque Inguimbertine) - XVIIe
-
