@@ -91,7 +91,7 @@ destructe sunt quia mete
 demonis astuti, 
 sumus effecti quia tuti. 
 O princeps Christe! 
-tibi laus sit modulus iste.*
+tibi laus sit modulus iste.
 
 *Superius  
 Chorus nove Jerusalem 
