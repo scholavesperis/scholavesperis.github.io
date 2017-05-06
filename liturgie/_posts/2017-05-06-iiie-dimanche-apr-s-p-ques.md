@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche après Pâques
 ---
 **Dimanche 7 mai 2017, messe de 19h**
