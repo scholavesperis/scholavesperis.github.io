@@ -33,4 +33,5 @@ Lireplus
 &nbsp;
 
 ![Christe surrexit.jpg]({{site.baseurl}}/images/Christe surrexit.jpg)
-**Chistus surrexit / Chorus nove Jerusalem** motet anonyme tchèque *Codex Franus* f.334v,335r
+**Chistus surrexit / Chorus nove Jerusalem** motet anonyme tchèque  
+*Codex Franus* f.334v,335r
