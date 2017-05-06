@@ -75,7 +75,7 @@ et a emmené au ciel
 ceux qu'il aimait, 
 Kyrie eleison. 
  
-Motetus  
+*Motetus  
 Christus surrexit, 
 vinctos de carcere vexit 
 et quos dilexit, 
@@ -91,9 +91,9 @@ destructe sunt quia mete
 demonis astuti, 
 sumus effecti quia tuti. 
 O princeps Christe! 
-tibi laus sit modulus iste. 
+tibi laus sit modulus iste. *
 
-Superius  
+*Superius  
 Chorus nove Jerusalem 
 novam melli dulcedinem 
 promat, colens cum sobriis 
@@ -105,11 +105,11 @@ a morte functos suscitat.
 Quam devorarat, improbus 
 predam refudit thartarus, 
 captivitate libera 
-Iesum sequntur agmina.
+Iesum sequntur agmina.*
 
-Tenor  
+*Tenor  
 Christus surrexit, 
 mala nostra texit, 
 et quos hic dilexit, 
 hos ad celos vexit, 
-Kyrie eleison. 
+Kyrie eleison.*
