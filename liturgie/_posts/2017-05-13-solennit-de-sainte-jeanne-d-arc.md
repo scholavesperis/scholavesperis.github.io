@@ -36,5 +36,5 @@ Lireplus
 &nbsp;
 
 ![Dulciter.jpeg]({{site.baseurl}}/images/Dulciter.jpeg)
-**Dulciter hymnos / Dignum summo Patri** motetus et contratenor du *manuscrit de Chypre (Torino J.II.9).* Motet en acrostiche de "Deo Gratias. Amen" - Anonyme XVe
+**Dulciter hymnos / Dignum summo Patri** motetus et contratenor du *manuscrit de Chypre (Torino J.II.9 f.90v).* Motet en acrostiche de "Deo Gratias. Amen" - Anonyme XVe
 
