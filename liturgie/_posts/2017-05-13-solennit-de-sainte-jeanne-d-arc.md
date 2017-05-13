@@ -17,7 +17,7 @@ faux-bourdons du 4e ton, Ludwid Senfl 1486-1542
 **Offertoire : Dulciter hymnos / Dignum summo Patri**  
 Anonyme XVe *manuscrit de Chypre*
 
-**Consécration de la paroisse au Coeur immaculé de la Vierge Marie**  
+**Consécration de la paroisse au Coeur Immaculé de Marie**  
 **Ave Maria**  Anonyme XVIe *Codex Basevi*
 
 **Sanctus & Benedictus**  
