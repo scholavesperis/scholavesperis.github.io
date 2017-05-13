@@ -1,6 +1,6 @@
 ---
-published: false
-title: Solennité de sainte Jeanne d'Arc
+published: true
+title: Solennité de Sainte Jeanne d'Arc
 ---
 **Dimanche 14 mai 2017, messe de 19h**  
 
@@ -30,7 +30,3 @@ Antonie de Févin
 
 **Sortie : Benedicamus Domino**  
 d'après Antoine de Févin *"Ghimel"*
-
-
-
-
