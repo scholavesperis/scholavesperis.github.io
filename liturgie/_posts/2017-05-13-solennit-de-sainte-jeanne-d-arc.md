@@ -30,3 +30,11 @@ Antonie de Févin
 
 **Sortie : Benedicamus Domino**  
 d'après Antoine de Févin *"Ghimel"*
+
+Lireplus
+
+&nbsp;
+
+![Dulciter.jpeg]({{site.baseurl}}/images/Dulciter.jpeg)
+**Dulciter hymnos / Dignum summo Patri** motetus et contratenor du *manuscrit de Chypre (Torino J.II.9).* Motet en acrostiche de "Deo Gratias. Amen" - Anonyme XVe
+
