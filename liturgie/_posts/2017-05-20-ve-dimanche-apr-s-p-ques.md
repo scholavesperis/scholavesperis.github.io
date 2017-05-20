@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ve dimanche après Pâques
 ---
 **Dimanche 21 mai 2017, messe de 19h**
@@ -28,4 +28,3 @@ Anonyme XVIe *Occo codex*
 
 **Sortie : Benedicamus Domino**  
 Jacob Obrecht 1457-1505
-
