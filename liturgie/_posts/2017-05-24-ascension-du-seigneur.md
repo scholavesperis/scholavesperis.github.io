@@ -12,7 +12,7 @@ Comme vous l'avez vu monter au ciel, ainsi il reviendra, alleluia !
 **Introït : Viri Galilaei**  
 
 **Alleluia : Ascendit Deus**  
-Intonation en organum duplum de Léonin - école Notre-Dame XIIe
+organum duplum de Léonin - école Notre-Dame XIIe
 
 **Alleluia : Dominus in Sina**  
 verset en faux-borudon parisien du 8e ton
