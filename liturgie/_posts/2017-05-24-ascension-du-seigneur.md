@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ascension du Seigneur
 ---
 **Jeudi 25 mai 2017, messe de 19h**  
@@ -30,8 +30,3 @@ attribué à Jean Hanelle 1380-1436 *manuscrit de Chypre*
 
 **Sortie : Deo gratias**  
 Anonyme anglais XIVe
-
-
-
-
-
