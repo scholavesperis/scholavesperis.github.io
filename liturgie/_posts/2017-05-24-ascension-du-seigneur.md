@@ -23,7 +23,7 @@ Anonyme XVe *manuscrit de Trente*
 **Sanctus & Benedictus**  
 Messe Nostre-Dame de Guillaume de Machaut 1300-1377
 
-**Communion : Christe qui supra sydera / Christe nostra salvatio**  
+**Communion : Christus qui supra sydera / Christe nostra salvatio**  
 attribué à Jean Hanelle 1380-1436 *manuscrit de Chypre*
 
 **Au dernier évangile : Regina caeli**
