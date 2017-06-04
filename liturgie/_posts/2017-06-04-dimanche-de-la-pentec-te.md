@@ -3,7 +3,9 @@ published: true
 title: Dimanche de la Pentecôte
 ---
 **Dimanche 4 juin 2017, messe de 19h**  
-![pentecôte.jpg]({{site.baseurl}}/images/pentecôte.jpg)
+
+![pentecôte.jpg]({{site.baseurl}}/images/pentecôte.jpg)  
+
 *Emitte Spiritum tuum, et creabuntur, et renovabis faciem terrae.*  
 Envoie ton Esprit et tout sera créé, et tu renouvelleras la face de la terre.
 
