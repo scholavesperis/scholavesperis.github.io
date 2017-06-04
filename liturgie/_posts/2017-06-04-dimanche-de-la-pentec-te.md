@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Pentecôte
 ---
 **Dimanche 4 juin 2017, messe de 19h**  
