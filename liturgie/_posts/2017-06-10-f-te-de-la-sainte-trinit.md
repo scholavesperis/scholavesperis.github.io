@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Sainte Trinité
 ---
 **Dimanche 11 juin 2017, messe de 19h**  
@@ -30,4 +30,3 @@ Robert Fayrfax 1464-1521
 
 **Sortie : Deo gratias**  
 d'apèrs Guillaume Dufay 1400-1474
-
