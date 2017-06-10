@@ -1,6 +1,6 @@
 ---
 published: true
-title: Fête de la Sainte Trinité
+title: Fête de la sainte Trinité
 ---
 **Dimanche 11 juin 2017, messe de 19h**  
 
