@@ -31,5 +31,5 @@ Robert Fayrfax 1464-1521
 **Sortie : Deo gratias**  
 d'apèrs Guillaume Dufay 1400-1474
 
-![O.jpg]({{site.baseurl}}/images/O.jpg)
+
 
