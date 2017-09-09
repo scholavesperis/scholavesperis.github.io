@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XIVe dimanche après la Pentecôte
 ---
 **Dimanche 10 septembre 2017, messe de 19h**
