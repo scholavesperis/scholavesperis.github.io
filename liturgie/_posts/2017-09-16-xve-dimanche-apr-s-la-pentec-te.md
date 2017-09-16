@@ -37,4 +37,4 @@ Lireplus
 
 ![Salutaris Amiens.png]({{site.baseurl}}/images/Salutaris Amiens.png)  
 **O salutaris Hostia** anonyme à 3 voix *ms d'Amiens 162D*  
-Etude et transcription du manuscrit par Peter Woetmann Christoffersen : http://amiens.pwch.dk/Description.html
+Etude et transcription du manuscrit complet par Peter Woetmann Christoffersen : http://amiens.pwch.dk/Description.html
