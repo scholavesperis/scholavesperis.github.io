@@ -3,6 +3,7 @@ published: true
 title: XVe dimanche après la Pentecôte
 ---
 **Dimanche 17 septembre 2017, messe de 19h**  
+
 ![Christ Chisseaux.jpg]({{site.baseurl}}/images/Christ Chisseaux.jpg)
 
 *...Ad annuntiandum mane misericordiam tuam et veritatem tuam per noctem.*  
