@@ -30,9 +30,9 @@ alternance polyphonique d'H.Isaac 1450-1517 *Choralis Constantinus*
 **Sortie : Gloria Patri**  
 d'apès "Fortuna desperata", anonyme XVe
 
-&nbsp;
-
 Lireplus
+
+&nbsp;
 
 ![Salutaris Amiens.png]({{site.baseurl}}/images/Salutaris Amiens.png)  
 **O salutaris Hostia** anonyme à 3 voix *ms d'Amiens 162D*  
