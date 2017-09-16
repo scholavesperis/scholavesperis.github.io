@@ -12,7 +12,7 @@ Publier dès le matin ton amour, et ta fidélité au long des nuits.
 **Introït : Inclina aurem tuam**  
 
 **Graduel : Bonum est confiteri Domino**  
-Faux-bourdon anonyme à 2 voix
+faux-bourdon anonyme à 2 voix
 
 **Alleluia : Quoniam Deus**  
 versert en faux-bourdon, d'après G.Dufay 1400-1474
