@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XVe dimanche après la Pentecôte
 ---
 **Dimanche 17 septembre 2017, messe de 19h**  
@@ -37,5 +37,3 @@ Lireplus
 ![Salutaris Amiens.png]({{site.baseurl}}/images/Salutaris Amiens.png)
 **O salutaris Hostia** anonyme à 3 voix *ms d'Amiens 162D*
 Transcription du manuscrit par Peter Woetmann Christoffersen : http://amiens.pwch.dk/Description.html
-
-
