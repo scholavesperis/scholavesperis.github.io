@@ -139,7 +139,8 @@ Lireplus
 - ***Salve Regina*** Anonyme -3vx
 - ***Veni Sancte Spiritus*** Anonyme -4vx
 
-## Manuscrit de Chypre ms Torino J.II.9  (motets attribués à Jean Hanelle 1380-1436) :  
+## Manuscrit de Chypre ms Torino J.II.9  
+## (motets attribués à Jean Hanelle 1380-1436) :  
 
 - ***Christe nostra salvatio / Christe qui supra sydera***  
 - ***Da magne Pater / Donis affatim***  
