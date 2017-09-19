@@ -27,7 +27,7 @@ Lireplus
 
 ## Kyriale
 
-- ***Kyrie*** Guillaume de Machaut (1300-1377), Missa Nostre-Dame - 4vx
+- ***Kyrie*** Guillaume de Machaut (1300-1377), Messe de Nostre-Dame - 4vx
 - ***Kyrie*** Antoine de Févin (1470-1512), Missa pros fidelibus defunctis -4vx
 - ***Kyrie*** Pierre de la Rue (1460-1518 ), Missa pro defunctis -4vx
 - ***Kyrie Leroy*** John Taverner (1490-1545) -4vx
@@ -36,17 +36,18 @@ Lireplus
 - ***Kyrie*** Antoine Brumel (1460-1520), Missa A l'ombre d'ung buissonet -4vx
 
 - ***Sanctus*** Jacob Obrecht (1457-1505), Missa Malheur me bat *intonation* -4vx
-- ***Sanctus*** Guillaume de Machaut (1300-1377), Missa Nostre-Dame - 4vx
+- ***Sanctus*** Guillaume de Machaut (1300-1377), Messe de Nostre-Dame - 4vx
 - ***Sanctus*** Johannes Brassart (1400-1455) -3vx
 - ***Sanctus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
 - ***Sanctus*** Anonyme XVe, Cancionero de la Colombina -4vx
 - ***Sanctus*** Anonyme XIVe, messe de la Sorbonne -3vx
+- ***Sanctus*** Anonyme XIVe, messe de Tournai -3vx  
 - ***Benedictus*** Antoine de Févin (1470-1512), Missa pro fidelibus defunctis -5vx
 - ***Hosanna in excelsis*** Antoine de Févin (1470-1512), Missa de Feria -4vx
 - ***Hosanna in excelsis*** Jacob Obrecht (1457-1505), Missa de Sancto Donatiano -4vx
 - ***Hosanna in excelsis*** d'après Johannes Martini (1440-1497)
 
-- ***Agnus Dei*** Guillaume de Machaut (1300-1377), Missa Nostre-Dame - 4vx
+- ***Agnus Dei*** Guillaume de Machaut (1300-1377), Messe de Nostre-Dame - 4vx
 - ***Agnus Dei*** Touront (XVe), Missa Sine nomine, manuscrit de Trente -3vx
 - ***Agnus Dei*** Anonyme, manuscrit de Trente -3vx
 - ***Agnus Dei*** Johannes Ockeghem (1420-1495), Missa Mi-mi « dona nobis pacem » -4vx
@@ -107,6 +108,7 @@ Lireplus
 - ***Amen dico vobis***
 - ***Dicite Dominus***
 - ***Dicite pusillanimes***
+- ***Domine memorabor***  
 - ***Dominus Firmamentum***
 - ***Ego sum pastor bonus***
 - ***Hoc corpus***
@@ -136,6 +138,17 @@ Lireplus
 - ***Rorate caeli*** Anonyme -4vx
 - ***Salve Regina*** Anonyme -3vx
 - ***Veni Sancte Spiritus*** Anonyme -4vx
+
+## Manuscrit de Chypre (attribué à Jean Hanelle 1380-1436) :  
+
+- ***Christe nostra salvatio / Christe qui supra sydera***  
+- ***Da magne Pater / Donis affatim***  
+- ***Dignum summo / Dulciter hymnos***  
+- ***Hodie puer nascitur / Homo mortalis***  
+- ***In talem transfiguratur / Iubar lustrat***  
+- ***Paraclite Spiritus / Qui Patris atris***  
+- ***Veni splendor mirabilis / O Oriens***  
+
 
 ## Motets & Hymnes:
 
