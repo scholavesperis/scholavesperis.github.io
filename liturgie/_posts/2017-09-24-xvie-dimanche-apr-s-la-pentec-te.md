@@ -18,7 +18,7 @@ faux-bourdon du 6e ton, Engarandus Juvenis - XVe
 **Alleluia : Cantate Domino**  
 verset en faux-bourdon parisien - 1er ton
 
-**Offertoire : Venite exultemus Domino**  
+**Offertoire : Rex cui omnia vivunt**  
 Cristobal de Morales 1500-1553
 
 **Consécration : O salutaris Hostia**  
