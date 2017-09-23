@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XVIe dimanche après la Pentecôte
 ---
 **Dimanche 24 septembre 2017, messe de 19h**  
@@ -31,4 +31,3 @@ Gilles Binchois 1400-1460
 
 **Sortie : Loco Deo gratias**  
 Pierre de la Rue 1452-1518
-
