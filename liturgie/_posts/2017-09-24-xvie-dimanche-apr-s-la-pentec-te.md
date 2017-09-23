@@ -13,7 +13,7 @@ Aie pitié de moi, Seigneur, car vers toi je crie tout le jour.
 **Introït : Miserere mihi**  
 
 **Graduel : Timebunt gentes**  
-Faux-bourdon du 6e ton, Engarandus Juvenis - XVe
+faux-bourdon du 6e ton, Engarandus Juvenis - XVe
 
 **Alleluia : Cantate Domino**  
 verset en faux-bourdon parisien - 1er ton
