@@ -22,7 +22,7 @@ verset en faux-bourdon parisien - 1er ton
 Cristobal de Morales 1500-1553
 
 **Consécration : O salutaris Hostia**  
-Anonyme XVIe *Missarum musicalium, liber tertius - Pierre Attaignant*
+Anonyme XVIe *Missarum musicalium, liber tertius - Pierre Attaingnant*
 
 **Communion : Te Deum**  
 Gilles Binchois 1400-1460
