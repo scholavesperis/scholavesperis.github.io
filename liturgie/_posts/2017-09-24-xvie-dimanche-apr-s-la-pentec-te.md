@@ -22,7 +22,7 @@ verset en faux-bourdon parisien - 1er ton
 Cristobal de Morales 1500-1553
 
 **Consécration : O salutaris Hostia**  
-Anonyme XVIe *Occo codex*
+Anonyme XVIe *Missarum musicalium, liber tertius - Pierre Attaignant*
 
 **Communion : Te Deum**  
 Gilles Binchois 1400-1460
@@ -31,3 +31,12 @@ Gilles Binchois 1400-1460
 
 **Sortie : Loco Deo gratias**  
 Pierre de la Rue 1452-1518
+
+Lireplus
+
+&nbsp;
+
+![Salutaris Attaignant.jpg]({{site.baseurl}}/images/Salutaris Attaignant.jpg)
+**O salutaris Hostia** Anonyme XVIe  
+*Missarum musicaliumquatuor vocum cum suis motetis, liber tertius - Pierre Attaignant*  
+Le 1er vers "O salutaris Hostia" est chanté en plain-chant
