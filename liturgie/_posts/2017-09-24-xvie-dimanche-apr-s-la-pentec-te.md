@@ -38,5 +38,5 @@ Lireplus
 
 ![Salutaris Attaignant.jpg]({{site.baseurl}}/images/Salutaris Attaignant.jpg)
 **O salutaris Hostia** Anonyme XVIe  
-*Missarum musicalium quatuor vocum cum suis motetis, liber tertius - Pierre Attaignant*  
+*Missarum musicalium quatuor vocum cum suis motetis, liber tertius - Pierre Attaingnant*  
 Le 1er vers "O salutaris Hostia" est chanté en plain-chant
