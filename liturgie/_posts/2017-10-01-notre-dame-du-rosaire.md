@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Notre-Dame du Rosaire
 ---
 **Dimanche 1er octobre 2017, messe de 19h**  
@@ -37,5 +37,3 @@ Lireplus
 
 ![Mariam_matrem_virginem.jpg]({{site.baseurl}}/images/Mariam_matrem_virginem.jpg)
 **Mariam Matrem Virginem** *Llibre Vermell* de l'abbaye de Montserrat - XVe
-
-
