@@ -36,4 +36,4 @@ Lireplus
 &nbsp;
 
 ![Mariam_matrem_virginem.jpg]({{site.baseurl}}/images/Mariam_matrem_virginem.jpg)
-**Mariam Matrem Virginem** *Llibre Vermell* de l'abbaye de Montserrat - XVe
+**Mariam Matrem Virginem** *Llibre Vermell* de l'abbaye de Montserrat (Catalogne) - XVe
