@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XVIIIe dimanche après la Pentecôte
 ---
 **Dimanche 8 octobre 2017, messe de 19h**  
