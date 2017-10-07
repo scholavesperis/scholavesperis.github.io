@@ -12,9 +12,7 @@ Que la paix règne dans tes remparts, et l'abondance dans tes palais !
 
 **Introït : Da pacem, Domine**
 
-**Graduel : Laetatus sum**
-
-**Alleluia : Timebunt gentes**  
+**Graduel: Laetatus sum / Alleluia: Timebunt gentes**  
 
 **Offertoire : De monte lapis**  
 Anonyme XIIIe - conduit, école Notre-Dame
