@@ -25,4 +25,4 @@ Anonyme XIIIe - d'après *codex Las Huelgas*
 **Au dernier évangile : Salve Regina**  
 
 **Sortie : Benedicamus Domino**  
-Anonyme XIIIe *codex Montpellier*
+Anonyme XIIIe - *codex Montpellier*
