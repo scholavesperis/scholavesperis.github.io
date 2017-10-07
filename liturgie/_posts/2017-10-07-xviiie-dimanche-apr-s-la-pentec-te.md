@@ -22,7 +22,7 @@ Anonyme XIIIe - conduit, école Notre-Dame
 **Consécration : O salutaris Hostia**
 
 **Communion : Pange lingua**  
-d'après *codex Huelgas* anonyme XIIIe
+anonyme XIIIe - d'après *codex Huelgas*  
 
 **Au dernier évangile : Salve Regina**  
 
