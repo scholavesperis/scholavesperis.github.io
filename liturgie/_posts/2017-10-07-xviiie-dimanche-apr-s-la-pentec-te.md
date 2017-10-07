@@ -10,7 +10,7 @@ title: XVIIIe dimanche après la Pentecôte
 *Fiat pax in virtute tua et abundantia in turribus tuis*  
 Que la paix règne dans tes remparts, et l'abondance dans tes palais !
 
-**Introït : Da pacem**
+**Introït : Da pacem, Domine**
 
 **Graduel : Laetatus sum**
 
