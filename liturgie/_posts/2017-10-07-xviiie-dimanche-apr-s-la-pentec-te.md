@@ -15,7 +15,7 @@ Que la paix règne dans tes remparts, et l'abondance dans tes palais !
 **Graduel: Laetatus sum / Alleluia: Timebunt gentes**  
 
 **Offertoire : De monte lapis scinditur**  
-Anonyme XIIIe école Notre-Dame - conduit
+Anonyme XIIIe - école Notre-Dame
 
 **Consécration : O salutaris Hostia**
 
