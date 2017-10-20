@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXe dimanche après la Pentecôte
 ---
 **Dimanche 22 octobre 2017, messe de 19h**  
@@ -30,5 +30,3 @@ Anonyme XVe *ms de Chypre*
 
 **Sortie : Benedicamus Domino**  
 d'après Antoine de Févin
-
-
