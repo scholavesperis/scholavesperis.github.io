@@ -12,6 +12,7 @@ Sa puissance est une puissance éternelle : elle ne lui sera pas enlevée.
 **Introït : Dignus est Agnus**
 
 **Graduel : Dominabitur**  
+Faux-bourdon du 5e ton *Graduel de Lyon* 1817
 
 **Alleluia : Potestas ejus**  
 Verset en faux-bourdon parisien du Ier ton royal
