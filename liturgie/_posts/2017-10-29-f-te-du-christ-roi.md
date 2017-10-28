@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête du Christ-Roi
 ---
 **Dimanche 29 octobre 2017, messe de 19h**  
@@ -35,4 +35,4 @@ Lireplus
 &nbsp;
 
 ![Christus vincit lat1118.jpg]({{site.baseurl}}/images/Christus vincit lat1118.jpg)
-**Laudes Regiae** *Tropaire / Prosaire à l'usage d"Auch* Paris, BNF lat.1118 f.38v 
+**Laudes Regiae** *Tropaire / Prosaire à l'usage d"Auch* Paris, BNF lat.1118 f.38v
