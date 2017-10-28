@@ -20,7 +20,7 @@ Verset en faux-bourdon parisien du Ier ton royal
 Alternance polyphonique de G.P.Palestrina 1525-1594
 
 **Consécration : O salutaris Hostia**  
-Anonyme XVIe - Amiens
+Anonyme XVIe - Amiens *ms 162 D*
 
 **Communion : Te Deum**  
 Alternance polyphonique de Gilles Binchois 1400-1460
