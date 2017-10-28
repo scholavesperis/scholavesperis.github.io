@@ -7,7 +7,7 @@ title: Fête du Christ-Roi
 ![Christ_Bonaguida.jpg]({{site.baseurl}}/images/Christ_Bonaguida.jpg)
 
 *Potestas ejus, potestas aeterna, quae non auferetur*  
-Sa puissance est une puissance éternelle, elle ne lui sera pas enlevée.
+Sa puissance est une puissance éternelle : elle ne lui sera pas enlevée.
 
 **Introït : Dignus est Agnus**
 
