@@ -6,7 +6,7 @@ title: XXIIe dimanche après la Pentecôte
 
 ![Si iniquitates.jpg]({{site.baseurl}}/images/Si iniquitates.jpg)
 
-*Ego clamavi, quoniam exaudisti me, Deus**  
+*Ego clamavi, quoniam exaudisti me, Deus*   
 Je t'appelle, puisque tu m'écoutes, mon Dieu.
 
 **Introït : Si iniquitates**
