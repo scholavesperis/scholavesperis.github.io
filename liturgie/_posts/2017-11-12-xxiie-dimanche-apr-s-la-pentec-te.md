@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXIIe dimanche après la Pentecôte
 ---
 **Dimanche 5 novembre 2017, messe de 19h**  
