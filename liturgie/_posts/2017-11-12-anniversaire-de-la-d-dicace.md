@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Anniversaire de la Dédicace
 ---
 **Dimanche 12 novemebre 2017, messe de 19h**  
