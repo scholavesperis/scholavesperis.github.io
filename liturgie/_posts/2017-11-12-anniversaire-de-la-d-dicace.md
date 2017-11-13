@@ -35,6 +35,7 @@ Lireplus
 
 &nbsp;
 
-![Urbs Trente.jpg]({{site.baseurl}}/images/Urbs Trente.jpg)
-**Urbs Jerusalem beata** alternance polyphonique pour les strophes paires de l'hymne.  
-Anonyme XVe *manuscrit de Trente f.330r*
+![Urbs ms Trente.jpg]({{site.baseurl}}/images/Urbs ms Trente.jpg)
+
+**Urbs Jerusalem beata** alternance polyphonique à 3 voix  
+Anonyme XVe *manuscrit de Trente Tr91 f.140r*
