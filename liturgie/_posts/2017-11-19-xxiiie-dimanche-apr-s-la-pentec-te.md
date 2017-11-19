@@ -5,6 +5,7 @@ title: XXIIIe dimanche après la Pentecôte
 **Dimanche 19 novembre 2017, messe de 19h**
 
 ![Alleluia De profundis.jpg]({{site.baseurl}}/images/Alleluia De profundis.jpg)
+*Alleluia -De profundis- Graduale Albiense*
 
 *Invocabitis me, et ego exaudiam vos, et reducam captivitatem vestram de cunctis locis*  
 Vous m'invoquerez et je vous écouterai, de partout je ramènerai vos captifs.
