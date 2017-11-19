@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXIIIe dimanche après la Pentecôte
 ---
 **Dimanche 19 novembre 2017, messe de 19h**
@@ -29,8 +29,3 @@ Anonyme XIIIe - d'après *Salve sancta Christi* codex Huelgas
 
 **Sortie : Benedicamus Domino**  
 Anonyme XIIIe - codex Montpellier
-
-
-
-
-
