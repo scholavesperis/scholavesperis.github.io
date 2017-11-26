@@ -4,7 +4,7 @@ title: Dernier dimanche après la Pentecôte
 ---
 **Dimanche 26 novembre 2017, messe de 19h**  
 
-![Christ Baltarga.jpg]({{site.baseurl}}/images/Christ Baltarga.jpg)
+![Christ - Baltarga.jpg]({{site.baseurl}}/images/Christ - Baltarga.jpg)
 
 *Caelum et terra transibunt, verba autem mea non praeteribunt.*  
 Le ciel et la terre passeront, mes paroles ne passeront point.
@@ -28,7 +28,7 @@ Anonyme XVe *ms de Trente*
 
 **Au dernier évangile : Salve Regina**  
 
-**Sortie : O clemens/Salve Regina**  
+**Sortie : O clemens / Salve Regina**  
 Anonyme XVe *ms de Trente*
 
 Lireplus
