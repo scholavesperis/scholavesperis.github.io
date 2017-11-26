@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dernier dimanche après la Pentecôte
 ---
 **Dimanche 26 novembre 2017, messe de 19h**  
