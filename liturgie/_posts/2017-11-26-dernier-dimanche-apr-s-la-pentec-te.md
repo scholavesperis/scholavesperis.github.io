@@ -37,4 +37,4 @@ Lireplus
 
 ![Pange lingua Trente.jpg]({{site.baseurl}}/images/Pange lingua Trente.jpg)
 **Pange lingua** alternance polyphonique à 3 voix, anonyme XVe  
-*manuscrit de Trente Tr91 f.208v-209r*
+*manuscrit de Trente Tr91 f.208v*
