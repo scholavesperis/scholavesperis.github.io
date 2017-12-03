@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ier dimanche de l'Avent
 ---
 **Dimanche 3 décembre 2017, messe de 19h**  
