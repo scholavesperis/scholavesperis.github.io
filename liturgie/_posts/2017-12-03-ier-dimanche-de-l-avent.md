@@ -37,4 +37,4 @@ Lireplus
 &nbsp;
 
 ![Conditor Trente.jpg]({{site.baseurl}}/images/Conditor Trente.jpg)
-**Conditor alme syderum** alternance polyphonique du manuscrit de Trente tr82 f.219v
+**Conditor alme syderum** alternance polyphonique du manuscrit de Trente Tr82 f.219v
