@@ -18,7 +18,7 @@ Faux-bourdon du 1er ton - Guillaume Dufay 1400-1474
 **Alleluia : Ostende nobis**  
 verset en faux-bourdon - Johannes Brassart 1400-1455
 
-**Offertoire : Conditor alme syderum**
+**Offertoire : Conditor alme syderum**  
 alternance polyphonique anonyme du ms de Trente - XVe
 
 **Consécration : O salutaris Hostia**  
