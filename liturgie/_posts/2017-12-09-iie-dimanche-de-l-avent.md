@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche de l'Avent
 ---
 **Dimanche 10 décembre 2017, messe de 19h**  
@@ -32,5 +32,3 @@ d'après *Alma polis religio* Johannes de Porta XVe *codex Chantilly*
 d'après *Daleth* Thomas Tallis 1505-1585
 
 *Messe célébrée à l'intention de Gérard Mantel-Ferréol, chanteur de la schola, au ciel depuis un an.*
-
-
