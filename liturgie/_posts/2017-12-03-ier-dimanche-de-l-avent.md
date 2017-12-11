@@ -25,7 +25,7 @@ alternance polyphonique anonyme du ms de Trente - XVe
 attribué à Josquin Desprez 1450-1521
 
 **Communion : O Sapientia**  
-attribué à Jean Hanelle 1380-1436
+attribué à Jean Hanelle 1380-1436 *ms de Chypre*
 
 **Au dernier évangile : Alma redemptoris mater**  
 
