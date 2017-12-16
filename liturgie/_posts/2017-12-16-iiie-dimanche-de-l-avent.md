@@ -33,4 +33,4 @@ Lireplus
 &nbsp;
 
 ![Conditor-Festa.jpg]({{site.baseurl}}/images/Conditor-Festa.jpg)
-*Qui condolens* alternance polyphonique du **Conditor alme siderum** Costanzo Festa, archive du Vatican
+*Qui condolens* alternance polyphonique de l'hymne **Conditor alme siderum**, Costanzo Festa, archive du Vatican
