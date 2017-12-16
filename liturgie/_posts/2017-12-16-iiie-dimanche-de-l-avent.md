@@ -9,7 +9,7 @@ title: IIIe dimanche de l'Avent - Gaudete
 *Dicite : pusillanimes confortamini, et nolite timere : ecce Deus noster veniet !*  
 Dites à ceux qui sont abattus : prenez courage, ne craignez pas ! Voici notre Dieu qui vient.
 
-**Introït : Gaudete in Domino semper**
+**Introït : Gaudete in Domino**
 
 **Graduel : Qui sedes**  
 faux-bourdon du 7e ton, Guillaume Dufay 1400-1474
