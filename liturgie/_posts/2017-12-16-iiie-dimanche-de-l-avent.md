@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche de l'Avent - Gaudete
 ---
 **Dimanche 17 décembre 2017, messe de 19h**  
