@@ -6,7 +6,7 @@ title: IIIe dimanche de l'Avent - Gaudete
 
 ![Gaudete b.jpg]({{site.baseurl}}/images/Gaudete b.jpg)
 
-*Dicite : pusillanimes confortamini, et nolite timere : ecce Deus noster veniet*  
+*Dicite : pusillanimes confortamini, et nolite timere : ecce Deus noster veniet !*  
 Dites à ceux qui sont abattus : prenez courage, ne craignez pas ! Voici notre Dieu qui vient.
 
 **Introït : Gaudete in Domino semper**
