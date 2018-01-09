@@ -24,6 +24,9 @@ Anonyme XVIe
 **Communion : Hodie puer nascitur / Homo mortalis**  
 attribué à Jean Hanelle 1380-1436 *manuscrit de Chypre*
 
+**Vidimus stellam ejus**  
+
+
 **Au dernier évangile : Alma redemptoris Mater**  
 
 **Sortie : Marche des rois**  
