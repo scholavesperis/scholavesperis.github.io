@@ -31,3 +31,10 @@ attribué à Jean Hanelle 1380-1436 *manuscrit de Chypre*
 
 **Sortie : Marche des rois**  
 attribué à J.B. Lully 1632-1687
+
+Lireplus
+
+&nbsp;
+
+![Vidimus Einsiedeln.jpg]({{site.baseurl}}/images/Vidimus Einsiedeln.jpg)
+**Vidimus stellam ejus** *Codex Einsiedeln 121 f.52*
