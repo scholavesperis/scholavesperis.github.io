@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Épiphanie du Seigneur
 ---
 **Dimanche 7 janvier 2018, messe de 19h**
@@ -28,4 +28,3 @@ attribué à Jean Hanelle 1380-1436 *manuscrit de Chypre*
 
 **Sortie : Marche des rois**  
 attribué à J.B. Lully 1632-1687
-
