@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche après l'Épiphanie
 ---
 **Dimanche 14 janvier 2018, messe de 19h**
