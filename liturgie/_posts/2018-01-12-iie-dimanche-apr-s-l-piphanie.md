@@ -6,8 +6,8 @@ title: IIe dimanche après l'Épiphanie
 
 ![Noces Cana.jpg]({{site.baseurl}}/images/Noces Cana.jpg)
 
-*Jesu impleri hydrias aqua, quae in vinum conversa est.*  
-Jésus ordonna de remplir les urnes d'eau, et cette eau fut changée en vin.
+*Jesu impleri hydrias aqua, quae in vinum conversa est. Alleluia*  
+Jésus ordonna de remplir les urnes d'eau, et cette eau fut changée en vin, Alleluia !
 
 **Introït : Omnis terra**
 
