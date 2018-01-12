@@ -33,7 +33,7 @@ Anonyme XIIIe *Codex Montpellier*
 
 Lireplus
 
-&nbsp:
+&nbsp;
 
 ![Alle psallite.jpg]({{site.baseurl}}/images/Alle psallite.jpg)
 **Alle psallite cum luya** anonyme XIIIe *Codex Montpellier f.390r-390v*  
