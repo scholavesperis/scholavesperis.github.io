@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche après l'Épiphanie
 ---
 **Dimanche 21 janvier 2018, messe de 19h**  
@@ -39,4 +39,3 @@ Lireplus
 ![Benedicamus Domino Pluteus.jpg]({{site.baseurl}}/images/Benedicamus Domino Pluteus.jpg)
 **Benedicamus Domino** organum à 3 voix de l'École Notre-Dame *manuscrit Pluteus 29.1  f.44v-45r*
 manuscrit en ligne : http://teca.bmlonline.it/ImageViewer/servlet/ImageViewer?idr=TECA0000342136#page/3/mode/1up
-
