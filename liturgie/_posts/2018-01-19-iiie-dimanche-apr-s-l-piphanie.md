@@ -23,7 +23,7 @@ Organum de l'École Notre-Dame anonyme XIIIe
 d'après *Verbum Bonum* anonyme XIIIe
 
 **Communion : Dominus Regnavit**  
-d'après *Ex eius tumba* École ND anonyme XIIIe
+d'après l'organum *Ex eius tumba* anonyme XIIIe
 
 **Mirabantur omnes**
 
