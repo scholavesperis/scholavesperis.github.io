@@ -17,7 +17,7 @@ psalmodie du Ve ton
 **Alleluia : Dominus Regnavit**  
 
 **Offertoire : Benedicamus Domino**  
-Organum de l'École Notre-Dame anonyme XIIIe *ms Pluteus 29.1*
+Organum de l'École Notre-Dame anonyme XIIIe
 
 **Consécration : Ecce panis Angelorum**  
 d'après *Verbum Bonum* anonyme XIIIe
