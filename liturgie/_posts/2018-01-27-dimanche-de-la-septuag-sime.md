@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Septuagésime
 ---
 **Dimanche 28 janvier 2018, messe de 19h**  
@@ -31,4 +31,3 @@ Grégorien & alternance polyphonique d'organum - école Notre-Dame
 
 **Sortie : Deo Gratias**  
 Anonyme XIIIe *ms Assisi 695*
-
