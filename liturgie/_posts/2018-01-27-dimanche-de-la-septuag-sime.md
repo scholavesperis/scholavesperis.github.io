@@ -25,7 +25,7 @@ Anonyme XIIIe école Notre-Dame *ms Pluteus 29.1*
 attribué à Josquin Desprez 1450-1521
 
 **Communion : Illumina faciel tuam**  
-Grégorien & alternance polyphonique d'organum - école Notre-Dame
+Grégorien & alternances polyphoniques d'organum - école Notre-Dame
 
 **Au dernier évangile : Alma redemptoris Mater**
 
