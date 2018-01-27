@@ -13,10 +13,10 @@ Le Seigneur est mon rocher, ma forteresse et mon libérateur.
 **Introït : Circumdederunt me**
 
 **Graduel : Adjutor in opportunitatibus**  
-Faux-bourdon parisien à 3 voix du 3e ton
+Faux-bourdon parisien du 3e ton
 
 **Trait : De profundis**  
-Faux-bourdon parisien à 3 voix du 8e ton
+Faux-bourdon parisien du 8e ton
 
 **Offertoire : Benedicamus Domino**  
 Anonyme XIIIe école Notre-Dame *ms Pluteus 29.1*
