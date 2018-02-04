@@ -36,6 +36,6 @@ Lireplus
 
 &nbsp;
 
-![Diffusa est Pluteus.jpg]({{site.baseurl}}/images/Diffusa%20est%20Pluteus.jpg)
+![Diffusa est Pluteus.jpg]({{site.baseurl}}/images/Diffusa%20est%20Pluteus.jpg)  
 **Diffusa est gratia** attribué à Perotin le Grand, école Notre-Dame de Paris XIIIe.
 *ms Pluteus 29.1 f.12-12v*
