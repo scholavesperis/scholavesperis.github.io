@@ -4,6 +4,9 @@ title: Solennité de la Chandeleur
 ---
 **Dimanche 4 février 2018, messe de 19h**  
 
+![Chandeleur - Psautier Theodore.jpg]({{site.baseurl}}/images/Chandeleur - Psautier Theodore.jpg)
+
+
 *Diffusa est gratia in labiis tuis, propterea benedixit te Deus in aeternum.*  
 La grâce est répandue sur tes lèvres, c’est pourquoi Dieu t'a béni pour l’éternité.
 
