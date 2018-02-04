@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Solennité de la Chandeleur
 ---
 **Dimanche 4 février 2018, messe de 19h**  
