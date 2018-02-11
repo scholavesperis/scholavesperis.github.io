@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Quinquagésime
 ---
 **Dimanche 11 février 2018, messe de 19h**  
@@ -33,4 +33,3 @@ attribué à Jean Hanelle 1380-1436 *ms de Chypre*
 
 **Sortie : Deo gratias**  
 organum école Notre-Dame XIIIe
-
