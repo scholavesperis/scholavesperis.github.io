@@ -15,7 +15,7 @@ Tu es béni Seigneur, enseigne-moi tes volontés.
 **Graduel : Tu es Deus**  
 psalmodie du 3e ton
 
-**Trait : Jubolate Deo**  
+**Trait : Jubilate Deo**  
 faux-bourdon du 8e ton - Graduel de Lyon
 
 **Offertoire : Benedictus es, Domine**  
