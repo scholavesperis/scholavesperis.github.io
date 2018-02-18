@@ -18,7 +18,7 @@ faux-bourdon lyonnais du 2e ton, Graduel de Lyon 1817
 faux-bourdon lyonnais du 2e ton
 
 **Offertoire : Audi benigne Conditor**  
-Hymne & alternance polyphonique de G.Dufay 1400-1474
+hymne & alternance polyphonique de G.Dufay 1400-1474
 
 **Consécration : O salutaris Hostia**
 
