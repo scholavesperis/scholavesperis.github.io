@@ -1,6 +1,6 @@
 ---
-published: false
-title: ''
+published: true
+title: IIe dimanche de Carême
 ---
 **Dimanche 25 février 2018, messe de 19h**  
 
