@@ -27,6 +27,8 @@ d'après *Qui n'a le cuer rainpli* anonyme XVe *ms de Chypre*
 **Communion : In talem transfiguratur**  
 attribué à Jean Hanelle 1380-1436 manuscrit de Chypre
 
+**Intellige clamorem meum**
+
 **Au dernier évangile : Ave Regina caelorum**
 
 **Sortie : Benedicamus Domino**  
