@@ -25,7 +25,7 @@ hymne & alternance polyphonique de Guillaume Dufay 1400-1474
 d'après *Qui n'a le cuer rainpli* anonyme XVe *ms de Chypre*
 
 **Communion : In talem transfiguratur**  
-attribué à Jean Hanelle 1380-1436 manuscrit de Chypre
+attribué à Jean Hanelle 1380-1436 *ms de Chypre*
 
 **Intellige clamorem meum**
 
