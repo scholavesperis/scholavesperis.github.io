@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche de Carême
 ---
 **Dimanche 4 mars 2018, messe de 19h**
