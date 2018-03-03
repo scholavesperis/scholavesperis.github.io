@@ -24,7 +24,7 @@ Anonyme XVe *manuscrit de Trente*
 Anonyme XVIe *manuscrit d'Amiens 162*
 
 **Communion : Quam dilecta**  
-d'après *Ida capillorum* Anonyme XIVe *codex Ivrea*
+Anonyme XIVe d'après *Ida capillorum* - *codex Ivrea*
 
 **Passer**
 
