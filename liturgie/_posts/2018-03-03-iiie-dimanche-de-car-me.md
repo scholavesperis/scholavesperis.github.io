@@ -31,4 +31,4 @@ d'après *Ida capillorum* Anonyme XIVe *codex Ivrea*
 **Au dernier évangile : Ave Regina caelorum**
 
 **Sortie : Deo gratias**  
-Guillaume Dufay 1400-1474
+Guillaume Dufay
