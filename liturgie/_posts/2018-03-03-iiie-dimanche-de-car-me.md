@@ -7,7 +7,7 @@ title: IIIe dimanche de Carême
 ![femmes giotto.jpg]({{site.baseurl}}/images/femmes giotto.jpg)
 
 *Oculi mei semper ad Dominum, quia ipse evellet de laqueo pedes meos*  
-Mes yeux sont constamment tournés vers le Seigneur, car c’est lui qui dégagera mes pieds du filet.
+Mes yeux sont constamment tournés vers le Seigneur, c’est lui qui dégagera mes pieds du filet.
 
 **Introït : Oculi mei**
 
