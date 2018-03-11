@@ -1,6 +1,6 @@
 ---
 published: true
-title: IVe dimanche de Carême
+title: IVe dimanche de Carême - Laetare
 ---
 **Dimanche 11 mars 2018, messe de 19h**
 
