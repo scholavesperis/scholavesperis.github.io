@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ier dimanche de la Passion
 ---
 **Dimanche 18 mars 2018, messe de 19h**
