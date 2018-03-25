@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche des Rameaux
 ---
 **Dimanche 25 mars 2018, messe de 19h**
