@@ -7,8 +7,8 @@ title: Dimanche des Rameaux
 ![Rameaux Vicq.jpg]({{site.baseurl}}/images/Rameaux Vicq.jpg)
 
 
-*Hosanna, Filio David, benedictus qui venit in nomine Domini.*  
-Hosanna, Fils de David ! Béni soit celui qui vient au nom du Seigneur !
+*Hosanna, filio David, benedictus qui venit in nomine Domini.*  
+Hosanna, fils de David ! Béni soit celui qui vient au nom du Seigneur !
 
 **Introït : Domine, ne longe facias**
 
