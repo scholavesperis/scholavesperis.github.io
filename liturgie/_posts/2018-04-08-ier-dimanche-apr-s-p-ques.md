@@ -21,7 +21,7 @@ Hymne & alternance polyphonique de Guillaume Dufay
 Faux-bourdon
 
 **Communion :  Victima laudum pascalis / Victimis in pascalibus**  
-Anonyme XVe manuscrit de Chypre
+attribué à Jean Hanelle 1380-1436 *manuscrit de Chypre*
 
 **Mitte manum tuam**
 
