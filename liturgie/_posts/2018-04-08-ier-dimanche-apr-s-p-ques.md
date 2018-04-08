@@ -28,4 +28,4 @@ attribué à Jean Hanelle 1380-1436 *manuscrit de Chypre*
 **Au dernier évangile : Regina caeli** 
 
 **Sortie : Deo gratias**  
-Anonyme anglais XIVe
+anonyme anglais XIVe
