@@ -18,7 +18,7 @@ Alternances en faux-bourdon du 7e ton - Guillaume Dufay 1400-1474
 Hymne & alternance polyphonique de Guillaume Dufay 
 
 **Consécration : Benedicam Dominum**  
-Faux-bourdon
+faux-bourdon anonyme - tonus peregrinus
 
 **Communion :  Victima laudum pascalis / Victimis in pascalibus**  
 attribué à Jean Hanelle 1380-1436 *manuscrit de Chypre*
