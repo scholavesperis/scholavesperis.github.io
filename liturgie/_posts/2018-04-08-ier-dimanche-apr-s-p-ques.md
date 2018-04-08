@@ -15,7 +15,7 @@ Comme des enfants nouveau-nés, ayez soif d’un lait spirituel très pur, allel
 Alternances en faux-bourdon du 7e ton - Guillaume Dufay 1400-1474
 
 **Offertoire : Ad coenam agni providi**  
-Hymne & alternance polyphonique de Guillaume Dufay 1400-1474
+Hymne & alternance polyphonique de Guillaume Dufay 
 
 **Consécration : Benedicam Dominum**  
 Faux-bourdon
