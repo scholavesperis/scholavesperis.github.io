@@ -12,10 +12,10 @@ Comme des enfants nouveau-nés, ayez soif d’un lait spirituel très pur, allel
 **Introït : Quasi modo**
 
 **Alleluia : In die resurrectionis & Post dies**  
-Alternances en faux-bourdon du 7e ton - Guillaume Dufay 1400-1474
+faux-bourdons du 7e ton - Guillaume Dufay 1400-1474
 
 **Offertoire : Ad coenam agni providi**  
-Hymne & alternance polyphonique de Guillaume Dufay 
+hymne & alternance polyphonique de Guillaume Dufay 
 
 **Consécration : Benedicam Dominum**  
 faux-bourdon anonyme - tonus peregrinus
