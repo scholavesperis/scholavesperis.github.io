@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ier dimanche après Pâques
 ---
 **Dimanche 8 avril 2018, messe de 19h**
