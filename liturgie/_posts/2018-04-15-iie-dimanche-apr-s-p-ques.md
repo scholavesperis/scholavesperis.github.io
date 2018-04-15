@@ -18,7 +18,7 @@ Alternance de faux-bourdons, Guillaume Dufay & Anonyme parisien
 Attribué à Jean Hanelle 1380-1436 *manuscrit de Chypre*
 
 **Sanctus & Benedictus**  
-*Messe Nostre-Dame* Guillaume de Machaut 1300-1377
+*Messe Nostre-Dame* - Guillaume de Machaut 1300-1377
 
 **Communion : Ego sum pastor bonus**  
 Alternance polyphonique d'Heinrich Isaac, 1450-1517 *Choralis Constantinus*
