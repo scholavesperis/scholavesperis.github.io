@@ -15,7 +15,7 @@ Je suis le bon Pasteur, et je connais mes brebis, et mes brebis me connaissent.
 Alternance de faux-bourdons, Guillaume Dufay & Anonyme parisien
 
 **Offertoire : Victima laudum Pascalis / Victimis in Pascalibus**  
-Anonyme XVe manuscrit de Chypre
+Attribué à Jean Hanelle 1380-1436 *manuscrit de Chypre*
 
 **Sanctus & Benedictus**  
 *Messe Nostre-Dame* Guillaume de Machaut 1300-1377
