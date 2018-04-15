@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche après Pâques
 ---
 **Dimanche 15 avril 2018, messe de 19h**
@@ -12,7 +12,7 @@ Je suis le bon Pasteur, et je connais mes brebis, et mes brebis me connaissent.
 **Introït : Misericordia Domini**
 
 **Alleluia : Cognoverunt & Ego sum pastor bonus**  
-alternance de faux-bourdons, Guillaume Dufay & Anonyme parisien
+Alternance de faux-bourdons, Guillaume Dufay & Anonyme parisien
 
 **Offertoire : Victima laudum Pascalis / Victimis in Pascalibus**  
 Anonyme XVe manuscrit de Chypre
