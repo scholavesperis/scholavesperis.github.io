@@ -20,7 +20,7 @@ d'après Pierre de la Rue 1452-1518
 **Consécration : O salutaris Hostia**  
 attribué à Josquin Desprez 1450-1521
 
-**Communion : Dignum summo Patri**  
+**Communion : Dulciter hymnos / Dignum summo Patri**  
 attribué à Jean Hanelle 1380-1436
 
 **Modicum**
