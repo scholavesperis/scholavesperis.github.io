@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche après Pâques
 ---
 **Dimanche 22 avril 2018, messe de 19h**  
