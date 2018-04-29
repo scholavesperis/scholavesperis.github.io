@@ -14,8 +14,8 @@ Chantez au Seigneur un chant nouveau, alleluia !
 **Alleluia : Dextera Dei & Christus resurgens**  
 Alternances de faux-bourdons - Guillaume Dufay & 1er ton royal parisien
 
-**Offertoire : Ad coenam**  
-Hymne & alternance polyphonique de Guillaume Dufay 1400-1474
+**Offertoire : Venite exultemus Domino**  
+d'après *Qui plus aimme* Guillaume de Machaut 1300-1377
 
 **Consécration : O salutaris Hostia**  
 Anonyme, confrérie des Pénitents Séculiers - Lyon 1610
@@ -25,5 +25,5 @@ Alternance polyphonique d'Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Au dernier évangile : Regina caeli**
 
-**Sortie : Benedicamus Domino, Alleluia**  
-Nesbet XVe
+**Sortie : Benedicamus Domino**  
+d'après *Daleth* Claudin de Sermisy 1490-1562
