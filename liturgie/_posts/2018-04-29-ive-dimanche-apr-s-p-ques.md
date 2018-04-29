@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche après Pâques
 ---
 **Dimanche 29 avril 2018, messe de 19h**  
@@ -27,5 +27,3 @@ Alternance polyphonique d'Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Sortie : Benedicamus Domino, Alleluia**  
 Nesbet XVe
-
-
