@@ -12,7 +12,7 @@ Chantez au Seigneur, et bénissez son nom !
 **Introït : Vocem jucunditatis**
 
 **Alleluia : Surrexit Christus & Exivi a Patre**  
-alternances en faux-bourdon - Chansonnier de Copenhague & Guillaume Dufay
+Alternances en faux-bourdon - Chansonnier de Copenhague & Guillaume Dufay
 
 **Offertoire : Laudate pueri Dominum**  
 Faux-bourdon parisien orné du 6e ton
