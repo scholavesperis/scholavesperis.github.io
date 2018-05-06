@@ -28,4 +28,4 @@ Faux-bourdon parisien orné du IVe ton
 **Au dernier évangile : Regina caeli**
 
 **Sortie : Deo gratias**  
-Antoine de Févin 1470-1512
+d'après Antoine de Févin 1470-1512
