@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ve dimanche après Pâques
 ---
 **Dimanche 6 mai 2018, messe de 19h**
