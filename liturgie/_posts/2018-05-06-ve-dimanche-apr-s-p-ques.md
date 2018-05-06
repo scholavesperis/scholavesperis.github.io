@@ -4,7 +4,7 @@ title: Ve dimanche après Pâques
 ---
 **Dimanche 6 mai 2018, messe de 19h**
 
-
+![Chantre b.jpg]({{site.baseurl}}/images/Chantre b.jpg)
 
 *Cantate Domino, et benedicite nomen ejus*  
 Chantez au Seigneur, et bénissez son nom !
