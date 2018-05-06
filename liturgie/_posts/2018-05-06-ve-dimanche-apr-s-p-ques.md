@@ -25,5 +25,7 @@ Faux-bourdon parisien orné du IVe ton
 
 **Cantate Domino**
 
+**Au dernier évangile : Regina caeli**
+
 **Sortie : Deo gratias**  
 Antoine de Févin 1470-1512
