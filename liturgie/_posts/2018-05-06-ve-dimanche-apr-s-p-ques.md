@@ -15,7 +15,7 @@ Chantez au Seigneur, et bénissez son nom !
 Alternances en faux-bourdon - Chansonnier de Copenhague & Guillaume Dufay
 
 **Offertoire : Laudate pueri Dominum**  
-Faux-bourdon parisien orné du 6e ton
+Faux-bourdon parisien orné du VIe ton
 
 **Consécration : O salutaris Hostia**  
 Anonyme XVIe *Occo codex**
