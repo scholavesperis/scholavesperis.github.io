@@ -23,5 +23,7 @@ Anonyme XVIe *Occo codex**
 **Communion : Exaltabo te**  
 Faux-bourdon parisien orné du IVe ton
 
+**Cantate Domino**
+
 **Sortie : Deo gratias**  
 Antoine de Févin 1470-1512
