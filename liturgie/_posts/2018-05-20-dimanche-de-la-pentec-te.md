@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Pentecôte
 ---
 **Dimanche 20 mai 2018, messe de 19h**  
