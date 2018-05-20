@@ -16,7 +16,7 @@ Royaumes de la terre, chantez pour le chevaucheur des cieux !
 Faux-bourdon parisien du Ier & Guillaume Dufay 1400-1474
 
 **Offertoire : Exsurgat Deus**  
-Psaume 67 - faux-bourdon orné du 6e ton
+Psaume 67 - faux-bourdon orné du VIe ton
 
 **Consécration : O salutaris Hostia**  
 Anonyme XVIe *Occo codex*
