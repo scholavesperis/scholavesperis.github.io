@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche après l'Ascension
 ---
 **Dimanche 13 mai 2018, messe de 19h**
@@ -28,7 +28,3 @@ Anonyme XVe *ms de Trente*
 
 **Sortie : A Jeanne**  
 sur l'air du cantique béarnais *Noust-Damo deou cap deou poun*
-
-
-
-
