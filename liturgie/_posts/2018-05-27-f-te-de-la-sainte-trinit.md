@@ -12,10 +12,10 @@ Tu es béni, Seigneur, Dieu de nos pères, et digne de louange éternellement.
 
 **Introït : Benedicta sit**
 
-**Graduel : Benedictus es**  
+**Graduel : Benedictus es Domine**  
 faux-bourdon du 5e ton Graduel de Lyon 1817
 
-**Alleluia : Benedictus es**  
+**Alleluia : Benedictus es Domine**  
 verset en faux-bourdon, Johannes Brassart 1400-1455
 
 **Offertoire : Laudate Dominum de caelis**  
