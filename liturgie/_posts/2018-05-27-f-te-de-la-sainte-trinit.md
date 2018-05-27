@@ -24,6 +24,9 @@ faux-bourdon corse
 **Sanctus & Benedictus**  
 Anonyme corse
 
+**Agnus Dei**  
+manuscrit franciscain du couvent de Niolu *Corse*
+
 **Communion : Benedicam Dominum**  
 faux-bourdon parisien du 2e ton
 
