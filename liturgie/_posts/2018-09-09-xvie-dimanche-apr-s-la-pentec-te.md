@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XVIe Dimanche après la Pentecôte
 ---
 **Dimanche 9 septembre 2018, messe de 19h**
