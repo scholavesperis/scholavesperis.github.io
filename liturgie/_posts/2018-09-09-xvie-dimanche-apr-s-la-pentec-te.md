@@ -7,7 +7,7 @@ title: XVIe Dimanche après la Pentecôte
 ![Miserere mihi b.jpg]({{site.baseurl}}/images/Miserere mihi b.jpg)
 
 
-*Miserere mihi, Domine, quoniam ad te clamavi tota die.*
+*Miserere mihi, Domine, quoniam ad te clamavi tota die.*  
 Aie pitié de moi, Seigneur, car vers toi je crie tout le jour.
 
 **Introït : Miserere mihi**
