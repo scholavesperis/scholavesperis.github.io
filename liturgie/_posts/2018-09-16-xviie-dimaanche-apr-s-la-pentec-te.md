@@ -7,7 +7,7 @@ title: XVIIe dimanche après la Pentecôte
 ![Iustus es.jpg]({{site.baseurl}}/images/Iustus es.jpg)
 
 *Justus es Domine, et rectum judicium tuum.*  
-Tu es juste Seigneur, et ton jugement est droit.
+Tu es juste Seigneur, et droit est ton jugement.
 
 **Introït : Justus es**
 
