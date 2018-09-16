@@ -22,7 +22,7 @@ faux-bourdon corse à 2 & 3 voix
 **Consécration : O salutaris Hostia**  
 d'après la Cantilena du couvent de Niolu
 
-**Communion : Caro mea / Overe digna / Dominus Deus noster**  
+**Communion : Caro mea / O vere digna / Dominus Deus noster**  
 motet tchèque anonyme XVe
 
 **Vovete et reddite**
