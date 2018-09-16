@@ -1,6 +1,6 @@
 ---
-published: false
-title: XVIIe dimaanche après la Pentecôte
+published: true
+title: XVIIe dimanche après la Pentecôte
 ---
 **Dimanche 16 septembre 2018, messe de 19h**  
 
