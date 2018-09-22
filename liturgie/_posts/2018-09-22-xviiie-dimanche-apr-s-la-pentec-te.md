@@ -14,7 +14,7 @@ Que la paix règne dans tes remparts, et l’abondance dans tes palais !
 **Graduel: Laetatus sum / Alleluia: Timebunt gentes**
 
 **Offertoire : Dirigatur Domine**  
-alternance de faux-bourdon - IVe ton
+versets en faux-bourdon - IVe ton
 
 **Consécration : O salutaris Hostia**  
 d'après la Cantilena du couvent de Niolu - anonyme corse
