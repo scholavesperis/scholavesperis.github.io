@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 title: XVIIIe dimanche après la Pentecôte
 ---
 **Dimanche 23 septembre 2018, messe de 19h**  
 
-
+![Da pacem .jpg]({{site.baseurl}}/images/Da pacem .jpg)
 
 *Fiat pax in virtute tua et abundantia in turribus tuis*  
 Que la paix règne dans tes remparts, et l’abondance dans tes palais !
@@ -18,7 +18,6 @@ alternance de faux-bourdon - IVe ton
 
 **Consécration : O salutaris Hostia**  
 d'après la Cantilena du couvent de Niolu - anonyme Corse
-![Da pacem .jpg]({{site.baseurl}}/images/Da pacem .jpg)
 
 **Communion : O Jhesu vivens hostia / Ave caro Christi**  
 Anonyme tchèque XVe
