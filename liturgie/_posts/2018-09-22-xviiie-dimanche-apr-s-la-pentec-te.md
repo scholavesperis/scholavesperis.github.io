@@ -27,4 +27,4 @@ Anonyme tchèque XVe
 **Au dernier évangile : Salve Regina**
 
 **Sortie : Christe qui lux es**  
-adapté d’après A biasgina corse
+adapté d’après *A biasgina* corse
