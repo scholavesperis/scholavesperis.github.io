@@ -17,7 +17,7 @@ Que la paix règne dans tes remparts, et l’abondance dans tes palais !
 alternance de faux-bourdon - IVe ton
 
 **Consécration : O salutaris Hostia**  
-d'après la Cantilena du couvent de Niolu - anonyme Corse
+d'après la Cantilena du couvent de Niolu - anonyme corse
 
 **Communion : O Jhesu vivens hostia / Ave caro Christi**  
 Anonyme tchèque XVe
