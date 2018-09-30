@@ -29,7 +29,7 @@ Anonyme - Gênes 1649 *Manuale choricanum*
 **Au dernier évangile : Salve Regina**
 
 **Sortie : Domine salvam fac Galliam**  
-faux-bourdon du VIe ton - XVIIe *Bibliothèque Ingimbertine de Carpentras
+faux-bourdon du VIe ton - XVIIe *Bibliothèque Ingimbertine de Carpentras*
 
 Lireplus
 
