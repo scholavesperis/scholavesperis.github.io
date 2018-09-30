@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XIXe dimanche après la Pentecôte
 ---
 **Dimanche 30 septembre 2019, messe de 19h**  
