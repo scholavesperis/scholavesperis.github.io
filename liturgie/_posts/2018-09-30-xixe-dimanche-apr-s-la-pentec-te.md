@@ -6,8 +6,8 @@ title: XIXe dimanche après la Pentecôte
 
 ![Salus populi 3.jpg]({{site.baseurl}}/images/Salus populi 3.jpg)
 
-*Confitemini Domino, et invocate nomen ejus, annuntiate inter gentes opera ejus.*   
-Rendez grâce au Seigneur et invoquez son nom, faîtes connaître ses oeuvres parmi les nations.
+*Confitemini Domino, et invocate nomen ejus.*   
+Rendez grâce au Seigneur et invoquez son nom.
 
 **Introït : Salus populi**
 
