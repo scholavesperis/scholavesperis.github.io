@@ -37,3 +37,4 @@ Lireplus
 
 ![O salutaris Klatovy.jpg]({{site.baseurl}}/images/O salutaris Klatovy.jpg)
 **O salutaris Hostia** anonyme tchèque XVe *ms Klatovy 403*
+lien vers le manuscrit : http://v2.manuscriptorium.com/apps/main/en/index.php?request=request_document&docId=rep_remake45
