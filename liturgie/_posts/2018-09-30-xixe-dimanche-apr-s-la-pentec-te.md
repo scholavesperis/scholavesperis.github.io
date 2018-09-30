@@ -36,4 +36,4 @@ Lireplus
 &nbsp;
 
 ![O salutaris Klatovy.jpg]({{site.baseurl}}/images/O salutaris Klatovy.jpg)
-**O salutaris Hostia** Anonyme tchèque XVe *ms Klatovy 403*
+**O salutaris Hostia** anonyme tchèque XVe *ms Klatovy 403*
