@@ -16,7 +16,7 @@ Rendez grâce au Seigneur et invoquez son nom.
 **Alleluia : Confitemini Domino**
 
 **Offertoire : Dirigatur**  
-versets en faux-bourdon du VIIIe ton
+VIIIe ton - versets en faux-bourdon
 
 **Consécration : O salutaris Hostia**  
 Anonyme tchèque XVe 
