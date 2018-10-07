@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXe dimanche après la Pentecôte
 ---
 **Dimanche 7 octobre 2018, messe de 19h**
