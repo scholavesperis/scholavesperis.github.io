@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXIe dimanche après la Pentecôte
 ---
 **Dimanche 14 octobre 2018, messe de 19h**
