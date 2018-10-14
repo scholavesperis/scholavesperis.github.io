@@ -12,7 +12,7 @@ Seigneur, tu t’es fait notre refuge de génération en génération.
 **Introït : In voluntate tua**
 
 **Graduel : Domine refugium**  
-Faux-bourdon parisien du 2e ton
+Faux-bourdon parisien du IIe ton
 
 **Alleluia : In exitu Israël**
 
