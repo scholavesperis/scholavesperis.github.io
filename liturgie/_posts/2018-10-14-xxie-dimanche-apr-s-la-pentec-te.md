@@ -38,4 +38,5 @@ Lireplus
 
 ![Dominus Pl132r.jpg]({{site.baseurl}}/images/Dominus Pl132r.jpg)
 **Dominus** clausule de l'école Notre-Dame issu du *Viderunt omnes* anonyme XIIe  
-*manuscrit Pluteus 29.1  f.132r*  http://teca.bmlonline.it/ImageViewer/servlet/ImageViewer?idr=TECA0000342136#page/273/mode/1up
+*manuscrit Pluteus 29.1  f.132r*  
+http://teca.bmlonline.it/ImageViewer/servlet/ImageViewer?idr=TECA0000342136#page/273/mode/1up
