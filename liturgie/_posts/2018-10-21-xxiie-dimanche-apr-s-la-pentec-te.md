@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXIIe dimanche après la Pentecôte
 ---
 **Dimacnhe 21 octobre 2018, messe de 19h**  
