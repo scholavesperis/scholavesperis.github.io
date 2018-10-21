@@ -24,6 +24,8 @@ clausule de l'école Notre-Dame - anonyme XIIe
 **Communion : Rex caeli Domine**  
 Anonyme IXe *Musica enchiriadis*
 
+**Ego clamavi**
+
 **Au dernier évangile : Salve Regina**
 
 **Sortie : Christe qui lux es**  
