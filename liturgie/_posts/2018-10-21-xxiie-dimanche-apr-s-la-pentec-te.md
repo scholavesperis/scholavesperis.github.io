@@ -2,7 +2,7 @@
 published: true
 title: XXIIe dimanche après la Pentecôte
 ---
-**Dimacnhe 21 octobre 2018, messe de 19h**  
+**Dimanche 21 octobre 2018, messe de 19h**  
 
 ![Christ Liban.jpg]({{site.baseurl}}/images/Christ Liban.jpg)
 
