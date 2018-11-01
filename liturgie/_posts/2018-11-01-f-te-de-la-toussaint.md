@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Toussaint
 ---
 **Jeudi 1er novembre 2018, messe de 19h**
