@@ -21,7 +21,7 @@ Faux-bourdon parisien du Ier ton
 Béatiudes, faux-bourdon orné du 4e ton
 
 **Sanctus & Benedictus**  
-Antoine de Févin 1470-1512
+Antoine de Févin 1470-1512 *Occo codex*
 
 **Communion : Tantum ergo**  
 Anonyme XVIIe *Manuale choricanum*
