@@ -14,18 +14,18 @@ Donne-leur le repos éternel, et fais briller sur eux la lumière sans fin.
 **Graduel : Requiem aeternam**
 
 **Trait : Absolve, Domine**  
-faux-bourdon du 1er ton
+Faux-bourdon du 1er ton
 
 **Séquence : Dies irae**  
 
 **Offertoire : De profundis**  
-faux-bourdon orné du 1er ton
+Faux-bourdon orné du 1er ton
 
 **Sanctus**  
 Anonyme *Cantilena du couvent de Niolu*
 
 **Consécration : O salutaris Hostia**  
-adaptation d'après la *Cantilena du couvent de Niolu*
+Adaptation d'après la *Cantilena du couvent de Niolu*
 
 **Agnus Dei**  
 Anonyme *Cantilena du couvent de Niolu*
