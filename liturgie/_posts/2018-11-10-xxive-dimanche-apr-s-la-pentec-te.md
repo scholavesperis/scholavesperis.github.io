@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXIVe dimanche après la Pentecôte
 ---
 **Dimanche 4 novembre 2018, messe de 19h**
