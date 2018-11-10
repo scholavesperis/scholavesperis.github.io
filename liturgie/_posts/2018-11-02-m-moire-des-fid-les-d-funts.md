@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Mémoire des fidèles défunts
 ---
 **Vendredi 2 novembre 2018, messe de 19h**  
