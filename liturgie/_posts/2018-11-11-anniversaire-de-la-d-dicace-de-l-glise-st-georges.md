@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Anniversaire de la Dédicace de l'église St Georges
 ---
 **Dimanche 11 novembre 2018, messe de 19h**  
