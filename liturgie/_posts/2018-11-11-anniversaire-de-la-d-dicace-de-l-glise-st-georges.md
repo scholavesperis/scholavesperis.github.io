@@ -21,8 +21,7 @@ faux-bourdon orné du 2e ton
 **Sanctus & Benedictus**  
 Anonyme corse
 
-**Communion : Caelestis urbs Jerusalem** 
-
+**Communion : Caelestis urbs Jerusalem**  
 Alternance polyphonique de Jean-Étienne Langianni
 
 **Au dernier évangile : Salve Regina**
