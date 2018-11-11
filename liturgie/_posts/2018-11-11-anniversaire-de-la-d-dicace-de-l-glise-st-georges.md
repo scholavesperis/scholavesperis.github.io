@@ -16,7 +16,7 @@ Ce lieu est redoutable, c’est la maison de Dieu et la porte du ciel !
 **Alleluia : Adorabo ad templum**  
 
 **Offertoire : Quam dilecta tabernacula tua**  
-faux-bourdon orné du 2e ton
+Faux-bourdon orné du 2e ton
 
 **Sanctus & Benedictus**  
 Anonyme corse
@@ -27,4 +27,4 @@ Alternance polyphonique de Jean-Étienne Langianni
 **Au dernier évangile : Salve Regina**
 
 **Sortie : Domine salvam fac Galliam**  
-faux-bourdon du VIe ton - XVIIe *Bibliothèque Ingimbertine de Carpentras*
+Faux-bourdon du VIe ton - XVIIe *Bibliothèque Ingimbertine de Carpentras*
