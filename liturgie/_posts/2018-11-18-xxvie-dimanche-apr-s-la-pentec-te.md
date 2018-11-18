@@ -17,7 +17,7 @@ Du fond de l’abîme je crie vers vous, Seigneur, Seigneur écoutez ma voix.
 **Alleluia : De profundis clamavi**
 
 **Offertoire : De profundis**  
-faux-bourdon orné du 1er ton
+Faux-bourdon orné du 1er ton
 
 **Sanctus**  
 G.C.Acquaviva / A Filetta
@@ -33,4 +33,4 @@ Anonyme corse - Calvi
 **Au dernier évangile : Salve Regina**  
 
 **Sortie : Christe qui lux es**  
-adaptation d'après *Biasgina* anonyme corse
+Adaptation d'après *Biasgina* anonyme corse
