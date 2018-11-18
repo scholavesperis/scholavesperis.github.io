@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXVIe dimanche après la Pentecôte
 ---
 **Dimanche 18 novembre 2018, messe de 19h**
