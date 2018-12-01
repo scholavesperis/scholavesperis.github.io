@@ -16,7 +16,7 @@ Des profondeurs je crie vers toi, Seigneur, Seigneur, écoute mon appel !
 **Alleluia : De profundis clamavi**
 
 **Offertoire : De profundis**  
-Faux-bourdon orné du 1er ton
+Faux-bourdon orné du Ier ton
 
 **Sanctus & Benedictus**  
 Gilles Binchois 1400-1460 *Missa brevis*
