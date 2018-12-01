@@ -6,8 +6,8 @@ title: Dernier dimanche après la Pentecôte
 
 ![Christ St Chef.jpg]({{site.baseurl}}/images/Christ St Chef.jpg)
 
-*De profundis clamavi ad te Domine, Domine exaudi vocem meam.*  
-Des profondeurs je crie vers toi, Seigneur, Seigneur, écoute mon appel !
+*Cælum et terra transíbunt, verba autem mea non præteríbunt.*  
+Le ciel et la terre passeront, mais mes paroles ne passeront point.
 
 **Introït : Dicit Dominus**
 
