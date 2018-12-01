@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dernier dimanche après la Pentecôte
 ---
 **Dimanche 25 novembre 2018, messe de 19h**  
