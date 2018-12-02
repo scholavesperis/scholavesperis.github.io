@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ier dimanche de l'Avent
 ---
 **Dimanche 2 décembre 2018, messe de 19h**
