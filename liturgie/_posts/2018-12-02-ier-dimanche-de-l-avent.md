@@ -36,4 +36,5 @@ Lireplus
 
 &nbsp;
 
-Lien vers le **Conditor alme syderum** alternance polyphonique anonyme, en bas de page du manuscrit Bodleian Laud lat.95 : https://image.jimcdn.com/app/cms/image/transf/none/path/sf482f2286400608d/image/i1d764e4a9f68f3e6/version/1387058155/image.jpg
+Lien vers le **Conditor alme syderum** alternance polyphonique anonyme, en bas de page du manuscrit Bodleian Laud lat.95 :  
+https://image.jimcdn.com/app/cms/image/transf/none/path/sf482f2286400608d/image/i1d764e4a9f68f3e6/version/1387058155/image.jpg
