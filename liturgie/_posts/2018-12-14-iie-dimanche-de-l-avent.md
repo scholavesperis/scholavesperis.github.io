@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche de l'Avent
 ---
 **Dimanche 9 décembre 2018, messe de 19h**  
