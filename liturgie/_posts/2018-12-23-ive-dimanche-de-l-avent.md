@@ -4,11 +4,10 @@ title: IVe dimanche de l'Avent
 ---
 **Dimanche 23 décembre 2018, messe de 19h**
 
-![Annonciation Novgorod.jpg]({{site.baseurl}}/images/Annonciation Novgorod.jpg)
+![Annonciation Avia.jpg]({{site.baseurl}}/images/Annonciation Avia.jpg)
 
 
-*Rorate caeli desuper, et nubes pluant justum. Aperiatur terra et germinet salvatorem.*  
-Épanchez, cieux, la rosée d'en haut, et que les nuées fassent pleuvoir le Juste,  
+*Aperiatur terra et germinet salvatorem.*  
 Que s'ouvre la terre et fasse germer le Sauveur !
 
 **Introït : Rorate caeli**  
