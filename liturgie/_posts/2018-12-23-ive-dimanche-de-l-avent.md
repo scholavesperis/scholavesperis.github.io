@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche de l'Avent
 ---
 **Dimanche 23 décembre 2018, messe de 19h**
