@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche de l'Avent
 ---
 **Dimanche 16 décembre 2018, messe de 19h**
