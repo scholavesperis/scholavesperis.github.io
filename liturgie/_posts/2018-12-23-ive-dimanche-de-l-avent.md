@@ -26,6 +26,8 @@ d'après la *Cantilena du couvent de Niolu*
 **Communion : Sanctissima, mitissima**  
 cantio tchèque anonyme XVe *codex Franus*
 
+**Ecce virgo**
+
 **Au dernier évangile : Alma redemptoris Mater**  
 
 **Sortie : Veni, veni Emmanuel**  
