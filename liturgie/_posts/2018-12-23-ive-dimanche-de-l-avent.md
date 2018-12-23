@@ -37,4 +37,4 @@ Lireplus
 &nbsp;
 
 ![duo cantio sanctissima 1.260.jpg]({{site.baseurl}}/images/duo cantio sanctissima 1.260.jpg)
-**Sanctissima mitissima** Cantio tchèque anonyme XVe * Codex Franus F.260r/v*
+**Sanctissima mitissima** Cantio tchèque anonyme XVe *Codex Franus F.260r/v*
