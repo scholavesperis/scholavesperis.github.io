@@ -8,7 +8,7 @@ title: IVe dimanche de l'Avent
 
 
 *Rorate caeli desuper, et nubes pluant justum. Aperiatur terra et germinet salvatorem.*  
-Épanchez, cieux; la rosée d'en haut, et que les nuées fassent pleuvoir le Juste,  
+Épanchez, cieux, la rosée d'en haut, et que les nuées fassent pleuvoir le Juste,  
 que s'ouvre la terre et fasse germer le Sauveur !
 
 **Introït : Rorate caeli**  
