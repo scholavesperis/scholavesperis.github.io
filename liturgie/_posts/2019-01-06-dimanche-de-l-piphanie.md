@@ -19,7 +19,7 @@ Voici que vient le Seigneur souverain, le règne et dans sa main, et la force et
 faux-bourdon du 7e ton *bibliothèque Inguimbertine* 1771
 
 **Consécration : O salutaris Hostia**  
-*Pour les fêtes solemnelles* anonyme 1771 *bibliothèque Inguimbertine*
+*Pour les fêtes solemnelles* anonyme *bibliothèque Inguimbertine*
 
 **Communion : Hostis Herodes impie**  
 alternance polyphonique de Charles de Courbes 1580-1628 *Cantiques spirituels*
@@ -29,4 +29,12 @@ alternance polyphonique de Charles de Courbes 1580-1628 *Cantiques spirituels*
 **Au dernier évangile : Alma redemptoris Mater**  
 
 **Sortie : Domine salvam fac galliam**  
-faux bourdon pour les fêtes solemnelles 1771 *bibliothèque Inguimbertine*
+faux-bourdons pour les fêtes solemnelles *bibliothèque Inguimbertine*
+
+Lireplus
+
+&nbsp;
+
+![Domine salvam .jpg]({{site.baseurl}}/images/Domine salvam .jpg)
+**Domine salvum fac regem**  *faux-bourdons pour les fêtes solemnelles* 1771  
+bibliothèque Inguimbertine de Carpentras
