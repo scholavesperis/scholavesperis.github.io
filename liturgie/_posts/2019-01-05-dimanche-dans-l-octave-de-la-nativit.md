@@ -27,3 +27,10 @@ motet tchèque anonyme XVe *Codex Franus*
 **Au dernier évangile : Alma redemptoris Mater**
 
 **Sortie : orgue**
+
+Lireplus
+
+&nbsp;
+
+![in natali 3v .jpg]({{site.baseurl}}/images/in natali 3v .jpg)
+**In natali Domini**  motet anonyme tchèque à 3 voix *Codex Franus* XVe
