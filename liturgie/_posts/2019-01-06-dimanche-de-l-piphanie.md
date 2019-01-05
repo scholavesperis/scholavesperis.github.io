@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de l'Épiphanie
 ---
 **Dimanche 6 janvier 2019, messe de 19h**  
@@ -30,5 +30,3 @@ alternance polyphonique de Charles de Courbes 1580-1628 *Cantiques spirituels*
 
 **Sortie : Domine salvam fac galliam**  
 faux bourdon pour les fêtes solemnelles 1771 *bibliothèque Inguimbertine*
-
-
