@@ -7,7 +7,7 @@ title: Dimanche de l'Épiphanie
 ![Rois Avia.jpg]({{site.baseurl}}/images/Rois Avia.jpg)
 
 *Ecce advenit dominator Deus, et regnum in manu ejus, et potestas et imperium.*  
-Voici que vient le Seigneur souverain, le règne et dans sa main, et la force et le commandement.
+Voici que vient le Seigneur souverain, le règne est dans sa main, et la force et le commandement.
 
 **Introït : Ecce advenit**
 
