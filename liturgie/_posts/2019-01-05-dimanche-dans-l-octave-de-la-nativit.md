@@ -12,7 +12,7 @@ Le Seigneur est Roi, il s'est revêtu de majesté.
 
 **Introït : Dum medium silentium**
 
-**Graduel : Speciosius**  
+**Graduel : Speciosus**  
 
 **Alleluia : Dominus regnavit**  
 
