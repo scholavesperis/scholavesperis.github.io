@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche dans l'octave de la Nativité
 ---
 **Dimanche 30 décembre 2018, messe de 19h**
