@@ -28,7 +28,7 @@ alternance polyphonique de Charles de Courbes 1580-1628 *Cantiques spirituels*
 
 **Au dernier évangile : Alma redemptoris Mater**  
 
-**Sortie : Domine salvam fac galliam**  
+**Sortie : Domine salvam fac Galliam**  
 faux-bourdons pour les fêtes solemnelles *bibliothèque Inguimbertine*
 
 Lireplus
