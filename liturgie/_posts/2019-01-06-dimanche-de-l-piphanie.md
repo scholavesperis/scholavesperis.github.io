@@ -19,7 +19,7 @@ Voici que vient le Seigneur souverain, le règne est dans sa main, et la force e
 faux-bourdon du 7e ton *bibliothèque Inguimbertine* 1771
 
 **Consécration : O salutaris Hostia**  
-*Pour les fêtes solemnelles* anonyme *bibliothèque Inguimbertine*
+*Pour les fêtes solemnelles* anonyme à 3 voix *bibliothèque Inguimbertine*
 
 **Communion : Hostis Herodes impie**  
 alternance polyphonique de Charles de Courbes 1580-1628 *Cantiques spirituels*
