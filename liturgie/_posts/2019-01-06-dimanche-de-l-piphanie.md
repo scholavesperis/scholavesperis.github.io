@@ -36,5 +36,5 @@ Lireplus
 &nbsp;
 
 ![Domine salvam .jpg]({{site.baseurl}}/images/Domine salvam .jpg)
-**Domine salvum fac Regem**  *faux-bourdons pour les fêtes solemnelles* 1771  
+**Domine salvum fac Regem**  *Faux-bourdons pour les fêtes solemnelles* 1771  
 bibliothèque Inguimbertine de Carpentras
