@@ -10,7 +10,7 @@ title: Messe de funérailles à la mémoire de Louis XVI
 Donnez-lui, Seigneur, le repos éternel, et que brille pour lui la lumière qui jamais ne décline.
 
 
-La schola chantera la messe grégorienne de funérailles, à la mémoire de Louis XVI, avec des alternances polyphoniques de la *Messe de Requiem* de Cambrai, ainsi que des faux-bourdons issus de *Faux-bourdons pour les fêtes solemnelles - 1771* de la bibliothèque Inguimbertine de Carpentras.
+La schola chantera la messe grégorienne de funérailles, à la mémoire de Louis XVI, avec des alternances polyphoniques de la *Messe de Requiem* anonyme de Cambrai, ainsi que des faux-bourdons issus de *Faux-bourdons pour les fêtes solemnelles - 1771* de la bibliothèque Inguimbertine de Carpentras.
 
 Lireplus
 
