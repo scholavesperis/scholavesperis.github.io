@@ -28,13 +28,5 @@ alternance polyphonique de Charles de Courbes 1580-1628 *Cantiques spirituels*
 
 **Au dernier évangile : Alma redemptoris Mater**  
 
-**Sortie : Domine salvam fac Galliam**  
-faux-bourdons pour les fêtes solemnelles *bibliothèque Inguimbertine*
-
-Lireplus
-
-&nbsp;
-
-![Domine salvam .jpg]({{site.baseurl}}/images/Domine salvam .jpg)
-**Domine salvum fac Regem**  *Faux-bourdons pour les fêtes solemnelles* 1771  
-bibliothèque Inguimbertine de Carpentras
+**Sortie : Marche des rois**  
+chant traditionnel d'origine provençale
