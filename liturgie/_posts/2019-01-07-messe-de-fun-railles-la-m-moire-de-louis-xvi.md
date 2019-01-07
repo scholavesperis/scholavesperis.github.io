@@ -2,7 +2,7 @@
 published: true
 title: Messe de funérailles à la mémoire de Louis XVI
 ---
-**Lundi 21 janvier 2019, messe à 18h30 dans l'église St Georges**
+**Lundi 21 janvier 2019 messe à 18h30, église St Georges**
 
 ![Affiche Louis XVI .jpg]({{site.baseurl}}/images/Affiche Louis XVI .jpg)
 
