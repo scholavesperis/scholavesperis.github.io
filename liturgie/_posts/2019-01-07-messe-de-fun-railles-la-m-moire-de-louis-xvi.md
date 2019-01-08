@@ -11,7 +11,7 @@ Donnez-lui, Seigneur, le repos éternel, et que brille pour lui la lumière qui 
 
 
 La messe de Requiem célébrée à la mémoire de Louis XVI, sera chantée en plain-chant avec alternances de faux-bourdons provenants de :  
-*Faux-bourdons pour les fêtes solemnelles - Paris 1771,* bibliothèque Inguimbertine de Carpentras.
+*Faux-bourdons pour les fêtes solemnelles - Paris 1771,* bibliothèque Inguimbertine de Carpentras.  
 & *Messe de Requiem à quatre voix* anonyme, Processionnel de Cambrai.  
 
 Lireplus
