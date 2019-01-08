@@ -10,8 +10,9 @@ title: Messe de funérailles à la mémoire de Louis XVI
 Donnez-lui, Seigneur, le repos éternel, et que brille pour lui la lumière qui jamais ne décline.
 
 
-La messe de Requiem célébrée à la mémoire de Louis XVI, sera chantée en plain-chant avec alternances polyphoniques de la *Messe de Requiem à quatre voix* anonyme de Cambrai,  
-& faux-bourdons issus de *Faux-bourdons pour les fêtes solemnelles - Paris 1771* de la bibliothèque Inguimbertine de Carpentras.
+La messe de Requiem célébrée à la mémoire de Louis XVI, sera chantée en plain-chant avec alternances de faux-bourdons provenants de :  
+*Faux-bourdons pour les fêtes solemnelles - Paris 1771,* bibliothèque Inguimbertine de Carpentras.
+& *Messe de Requiem à quatre voix* anonyme, Processionnel de Cambrai.  
 
 Lireplus
 
