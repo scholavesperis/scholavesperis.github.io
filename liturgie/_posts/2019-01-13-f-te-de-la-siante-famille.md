@@ -19,7 +19,7 @@ Le père du Juste exulte de joie.
 faux-bourdon orné du 6e ton. 1771
 
 **Consécration : O salutaris Hostia**  
-Abbé Planque *recueil de faux-bourdons* 1873
+Abbé Planque *Recueil de faux-bourdons* 1873
 
 **Communion : Mariam matrem virginem**  
 Anonyme XIVe *Llibre Vermell de Montserrat*
