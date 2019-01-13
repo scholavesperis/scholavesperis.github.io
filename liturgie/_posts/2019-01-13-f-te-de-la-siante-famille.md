@@ -16,7 +16,7 @@ Le père du Juste exulte de joie.
 **Alleluia : Vere tu es**
 
 **Offertoire : Laudate pueri Dominum**  
-faux-bourdon orné du 6e ton. 1771
+faux-bourdon orné du 6e ton 1771 Bibliothèque Inguimbertine
 
 **Consécration : O salutaris Hostia**  
 Abbé Planque *Recueil de faux-bourdons* 1873
