@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Siante Famille
 ---
 **Dimanche 13 janvier 2019, messe de 19h**  
