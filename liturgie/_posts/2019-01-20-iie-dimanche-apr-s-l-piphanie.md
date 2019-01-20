@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche après l'Épiphanie
 ---
 **Dimanche 20 janvier 2019, messe de 19h**  
@@ -30,4 +30,3 @@ adaptation d'après *Judea et Jerusalem* anonyme anglais XIVe
 
 **Sortie : Deo gratias**  
 Anonyme XIVe *Messe de la Sorbonne*
-
