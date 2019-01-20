@@ -28,5 +28,5 @@ adaptation d'après *Judea et Jerusalem* anonyme anglais XIVe
 
 **Au dernier évangile : Alma redemptoris Mater**  
 
-**Sortie : Deo gratias**  
-Anonyme XIVe *Messe de la Sorbonne*
+**Sortie : Verbum caro / Et veritate**  
+Anonyme XIIIe codex Montpellier
