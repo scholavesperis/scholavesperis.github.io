@@ -19,7 +19,7 @@ Le Seigneur a envoyé sa parole, et il les a guéris.
 Alternance polyphonique de Charles de Courbes 1580-1628
 
 **Consécration : O salutaris Hostia**  
-Abbé Planque *Recueil de faux-bourdons* 1873
+adaptation d'après *Virgo pudicicie* anonyme anglais XIVe
 
 **Communion : Pange lingua**  
 adaptation d'après *Judea et Jerusalem* anonyme anglais XIVe
