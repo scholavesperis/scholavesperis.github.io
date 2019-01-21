@@ -39,5 +39,5 @@ Lireplus
 
 &nbsp;
 
-![Domine salvum fac regem.jpg]({{site.baseurl}}/images/Domine%20salvum%20fac%20regem.jpg)
+![Domine salvam .jpg]({{site.baseurl}}/images/Domine%20salvam%20.jpg)  
 **Domine salvum fac Regem** faux-bourdon à 4 voix issu de *Faux-bourdons pour les fêtes solemnelles*  Paris 1771, bibliothèque Inguimbertine de Carpentras
