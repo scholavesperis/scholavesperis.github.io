@@ -12,7 +12,7 @@ Donnez-lui, Seigneur, le repos éternel, et que brille pour lui la lumière qui 
 Kyriale chanté en alternance polyphonique selon la *Messe de Requiem à quatre voix* anonyme - Processionnel de Cambrai
 
 **Introït : Requiem aeternam**  
-Alternance polyphonique de la Messe de Cambrai
+Alternance polyphonique de la *Messe de Cambrai*
 
 **Graduel : Requiem aeternam**
 
@@ -22,7 +22,7 @@ Alternance polyphonique de la Messe de Cambrai
 Alternance polyphonique *Messe de Cambrai*
 
 **Offertoire : De profundis**  
-Faux bourdon du 1er ton, issu de *Faux-bourdons pour les fêtes solemnelles* Paris 1771, bibliothèque Inguimbertine
+Faux bourdon du 1er ton, issu de *Faux-bourdons pour les fêtes solemnelles* Paris 1771
 
 **Consécration : O salutaris Hostia**  
 Anonyme XVIe *Occo codex*
