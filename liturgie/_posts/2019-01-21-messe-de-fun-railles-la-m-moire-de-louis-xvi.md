@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Messe de funérailles à la mémoire de Louis XVI
 ---
 **Lundi 21 janvier 2019, messe à 18h30**
