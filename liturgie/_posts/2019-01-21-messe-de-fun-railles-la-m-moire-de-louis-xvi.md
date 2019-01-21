@@ -9,7 +9,7 @@ title: Messe de funérailles à la mémoire de Louis XVI
 *Requiem aeternam dona eis Domine, et lux perpetua luceat eis.*  
 Donnez-lui, Seigneur, le repos éternel, et que brille pour lui la lumière qui jamais ne décline.
 
-Kyriale chanté en alternance polyphonique selon la *Messe de Requiem à quatre voix* Processionnel de Cambrai
+Kyriale chanté en alternance polyphonique selon la *Messe de Requiem à quatre voix* anonyme - Processionnel de Cambrai
 
 **Introït : Requiem aeternam**  
 Alternance polyphonique de la Messe de Cambrai
