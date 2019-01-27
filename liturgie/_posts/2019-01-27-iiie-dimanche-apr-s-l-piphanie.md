@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche après l'Épiphanie
 ---
 **Dimanche 27 janvier 2019, messe de 19h**
@@ -28,6 +28,3 @@ Anonyme tchèque XVe
 
 **Sortie : Benedicamus Domino**  
 Anonyme XIVe *Messe de la Sorbonne*
-
-
-
