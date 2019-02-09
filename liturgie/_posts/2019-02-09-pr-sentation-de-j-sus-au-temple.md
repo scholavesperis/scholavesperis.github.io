@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Présentation de Jésus au Temple
 ---
 **Dimanche 3 février 2019, messe de 19h**
@@ -32,4 +32,3 @@ Anonyme XIVe *Llibre Vermell de Montserrat*
 
 **Sortie : Christe qui lux es**  
 d'après *A biasgina* anonyme Corse
-
