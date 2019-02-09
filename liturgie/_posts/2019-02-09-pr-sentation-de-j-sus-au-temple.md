@@ -28,7 +28,7 @@ Anonyme XIVe *Llibre Vermell de Montserrat*
 
 **Responsum accepit**  
 
-**Au dernier évangile : Ave Regian caelorum**
+**Au dernier évangile : Ave Regina caelorum**
 
 **Sortie : Christe qui lux es**  
 d'après *A biasgina* anonyme Corse
