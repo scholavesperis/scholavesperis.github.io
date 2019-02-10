@@ -17,13 +17,13 @@ Adorez Dieu, vous tous ses anges; Sion a entendu et s’est réjouie.
 **Alleluia : Dominus regnavit**
 
 **Offertoire : Dirigatur Domine**  
-alternance en faux-bourdon du 2e ton
+Alternance en faux-bourdon du 2e ton
 
 **Consécration : O salutaris Hostia**  
-anonyme Corse
+Anonyme Corse
 
 **Communion : Te Deum**  
-Anonyme, confrérie des Pénitents Séculiers - Lyon 1610
+Anonyme, *Confrérie des Pénitents Séculiers* Lyon 1610
 
 **Mirabantur**
 
