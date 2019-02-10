@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ve dimanche après l'Épiphanie
 ---
 **Dimanche 10 février 2019, messe de 19h**
