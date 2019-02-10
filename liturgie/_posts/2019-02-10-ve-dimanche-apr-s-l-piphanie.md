@@ -20,7 +20,7 @@ Adorez Dieu, vous tous ses anges; Sion a entendu et s’est réjouie.
 Alternance en faux-bourdon du 2e ton
 
 **Consécration : O salutaris Hostia**  
-Anonyme Corse
+Abbé Planque *Recueil de faux-bourdons* 1873
 
 **Communion : Te Deum**  
 Anonyme, *Confrérie des Pénitents Séculiers* Lyon 1610
