@@ -17,7 +17,7 @@ Adorez Dieu, vous tous ses anges; Sion a entendu et s’est réjouie.
 **Alleluia : Dominus regnavit**
 
 **Offertoire : Dirigatur Domine**  
-Alternance en faux-bourdon du 2e ton
+Alternance en faux-bourdon du 4e ton
 
 **Consécration : O salutaris Hostia**  
 Abbé Planque *Recueil de faux-bourdons* 1873
