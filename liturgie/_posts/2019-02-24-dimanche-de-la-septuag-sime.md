@@ -23,7 +23,7 @@ d'après *Altissonis aptatis* Anonyme XIVe *codex Ivrea*
 d'après la *Cantilena du couvent de Niolu* Anonyme corse
 
 **Communion : Panis Angelicus**  
-Jérôme Casalonga
+dernières strophes du *Sacris solemniis* Jérôme Casalonga
 
 **Illumina**  
 
