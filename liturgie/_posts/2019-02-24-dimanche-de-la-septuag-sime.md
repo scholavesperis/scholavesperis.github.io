@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Septuagésime
 ---
 **Dimanche 17 mars 2019, messe de 19h**
