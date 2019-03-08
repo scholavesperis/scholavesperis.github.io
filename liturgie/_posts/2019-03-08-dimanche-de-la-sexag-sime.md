@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Sexagésime
 ---
 **Dimanche 24 février 2019, messe de 19h**  
