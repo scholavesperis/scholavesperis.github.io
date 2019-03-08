@@ -4,7 +4,8 @@ title: Dimanche de la Sexagésime
 ---
 **Dimanche 24 février 2019, messe de 19h**  
 
-![]({{site.baseurl}}/)
+![Exsurge .jpg]({{site.baseurl}}/images/Exsurge .jpg)
+
 
 *Mirifica misericordias tuas, qui salvos facis sperantes in te, Domine.*  
 Manifeste ton amour, toi qui sauves ceux qui se confient en toi.
