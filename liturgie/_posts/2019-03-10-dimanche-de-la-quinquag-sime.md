@@ -22,7 +22,7 @@ Faux-bourdon du 1er ton - abbé Cardine
 d'après *Si doulcement* Anonyme XVe *ms de Chypre*
 
 **Communion :  O Jesu vivens / Ave caro Christi**  
-anonyme tchèque XVe
+Anonyme tchèque XVe
 
 **Manducaverunt**
 
