@@ -16,7 +16,7 @@ Sois-moi un Dieu protecteur, et une forteresse, où je trouve le salut.
 **Trait : Jubilate Deo**
 
 **Offertoire : Dirigatur Domine**  
-Alternance polyphonique du 1er ton de l'abbé Cardine 
+Faux-bourdon du 1er ton - abbé Cardine 
 
 **Consécration : O salutaris Hostia**  
 d'après *Si doulcement* Anonyme XVe *ms de Chypre*
