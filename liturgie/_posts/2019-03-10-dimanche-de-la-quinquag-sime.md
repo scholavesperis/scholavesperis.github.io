@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Quinquagésime
 ---
 **Dimanche 3 mars 2019, messe de 19h**
@@ -30,4 +30,3 @@ anonyme tchèque XVe
 
 **Sortie : Benedicamus Domino**  
 Anonyme XIIe - St Martial de Limoges
-
