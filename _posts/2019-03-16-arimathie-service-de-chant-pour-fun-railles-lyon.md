@@ -6,5 +6,5 @@ title: Arimathie - service de chant pour funérailles
 
 &nbsp;
 
-Création d'un service de chant pour les messes de funérailles sur le diocèse de Lyon :
+Création d'un service de chant pour les messes de funérailles sur le diocèse de Lyon  
 Renseignements & contact : https://arimathie-1.jimdosite.com/
