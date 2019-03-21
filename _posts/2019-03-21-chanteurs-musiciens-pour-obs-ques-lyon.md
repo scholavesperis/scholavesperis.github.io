@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Chanteurs & musiciens pour obsèques - Lyon
 ---
 ![]({{site.baseurl}}/images/Arimathie%20logo.JPG)
