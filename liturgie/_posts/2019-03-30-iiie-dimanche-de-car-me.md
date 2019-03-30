@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche de Carême
 ---
 **Dimanche 24 mars 2019, messe de 19h**  
@@ -28,4 +28,3 @@ d'après *Qui plus aimme/Fiat voluntas* Guillaume de Machaut 1300-1377
 
 **Sortie : Deo gratias**  
 d'après Guillaume Dufay
-
