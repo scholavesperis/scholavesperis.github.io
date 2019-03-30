@@ -20,7 +20,7 @@ J’ai levé les yeux vers toi qui habites aux cieux.
 **Offertoire : Audi benigne Conditor**  
 Alternance polyphonique de Guillaume Dufay 1400-1474
 
-**Communion : Venite exultelus Domino**   
+**Communion : Venite exultemus Domino**   
 d'après *Qui plus aimme/Fiat voluntas* Guillaume de Machaut 1300-1377
 
 **Passer**  
