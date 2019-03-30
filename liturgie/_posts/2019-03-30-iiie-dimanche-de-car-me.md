@@ -4,7 +4,8 @@ title: IIIe dimanche de Carême
 ---
 **Dimanche 24 mars 2019, messe de 19h**  
 
-![]({{site.baseurl}}/images/Oculi%20mei.jpg)
+![Oculi.jpg]({{site.baseurl}}/images/Oculi.jpg)
+
 
 *Ad te levavi oculos meos, qui habitas in caelis*  
 J’ai levé les yeux vers toi qui habites aux cieux.
