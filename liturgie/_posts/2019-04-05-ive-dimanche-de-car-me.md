@@ -19,7 +19,7 @@ Réjouis-toi, Jérusalem; et rassemblez-vous, vous tous qui l’aimez.
 Anonyme XVe *ms de Trente*
 
 **Consécration : Dominus**  
-Clausule anonyme XIIe - école Notre-Dame
+Anonyme XIIe - clausule de l'école Notre-Dame
 
 **Communion : Pange lingua**  
 Anonyme XVe *ms de Trente*
