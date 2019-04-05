@@ -26,14 +26,14 @@ Anonyme XVe *ms de Trente*
 
 **Au dernier évangile : Ave Regina caelorum**  
 
-**Sortie : Beata es**
+**Sortie : Beata es**  
 Anonyme XVe *Chansonnier des ducs de Lorraine*
 
 Lireplus
 
 &nbsp;
 
-![]({{site.baseurl}}/images/Beata%20es%20cantus.jpg)
-**Beata es**  Anonyme XVe *Chansonnier des ducs de Lorraine* f.4  
+
 ![Beata es cantus.jpg]({{site.baseurl}}/images/Beata es cantus.jpg)
+**Beata es**  Anonyme XVe *Chansonnier des ducs de Lorraine* f.4  
 [https://gallica.bnf.fr/ark:/12148/btv1b9060517z/f4.item](https://gallica.bnf.fr/ark:/12148/btv1b9060517z/f4.item)
