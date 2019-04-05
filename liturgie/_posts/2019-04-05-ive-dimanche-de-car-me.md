@@ -35,5 +35,5 @@ Lireplus
 
 
 ![Beata es cantus.jpg]({{site.baseurl}}/images/Beata es cantus.jpg)
-**Beata es Maria**  Anonyme XVe *Chansonnier des ducs de Lorraine* Tenor f.4  
+**Beata es Maria**  Anonyme XVe *Chansonnier des ducs de Lorraine* - tenor f.4  
 [https://gallica.bnf.fr/ark:/12148/btv1b9060517z/f4.item](https://gallica.bnf.fr/ark:/12148/btv1b9060517z/f4.item)
