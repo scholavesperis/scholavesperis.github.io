@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche de Carême
 ---
 **Dimanche 31 mars 2019, messe de 19h**  
