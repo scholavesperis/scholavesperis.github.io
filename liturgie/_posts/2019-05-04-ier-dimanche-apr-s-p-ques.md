@@ -23,7 +23,7 @@ Faux-bourdon du Ier ton - Abbé Cardine
 Duo Instrumental - Missa Mi-mi J.Ockeghem 1420-1497
 
 **Communion : O sacrum convivium**  
-D'après *manuscrit de Trente* Anonyme XVe
+Anonyme XVe - d'après *manuscrit de Trente* 
 
 **Mitte maunm tuam**
 
