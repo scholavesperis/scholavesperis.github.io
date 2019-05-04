@@ -23,7 +23,7 @@ Pierre de la Rue 1452-1518
 
 **Hoc corpus**
 
-**Audernier évangile : Ave Regina caelorum**  
+**Au dernier évangile : Ave Regina caelorum**  
 
 **Sortie : Benedicamus Domino**  
 Antoine de Févin  1470-1512
