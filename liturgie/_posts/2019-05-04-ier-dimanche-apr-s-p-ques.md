@@ -17,7 +17,7 @@ Comme des enfants nouveaux-nés, ayez soif d’un lait spirituel très pur.
 Alternances en faux-bourdon du 7e ton - Guillaume Dufay 1400-1474
 
 **Dirigatur Domine**  
-Abbé Cardine
+Faux-bourdon du Ier ton - Abbé Cardine
 
 **Consécration : Duo Missa mi-mi**  
 Instrumental - Ockeghem 1420-1497
