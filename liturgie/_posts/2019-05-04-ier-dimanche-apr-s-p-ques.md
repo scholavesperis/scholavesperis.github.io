@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ier dimanche après Pâques
 ---
 **Dimanche 28 avril 2019, messe de 19h**
