@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Passion
 ---
 **Dimanche 7 avril 2019, messe de 19h**
@@ -27,4 +27,3 @@ Charles de Courbes 1580-1628
 
 **Sortie : Benedicamus Domino**  
 Antoine de Févin  1470-1512
-
