@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche après Pâques
 ---
 **Dimanche 5 mai 2019, messe de 19h**  
