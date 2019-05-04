@@ -19,7 +19,7 @@ Je vivrai et garderai tes commandements; selon ta parole, fais-moi vivre Seigneu
 adaptation d’après Alma polis religio Johannes de Porta - XIVe
 
 **Communion : Vexilla regis**  
-Charles de Courbes 1580-1628
+Pierre de la Rue 1452-1518
 
 **Hoc corpus**
 
