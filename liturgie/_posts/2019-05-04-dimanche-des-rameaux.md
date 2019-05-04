@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche des Rameaux
 ---
 **Dimanche 14 avril 2019, messe de 19h**
