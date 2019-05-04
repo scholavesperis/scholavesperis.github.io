@@ -25,7 +25,7 @@ Duo Instrumental - Missa Mi-mi J.Ockeghem 1420-1497
 **Communion : O sacrum convivium**  
 Anonyme XVe - d'après *manuscrit de Trente* 
 
-**Mitte maunm tuam**
+**Mitte manum tuam**
 
 **Au dernier évangile : Regina caeli**  
 
