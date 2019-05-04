@@ -4,7 +4,7 @@ title: Dimanche de la Passion
 ---
 **Dimanche 7 avril 2019, messe de 19h**
 
-![Passio Saccargia.jpg]({{site.baseurl}}/images/Passio Saccargia.jpg)
+![]({{site.baseurl}}/images/Passio%20Saccargia.jpg)
 
 *Vivam et custodiam sermones tuos; vivifica me secundum verbum tuum, Domine.*  
 Je vivrai et garderai tes commandements; selon ta parole, fais-moi vivre Seigneur.
