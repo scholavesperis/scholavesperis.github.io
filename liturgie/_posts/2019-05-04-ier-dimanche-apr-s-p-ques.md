@@ -19,8 +19,8 @@ Alternances en faux-bourdon du 7e ton - Guillaume Dufay 1400-1474
 **Dirigatur Domine**  
 Faux-bourdon du Ier ton - Abbé Cardine
 
-**Consécration : Duo Missa mi-mi**  
-Instrumental - Ockeghem 1420-1497
+**Consécration : Agnus Dei**  
+Duo Instrumental - Missa Mi-mi J.Ockeghem 1420-1497
 
 **Communion : O sacrum convivium**  
 D'après *manuscrit de Trente* Anonyme XVe
