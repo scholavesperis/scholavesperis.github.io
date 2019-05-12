@@ -20,7 +20,7 @@ hymne & alternance polyphonique de Pedro de Escobar 1465-1535
 **Consécration : Jesu corona virginum / Contrapunto quinta**  
 d'après Costanzo Festa 1495-1545
 
-**Communion : Gratissima / Vos quid admiramini**  
+**Communion : Gratissima virginis / Vos quid admiramini**  
 Philippe de Vitry 1291-1361
 
 **Au dernier évangile : Regina caeli**
