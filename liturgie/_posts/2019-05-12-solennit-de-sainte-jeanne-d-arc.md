@@ -2,7 +2,7 @@
 published: true
 title: Solennité de sainte Jeanne d'Arc
 ---
-**Dimanche 12 mai 2019, messe de 19**
+**Dimanche 12 mai 2019, messe de 19h**
 
 ![Jeanne.jpeg]({{site.baseurl}}/images/Jeanne.jpeg)
 
