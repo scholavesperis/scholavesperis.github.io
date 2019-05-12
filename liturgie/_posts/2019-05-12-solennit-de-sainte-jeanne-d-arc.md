@@ -17,7 +17,7 @@ faux-bourdons du 4e ton, Ludwid Senfl 1486-1542
 **Offertoire : Deus tuorum militum**  
 hymne & alternance polyphonique de Pedro de Escobar 1465-1535
 
-**Consécration : Jesu corona virginum / Contrapunto 5**  
+**Consécration : Jesu corona virginum / Contrapunto quinta**  
 d'après Costanzo Festa 1495-1545
 
 **Communion : Gratissima / Vos quid admiramini**  
