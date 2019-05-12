@@ -21,7 +21,7 @@ hymne & alternance polyphonique de Pedro de Escobar 1465-1535
 d'après Costanzo Festa 1495-1545
 
 **Communion : Gratissima / Vos quid admiramini**  
-Philippe de Vitry 1291 - 1361
+Philippe de Vitry 1291-1361
 
 **Au dernier évangile : Regina caeli**
 
