@@ -17,7 +17,7 @@ Alternances de faux-bourdons - Guillaume Dufay & 1er ton royal parisien
 **Offertoire : Da magne Pater**  
 Attribué à Jean Hanelle 1380-1436 *manuscrit de Chypre*
 
-**Consécration : contrapunti 8**  
+**Consécration : contrapunto octava**  
 Costanzo Festa 1495-1545
 
 **Communion : Dum venerit**  
