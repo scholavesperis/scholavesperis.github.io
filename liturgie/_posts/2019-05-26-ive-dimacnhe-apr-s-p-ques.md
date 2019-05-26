@@ -1,6 +1,6 @@
 ---
 published: true
-title: IVe dimacnhe après Pâques
+title: IVe dimanche après Pâques
 ---
 **Dimanche 19 mai 2019, messe de 19h**  
 
