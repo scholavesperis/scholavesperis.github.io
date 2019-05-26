@@ -17,14 +17,13 @@ Alternances en faux-bourdon - Chansonnier de Copenhague & Guillaume Dufay
 **Offertoire : Laudate pueri Dominum**  
 Faux-bourdon parisien orné du VIe ton
 
-**Consécration : O salutaris Hostia**  ![Moines Legenda aurea.jpg]({{site.baseurl}}/images/Moines Legenda aurea.jpg)
-
+**Consécration : O salutaris Hostia**  
 Anonyme XVIe *Occo codex**
 
 **Communion : Confitebor tibi / Alma polis religio**  
 d’après Johannes de Porta - XIVe
 
-Cantate Domino
+**Cantate Domino**
 
 **Au dernier évangile : Regina caeli**
 
