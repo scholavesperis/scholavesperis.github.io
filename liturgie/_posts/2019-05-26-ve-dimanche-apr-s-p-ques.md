@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ve dimanche après Pâques
 ---
 **Dimanche 26 mai 2019, messe de 19h**  
