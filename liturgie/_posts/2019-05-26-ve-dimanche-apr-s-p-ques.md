@@ -21,7 +21,7 @@ Faux-bourdon parisien orné du VIe ton
 Anonyme XVIe *Occo codex*
 
 **Communion : Confitebor tibi / Alma polis religio**  
-d’après Johannes de Porta - XIVe
+D’après Johannes de Porta - XIVe
 
 **Cantate Domino**
 
