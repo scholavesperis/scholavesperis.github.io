@@ -18,7 +18,7 @@ Alternances en faux-bourdon - Chansonnier de Copenhague & Guillaume Dufay
 Faux-bourdon parisien orné du VIe ton
 
 **Consécration : O salutaris Hostia**  
-Anonyme XVIe *Occo codex**
+Anonyme XVIe *Occo codex*
 
 **Communion : Confitebor tibi / Alma polis religio**  
 d’après Johannes de Porta - XIVe
