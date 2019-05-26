@@ -6,8 +6,8 @@ title: Ve dimanche après Pâques
 
 ![]({{site.baseurl}}/images/Moines%20Legenda%20aurea.jpg)
 
-*Cantate Domino, et benedicite nomen ejus*  
-Chantez au Seigneur, et bénissez son nom !
+*Cantate Domino, et benedicite nomen ejus, bene nuntiate de die in diem salutare ejus*  
+Chantez au Seigneur, et bénissez son nom; jour après jour proclamez son salut !
 
 **Introït : Vocem jucunditatis**
 
