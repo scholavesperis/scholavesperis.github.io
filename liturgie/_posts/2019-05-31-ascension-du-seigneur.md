@@ -6,7 +6,7 @@ title: Ascension du Seigneur
 
 ![2013-05-07-ascension-2.jpg]({{site.baseurl}}/images/2013-05-07-ascension-2.jpg)
 
-*Dominus in Sina in sancto, ascendens in altum. Alleluia*  
+*Dominus in Sina in sancto, ascendens in altum.*  
 De sa sainte montagne le Seigneur est monté au ciel.
 
 **Introït : Viri Galilaei**
