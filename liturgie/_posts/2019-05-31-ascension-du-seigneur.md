@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ascension du Seigneur
 ---
 **Jeudi 30 mai 2019, messe de 19h**  
@@ -27,5 +27,4 @@ Attribué à Jean Hanelle 1380-1436 *manuscrit de Chypre*
 **Au dernier évangile : Regina caeli**
 
 **Sortie : Deo gratias**  
-Guillaume de Machaut 1300-1377 *Messe Notre-Dame* 
-
+Guillaume de Machaut 1300-1377 *Messe Notre-Dame*
