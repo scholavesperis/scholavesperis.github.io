@@ -12,7 +12,7 @@ De sa sainte montagne le Seigneur est monté au ciel.
 **Introït : Viri Galilaei**
 
 **Alleluia : Ascendit Deus & Dominus in Sina**  
-versets en faux-bourdon - Ludwig Senfl & faux-bourdon parisien
+Versets en faux-bourdon - Ludwig Senfl & faux-bourdon parisien
 
 **Offertoire : Ascendit Deus**
 
