@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche dans l'Octave de l'Ascension
 ---
 **Dimanche 2 juin 2019, messe de 19h**
