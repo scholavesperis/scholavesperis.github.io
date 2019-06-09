@@ -4,7 +4,8 @@ title: Dimanche de la Pentecôte
 ---
 **Dimanche 9 juin 2019, messe de 19h**  
 
-![]({{site.baseurl}}/images/Pentec%C3%B4te%20Ps%20Hunter.jpg)
+![Pentecôte ps Hunter.jpg]({{site.baseurl}}/images/Pentecôte ps Hunter.jpg)
+
 
 *Spiritus Domini replevit orbem terrarum, alleluia !*  
 L’esprit du Seigneur a rempli l’univers, alleluia !
