@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Pentecôte
 ---
 **Dimanche 9 juin 2019, messe de 19h**  
