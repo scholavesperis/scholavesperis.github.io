@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Sainte Trinité
 ---
 **Dimanche 16 juin 2019, messe de 19h**
