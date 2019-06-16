@@ -4,7 +4,8 @@ title: Fête de la Sainte Trinité
 ---
 **Dimanche 16 juin 2019, messe de 19h**
 
-![Trinité Theophanes.jpg]({{site.baseurl}}/images/Trinité Theophanes.jpg)
+![Trinité Theophanes 2.jpg]({{site.baseurl}}/images/Trinité Theophanes 2.jpg)
+
 
 
 *Benedictus es, Domine, Deus patrum nostrorum, et laudabilis in saecula.*  
