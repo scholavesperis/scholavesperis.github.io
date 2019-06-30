@@ -9,12 +9,12 @@ title: Fête du Sacré-Coeur de Jésus
 *Si quis sitit, veniat ad me et bibat, alleluia.*  
 Si quelqu’un a soif, qu’il vienne à moi et qu’il boive, alleluia !
 
-**Introït : Cogitationes Cordis ejus**
+**Introït : Cogitationes**  
 
-**Graduel : Dulcis et rectus Dominus**
+**Graduel : Dulcis et rectus Dominus**  
 faux-bourdon du 1er ton *Octo cantica 1584*
 
-**Alleluia : Tollite jugum meum**
+**Alleluia : Tollite jugum meum**  
 verset en faux-bourdon du 3e ton
 
 **Offertoire : Jesu dulcis memoria**  
