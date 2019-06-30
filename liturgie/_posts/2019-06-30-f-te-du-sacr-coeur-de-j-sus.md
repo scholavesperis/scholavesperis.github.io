@@ -21,7 +21,7 @@ verset en faux-bourdon du 3e ton
 *Piae cantiones* anonyme XVIe adaptation à 3 voix 
 
 **Consécration : O salutaris Hostia**  
-Anoyme XVIe *ms d'Amiens 162D*
+Anoyme XVIe *manuscrit d'Amiens 162D*
 
 **Communion : Adoramus te**  
 Anonyme XVe *Cancionero de Montecassino*
