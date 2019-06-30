@@ -18,7 +18,7 @@ faux-bourdon du 1er ton *Octo cantica 1584*
 verset en faux-bourdon du 3e ton
 
 **Offertoire : Jesu dulcis memoria**  
-*Piae cantiones* anonyme, adaptation à 3 voix 
+*Piae cantiones* anonyme XVIe adaptation à 3 voix 
 
 **Consécration : O salutaris Hostia**  
 Anoyme XVIe *ms d'Amiens 162D*
