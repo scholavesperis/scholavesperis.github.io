@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête du Sacré-Coeur de Jésus
 ---
 **Dimanche 30 juin 2019, messe de 19h**  
