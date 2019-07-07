@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche après la Pentecôte
 ---
 **Dimanche 7 juillet 2019, messe de 19h**
