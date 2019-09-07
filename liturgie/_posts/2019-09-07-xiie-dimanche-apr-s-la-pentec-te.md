@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XIIe dimanche après la Pentecôte
 ---
 **Dimanche 1er septembre 2019, messe de 19h**
