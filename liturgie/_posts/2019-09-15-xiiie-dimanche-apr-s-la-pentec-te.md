@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XIIIe dimanche après la Pentecôte
 ---
 **Dimanche 8 septembre 2019, messe de 19h**  
@@ -29,5 +29,3 @@ Anonyme XVe *manuscrit de Trente*
 
 **Sortie : DBenedicamus Domino**  
 Anonyme XIIe - St Martial de Limoges
-
-
