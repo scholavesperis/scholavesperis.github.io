@@ -20,7 +20,7 @@ Considère Seigneur ton alliance, et n'oublie pas pour toujours la vie de tes pa
 faux-bourdon du 1er ton - abbé Cardine
 
 **Consécration : Dominus**  
-clausule de l'école Notre-Dame - Anonyme XIIe
+clausule de l'école Notre-Dame - Anonyme XIIIe
 
 **Communion : Pange lingua**  
 Anonyme XVe *manuscrit de Trente*
