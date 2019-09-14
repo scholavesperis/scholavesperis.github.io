@@ -27,5 +27,5 @@ Anonyme XVe *manuscrit de Trente*
 
 **Au dernier évangile : Salve Regina**  
 
-**Sortie : DBenedicamus Domino**  
+**Sortie : Benedicamus Domino**  
 Anonyme XIIe - St Martial de Limoges
