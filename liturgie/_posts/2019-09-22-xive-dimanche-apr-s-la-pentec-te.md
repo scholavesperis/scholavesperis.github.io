@@ -21,7 +21,7 @@ versets en faux-bourdon - 4e ton
 **Consécration : O salutaris Hostia**  
 d'après "Si doulcement", anonyme XVe *ms de Chypre*
 
-**Communion : Dignum summo**
+**Communion : Dignum summo**  
 anonyme XVe *ms de Chypre*
 
 **Au dernier évangile : Salve Regina**
