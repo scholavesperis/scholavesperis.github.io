@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XIVe dimanche après la Pentecôte
 ---
 **Dimanche 15 septembre 2019, messe de 19h**
@@ -27,6 +27,4 @@ anonyme XVe *ms de Chypre*
 **Au dernier évangile : Salve Regina**
 
 **Sortie : Domine salvam fac Galliam**  
-tiré des *faux-bourdons pour les fêtes solemnelles* Paris 1771 
-
-
+tiré des *faux-bourdons pour les fêtes solemnelles* Paris 1771
