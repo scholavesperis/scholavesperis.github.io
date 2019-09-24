@@ -18,8 +18,8 @@ Mieux vaut compter sur le Seigneur que de compter sur l'homme.
 **Offertoire : Dirigatur Domine**  
 versets en faux-bourdon - 4e ton
 
-**Consécration : O salutaris Hostia**  
-d'après "Si doulcement", anonyme XVe *ms de Chypre*
+**Consécration : Dominus**  
+clausule de l'école Notre-Dame - anonyme XIIe
 
 **Communion : Dignum summo**  
 anonyme XVe *ms de Chypre*
