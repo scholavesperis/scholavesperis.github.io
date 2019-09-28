@@ -4,7 +4,7 @@ title: Solennité de saint Michel Archange
 ---
 **Dimanche 29 septembre 2019, messe de 19h**  
 
-![Ange Theodore psautier.jpg]({{site.baseurl}}/images/Ange Theodore psautier.jpg)
+![Saint Michael Yaroslavl, 13th.jpg]({{site.baseurl}}/images/Saint Michael Yaroslavl, 13th.jpg)
 
 *Sancte Michael Archangele, defende nos in praelio*  
 Saint Michel Archange, défends-nous dans le combat.
