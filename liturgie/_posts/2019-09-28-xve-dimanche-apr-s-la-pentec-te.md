@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XVe dimanche après la Pentecôte
 ---
 **Dimanche 22 septembre 2019, messe de 19h, voix de femmes**  
@@ -28,4 +28,3 @@ H.Isaac 1450-1517 *Choralis Constantinus*
 
 **Sortie : Christe qui lux es**  
 Adaptation d'après "Biasgina" anonyme corse
-
