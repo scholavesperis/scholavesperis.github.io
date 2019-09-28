@@ -23,7 +23,7 @@ faux-bourdon parisien du 4e ton
 Adaptation d'après Robert White 1538-1574
 
 **Communion : Benedicite omnes Angeli**  
-Guillaume Dufay 1400-1474 Missa sancti Michaeli
+Guillaume Dufay 1400-1474 "Missa sancti Michaeli"
 
 **Au dernier évangile : Salve Regina**  
 
