@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Solennité de saint Michel Archange
 ---
 **Dimanche 29 septembre 2019, messe de 19h**  
