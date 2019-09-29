@@ -27,5 +27,5 @@ Guillaume Dufay 1400-1474 "Missa sancti Michaeli"
 
 **Au dernier évangile : Salve Regina**  
 
-**Sortie : Deo gratias**  
-École Notre-Dame - anonyme XIIIe
+**Sortie : Prière à saint Michel**   
+sur l’air du cantique béarnais “Noust-Damo deou cap deou poun”
