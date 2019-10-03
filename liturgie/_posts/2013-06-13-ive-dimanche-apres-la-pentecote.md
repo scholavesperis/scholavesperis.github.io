@@ -33,5 +33,5 @@ Jacob Obrecht 1457-1505
 
 Lireplus
 
-https://cie-sous-le-ciel.jimdosite.com/
+[https://cie-sous-le-ciel.jimdosite.com/](https://cie-sous-le-ciel.jimdosite.com/)
 
