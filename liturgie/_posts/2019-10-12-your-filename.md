@@ -24,7 +24,7 @@ adaptation d'après *Cormacus scripsit* Irlande XIIe
 attribué à Josquin Desprez 1450-1521
 
 **Communion : Mariam Matrem Virginem**  
-anonyme XIVe, Llibre Vermell de Montserrat
+anonyme XIVe *Llibre Vermell de Montserrat*
 
 **Au dernier évangile : Salve Regina**  
 
