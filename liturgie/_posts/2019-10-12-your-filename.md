@@ -3,6 +3,7 @@ published: true
 title: Solennité de Notre-Dame du Rosaire
 ---
 **Dimanche 13 octobre 2019, messe de 19h**  
+
 ![Maria.jpg]({{site.baseurl}}/images/Maria.jpg)
 
 *Ave, gratia plena, Dominus tecum*  
