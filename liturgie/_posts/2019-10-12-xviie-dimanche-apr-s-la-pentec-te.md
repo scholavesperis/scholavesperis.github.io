@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XVIIe dimanche après la Pentecôte
 ---
 **Dimanche 6 octobre 2019, messe de 19h**  
