@@ -5,7 +5,8 @@ title: Solennité de Notre-Dame du Rosaire
 **Dimanche 13 octobre 2019, messe de 19h**  
 
 
-![Maria.jpg]({{site.baseurl}}/images/Maria.jpg)
+![Maria 2.jpg]({{site.baseurl}}/images/Maria 2.jpg)
+
 
 *Ave, gratia plena, Dominus tecum*  
 Salut, pleine de grâce, le Seigneur est avec toi.
