@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XIXe dimanche après la Pentecôte
 ---
 **Dimanche 20 octobre 2019, messe de 19h**  
@@ -31,5 +31,3 @@ Antoine de Févin 1470-1512
 
 **Sortie : Sub tuum**  
 Jean-Étienne Langianni
-
-
