@@ -27,5 +27,5 @@ Alternances polyphoniques de T.L.Victoria 1548-1611
 
 **Au dernier évangile : Salve Regina**
 
-**Sortie instrumentale : contrapunto 88**  
+**Sortie instrumentale : Contrapunto 88**  
 Costanzo Festa 1495-1545
