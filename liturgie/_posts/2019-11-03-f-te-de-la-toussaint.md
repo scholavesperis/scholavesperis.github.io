@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Toussaint
 ---
 **Vendredi 1er novembre 2019, messe de 19h**  
@@ -29,4 +29,3 @@ Alternances polyphoniques de T.L.Victoria 1548-1611
 
 **Sortie instrumentale : contrapunto 88**  
 Costanzo Festa 1495-1545
- 
