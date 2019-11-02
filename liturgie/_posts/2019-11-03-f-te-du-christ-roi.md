@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête du Christ-Roi
 ---
 **Dimanche 27 octobre 2019, messe de 19h**  
@@ -30,6 +30,3 @@ Alternance polyphonique de G.P.Palestrina 1525-1594
 
 **Sortie : Christus vincit**  
 Traditionnel corse - Nebbiu
-
-
-
