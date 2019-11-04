@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Commémoration des fidéles défunts
 ---
 **Samedi 2 novembre 2019, messe de 11h**  
