@@ -10,7 +10,7 @@ title: Commémoration des fidéles défunts
 Seigneur, fais briller sur eux la lumière sans fin.
 
 **Introït : Requiem aeternam**  
-Alternance polyphonique de Pedro de Escobar 1465-1535
+Pedro de Escobar 1465-1535
 
 **Kyrie**  
 Alternance polyphonique - Requiem de Cambrai, anonyme 1840
