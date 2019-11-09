@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXIe dimanche après la Pentecôte
 ---
 **Dimanche 3 novembre 2019, messe de 19h**  
@@ -29,5 +29,3 @@ Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Sortie : Deo gratias**  
 Anonyme XIIe - St Martial de Limoges
-
-
