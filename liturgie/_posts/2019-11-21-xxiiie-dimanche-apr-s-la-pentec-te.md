@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXIIIe dimanche après la Pentecôte
 ---
 **Dimanche 17 novembre 2019, messe de 19h**
