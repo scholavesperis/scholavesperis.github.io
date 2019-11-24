@@ -31,3 +31,11 @@ Gilles Binchois 1400-1460
 
 **Sortie : Deo gratias**  
 Guillaume de Machaut 1300-1377 *Messe de Nostre-Dame*
+
+Lireplus
+
+&nbsp;
+
+![Deo Gratias.jpeg]({{site.baseurl}}/images/Deo%20Gratias.jpeg)  
+Guillaume de Machaut Messe de Nostre-Dame  
+Paris, Bibliothèque Nationale, fonds français, 1584
