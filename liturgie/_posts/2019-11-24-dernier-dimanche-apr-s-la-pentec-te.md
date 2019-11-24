@@ -38,4 +38,4 @@ Lireplus
 
 ![Deo Gratias.jpeg]({{site.baseurl}}/images/Deo%20Gratias.jpeg)  
 Guillaume de Machaut Messe de Nostre-Dame  
-Paris, Bibliothèque Nationale, fonds français, 1584
+Paris, Bibliothèque Nationale, *fonds français 1584* XIVe
