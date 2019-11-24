@@ -6,7 +6,7 @@ title: Dernier dimanche après la Pentecôte
 
 ![Dicit Albi.jpg]({{site.baseurl}}/images/Dicit%20Albi.jpg)
 
-*Benedixisti, Domine, terram tuam; avertisti captivitatem Iacob. 
+*Benedixisti, Domine, terram tuam; avertisti captivitatem Iacob.*  
 Vous avez-béni, Seigneur, votre terre; vous avez révoqué la captivité de Jacob.
 
 
