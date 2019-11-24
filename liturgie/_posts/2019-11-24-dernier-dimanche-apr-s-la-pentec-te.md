@@ -1,31 +1,33 @@
 ---
-published: false
+published: true
 title: Dernier dimanche après la Pentecôte
 ---
 **Dimanche novembre 2019, messe de 19h**  
 
 ![Dicit Albi.jpg]({{site.baseurl}}/images/Dicit%20Albi.jpg)
 
+*Benedixisti, Domine, terram tuam; avertisti captivitatem Iacob. 
+Vous avez-béni, Seigneur, votre terre; vous avez révoqué la captivité de Jacob.
 
 
+**Introït : Dicit Dominus**
 
-**troït : Dicit Dominus**
+**Graduel : Liberasti nos**
 
-**aduel : Liberasti nos**
+**Alleluia : De profundis clamavi**
 
-leluia : De profundis clamavi
+**Offertoire : De profundis**  
+faux-bourdon du Ie ton
 
-Offertoire : De profundis
-faux-bourdon du IVe ton
+**Consécration : O salutaris Hostia**  
+d’après Robert White 1538-1574
 
-Consécration : O salutaris Hostia
-d’après Johannes Prioris 1460-1514
+**Communion : Te Deum**  
+Gilles Binchois 1400-1460
 
-Communion : O Jesu vivens/Ave caro Christi
-Anonyme tchéque XVe
+**Amen dico vobis**
 
-Amen dico vobis
+**Au dernier évangile : Salve Regina**
 
-Au dernier évangile : Salve Regina
-
-Sortie : Deo gratias
+**Sortie : Deo gratias**  
+Guillaume de Machaut 1300-1377 *Messe de Nostre-Dame*
