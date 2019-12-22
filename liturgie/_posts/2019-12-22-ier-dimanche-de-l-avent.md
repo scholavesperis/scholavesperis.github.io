@@ -26,5 +26,5 @@ Anonyme XVe *ms de Trente*
 
 **Au dernier évangile : Alma redemptoris Mater**  
 
-**Sortie : Veni veni Emmanuel**  
-hymne médieval de l’Avent à 2 voix
+**Deo gratias**  
+Guillaume de Machaut 1300-1377 *Messe Nostre-Dame*
