@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche de l'Avent
 ---
 **Dimanche 15 décembre 2019, messe de 19h**  
