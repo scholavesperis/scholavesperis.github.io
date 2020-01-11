@@ -4,7 +4,7 @@ title: IVe dimanche de l'Avent
 ---
 **Dimanche 22 décembre 2019, messe de 19h**  
 
-![]({{site.baseurl}}/images/Annonciation%20Lyon.jpg)![Annonciation Lyon.jpg]({{site.baseurl}}/images/Annonciation Lyon.jpg)
+![Annonciation Novgorod.jpg]({{site.baseurl}}/images/Annonciation%20Novgorod.jpg)
 
 *Ave Maria, gratia plena, Dominus tecum*  
 Je vous salue Marie, comblée de grâce, le Seigneur est avec vous.
