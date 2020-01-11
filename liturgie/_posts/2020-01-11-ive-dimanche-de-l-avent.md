@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche de l'Avent
 ---
 **Dimanche 22 décembre 2019, messe de 19h**  
