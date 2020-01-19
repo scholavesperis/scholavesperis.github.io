@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Sainte Famille
 ---
 **Dimanche 12 janvier 2020, messe de 19h**  
