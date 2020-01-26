@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche après l'Épiphanie
 ---
 **Dimanche 19 janvier 2020, messe de 19h** 
