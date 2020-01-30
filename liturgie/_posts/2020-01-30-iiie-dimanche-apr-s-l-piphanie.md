@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche après l'Épiphanie
 ---
 **Dimanche 26 janvier 2020, messe de 19h**  
