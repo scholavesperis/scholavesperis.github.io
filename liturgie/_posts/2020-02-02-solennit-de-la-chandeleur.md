@@ -42,4 +42,4 @@ Lireplus
 ![Salutaris Amiens.png]({{site.baseurl}}/images/Salutaris%20Amiens.png)  
 
 **O salutaris Hostia** Anonyme XVIe - Confrérie de sainte Barbara, abbatiale de Corbie  
-*ms d'Amiens 162D*
+*ms d'Amiens 162D - f.1v*
