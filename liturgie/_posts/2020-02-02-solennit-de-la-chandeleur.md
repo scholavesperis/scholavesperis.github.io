@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Solennité de la Chandeleur
 ---
 
