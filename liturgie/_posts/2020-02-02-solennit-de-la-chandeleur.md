@@ -39,5 +39,5 @@ Lireplus
 
 &nbsp;
 
-![Salutaris Amiens.png]({{site.baseurl}}/images/Salutaris%20Amiens.png)
+![Salutaris Amiens.png]({{site.baseurl}}/images/Salutaris%20Amiens.png)  
 **O salutaris Hostia** confrérie de sainte Barbara *ms d'Amiens 162D*
