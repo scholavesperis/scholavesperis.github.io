@@ -14,7 +14,7 @@ Le Seigneur est mon rocher, ma forteresse et mon libérateur.
 **Graduel : Adjutor in opportunitatibus**  
 Faux-bourdon parisien du 3e ton
 
-**Trait : De profundis**
+**Trait : De profundis**  
 Faux-bourdon lyonnais du 8e ton
 
 **Offertoire : Circumdederunt me**  
