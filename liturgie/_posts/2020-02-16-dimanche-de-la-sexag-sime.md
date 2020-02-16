@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Sexagésime
 ---
 **Dimanche 16 février 2020, messe de 19h**  
@@ -30,4 +30,3 @@ Anonyme tchèque XVe
 
 **Sortie : Benedicamus Domino**  
 Jacob Obrecht 1457-1505
-
