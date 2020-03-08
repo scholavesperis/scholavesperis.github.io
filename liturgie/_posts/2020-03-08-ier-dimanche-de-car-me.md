@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ier dimanche de Carême
 ---
 **Dimanche 1er mars 2020, messe de 19h**  
