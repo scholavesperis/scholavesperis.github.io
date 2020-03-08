@@ -4,7 +4,8 @@ title: Ier dimanche de Carême
 ---
 **Dimanche 1er mars 2020, messe de 19h**  
 
-images/Pelican%20Barth%C3%A9l%C3%A9my%20l
+![Pelican Wolfenbuttel guelf 1297.jpg]({{site.baseurl}}/images/Pelican Wolfenbuttel guelf 1297.jpg)
+
 
 *Scuto circúmdabit te véritas eius, non timébis a timóre noctúrno.*  
 Sa vérité t’environnera comme un bouclier, tu ne craindras pas les frayeurs de la nuit.
