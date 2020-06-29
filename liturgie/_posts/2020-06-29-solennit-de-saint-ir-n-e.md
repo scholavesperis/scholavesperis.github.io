@@ -7,6 +7,7 @@ title: Solennité de saint Irénée
 ![saint Irénée.jpg]({{site.baseurl}}/images/saint Irénée.jpg)
  
  **Messe célébrée selon le rite lyonnais**  
+ 
  *Nomen eorum vivit in generatione et generationem.*  
  Leurs noms vivront de génération en génération.
  
