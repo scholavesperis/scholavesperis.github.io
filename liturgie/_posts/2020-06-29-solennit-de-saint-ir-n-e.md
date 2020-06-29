@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Solennité de saint Irénée
 ---
 ** Dimanche 28 juin 2020, messe de 19h**
