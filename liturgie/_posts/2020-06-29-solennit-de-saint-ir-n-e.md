@@ -34,6 +34,3 @@ title: Solennité de saint Irénée
  
  **Sortie : Doine salva fac Galliam**  
 *faux-bourdons pour les fêtes solemnelles* Paris 1771
- 
- 
- 
