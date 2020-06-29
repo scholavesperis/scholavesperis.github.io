@@ -27,7 +27,7 @@ title: Solennité de saint Irénée
  Nicolas Formé 1567-1638
  
  **Communion : Tantum ergo**  
- Traditionnel Gévaudan
+traditionnel Gévaudan
  
  **Sapientiam ejus**
  
