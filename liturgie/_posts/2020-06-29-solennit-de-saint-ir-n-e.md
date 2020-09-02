@@ -33,5 +33,5 @@ traditionnel Gévaudan
  
  **Au dernier évangile : Salve Regina**
  
- **Sortie : Doine salva fac Galliam**  
+ **Sortie : Domine salvam fac Galliam**  
 *faux-bourdons pour les fêtes solemnelles* Paris 1771
