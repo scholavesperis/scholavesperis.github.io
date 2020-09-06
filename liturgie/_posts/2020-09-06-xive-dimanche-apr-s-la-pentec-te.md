@@ -19,7 +19,7 @@ faux-bourdon du 5e ton *Graduel de Lyon 1817*
 **Offertoire : Regi saeculorum**  
 Claudin de Sermisy 1490-1562
 
-**Consécration : O salutairs Hostia** 
+**Consécration : O salutairs Hostia**  
 attribué à Josquin Desprez 1450-1521
 
 **Communion : Primum quaerite**  
