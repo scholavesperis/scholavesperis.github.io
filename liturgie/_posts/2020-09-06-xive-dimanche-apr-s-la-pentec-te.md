@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XIVe dimanche après la Pentecôte
 ---
 **Dimanche 6 septembre 2020, messe de 19h**  
