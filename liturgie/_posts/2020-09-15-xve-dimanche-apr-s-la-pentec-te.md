@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XVe dimanche après la Pentecôte
 ---
 **Dimanche 13 septembre 2020, messe de 19h**  
@@ -30,4 +30,3 @@ alternance polyphonique d’H.Isaac 1450-1517 Choralis Constantinus
 
 **Sortie : Deo gratias**  
 d’apès *O pia* Jacob Obrecht 1457-1505
-
