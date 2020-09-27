@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XVIe dimanche après la Pentecôte
 ---
 **Dimanche 20 septembre 2020, messe de 19h**  
