@@ -28,4 +28,4 @@ Heinrich Isaac 1450-1517 *Choralis Constantinus*
 **Au dernier évangile : Salve Regina**  
 
 **Sortie : Deo gratias**  
-d'après A.de Cabezon 1510-1566
+d'après Antonio de Cabezon 1510-1566
