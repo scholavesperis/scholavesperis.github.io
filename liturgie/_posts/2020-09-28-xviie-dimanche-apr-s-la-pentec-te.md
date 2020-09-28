@@ -12,7 +12,7 @@ Tu es juste Seigneur, et droit est ton jugement.
 **Introït : Justus es**  
 
 **Graduel : Beata gens**  
-Faux-bourdon du Ier ton - Vincent Dumestre
+faux-bourdon du Ier ton - Vincent Dumestre
 
 **Alleluia : Domine exaudi**  
 
