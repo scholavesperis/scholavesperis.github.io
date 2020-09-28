@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XVIIe dimanche après la Pentecôte
 ---
 **Dimanche 27 septembre 2020, messe de 19h**  
@@ -22,11 +22,10 @@ alternance de faux-bourdon du VIe ton
 **Consécration : J'ay pris amours**  
 instrumental - Francesco Spinacino 1485-1507
 
-**Commun : Caro mea / O vere digna / Dominus Deus noster
-motet tchèque anonyme XVe
+**Communion : Vovete**  
+Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
-Vovete et reddite
+**Au dernier évangile : Salve Regina**  
 
-Au dernier évangile : Salve Regina
-
-Sortie :
+**Sortie : Deo gratias**  
+d'après A.de Cabezon 1510-1566
