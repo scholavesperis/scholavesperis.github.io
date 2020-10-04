@@ -3,7 +3,9 @@ published: true
 title: Solennité de Notre-Dame du Rosaire
 ---
 **Dimanche 4 octobre 2020, messe de 19h**  
+
 ![Marie front autel.jpg]({{site.baseurl}}/images/Marie front autel.jpg)
+
 *Audi filia, et vide, et inclina aurem tuam : quia concupivit Rex speciem tuam.*  
 Écoute ma fille, regarde et sois attentive : le Roi est séduit par ta beauté.
 
