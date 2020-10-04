@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Solennité de Notre-Dame du Rosaire
 ---
 **Dimanche 4 octobre 2020, messe de 19h**  
