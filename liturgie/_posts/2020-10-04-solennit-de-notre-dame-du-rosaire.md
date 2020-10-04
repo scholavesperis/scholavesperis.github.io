@@ -17,13 +17,13 @@ faux-bourdon du 5e ton - Graduel de Lyon
 **Alleluia : Solemnitas gloriosae Virginis Mariae**
 
 **Offertoire : Ave Maria, virgo virginum**  
-adaptation d’après Cormacus scripsit Irlande XIIe
+adaptation d’après *Cormacus scripsit* Irlande XIIe
 
 **Consécration : O florens rosa**  
 instrumental - Johannes Ghiselin 1455-1511
 
 **Communion : Mariam Matrem Virginem**  
-anonyme XIVe Llibre Vermell de Montserrat
+anonyme XIVe *Llibre Vermell de Montserrat*
 
 **Au dernier évangile : Salve Regina**
 
