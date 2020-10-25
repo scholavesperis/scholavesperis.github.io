@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XIXe dimanche après la Pentecôte
 ---
 **Dimanche 11 octobre 2020, messe de 19h
@@ -20,8 +20,8 @@ verset en faux-bourdon du 2e ton - Lyon 1817
 **Offertoire : Si ambulem**  
 Antoine de Févin 1470-1512
 
-**Consécration : Da pacem**  
-Costanzo Festa 1495-1545
+**Consécration : O salutaris Hostia**  
+Nicolas Formé 1567-1638
 
 **Communion : Pange lingua**  
 d'après *Judea et Jerusalem* anonyme anglais XIVe
