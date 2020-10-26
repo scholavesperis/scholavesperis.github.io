@@ -2,7 +2,7 @@
 published: true
 title: XXe dimanche après la Pentecôte
 ---
-**Dimanche 18 octobre 2020, messe de 19h
+**Dimanche 18 octobre 2020, messe de 19h**
 
 ![Omnia.jpg]({{site.baseurl}}/images/Omnia.jpg)
 
