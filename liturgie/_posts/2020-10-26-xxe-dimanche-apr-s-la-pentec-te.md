@@ -12,8 +12,10 @@ Mon coeur est prêt, mon Dieu, je vais chanter, je vais jouer pour toi qui est m
 **Introït : Omnia, quae fecisti nobis**
 
 **Graduel : Oculi omnium**
+faux-bourdon du 7e ton
 
 **Alleluia : Paratum cor meum**
+verset en faux-bourdon du 3e ton - Johannes Martini
 
 **Offertoire : Super flumina Babylonis**  
 faux-bourdon du 2e ton
