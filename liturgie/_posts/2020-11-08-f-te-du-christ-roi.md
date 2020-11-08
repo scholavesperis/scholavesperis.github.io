@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête du Christ-Roi
 ---
 **Dimanche 25 octobre 2020**  
@@ -30,5 +30,3 @@ Alternance polyphonique de Gilles Binchois 1400-1460
 
 **Sortie : Christus vincit**  
 Traditionnel corse - Nebbiu
-
-
