@@ -20,8 +20,8 @@ Faux-bourdon du 8e ton
 **Offertoire : Béatitudes**  
 Faux-bourdon du 4e ton
 
-**Consécration : Bone Jesu**  
-Mathieu Gascongne XVIe
+**Consécration : O salutaris Hostia**  
+Anonyme XVIe *Occo codex*
 
 **Communion : Tantum ergo**  
 Anonyme XVIe *Occo codex*
