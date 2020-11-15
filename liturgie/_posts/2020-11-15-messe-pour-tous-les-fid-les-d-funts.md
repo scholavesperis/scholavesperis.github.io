@@ -21,8 +21,8 @@ Alternance polyphonique - Frédéric Viret 1822-1898
 Faux-bourdon du 1er ton
 
 **Dies irae**  
-Alternance polyphonique *Requiem de Cambrai*  
-Anonyme Processionale Romanum 1840
+Alternance polyphonique *Requiem de Cambrai* Anonyme  
+Processionale Romanum 1840
 
 **Offertoire : Miserere**  
 Faux-bourdon de G.M.Nanino 1543-1607
