@@ -40,4 +40,4 @@ Antoine de Févin 1470-1512
 Antoine Divitis 1475-1530
 
 **Sortie instrumentale : Domine salvam fac Galliam**  
-Faux-bourdon *pour les fêtes solemnelles* Paris 1771
+Faux-bourdon *"pour les fêtes solemnelles"* Paris 1771
