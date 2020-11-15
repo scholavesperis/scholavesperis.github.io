@@ -28,5 +28,5 @@ Anonyme XVIe *Occo codex*
 
 **Au dernier évangile : Salve Regina**
 
-**Sortie : Christus vincit**  
-Traditionnel Corse - Nebbiu
+**Sortie : Domine salvam fac Galliam**  
+Faux-bourdon "pour les fêtes solemnelles* Paris 1771
