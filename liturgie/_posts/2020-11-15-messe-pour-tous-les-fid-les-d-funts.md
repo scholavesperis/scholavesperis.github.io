@@ -13,7 +13,7 @@ Seigneur, fais briller sur eux la lumière sans fin.
 Alternance polyphonique de Pedro de Escobar 1465-1535
 
 **Kyrie**  
-Alternance polyphonique - Requiem de Frédéric Viret 1822-1898
+Alternance polyphonique - Frédéric Viret 1822-1898
 
 **Graduel : Requiem aeternam**
 
