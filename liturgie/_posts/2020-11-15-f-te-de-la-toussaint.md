@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Toussaint
 ---
 **Dimanche 1er novembre 2020, messe de 19h**
@@ -30,5 +30,3 @@ Anonyme XVIe *Occo codex*
 
 **Sortie : Christus vincit**  
 Traditionnel Corse - Nebbiu
-
-
