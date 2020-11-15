@@ -10,7 +10,7 @@ title: Messe pour tous les fidèles défunts
 Seigneur, fais briller sur eux la lumière sans fin.
 
 **Introït : Requiem aeternam**  
-Alternance polyphonique de Pedro de Escobar 1465-1535
+Alternance polyphonique - Pedro de Escobar 1465-1535
 
 **Kyrie**  
 Alternance polyphonique - Frédéric Viret 1822-1898
