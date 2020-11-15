@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Messe pour tous les fidèles défunts
 ---
 **Lundi 2 novembre 2020, messe de 19h**
