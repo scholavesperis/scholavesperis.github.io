@@ -23,7 +23,7 @@ Alternance polyphonique - anonyme XVe *ms de Trente*
 **Consécration : O salutaris Hostia**  
 Johannes Brassart 1400-1455
 
-**Communion : Urbs Jerusalem**
+**Communion : Urbs Jerusalem**  
 D'après Guillaume Dufay 1400-1474
 
 **Au dernier évangile : Salve Regina**
