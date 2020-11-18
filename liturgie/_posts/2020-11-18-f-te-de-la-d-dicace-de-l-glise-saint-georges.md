@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Dédicace de l'église saint Georges
 ---
 **Dimacnhe 8 novembre 2020, messe de 19h**  
@@ -30,4 +30,3 @@ D'après Guillaume Dufay 1400-1474
 
 **Sortie : Caelestis Urbs**  
 Jean-Étienne Langianni
-
