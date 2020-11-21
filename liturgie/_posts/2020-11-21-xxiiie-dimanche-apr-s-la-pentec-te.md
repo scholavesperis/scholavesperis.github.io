@@ -3,6 +3,7 @@ published: true
 title: XXIIIe dimanche après la Pentecôte
 ---
 **Dimanche 15 novembre 2020, messe de 19h**  
+
 ![Christ St Chef.jpg]({{site.baseurl}}/images/Christ%20St%20Chef.jpg)
 
 *Cælum et terra transíbunt, verba autem mea non præteríbunt.*  
