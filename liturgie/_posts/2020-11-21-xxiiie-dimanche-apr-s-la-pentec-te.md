@@ -4,10 +4,10 @@ title: XXIIIe dimanche après la Pentecôte
 ---
 **Dimanche 15 novembre 2020, messe de 19h**  
 
-![Christ St Chef.jpg]({{site.baseurl}}/images/Christ%20St%20Chef.jpg)
+![Alleluia De profundis.jpg]({{site.baseurl}}/images/Alleluia%20De%20profundis.jpg)
 
-*Cælum et terra transíbunt, verba autem mea non præteríbunt.*  
-Le ciel et la terre passeront, mais mes paroles ne passeront point.
+*Invocabitis me, et ego exaudiam vos, et reducam captivitatem vestram de cunctis locis*  
+Vous m’invoquerez et je vous écouterai, de partout je ramènerai vos captifs.
 
 **Introït : Dicit Dominus**
 
