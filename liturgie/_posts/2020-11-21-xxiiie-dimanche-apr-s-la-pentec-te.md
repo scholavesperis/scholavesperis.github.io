@@ -18,7 +18,7 @@ Faux-bourdon du 7e ton Guillaume Dufay 1400-1474
 Faux-bourdon du 7e ton *Chapelle pontificale*
 
 **Offertoire : De profundis**  
-Jean de Bournonville 1585-1632 - faux-bourdon à double choeur 
+Jean de Bournonville 1585-1632 
 
 **Communion : Amen dico vobis**  
 Alternance polyphonique d'Heinrich Isaac 1450-1517 *Choralis Constantinus*
