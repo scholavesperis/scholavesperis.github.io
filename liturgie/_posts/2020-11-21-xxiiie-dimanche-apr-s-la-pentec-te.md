@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXIIIe dimanche après la Pentecôte
 ---
 **Dimanche 15 novembre 2020, messe de 19h**  
