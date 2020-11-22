@@ -24,7 +24,7 @@ Josquin Desprez 1450-1521
 Anonyme XVIe *Motettorum Pierre Attaingnant*
 
 **Communion : Amen dico vobis**  
-Alternance polyphonique d’Heinrich Isaac 1450-1517 Choralis Constantinus
+Alternance polyphonique d’Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Au dernier évangile : Salve Regina**  
 
