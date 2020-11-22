@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dernier dimanche après la Pentecôte
 ---
 **Dimanche 22 novemnre 2020, messe de 19h**  
