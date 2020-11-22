@@ -21,7 +21,7 @@ Faux-bourdon du 7e ton Chapelle pontificale
 Josquin Desprez 1450-1521
 
 **Consécration : O salutaris Hostia**  
-Anonyme XVIe *Occo codex*
+Anonyme XVIe *Motettorum Pierre Attaingnant*
 
 **Communion : Amen dico vobis**  
 Alternance polyphonique d’Heinrich Isaac 1450-1517 Choralis Constantinus
@@ -30,3 +30,10 @@ Alternance polyphonique d’Heinrich Isaac 1450-1517 Choralis Constantinus
 
 **Sortie : Deo gratias**  
 Claudin de Sermisy 1490-1562 d'après *Daleth*
+
+Lireplus
+
+&nbsp;
+
+![Salutaris Attaignant.jpg]({{site.baseurl}}/images/Salutaris%20Attaignant.jpg)
+Anonyme début XVIe *Motettorum édition de Pierre Attaingnant*
