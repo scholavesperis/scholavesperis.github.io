@@ -21,7 +21,7 @@ Faux-bourdon du 7e ton *Chapelle pontificale*
 Josquin Desprez 1450-1521
 
 **Consécration : O salutaris Hostia**  
-Anonyme XVIe *Motettorum Pierre Attaingnant*
+Anonyme XVIe *Missarum Pierre Attaingnant*
 
 **Communion : Amen dico vobis**  
 Alternance polyphonique d’Heinrich Isaac 1450-1517 *Choralis Constantinus*
@@ -36,4 +36,6 @@ Lireplus
 &nbsp;
 
 ![Salutaris Attaignant.jpg]({{site.baseurl}}/images/Salutaris%20Attaignant.jpg)
-Anonyme début XVIe *Motettorum édition de Pierre Attaingnant*
+**O salutaris Hostia** Anonyme XVIe  
+*Missarum musicalium quatuor vocum cum suis motetis, liber tertius - Pierre Attaingnant*  
+Le 1er vers “O salutaris Hostia” est chanté en plain-chant
