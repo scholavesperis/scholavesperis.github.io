@@ -12,10 +12,10 @@ Il y aura des signes dans le soleil, la lune et les étoiles.
 **Introït : Ad te levavi animam meam**
 
 **Graduel : Universi**  
-Faux-bourdon du Ier ton - chapelle pontificale
+Faux-bourdon du 1er ton - chapelle pontificale
 
 **Alleluia : Ostende nobis**  
-Faux-bourdon du 8e ton - XVIe
+Verset en faux-bourdon, 8e ton - XVIe
 
 **Offertoire : Conditor alme siderum**  
 Alternance polyphonique de Costanzo Festa 1495-1545
