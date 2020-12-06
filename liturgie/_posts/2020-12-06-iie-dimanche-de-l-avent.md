@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche de l'Avent
 ---
 **Dimanche 6 décembre 2020, messe de 19h**
