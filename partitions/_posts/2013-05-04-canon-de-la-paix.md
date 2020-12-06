@@ -1,7 +1,9 @@
 ---
 title: Canon de la Paix
-description: "Partition du &quot;Canon de la Paix&quot; cliquez sur le titre de l'article et ouvrez le lien pdf (qui apparaÃ®t en bas de page) version audio : "
-published: true
+description: >-
+  Partition du &quot;Canon de la Paix&quot; cliquez sur le titre de l'article et
+  ouvrez le lien pdf (qui apparaÃƒÂ®t en bas de page) version audio : 
+published: false
 ---
 
 ![](/images/2013-05-04-paix.jpg)
