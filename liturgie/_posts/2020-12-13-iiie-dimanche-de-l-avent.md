@@ -4,7 +4,7 @@ title: IIIe dimanche de l'Avent
 ---
 **Dimanche 13 décembre 2020, messe de 19h**  
 
-![Gaudete Cecilia.jpg]({{site.baseurl}}/images/Gaudete Cecilia.jpg)
+![Gaudete Caecilia.jpg]({{site.baseurl}}/images/Gaudete Caecilia.jpg)
 
 *Excita, Domine, potentiam tuam, et veni, ut salvos facias nos.*  
 Seigneur, réveille ta puissance, et viens nous sauver.
@@ -20,7 +20,7 @@ Faux-bourdon du 4e ton - Guillaume Dufay 1400-1474
 Alternance polyphonique d’Elzéar Genet de Carpentras 1470-1548
 
 **Consécration : O salutaris Hostia**  
-Anonyme XVIe à 5 voix *Missarum musicalium ed. Parisiis 1568*
+Anonyme XVIe à 5 voix *Missarum musicalium 1568*
 
 **Communion : Lucis eterne / Veni splendor**   
 Anonyme XVe *manuscrit de Chypre*
