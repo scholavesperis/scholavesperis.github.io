@@ -12,7 +12,7 @@ Seigneur, réveille ta puissance, et viens nous sauver.
 **Introït : Gaudete in Domino**  
 
 **Graduel : Qui sedes**  
-Faux-bourdon du 4e ton - Guillaume Dufay 1400-1474
+Faux-bourdon du 7e ton - Guillaume Dufay 1400-1474
 
 **Alleluia : Excita Domine**  
 
