@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche de l'Avent
 ---
 **Dimanche 20 décembre 2020, messe de 19h**
