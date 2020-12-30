@@ -15,7 +15,7 @@ Que s’ouvre la terre et fasse germer le Sauveur !
 faux-bourdon du 5e ton *Octo Cantica 1584*  
 
 **Alleluia : Veni Domine**  
-verset en faux-bourdon anonyme, 3e ton
+verset en faux-bourdon - anonyme, 3e ton
 
 **Offertoire : Conditor alme siderum**  
 alternance polyphonique de Costanzo Festa 1495-1545
