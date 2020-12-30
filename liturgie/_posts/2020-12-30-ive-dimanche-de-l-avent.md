@@ -6,7 +6,6 @@ title: IVe dimanche de l'Avent
 
 ![Annonciation Avia.jpg]({{site.baseurl}}/images/Annonciation%20Avia.jpg)
 
-
 *Aperiatur terra et germinet salvatorem.*  
 Que s’ouvre la terre et fasse germer le Sauveur !
 
