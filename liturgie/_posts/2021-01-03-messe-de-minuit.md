@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Messe de Minuit
 ---
 **Jeudi 24 décembre 2020**
@@ -23,7 +23,7 @@ Alternance polyphonique de Costanzo Festa 1495-1545
 **Consécration : O salutaris Hostia**  
 Anonyme XVIe *Occo codex*
 
-**Communion - invitatoire - Christus natus est**  
+**Communion -invitatoire- Christus natus est**  
 Anonyme XVIe, Espagne
 
 **Tantum ergo**  
