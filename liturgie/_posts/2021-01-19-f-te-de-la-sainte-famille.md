@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Sainte Famille
 ---
 **Dimanche 10 janvier 2021, messe de 19h**  
