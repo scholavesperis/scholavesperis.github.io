@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche après l'Épiphanie
 ---
 **Dimanche 17 janvier 2021, messe de 19h**  
