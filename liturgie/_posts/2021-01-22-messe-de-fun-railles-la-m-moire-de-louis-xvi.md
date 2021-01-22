@@ -10,7 +10,7 @@ title: Messe de funérailles à la mémoire de Louis XVI
 *Requiem aeternam dona eis Domine, et lux perpetua luceat eis.*  
 Donnez-lui, Seigneur, le repos éternel, et que brille pour lui la lumière qui jamais ne décline.
 
-Le Kyriale est chanté en alternance polyphonique selon la "Messe de Requiem* d'Eustache Du Caurroy 1549-1609
+Le Kyriale est chanté en alternance polyphonique selon la *Messe de Requiem* d'Eustache Du Caurroy 1549-1609
 
 **Introït : Requiem aeternam**  
 Eustache Du Caurroy
