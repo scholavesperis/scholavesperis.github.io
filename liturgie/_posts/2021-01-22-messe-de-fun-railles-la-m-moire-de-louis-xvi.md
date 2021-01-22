@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Messe de funérailles à la mémoire de Louis XVI
 ---
 **Jeudi 21 janvier 2021, messe de 16h30**  
