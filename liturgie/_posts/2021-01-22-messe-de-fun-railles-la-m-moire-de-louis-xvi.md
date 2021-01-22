@@ -21,7 +21,7 @@ Faux-bourdon du 2e ton
 **Trait : Absolve Domine**  
 faux-bourdon du 1er ton
 
-**Dies irae**
+**Dies irae**  
 Alternance polyphonique en faux-bourdon
 
 **Offertoire : De profundis**  
