@@ -27,7 +27,7 @@ Alternance polyphonique en faux-bourdon
 **Offertoire : De profundis**  
 Psaume en faux bourdon du 1er ton *Paris 1771*
 
-**Consécration : O salutaris Hostia**
+**Consécration : O salutaris Hostia**  
 Nicolas Formé 1567-1638
 
 **Communion : Lux aeterna**  
