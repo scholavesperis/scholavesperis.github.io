@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche après l'Épiphanie
 ---
 **Dimanche 24 janvier 2021, messe de 16h30**  
