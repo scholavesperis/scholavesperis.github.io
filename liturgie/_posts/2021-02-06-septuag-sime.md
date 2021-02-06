@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Septuagésime
 ---
 **Dimanche 31 janvier 2021, messe de 16h30**
@@ -28,5 +28,3 @@ Heinrich Isaac 1450-1517 Choralis Constantinus
 
 **Sortie : Benedicamus Domino**  
 d'après Thomas Tallis 1505-1585
-
-
