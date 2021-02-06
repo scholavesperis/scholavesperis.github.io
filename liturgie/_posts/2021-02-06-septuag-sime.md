@@ -24,8 +24,7 @@ d'après Robert White 1538-1574
 **Communion : Illumina faciem tuam**  
 Heinrich Isaac 1450-1517 Choralis Constantinus
 
-**Au dernier évangile**  
-Alma redemtoris Mater
+**Au dernier évangile : Alma redemptoris Mater**
 
 **Sortie : Benedicamus Domino**  
 d'après Thomas Tallis 1505-1585
