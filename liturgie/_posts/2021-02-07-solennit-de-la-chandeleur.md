@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Solennité de la Chandeleur
 ---
 **Dimanche 6 février 2021, messe de 16h30**  
