@@ -6,7 +6,7 @@ title: Solennité de la Chandeleur
 
 ![Simeon.jpg]({{site.baseurl}}/images/Simeon.jpg)
 
-**Senex puerum portabat, puer autem senem regebat.**  
+*Senex puerum portabat, puer autem senem regebat.*  
 Le vieillard portait l’enfant, mais l’enfant conduisait le vieillard.
 
 **Procession et bénédiction des cierges: Lumen ad revelationem / Nunc dimittis**  
