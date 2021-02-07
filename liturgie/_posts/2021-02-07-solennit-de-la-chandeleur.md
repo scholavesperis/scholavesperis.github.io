@@ -9,7 +9,7 @@ title: Solennité de la Chandeleur
 *Senex puerum portabat, puer autem senem regebat.*  
 Le vieillard portait l’enfant, mais l’enfant conduisait le vieillard.
 
-**Procession et bénédiction des cierges: Lumen ad revelationem / Nunc dimittis**  
+**Procession & bénédiction des cierges: Lumen ad revelationem / Nunc dimittis**  
 Faux-bourdon de Laurent Dandin 1584
 
 **Introït : Suscepimus Deus**  
