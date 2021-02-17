@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Quinquagésime
 ---
 **Dimanche 14 février 2021, messe de 16h30**  
