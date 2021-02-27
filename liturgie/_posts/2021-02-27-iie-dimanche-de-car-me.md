@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche de Carême
 ---
 **Dimanche 28 février 2021, messe de 16h30**  
