@@ -32,5 +32,6 @@ Lireplus
 &nbsp;
 
 ![O salutaris Occo.jpg]({{site.baseurl}}/images/O salutaris Occo.jpg)
+
 **O salutaris Hostia** Anonyme XVIe  
 *Occo codex* Bibliothèque royale de Bruxelles
