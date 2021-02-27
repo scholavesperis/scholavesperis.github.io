@@ -17,7 +17,7 @@ Souviens-toi, Seigneur, de ta tendresse et de ta miséricorde car elles sont ét
 Alternance polyphonique à 4 voix - Costanzo Festa 1495-1545
 
 **Consécration : O salutaris Hostia**  
-Anonyme FXVIe *Occo codex*
+Anonyme XVIe *Occo codex*
 
 **Communion : Parce Domine**  
 Anonyme XVIe *Motetti de Passione*
