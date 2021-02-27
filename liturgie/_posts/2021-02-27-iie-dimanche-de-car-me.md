@@ -25,7 +25,7 @@ Anonyme XVIe *Motetti de Passione*
 **Au dernier évangile : Ave Regina caelorum**
 
 **Sortie : Mater regis angelorum**  
-Anonyme XVIe Prosolaire du Puy en Velay
+Anonyme XVIe *Prosolaire du Puy en Velay*
 
 Lireplus
 
