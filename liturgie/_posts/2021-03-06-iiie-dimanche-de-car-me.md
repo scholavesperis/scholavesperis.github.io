@@ -4,7 +4,7 @@ title: IIIe dimanche de Carême
 ---
 **Dimanche 7 mars 2021, messe de 16h30**  
 
-![Giotto femmes.jpg]({{site.baseurl}}/images/Giotto%20femmes.jpg)
+![femmes giotto.jpg]({{site.baseurl}}/images/femmes%20giotto.jpg)
 
 *Oculi mei semper ad Dominum, quia ipse evellet de laqueo pedes meos*  
 Mes yeux sont constamment tournés vers le Seigneur, c’est lui qui dégagera mes pieds du filet.
