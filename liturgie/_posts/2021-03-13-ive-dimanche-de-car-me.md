@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche de Carême
 ---
 **Dimanche 14 mars 2021, messe de 16h30**  
@@ -7,28 +7,28 @@ title: IVe dimanche de Carême
 ![multiplication pains.jpg]({{site.baseurl}}/images/multiplication pains.jpg)
 
 
-*aetare Jerusalem : et conventum facite, omnes qui diligitis eam.*  
+*Laetare Jerusalem : et conventum facite, omnes qui diligitis eam.*  
 Réjouis-toi, Jérusalem; et rassemblez-vous, vous tous qui l’aimez.
 
-Introït : Laetare Jerusalem
+**Introït : Laetare Jerusalem**
 
-Graduel : Laetatus sum
-faux-bourdon du 7e ton
+**Graduel : Laetatus sum**  
+faux-bourdon du 7e ton *Chapelle pontificale*
 
-Trait : Qui confidunt in Domino
-faux-bourdon de Florian Moskopf
+**Trait : Qui confidunt in Domino**  
+faux-bourdon du 8e ton *Graduel de Lyon*
 
-Offertoire : Da magne Pater
-attribué à Jean Hanelle 1380-1436 ms de Chypre
+**Offertoire : Laudate Dominum**  
+d'après Pierre de la Rue 1452-1518
 
-Consécration : Ecce panis Angelorum
-d’après Verbum Bonum anonyme XIIIe
+**Consécration : O salutaris Hostia**  
+Anonyme XVIe à 5 voix
 
-Communion : Porta caeli
-attribué à Jean Hanelle ms de Chypre
+**Communion : Jerusalem**  
+alternance polyphonique d'H.Isaac 1450-1517 *Choralis Constantinus*
 
-Jerusalem
+**Au dernier évangile : Ave Regina caelorum**
 
-Au dernier évangile : Ave Regina caelorum
+**Sortie : Benedicamus Domino**  
+Costanzo Festa 1495-1545
 
-Sortie : Deo gratias
