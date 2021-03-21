@@ -6,6 +6,6 @@ title: Partitions
 
 **Polyphonie liturgique**
 
-Si vous recherchez la partition d'une polyphonie présente dans les programmes de la schola, n'hésitez-pas à nous contacter :
+Si vous recherchez la partition en notation moderne d'une polyphonie présente dans les programmes de la schola, ou un renseignement sur les sources, n'hésitez-pas à nous contacter :
 
 [scholavesperis@yahoo.fr](mailto:scholavesperis@yahoo.fr)
