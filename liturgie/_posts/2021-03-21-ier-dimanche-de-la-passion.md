@@ -18,8 +18,8 @@ Les étendards du Roi s'avancent, la Croix rayonne en son mystère.
 **Offertoire : Confitebor tibi**  
 adaptation d’après *Alma polis religio* Johannes de Porta - XIVe
 
-**Consécration : O salutaris Hostia**  
-Anonyme XVIe *Occo codex*
+**Consécration : Bone Jesu**  
+Mathieu Gascongne XVIe
 
 **Communion : Vexilla regis**  
 Alternance polyphonique de Costanzo Festa 1495-1545
