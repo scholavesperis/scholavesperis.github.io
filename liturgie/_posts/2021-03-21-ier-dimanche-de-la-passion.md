@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ier dimanche de la Passion
 ---
 **Dimanche 21 mars 2021, messe de 17h30**  
@@ -30,4 +30,3 @@ Alternance polyphonique de Costanzo Festa 1495-1545
 
 **Sortie : Mater regis angelorum**  
 Anonyme XVIe Prosolaire du Puy en Velay
-
