@@ -5,7 +5,7 @@ description: >-
   de Montecassino -4vx Adoramus te Loyset Compère (1445-1518), Missa Galeazescha
   « Ad elevationem » -4vx Agnus Dei Touront (XVe), Missa Sine nomine, manuscrit
   de Trente -3vx...
-published: true
+published: false
 permalink: /partitions/liste-des-partitions/
 ---
 
@@ -15,7 +15,7 @@ permalink: /partitions/liste-des-partitions/
 
 **Partitions liturgiques éditées par la schola**
 
-Si vous recherchez une partition, n'hésitez-pas à nous contacter :
+Si vous recherchez la partition d'une polyphonie chantée par la schola, n'hésitez-pas à nous contacter :
 
 [scholavesperis@yahoo.fr](mailto:scholavesperis@yahoo.fr)
 
