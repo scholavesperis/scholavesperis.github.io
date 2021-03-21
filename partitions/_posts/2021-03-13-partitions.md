@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Partitions
 ---
 ![](/images/2013-05-04-partition-salutaris-2.jpg)
