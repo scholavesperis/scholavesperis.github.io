@@ -18,7 +18,7 @@ Hosanna, Fils de David ! Béni soit celui qui vient au nom du Seigneur !
 **Offertoire : Vexilla Regis**  
 Alternance polyphonique de Costanzo Festa 1495-1545
 
-**Sanctus**  
+**Sanctus & Benedictus**  
 Antoine de Févin 1470-1512
 
 **Communion : Pater, si non**  
