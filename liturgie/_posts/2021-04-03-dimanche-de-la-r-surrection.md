@@ -39,5 +39,5 @@ Lireplus
 &nbsp;
 
 ![Ad coenam Festa.jpg]({{site.baseurl}}/images/Ad coenam Festa.jpg)
-**Ad coenam Agni providi** Superius - 2e strophe "Cuius corpus"  
+**Ad coenam Agni providi** Costanzo Festa : Superius - 2e strophe "Cuius corpus"  
 *ms 768 Biblioteca Capitolare di Verona*
