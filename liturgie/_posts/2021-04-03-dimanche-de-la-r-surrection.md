@@ -39,4 +39,5 @@ Lireplus
 &nbsp;
 
 ![Ad coenam Festa.jpg]({{site.baseurl}}/images/Ad coenam Festa.jpg)
-**Ad coenam Agni providi** Superius - 2e strophe *ms 768 Biblioteca Capitolare di Verona*
+**Ad coenam Agni providi** Superius - 2e strophe "Cuius corpus"  
+*ms 768 Biblioteca Capitolare di Verona*
