@@ -2,10 +2,10 @@
 published: true
 title: Dimanche de la Résurrection
 ---
-**Dimanche 4 avril 2021, messe de 17h30**  
 
 ![christ chagall.jpg]({{site.baseurl}}/images/christ chagall.jpg)
 
+**Dimanche 4 avril 2021, messe de 17h30**  
 
 *Pascha nostrum immolatus est Christus. Alleluia !**  
 Le Christ, notre Pâque, a été immolé. Alleluia
