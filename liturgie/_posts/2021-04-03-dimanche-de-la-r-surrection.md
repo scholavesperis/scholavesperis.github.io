@@ -36,7 +36,7 @@ Costanzo Fetsa
 
 Lireplus
 
-;&nbsp
+&nbsp;
 
 ![Ad coenam Festa.jpg]({{site.baseurl}}/images/Ad coenam Festa.jpg)
 **Ad coenam Agni providi** Superius - 2e strophe *ms 768 Biblioteca Capitolare di Verona*
