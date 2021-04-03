@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Résurrection
 ---
 **Dimanche 4 avril 2021, messe de 17h30**  
@@ -40,6 +40,3 @@ Lireplus
 
 ![Ad coenam Festa.jpg]({{site.baseurl}}/images/Ad coenam Festa.jpg)
 **Ad coenam Agni providi** Superius - 2e strophe *ms 768 Biblioteca Capitolare di Verona*
-
-
-
