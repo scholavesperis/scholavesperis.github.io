@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche après Pâques
 ---
 **Dimanche 2 mai 2021, messe de 17h30**
