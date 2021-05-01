@@ -4,7 +4,7 @@ title: IIIe dimanche après Pâques
 ---
 **Dimanche 25 avril 2021, messe de 17h30**  
 
-![Jubilate Deo.jpg]({{site.baseurl}}/images/Jubilate%20Deo.jpg)
+![Iubilate Deo.jpg]({{site.baseurl}}/images/Iubilate%20Deo.jpg)
 
 *Jubilate Deo, omnis terra, alleluia, psalmum dicite nomini ejus. Alleluia*  
 Accalamez Dieu, terre entière, chantez en l’honneur de son nom. Alleluia !
