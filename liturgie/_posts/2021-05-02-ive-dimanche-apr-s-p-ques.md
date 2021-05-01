@@ -6,7 +6,6 @@ title: IVe dimanche après Pâques
 
 ![Matteo.jpg]({{site.baseurl}}/images/Matteo.jpg)
 
-
 *Cantate Domino canticum novum, alleluia.*  
 Chantez au Seigneur un chant nouveau, alleluia !
 
