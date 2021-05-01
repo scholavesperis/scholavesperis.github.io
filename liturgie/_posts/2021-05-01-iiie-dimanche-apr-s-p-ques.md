@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche après Pâques
 ---
 **Dimanche 25 avril 2021, messe de 17h30**  
