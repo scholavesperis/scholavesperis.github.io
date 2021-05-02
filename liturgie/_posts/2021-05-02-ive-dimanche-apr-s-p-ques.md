@@ -21,7 +21,7 @@ Faux-bourdon du 6e ton
 Traditionnel Corse
 
 **Communion : Tantum ergo**  
-Anonyme XVIe Gênes *Manuale Choricanum*
+Anonyme franciscain XVIe Gênes *Manuale Choricanum*
 
 **Dum venerit**
 
