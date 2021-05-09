@@ -7,6 +7,7 @@ title: Ve dimanche après Pâques
 ![tenore.jpg]({{site.baseurl}}/images/tenore.jpg)
 
 
+
 *Vocem jucunditatis annuntiate et audiatur, alleluia*  
 Que votre voix annonce l’allégresse, et qu’on l’entende, alléluia !
 
