@@ -21,7 +21,7 @@ Attribué à Jean Hanelle 1380-1436 manuscrit de Chypre
 Mathieu Gascongne XVIe
 
 **Communion : Ad coenam Agni providi**  
-alternance polyphonique de Costanzo Festa 1495-1545
+Alternance polyphonique de Costanzo Festa 1495-1545
 
 **Cantate Domino**
 
