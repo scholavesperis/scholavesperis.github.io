@@ -4,7 +4,8 @@ title: Ve dimanche après Pâques
 ---
  **Dimanche 9 mai 2021, messe de 17h30**  
  
- ![tenore sarde.jpg]({{site.baseurl}}/images/tenore sarde.jpg)
+![tenore.jpg]({{site.baseurl}}/images/tenore.jpg)
+
 
 *Vocem jucunditatis annuntiate et audiatur, alleluia*  
 Que votre voix annonce l’allégresse, et qu’on l’entende, alléluia !
