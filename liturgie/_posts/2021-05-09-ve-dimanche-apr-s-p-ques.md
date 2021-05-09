@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ve dimanche après Pâques
 ---
  **Dimanche 9 mai 2021, messe de 17h30**  
@@ -29,3 +29,11 @@ alternance polyphonique de Costanzo Festa 1495-1545
 
 **Sortie : A Jeanne**  
 Sur l’air du cantique béarnais Noust-Damo deou cap deou poun
+
+Lireplus
+
+&nbsp;
+
+![Ad coenam Festa.jpg]({{site.baseurl}}/images/Ad%20coenam%20Festa.jpg)
+**Ad coenam Agni providi** Costanzo Festa : Superius - 2e strophe “Cuius corpus”  
+*ms 768 Biblioteca Capitolare di Verona*
