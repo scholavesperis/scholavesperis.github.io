@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ascension du Seigneur
 ---
 **Jeudi 13 mai 2021, messe de 17h30**
