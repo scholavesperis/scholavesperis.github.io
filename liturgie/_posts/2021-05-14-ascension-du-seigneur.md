@@ -12,7 +12,7 @@ Comme vous l’avez vu monter au ciel, ainsi il reviendra, alleluia !
 **Introït : Viri Galilaei**
 
 **Alleluia : Ascendit Deus & Dominus in Sina**  
-Versets en faux-bourdon - Ludwig Senfl & faux-bourdon parisien
+Versets en faux-bourdon : Ludwig Senfl & faux-bourdon parisien
 
 **Offertoire : Ascendit Deus**  
 Anonyme XVe *Manuscrit de Trente*
