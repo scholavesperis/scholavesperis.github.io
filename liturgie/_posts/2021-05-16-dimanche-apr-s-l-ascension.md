@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche après l'Ascension
 ---
 **Dimanche 16 mai 2021, messe de 17h30**  
