@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Pentecôte
 ---
 **Dimanche 23 mai 2021, messe de 19h**
