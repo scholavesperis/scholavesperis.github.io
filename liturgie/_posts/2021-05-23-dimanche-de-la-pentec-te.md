@@ -12,7 +12,7 @@ L’esprit du Seigneur a rempli l’univers, alleluia !
 **Introït : Spiritus Domini**
 
 **Alleluia : Emitte Spiritum & Veni Sancte Spiritus**  
-versets en faux-bourdons
+Versets en faux-bourdons
 
 **Veni Sancte Spiritus**
 
