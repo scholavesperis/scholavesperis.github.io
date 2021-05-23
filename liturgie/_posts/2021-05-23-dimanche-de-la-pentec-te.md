@@ -16,14 +16,14 @@ Versets en faux-bourdons
 
 **Veni Sancte Spiritus**
 
-**Offertoire : Veni Creator Spiritus**  
-Alnonyme XVIIe *Manuale choricanum*
+**Offertoire : Veni Sancte Spiritus**  
+Alnonyme XIIe *manuscrit d'Amiens 162D*
 
 **Consécration : O salutaris Hostia**  
 Traditionnel corse
 
-**Communion : Benedicam Dominum**  
-Faux-bourdon - traditionnel corse
+**Communion : O Jhesu vivens hostia / Ave caro Christi**  
+Anonyme tchèque XVe
 
 **Au denrier évangile : Regina caeli**
 
