@@ -25,6 +25,8 @@ Traditionnel corse
 **Communion : O Jhesu vivens hostia / Ave caro Christi**  
 Anonyme tchèque XVe
 
+**Factus est repente**
+
 **Au denrier évangile : Regina caeli**
 
 **Sortie : Deo gratias**  
