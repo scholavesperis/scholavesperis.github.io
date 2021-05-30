@@ -16,7 +16,7 @@ Tu es béni, Seigneur, Dieu de nos pères, et digne de louange éternellement.
 Faux-bourdon du 5e ton Graduel de Lyon 1817
 
 **Alleluia : Benedictus es Domine**  
-Verset en faux-bourdon, Johannes Brassart 1400-1455
+Jubilus polyphonique - Anonyme XVIe *Lyons contrapunctus*
 
 **Offertoire : O lux beata Trinitas**  
 Orlando de Lassus 1532-1594
