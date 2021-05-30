@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Sainte Trinité
 ---
 **Dimanche 30 mai 2021, messe de 18h30**  
