@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête du Saint-Sacrement
 ---
 **Dimanche 6 juin 2021, messe de 18h30** 
