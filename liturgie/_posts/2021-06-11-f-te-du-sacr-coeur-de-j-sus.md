@@ -12,7 +12,7 @@ Si quelqu’un a soif, qu’il vienne à moi et qu’il boive, alleluia !
 **Introït : Cogitationes**
 
 **Graduel : Dulcis et rectus Dominus**  
-faux-bourdon du 1er ton Octo cantica 1584
+faux-bourdon du 1er ton *Octo cantica 1584*
 
 **Alleluia : Tollite jugum meum**  
 verset en faux-bourdon du 3e ton
