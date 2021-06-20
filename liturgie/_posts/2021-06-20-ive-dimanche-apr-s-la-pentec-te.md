@@ -15,7 +15,7 @@ Avance en eau profonde, et jetez vos filets pour la pêche.
 Faux-bourdon du 5e ton, Octo cantica
 
 **Alleluia : Deus qui sedes**  
-verset en faux-bourdon, Guillaume Dufay (1400-1474)
+verset en faux-bourdon, Guillaume Dufay 1400-1474
 
 **Offertoire : Regi saeculorum**  
 Claudin de Sermisy 1490-1562
