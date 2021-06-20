@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche après la Pentecôte
 ---
 **Dimanche 20 juin 2021, messe de 18h30**  
@@ -31,4 +31,4 @@ Heinrich Isaac 1450-1517
 **Au dernier évangile : Salve Regina**
 
 **Sortie : Deo gratias**  
-Claudin de Sermisy
+d'après Claudin de Sermisy
