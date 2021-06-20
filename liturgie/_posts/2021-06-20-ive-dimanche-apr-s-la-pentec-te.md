@@ -17,11 +17,11 @@ Faux-bourdon du 5e ton, Octo cantica
 **Alleluia : Deus qui sedes**  
 verset en faux-bourdon, Guillaume Dufay 1400-1474
 
-**Offertoire : Regi saeculorum**  
-Claudin de Sermisy 1490-1562
+**Offertoire : Dirigatur Domine**  
+faux-bourdon du IIe ton
 
-**Consécration : Tu lumen**  
-Josquin Desprez 1440-1521
+**Consécration : Bone Jesu**  
+Mathieu Gascongne XVIe
 
 **Communion : Christe qui lux es**  
 Heinrich Isaac 1450-1517
@@ -31,4 +31,4 @@ Heinrich Isaac 1450-1517
 **Au dernier évangile : Salve Regina**
 
 **Sortie : Deo gratias**  
-d'après Claudin de Sermisy
+d'après Elzéar Genet de Carpentras 1470-1548
