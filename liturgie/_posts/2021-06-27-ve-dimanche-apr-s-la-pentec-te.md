@@ -29,4 +29,4 @@ alternance polyphonique d'H.Isaac 1450-1517 *Choralis Constantinus*
 **Salve Regina**  
 
 **Sortie : Deo gratias**  
-Claudin de Sermisy 1490-1562
+Antoine de Févin 1470-1512
