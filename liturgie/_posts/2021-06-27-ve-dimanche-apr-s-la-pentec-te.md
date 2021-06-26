@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ve dimanche après la Pentecôte
 ---
 **Dimanche 27 juin 2021, messe de 18h30**  
@@ -30,4 +30,3 @@ alternance polyphonique d'H.Isaac 1450-1517 *Choralis Constantinus*
 
 **Sortie : Deo gratias**  
 Claudin de Sermisy 1490-1562
-
