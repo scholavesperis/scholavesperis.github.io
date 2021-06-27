@@ -7,7 +7,7 @@ title: Ve dimanche après la Pentecôte
 ![Exaudi F780 Aquitaine.jpg]({{site.baseurl}}/images/Exaudi F780 Aquitaine.jpg)
 
 *Exaudi, Domine,vocem meam, qua clamavi ad te*  
-Exaucez Seigneur, ma voix, qui a crié vers vous.
+Écoute Seigneur ma voix qui crie vers toi.
 
 **Introït : Exaudi Domine**  
 
