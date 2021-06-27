@@ -4,7 +4,7 @@ title: Ve dimanche après la Pentecôte
 ---
 **Dimanche 27 juin 2021, messe de 18h30**  
 
-![Exaudi.jpg]({{site.baseurl}}/images/Exaudi.jpg)
+![Exaudi F780 Aquitaine.jpg]({{site.baseurl}}/images/Exaudi F780 Aquitaine.jpg)
 
 *Exaudi, Domine,vocem meam, qua clamavi ad te*  
 Exaucez Seigneur, ma voix, qui a crié vers vous.
