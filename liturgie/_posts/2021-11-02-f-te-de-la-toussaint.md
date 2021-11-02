@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Toussaint
 ---
 **Lundi 1er novembre 2021, messe de 18h30**  
