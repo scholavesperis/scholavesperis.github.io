@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Commémoration des fidèles Défunts
 ---
 **Mardi 2 novembre 2021, messe de 19h**
