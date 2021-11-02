@@ -10,7 +10,8 @@ title: Commémoration des fidèles Défunts
 *Lux aeterna luceat eis, Domine*  
 Seigneur, fais briller sur eux la lumière sans fin.
 
-Le Kyriale est chanté en alternance polyphonique selon la Messe de Requiem d’Eustache Du Caurroy 1549-1609
+Le Kyriale est chanté en alternance polyphonique selon la **Missa pro defunctis** d’Eustache Du Caurroy 1549-1609
+
 
 **Introït : Requiem aeternam**  
 Eustache Du Caurroy
