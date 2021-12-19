@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche de l'Avent
 ---
 **Dimanche 12 décembre, messe de 18h30**
