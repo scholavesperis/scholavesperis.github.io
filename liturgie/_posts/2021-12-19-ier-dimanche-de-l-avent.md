@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ier dimanche de l'Avent
 ---
 **Dimanche 28 novembre 2021, messe de 18h30**
