@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche de l'Avent
 ---
 **Dimanche 5 décembre 2021, messe de 18h30**
