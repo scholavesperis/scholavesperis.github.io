@@ -4,7 +4,7 @@ title: IVe dimanche de l'Avent
 ---
 **Dimanche 19 décembre 2021, messe de 18h30**
 
-![]({{site.baseurl}}/images/Etoile.jpg)
+
 
 *Aperiatur terra et germinet salvatorem.*  
 Que s’ouvre la terre et fasse germer le Sauveur !
