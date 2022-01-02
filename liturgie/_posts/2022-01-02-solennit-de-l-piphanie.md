@@ -21,10 +21,10 @@ Verset en faux-bourdon, 2e ton Graduel de Lyon
 Alternance polyphonique de Costanzo Festa 1495-1545
 
 **Consécration : O salutaris Hostia**  
-Anonyme XVe d'après *ms de Chypre*
+Anonyme XVe d'après *manuscrit de Chypre*
 
 **Communion : Hodie puer nascitur**  
-Attribué à Jean Hanelle manuscrit de Chypre XVe
+Attribué à Jean Hanelle *manuscrit de Chypre* XVe
 
 **Vidimus stellam ejus**
 
