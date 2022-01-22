@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Sainte Famille
 ---
 **Dimanche 9 janvier 2022, messe de 18h30**  
