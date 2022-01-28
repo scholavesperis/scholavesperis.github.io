@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe Dimanche après l'Épiphanie
 ---
 **Dimanche 23 janvier 2022, messe de 18h30**  
