@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche après l'Epiphanie
 ---
 **Dimanche 30 janvier 2022, messe de 18h**
