@@ -29,4 +29,4 @@ Costanzo Festa 1495-1545
 **Au dernier évangile : Alma redemptoris Mater**
 
 **Sortie : Domine salvam fac Galliam**  
-faux-bourdon pour les fêtes solemnelles Paris 1771
+Faux-bourdon pour les fêtes solemnelles Paris 1771
