@@ -17,7 +17,7 @@ Faux-bourdon lyonnais du 5e ton
 **Trait : Nunc dimittis**  
 Faux-bourdon du 1er ton Chansonnier de Copenhague
 
-**Offertoire : Lumen ad revelationem gentium**  
+**Offertoire : Lumen ad revelationem gentium/Nunc dimittis**  
 Faux-bourdon de Laurent Dandin 1584
 
 **Consécration : Tu lumen**  
