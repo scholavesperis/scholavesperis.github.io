@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Solennité de la Chandeleur
 ---
 **Dimanche 6 février 2022, messe de 18h30**
