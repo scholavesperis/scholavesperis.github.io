@@ -39,4 +39,4 @@ Lireplus
 
 ![Ave Maria codex Basevi.png]({{site.baseurl}}/images/Ave%20Maria%20codex%20Basevi.png)
 
-Ave Maria à 5 voix Anonyme XVe - codex Basevi
+**Ave Maria** à 5 voix Anonyme XVe *codex Basevi*
