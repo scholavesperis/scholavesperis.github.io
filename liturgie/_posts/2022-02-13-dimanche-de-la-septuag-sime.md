@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Septuagésime
 ---
 **Dimanche 13 février 2022, messe de 18h30**
