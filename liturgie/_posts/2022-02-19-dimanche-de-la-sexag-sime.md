@@ -38,5 +38,5 @@ Lireplus
 &nbsp;
 
 ![Torino-J.II.9 f.071.jpeg]({{site.baseurl}}/images/Torino-J.II.9 f.071.jpeg)
-**Christe nostra salvatio** Anonyme XVe  
-*manuscrit de Chypre - Torino J.II* Motetus & Contra
+**Christe nostra salvatio** Anonyme XVe - Motetus & Contra
+*manuscrit de Chypre - Torino J.II* 
