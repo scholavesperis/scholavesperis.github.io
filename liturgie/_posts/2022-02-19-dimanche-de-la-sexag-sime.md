@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Sexagésime
 ---
 **Dimanche 20 février 2022, messe de 18h30**
@@ -15,7 +15,7 @@ Manifeste ton amour, toi qui sauves ceux qui se confient en toi.
 faux-bourdon lyonnais du 1er ton 1610
 
 **Trait : Commovisti**  
-faux-bourdon du 8e ton - L. Senfl
+faux-bourdon du 8e ton - L. Senfl 1486-1542
 
 **Offertoire : Super flumina Babylonis**  
 faux-bourdon à 5 voix dit du "ton de Salzbourg" 1597
