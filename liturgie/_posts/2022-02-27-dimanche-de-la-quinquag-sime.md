@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Quinquagésime
 ---
 **Dimanche 27 février 2022, messe de 18h30**
