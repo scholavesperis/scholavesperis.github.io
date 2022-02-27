@@ -4,7 +4,7 @@ title: Dimanche de la Quinquagésime
 ---
 **Dimanche 27 février 2022, messe de 18h30**
 
-![aveugle Rouault.jpg]({{site.baseurl}}/)
+![Esto.jpg]({{site.baseurl}}/images/Esto.jpg)
 
 *Esto mihi in Deum protectorem, et in locum refugii, ut salvum me facias.*  
 Sois-moi un Dieu protecteur, et une forteresse, où je trouve le salut.
