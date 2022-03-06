@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ier dimanche de Carême
 ---
 **Dimanche 6 mars 2022, messe de 18h30**  
@@ -28,4 +28,3 @@ Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Sortie : Mater regis angelorum**  
 Anonyme XVe *Prosolaire du Puy-en-Velay*
-
