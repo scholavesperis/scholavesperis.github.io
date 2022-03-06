@@ -11,8 +11,7 @@ Il te couvrira de ses ailes, sous ses plumes tu trouveras refuge.
 
 **Introït : Invocabit me**
 
-**Graduel : Angelis suis**  
-**Trait : Qui habitat**  
+**Graduel : Angelis suis**  & **Trait : Qui habitat**  
 Faux-bourdon du 2e ton, Paris 1771
 
 **Offertoire : Audi benigne Conditor**  
