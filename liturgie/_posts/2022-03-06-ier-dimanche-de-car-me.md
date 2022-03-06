@@ -18,7 +18,7 @@ Faux-bourdon du 2e ton, Paris 1771
 Alternance polyphonique d'Elzéar Genet de Carpentras 1470-1548
 
 **Consécration : Crux, forma penitentie / Sustinere**  
-Motet anonyme de l'école Notre-Dame de Paris, XIIIe *codex Montpellier*
+Anonyme XIIIe école Notre-Dame de Paris,*codex Montpellier*
 
 **Communion : Scapulis suis**  
 Heinrich Isaac 1450-1517 *Choralis Constantinus*
