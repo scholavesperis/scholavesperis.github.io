@@ -29,5 +29,5 @@ Heinrich Isaac 1450-1517
 **Au dernier évangile : Ave Regina caelorum**  
 
 **Sortie : Deo gratias**  
-D'après Claudi de Sermisy 1490-1562
+D'après *Kyrie Parce* Claudin de Sermisy 1490-1562
 
