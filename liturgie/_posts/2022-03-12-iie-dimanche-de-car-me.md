@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche de Carême
 ---
 **Dimanche 13 mars 2022, messe de 18h30**  
@@ -30,4 +30,3 @@ Heinrich Isaac 1450-1517
 
 **Sortie : Deo gratias**  
 D'après *Kyrie Parce* Claudin de Sermisy 1490-1562
-
