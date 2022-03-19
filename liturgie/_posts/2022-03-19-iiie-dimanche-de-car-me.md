@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche de Carême
 ---
 **Dimanche 20 mars 2022, messe de 18h30**
@@ -24,7 +24,7 @@ Elzéar Genet de Carpentras 1470-1548
 Nicolas Formé 1567-1638 Musica simplex
 
 **Communion : Panis angelicus**  
-Jérôme Casalonga *Sacris solemniis*
+Jérôme Casalonga - *Sacris solemniis*
 
 **Passer** 
 
