@@ -26,7 +26,7 @@ Nicolas Formé 1567-1638 Musica simplex
 **Communion : Panis angelicus**  
 Jérôme Casalonga - *Sacris solemniis*
 
-**Passer** 
+**Passer invenit** 
 
 **Au dernier évangile : Ave Regina caelorum**
 
