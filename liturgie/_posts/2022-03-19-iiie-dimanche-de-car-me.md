@@ -21,7 +21,7 @@ Faux-bourdon du 8e ton - Lyon 1610
 Elzéar Genet de Carpentras 1470-1548
 
 **Consécration : O salutaris Hostia**  
-Nicolas Formé 1567-1638 *Musica simplex*
+Nicolas Formé 1567-1638 - *Musica simplex*
 
 **Communion : Panis angelicus**  
 Jérôme Casalonga - *Sacris solemniis*
