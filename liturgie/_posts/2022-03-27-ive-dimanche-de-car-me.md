@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche de Carême
 ---
 **Dimanche 27 mars 2022, messe de 18h30**
