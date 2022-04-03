@@ -12,7 +12,7 @@ Les étendards du Roi s’avancent, la Croix rayonne en son mystère.
 **Introït : Judica me**
 
 **Graduel : Eripe me**  
-Faux-bourdon du 3e ton *Confrérie des Pénitens séculiers* Lyon 1610
+Faux-bourdon du 3e ton *Confrérie des Pénitents séculiers* Lyon 1610
 
 **Trait : Saepe expugnaverunt**  
 Faux-bourdon du 8e ton - Lyon 1610
