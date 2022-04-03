@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Passion
 ---
 **Dimanche 3 avril 2022, messe de 18h30**  
