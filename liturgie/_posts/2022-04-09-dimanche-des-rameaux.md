@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche des Rameaux
 ---
 **Dimanche 10 avril 2022, messe de 18h30**
