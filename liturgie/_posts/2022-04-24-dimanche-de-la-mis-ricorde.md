@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Miséricorde
 ---
 **Dimanche 24 avril 2022, messe de 18h30**
