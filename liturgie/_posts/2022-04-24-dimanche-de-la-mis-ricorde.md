@@ -4,7 +4,8 @@ title: Dimanche de la Miséricorde
 ---
 **Dimanche 24 avril 2022, messe de 18h30**
 
-![]({{site.baseurl}}/images/Thomas.jpg)
+![Thomas.jpg]({{site.baseurl}}/images/Thomas.jpg)
+
 
 *Quasi modo geniti infantes, rationabile, sine dolo lac concupiscite.*  
 Comme des enfants nouveaux-nés, ayez soif d’un lait spirituel très pur.
