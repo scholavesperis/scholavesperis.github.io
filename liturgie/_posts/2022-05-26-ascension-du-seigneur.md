@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 title: Ascension du Seigneur
 ---
 **Jeudi 26 mai 2022, messe de 18h30**
 
-![2013-05-07-ascension-2.jpg]({{site.baseurl}}/images/2013-05-07-ascension-2.jpg)
+![Ascension Psautier Theodore.jpg]({{site.baseurl}}/images/Ascension%20Psautier%20Theodore.jpg)
 
 *Quemadmodum vidistis eum ascendentem in caelum, ita veniet, alleluia !*  
 Comme vous l’avez vu monter au ciel, ainsi il reviendra, alleluia !
