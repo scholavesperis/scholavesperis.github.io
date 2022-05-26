@@ -18,10 +18,10 @@ Versets en faux-bourdon : Ludwig Senfl & faux-bourdon parisien
 Antoine Boësset 1587-1643 *Recueil Deslauriers*
 
 **Consécration : O salutaris Hostia**  
-Nicolas Formé 1567-1638 - Musica simplex
+Nicolas Formé 1567-1638 *Musica simplex*
 
 **Communion : Christe nostra salvatio**  
-Anonyme XVe manuscrit de Chyypre
+Anonyme XVe *manuscrit de Chyypre*
 
 **Psallite Domino**
 
