@@ -15,7 +15,7 @@ Comme vous l’avez vu monter au ciel, ainsi il reviendra, alleluia !
 Versets en faux-bourdon : Ludwig Senfl & faux-bourdon parisien
 
 **Offertoire : Jesu nostra redemptio**  
-Antoine Boësset 1587-1643 *Recueil Deslauriers*
+Antoine Boësset 1587-1643 
 
 **Consécration : O salutaris Hostia**  
 Nicolas Formé 1567-1638 *Musica simplex*
