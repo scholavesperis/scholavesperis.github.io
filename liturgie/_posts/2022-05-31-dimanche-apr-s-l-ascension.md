@@ -4,7 +4,7 @@ title: Dimanche après l'Ascension
 ---
 **Dimanche 29 mai 2022, messe de 18h30**
 
-![Exaudi.jpg]({{site.baseurl}}/images/Exaudi.jpg)
+![Exaudi Albi.jpg]({{site.baseurl}}/images/Exaudi%20Albi.jpg)
 
 *Tibi dixit cor meum : quaesivi vultum tuum*  
 En mon coeur je t’ai dit : je cherche ton visage.
