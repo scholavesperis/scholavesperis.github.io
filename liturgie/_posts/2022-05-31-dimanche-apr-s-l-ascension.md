@@ -23,6 +23,8 @@ d'après chant traditionnel géorgien
 **Communion : Ave vivens Hostia**  
 d'après chant traditionnel sarde
 
+**Pater**
+
 **Au dernier évangile : Regina caeli**
 
 **Sortie : Christe qui lux es**  
