@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Pentecôte
 ---
 **Dimanche 5 juin 2022, messe de 18h30**
