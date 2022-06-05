@@ -4,7 +4,7 @@ title: Fête de la Pentecôte
 ---
 **Dimanche 5 juin 2022, messe de 18h30**
 
-![pentecote.jpg]({{site.baseurl}}/images/pentecote.jpg)
+![Colombe b.jpg]({{site.baseurl}}/images/Colombe b.jpg)
 
 *Spiritus Domini replevit orbem terrarum, alleluia !*  
 L’esprit du Seigneur a rempli l’univers, alleluia !
