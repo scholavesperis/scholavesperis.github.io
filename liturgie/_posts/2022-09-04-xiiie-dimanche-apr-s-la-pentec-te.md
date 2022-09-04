@@ -4,25 +4,23 @@ title: XIIIe dimanche après la Pentecôte
 ---
 **Dimanche 4 septembre 2022, messe de 18h30**  
 
-*Rspice Domine, in testamentum tuum, et animas pauperum tuorum ne derelinquas in finem
+*Respice Domine, in testamentum tuum, et animas pauperum tuorum ne derelinquas in finem*  
 Considère Seigneur ton alliance, et n’oublie pas pour toujours la vie de tes pauvres.
 
-Introit : Respice
+**Introit : Respice**
 
-Graduel : Respice
+**Graduel : Respice**  
+Faux-bourdon - Graduel de Lyon 1817
 
-Alleluia : Domine refugium
+**Alleluia : Domine refugium**
 
-Offertoire : Dirigatur Domine
-faux-bourdon du 1er ton - abbé Cardine
+**Offertoire : Dirigatur Domine**  
+Faux-bourdon du 2er ton
 
-Consécration : Dominus
-clausule de l’école Notre-Dame - Anonyme XIIIe
+**Communion : Tantum ergo**  
+Costanzo Festa
 
-Communion : Pange lingua
-Anonyme XVe manuscrit de Trente
+**Au dernier évangile : Salve Regina**
 
-Au dernier évangile : Salve Regina
-
-Sortie : Benedicamus Domino
-Anonyme XIIe - St Martial de Limoges
+**Sortie : Benedicamus Domino**  
+d'après Elzéar Genet de Carpentras 
