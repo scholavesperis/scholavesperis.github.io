@@ -17,7 +17,7 @@ Faux-bourdon - Graduel de Lyon 1817
 **Alleluia : Domine refugium**
 
 **Offertoire : Dirigatur Domine**  
-Faux-bourdon du 2er ton
+Faux-bourdon du 2e ton
 
 **Communion : Tantum ergo**  
 Costanzo Festa 1495-1545
