@@ -24,5 +24,5 @@ Costanzo Festa 1495-1545
 
 **Au dernier évangile : Salve Regina**
 
-**Sortie : Benedicamus Domino**  
-d'après Elzéar Genet de Carpentras  1470-1548
+**Sortie : Deo Gratias**  
+d'après Elzéar Genet de Carpentras 1470-1548
