@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XIVe dimanche après la Pentecôte
 ---
 **Dimanche 11 septembre 2022, messe de 18h30**
