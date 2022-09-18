@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XVe dimanche après la Pentecôte
 ---
 **Dimanche 18 septembre 2022, messe de 18h30**
