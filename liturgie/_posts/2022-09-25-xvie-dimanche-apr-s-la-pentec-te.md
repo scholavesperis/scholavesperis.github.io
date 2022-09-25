@@ -26,5 +26,5 @@ d'après *Haec Deum caeli* Jacob Obrecht 1457-1505
 
 **Au dernier évangile : Salve Regina**
 
-**Sortie : Deo gratias**
+**Sortie : Deo gratias**  
 d'après Jacob Obrecht
