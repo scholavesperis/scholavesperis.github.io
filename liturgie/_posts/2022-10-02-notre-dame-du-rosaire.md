@@ -19,7 +19,7 @@ faux-bourdon du 5e ton - Graduel de Lyon
 verset en faux-bourdon
 
 **Offertoire : Ave Maria, virgo virginum**  
-adaptation d’après Cormacus scripsit Irlande XIIe
+adaptation d’après *Cormacus scripsit* Irlande XIIe
 
 **Communion : Mariam Matrem Virginem**  
 Anonyme XIVe Llibre Vermell de Montserrat
