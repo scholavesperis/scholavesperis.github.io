@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XVIIIe dimanche après la Pentecôte
 ---
 **Dimanche 9 octobre 2022, messe de 18h30**
