@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XIXe dimanche après la Pentecôte
 ---
 **Dimanche 16 octobre 2022, messe de 18h30**
