@@ -4,7 +4,8 @@ title: XXe dimanche après la Pentecôte
 ---
 **Dimanche 23 octobre 2022, messe de 18h30**
 
-![tristesse2.jpg]({{site.baseurl}}/images/tristesse2.jpg)
+![tristesse.jpg]({{site.baseurl}}/images/tristesse.jpg)
+
 
 *Super flumina Babylonis illic sedimus et flevimus, dum recordaremur tui, Sion.*  
 Au bord des fleuves de Babylone, nous étions assis et nous pleurions, nous souvenant de toi, Sion.
