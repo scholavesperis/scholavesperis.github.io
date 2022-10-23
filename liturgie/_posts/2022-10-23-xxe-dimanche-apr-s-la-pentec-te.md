@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXe dimanche après la Pentecôte
 ---
 **Dimanche 23 octobre 2022, messe de 18h30**
