@@ -12,7 +12,7 @@ Il est digne, l’Agneau qui a été immolé, de recevoir la puissance et la div
 **Introït : Dignus est Agnus**
 
 **Graduel : Dominabitur**  
-faux-bourdon du Ve ton Octo cantica 1584
+faux-bourdon *Octo cantica 1584*
 
 **Alleluia : Potestas ejus**  
 verset en faux-bourdon - Lyon 1610
