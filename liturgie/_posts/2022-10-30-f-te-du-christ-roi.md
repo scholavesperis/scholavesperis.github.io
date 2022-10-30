@@ -20,8 +20,8 @@ verset en faux-bourdon - Lyon 1610
 **Offeroire :  Christus vincit**  
 traditionnel corse du Nebbiu
 
-**Communion : Cantate Domino canticum novum**  
-faux-bourdon traditiionnel corse
+**Communion : Cantate Domino**  
+Psaume 97 - faux-bourdon traditionnel corse
 
 **Sedebit**
 
