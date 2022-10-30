@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête du Christ-Roi
 ---
 **Dimanche 30 octobre 2022, messe de 18h30**
