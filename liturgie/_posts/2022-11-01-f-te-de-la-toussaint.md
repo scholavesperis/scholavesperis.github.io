@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Toussaint
 ---
 **Mardi 1er novembre 2022, messe de 18h30**
