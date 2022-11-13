@@ -1,6 +1,6 @@
 ---
 published: true
-title: Anniversaire de la Dédicace de l'église Saint-Georges
+title: Anniversaire de la dédicace de l'église Saint-Georges
 ---
 **Dimanche 13 novembre 2022, messe de 18h30**
 
