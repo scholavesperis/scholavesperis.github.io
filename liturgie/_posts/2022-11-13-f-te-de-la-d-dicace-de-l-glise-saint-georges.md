@@ -13,7 +13,7 @@ Ce lieu est redoutable, c’est la maison de Dieu et la porte du ciel !
 **Introït : Terribilis locus iste**
 
 **Graduel : Locus iste**  
-Faux-bourdon du 5e ton - Lyon 1610
+Faux-bourdon du 5e ton *Octo cantica 1584*
 
 **Alleluia : Adorabo ad templum sanctum tuum**  
 Faux-bourdon du 7e ton - Chapelle Pontificale
