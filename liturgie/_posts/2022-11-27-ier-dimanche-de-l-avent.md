@@ -21,6 +21,8 @@ Alternance polyphonique d'Elzear Genet de Carpentras 1470-1548
 **Communion : Verbum caro**  
 Anonyme XVe *manuscrit de Trente*
 
+**Dominus dabit**
+
 **Au dernier évangile : Alma redemptoris Mater**
 
 **Deo Patri sit gloria**  
