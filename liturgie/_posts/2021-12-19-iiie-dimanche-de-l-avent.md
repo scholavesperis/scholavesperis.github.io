@@ -29,5 +29,5 @@ Alternance polyphonique anonyme du *ms de Trente* XVe
 
 **Au dernier évangile : Alma redemptoris Mater**
 
-**Sortie : Veni, veni Emmanuel**
+**Sortie : Veni, veni Emmanuel**  
 Anomye médiéval à 2 voix
