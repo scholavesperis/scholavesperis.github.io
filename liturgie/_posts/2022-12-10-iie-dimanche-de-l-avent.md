@@ -23,5 +23,5 @@ Anonyme XVe *manuscrit de Chypre*
 
 **Au dernier évangile : Alma redemptoris Mater**
 
-**Sortie : Alma**
-Anonyme XIIIe *codex Montpellier*
+**Sortie : Alma**  
+Motet anonyme XIIIe *codex Montpellier*
