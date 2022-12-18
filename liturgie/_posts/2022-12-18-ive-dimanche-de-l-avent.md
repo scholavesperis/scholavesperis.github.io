@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche de l'Avent
 ---
 **Dimanche 18 décembre 2022, messe de 18h30**  
@@ -27,5 +27,3 @@ Anonyme XVe manuscrit de Trente
 
 **Sortie : Veni, veni Emmanuel**  
 Anomye médiéval à 2 voix
-
-
