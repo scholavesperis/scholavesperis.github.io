@@ -33,6 +33,6 @@ Lireplus
 
 &nbsp;
 
-**Christe redemptor omnium** *manuscrit du Monastère Santa Cruz de Coimbra mm32 f.107v* :  
+*Manuscrit du monastère Santa Cruz de Coimbra mm32 : **Christe redemptor omnium** f.107v* 
 [http://pemdatabase.eu/image/57455](http://pemdatabase.eu/image/57455)
 
