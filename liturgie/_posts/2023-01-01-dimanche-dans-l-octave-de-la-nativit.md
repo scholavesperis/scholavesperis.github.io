@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche dans l'octave de la Nativité
 ---
 **Dimanche 1er janvier 2023, messe de 18h30**  
