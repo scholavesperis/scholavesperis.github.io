@@ -29,8 +29,9 @@ Anonyme XVe *manuscrit de Chypre*
 **Sortie : Noël nouvelet**  
 d’après Jehan Alain 1911-1940
 
-&nbsp
-
 Lireplus
 
+&nbsp,
+
+lien vers **Christe redemptor omnium** *manuscrit du Monastère de Santa Cruz mm32 f.107v*:   http://pemdatabase.eu/image/57455
 
