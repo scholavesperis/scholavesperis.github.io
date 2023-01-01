@@ -33,5 +33,5 @@ Lireplus
 
 &nbsp,
 
-lien vers **Christe redemptor omnium** *manuscrit du Monastère de Santa Cruz mm32 f.107v*:   http://pemdatabase.eu/image/57455
+lien vers **Christe redemptor omnium** *manuscrit du Monastère Santa Cruz de Coimbra mm32 f.107v*:   http://pemdatabase.eu/image/57455
 
