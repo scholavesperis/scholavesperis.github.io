@@ -4,7 +4,7 @@ title: Solennité de l'Épiphanie
 ---
 **Dimanche 8 janvier 2022, messe de 18h30**
 
-![Maria 2.jpg]({{site.baseurl}}/images/Maria%202.jpg)
+![Mages 2.jpg]({{site.baseurl}}/images/Mages%202.jpg)
 
 
 *Ambulabunt gentes in lumine tuo, et reges in splendore ortus tui.*  
@@ -22,7 +22,7 @@ verset en faux-bourdon, 2e ton *Graduel de Lyon*
 Faux-bourdon du 2é ton *Paris 1771*
 
 **Communion :  Hostis Herodes impie**  
-Alternance polyphonique de Costanzo Festa 1495-1545
+alternance polyphonique de Costanzo Festa 1495-1545
 
 **Vidimus stellam ejus**
 
