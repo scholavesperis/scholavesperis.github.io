@@ -1,6 +1,6 @@
 ---
-published: false
-title: ''
+published: true
+title: IIe dimanche après l'Epiphanie
 ---
 **Dimanche 15 janvier 2023, messe de 18h30**
 
