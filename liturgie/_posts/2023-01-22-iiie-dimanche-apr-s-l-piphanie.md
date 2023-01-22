@@ -7,7 +7,7 @@ title: IIIe dimanche après l'Épiphanie
 ![Centurion.jpg]({{site.baseurl}}/images/Centurion.jpg)
 
 
-*...Tantum dic verbo et sanabitur puer meus*  
+*...Sed tantum dic verbo et sanabitur puer meus*  
 Dis seulement une parole et mon serviteur sera guéri.
 
 **Introït : Adorate Deum**
