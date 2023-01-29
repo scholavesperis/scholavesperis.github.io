@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche après l'Épiphanie
 ---
 **Dimanche 29 janvier 2023, messe de 18h30**  
