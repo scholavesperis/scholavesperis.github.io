@@ -1,6 +1,6 @@
 ---
-published: false
-title: Septuagésime
+published: true
+title: Dimanche de la Septuagésime
 ---
 **Dimanche 5 février 2023, messe de 18h30**
 
