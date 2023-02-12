@@ -21,11 +21,11 @@ faux-bourdon du 8e ton
 Anonyme Portugal XVIe *manuscrit de Coimbra mm12*
 
 **Communion : Media vita**  
-Francesco de Layole 1492(1540 *Lyons contrapunctus*
+Francesco de Layolle 1492(1540 *Lyons contrapunctus*
 
 **Introibo**
 
 **Au dernier évangile : Ave Regina Caelorum**
 
 **Sortie : Benedicamus Domino**  
-d'après Anonyme XVIe *manuscrit de Coimbra mm34*
+Anonyme XVIe *manuscrit de Coimbra mm34*
