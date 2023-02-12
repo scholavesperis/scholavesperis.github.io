@@ -18,7 +18,7 @@ faux-bourdon lyonnais du 1er ton - 1610
 faux-bourdon du 8e ton
 
 **Offertoire : Super flumina Babylonis**  
-Anonyme Portugal XVIe manuscrit de Coimbra mm12
+Anonyme Portugal XVIe *manuscrit de Coimbra mm12*
 
 **Communion : Media vita**  
 Francesco de Layole 1492(1540 *Lyons contrapunctus*
@@ -27,5 +27,5 @@ Francesco de Layole 1492(1540 *Lyons contrapunctus*
 
 **Au dernier évangile : Ave Regina Caelorum**
 
-**Sortie : Benedicamus Domino**
-d'après Anonyme XVIe manuscrit de Coimbra mm34
+**Sortie : Benedicamus Domino**  
+d'après Anonyme XVIe *manuscrit de Coimbra mm34*
