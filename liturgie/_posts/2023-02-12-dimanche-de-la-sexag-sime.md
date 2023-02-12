@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Sexagésime
 ---
 **Dimanche 12 février 2023, messe de 18h30**
