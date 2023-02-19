@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Quinquagésime
 ---
 **Dimanche 19 février 2023, messe de 18h30**
