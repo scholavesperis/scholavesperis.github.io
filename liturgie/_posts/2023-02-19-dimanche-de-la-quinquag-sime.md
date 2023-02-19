@@ -27,3 +27,13 @@ Anonyme franciscain *Manuale Choricanum - Gênes 1649*
 
 **Sortie : Mater regis angelorum**  
 Anonyme XVIe *Prosolaire du Puy en Velay*
+
+Lireplus
+
+&nbsp;
+
+![Manvale choricanum.jpg]({{site.baseurl}}/images/Manvale choricanum.jpg)
+*Manuale Choricanum* franciscain - Gênes 1649
+
+![Manvale choricanum 2.jpg]({{site.baseurl}}/images/Manvale choricanum 2.jpg)
+*Tantum ergo* à 4 voix en clôture de l'imprimé p.244 à 247 : https://gallica.bnf.fr/ark:/12148/bpt6k51498w/f260.item.zoom
