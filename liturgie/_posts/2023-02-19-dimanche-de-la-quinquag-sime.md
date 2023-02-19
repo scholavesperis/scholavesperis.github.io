@@ -4,10 +4,10 @@ title: Dimanche de la Quinquagésime
 ---
 **Dimanche 19 février 2023, messe de 18h30**
 
-![aveugle Rouault.jpg]({{site.baseurl}}/images/aveugle%20Rouault.jpg)
+![Christ Pantocrator Corse 2.jpg]({{site.baseurl}}/images/Christ Pantocrator Corse 2.jpg)
 
-*Domine ut videam !*
-Seigneur, que je voie !
+*Esto mihi in Deum protectorem, et in locum refugii, ut salvum me facias.*  
+Sois-moi un Dieu protecteur, et une forteresse, où je trouve le salut.
 
 **Introït : Esto mihi**
 
