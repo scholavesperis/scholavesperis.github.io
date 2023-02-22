@@ -36,3 +36,16 @@ Eustache Du Caurroy
 
 **Sortie : Deo gratias**  
 Costanzo Festa 1495-1545
+
+Lireplus
+
+&nbsp;
+
+![1er ton.jpg]({{site.baseurl}}/images/1er ton.jpg)
+Formule de faux-bourdon du 1er ton, issue du recueil *Faux-bourdons pour les fêtes solemnelles - Paris 1771* pour le chant de la psalmodie
+
+et sa transcription en notation moderne :  
+![1er ton formule.jpg]({{site.baseurl}}/images/1er ton formule.jpg)
+
+
+
