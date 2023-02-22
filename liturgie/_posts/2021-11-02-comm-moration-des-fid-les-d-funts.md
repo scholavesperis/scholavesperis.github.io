@@ -47,5 +47,6 @@ Formule de faux-bourdon du 1er ton, issue du recueil *Faux-bourdons pour les fê
 et sa transcription en notation moderne :  
 ![1er ton formule.jpg]({{site.baseurl}}/images/1er ton formule.jpg)
 
-
+une version audio de la formule chantée :
+https://www.youtube.com/watch?v=2ulh5A-KUa4
 
