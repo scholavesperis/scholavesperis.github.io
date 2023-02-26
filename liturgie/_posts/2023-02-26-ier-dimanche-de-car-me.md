@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ier dimanche de Carême
 ---
 **Dimanche 26 février 2023, messe de 18h30**
