@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche de Carême
 ---
 **Dimanche 5 mars 2023** messe de 18h30
