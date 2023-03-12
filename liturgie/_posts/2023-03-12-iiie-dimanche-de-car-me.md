@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche de Carême
 ---
 **Dimanche 12 mars 2023, messe de 18h30**
