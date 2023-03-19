@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche de Carême
 ---
 **Dimanche 19 mars 2023, messe de 18h30**
