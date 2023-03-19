@@ -16,6 +16,7 @@ Réjouis-toi, Jérusalem; et rassemblez-vous, vous tous qui l’aimez.
 **Trait : Qui confidunt in Domino**
 
 **Offertoire : Caelestis urbs Jerusalem**  
+Alternance polyphonique de Jean-Etienne Langianni
 
 **Communion : Jerusalem**  
 Alternance polyphonique d’H.Isaac 1450-1517 *Choralis Constantinus*
