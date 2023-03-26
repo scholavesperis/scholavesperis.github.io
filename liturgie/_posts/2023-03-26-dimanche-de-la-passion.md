@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Passion
 ---
 **Dimanche 26 mars 2023, messe de 18h30**
