@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche des Rameaux
 ---
 **Dimanche 2 avril 2023, messe de 18h30**
