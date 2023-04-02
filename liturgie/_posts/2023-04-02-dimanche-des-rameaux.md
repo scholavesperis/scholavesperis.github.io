@@ -23,4 +23,4 @@ alternance polyphonique d’H.Isaac 1450-1517 *Choralis Constantinus*
 **Au dernier évangile : Ave Regina caelorum**
 
 **Sortie : Mater regis angelorum**  
-anonyme XVIe Prosolaire du Puy en Velay
+anonyme XVIe *Prosolaire du Puy en Velay*
