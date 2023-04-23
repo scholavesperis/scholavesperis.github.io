@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche après Pâques
 ---
 **Dimanche 23 avril 2023, messe de 18h30**
