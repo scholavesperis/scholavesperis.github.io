@@ -24,4 +24,4 @@ alternance polyphonique d’Heinrich Isaac, 1450-1517 *Choralis Constantinus*
 **Au dernier évangile : Regina caeli**
 
 **Sortie : Regina caeli**  
-Polyphonie anonyme XVIe - Allemagne
+polyphonie anonyme XVIe - Allemagne
