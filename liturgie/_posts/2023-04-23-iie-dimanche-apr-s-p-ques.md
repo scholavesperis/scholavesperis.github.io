@@ -13,8 +13,7 @@ Je suis le bon Pasteur, et je connais mes brebis, et mes brebis me connaissent.
 **Introït : Misericordia Domini**
 
 **Alleluia : Cognoverunt & Ego sum pastor bonus**  
-versets en faux-bourdons - Lyon 1610
-
+versets en faux-bourdon - Lyon 1610
 
 **Offertoire : Victima laudum Pascalis / Victimis in Pascalibus**  
 attribué à Jean Hanelle 1380-1436 manuscrit de Chypre
