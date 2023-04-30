@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche après Pâques
 ---
 **Dimanche 30 avril 2023, messe de 18h30**
