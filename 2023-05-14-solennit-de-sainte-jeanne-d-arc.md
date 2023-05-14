@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Solennité de Sainte Jeanne d'Arc
 ---
 **Dimanche 14 mai 2023, messe de 18h30**
