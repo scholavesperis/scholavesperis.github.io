@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ascension du Seigneur
 ---
 **Jeudi 18 mai 2023, messe de 18h30**
