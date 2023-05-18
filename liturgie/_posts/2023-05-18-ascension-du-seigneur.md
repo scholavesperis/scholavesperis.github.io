@@ -12,13 +12,13 @@ Comme vous l’avez vu monter au ciel, ainsi il reviendra, alleluia !
 **Introït : Viri Galilaei**
 
 **Alleluia : Ascendit Deus & Dominus in Sina**  
-Versets en faux-bourdon : Ludwig Senfl & faux-bourdon parisien
+versets en faux-bourdon : Ludwig Senfl & faux-bourdon parisien
 
 **Offertoire : Jesu nostra redemptio**  
 Antoine Boësset 1587-1643
 
 **Communion : Psallite Domino**  
-Alternance polyphonique anoyme XVIe *Lyons contrapunctus*
+alternance polyphonique anoyme XVIe *Lyons contrapunctus*
 
 **Au dernier évangile : Regina caeli**
 
