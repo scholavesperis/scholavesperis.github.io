@@ -25,4 +25,4 @@ Claudin de Sermisy 1490-1562
 **Au dernier évangile : Regina caeli**
 
 **Sortie :  Deo gratias**  
-Anonyme portugais XVIe
+Anonyme XIIe - Saint Martial de Limoges
