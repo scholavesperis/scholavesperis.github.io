@@ -1,6 +1,6 @@
 ---
-published: false
-title: ''
+published: true
+title: Dimanche après l'Ascnesion
 ---
 **Dimanche 21 mai 2023, messe de 18h30**
 
