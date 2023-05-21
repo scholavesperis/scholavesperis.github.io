@@ -6,7 +6,7 @@ title: Dimanche après l'Ascension
 
 ![Exaudi Albi.jpg]({{site.baseurl}}/images/Exaudi%20Albi.jpg)
 
-*Tibi dixit cor meum : quaesivi vultum tuum**  
+*Tibi dixit cor meum : quaesivi vultum tuum*  
 En mon coeur je t’ai dit : je cherche ton visage.
 
 **Exaudi Domine**
