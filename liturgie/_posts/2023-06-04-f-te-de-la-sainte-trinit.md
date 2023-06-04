@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête de la Sainte Trinité
 ---
 **Dimanche 4 juin 2023, messe de 18h30**
