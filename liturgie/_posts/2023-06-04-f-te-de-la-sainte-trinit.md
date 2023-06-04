@@ -4,7 +4,8 @@ title: Fête de la Sainte Trinité
 ---
 **Dimanche 4 juin 2023, messe de 18h30**
 
-![ms Lyon.png]({{site.baseurl}}/images/ms Lyon.png)
+![ms Lyon.jpg]({{site.baseurl}}/images/ms Lyon.jpg)
+
 
 *Benedictus es, Domine, Deus patrum nostrorum, et laudabilis in saecula.*  
 Tu es béni, Seigneur, Dieu de nos pères, et digne de louange éternellement.
@@ -28,4 +29,4 @@ Gilles Binchois 1400-1460
 **Au dernier évangile : Salve Regina**
 
 **Sortie : Benedicamus Domino**  
-Elzéar Denet de Carpentras 1470-1548
+Elzéar Genet de Carpentras 1470-1548
