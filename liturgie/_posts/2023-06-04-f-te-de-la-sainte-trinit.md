@@ -4,7 +4,7 @@ title: Fête de la Sainte Trinité
 ---
 **Dimanche 4 juin 2023, messe de 18h30**
 
-![Trinitatis.jpg]({{site.baseurl}}/images/Trinitatis.jpg)
+![ms Lyon.png]({{site.baseurl}}/images/ms Lyon.png)
 
 *Benedictus es, Domine, Deus patrum nostrorum, et laudabilis in saecula.*  
 Tu es béni, Seigneur, Dieu de nos pères, et digne de louange éternellement.
