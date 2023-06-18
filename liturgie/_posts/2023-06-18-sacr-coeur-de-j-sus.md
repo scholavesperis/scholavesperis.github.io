@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Sacré-Coeur de Jésus
 ---
 **Dimanche 18 juin 2023, messe de 18h30**
