@@ -29,3 +29,11 @@ d’après Alma polis religio Johannes de Porta - XIVe
 
 **Sortie : Deo gratias**  
 Guillaume de Machaut 1300-1377
+
+Lireplus
+
+&nbsp;
+
+![Deo Gratias.jpeg]({{site.baseurl}}/images/Deo%20Gratias.jpeg)
+**Ite missa est - Deo gratias** Guillaume de Machaut *Messe de Nostre-Dame*  
+Paris, Bibliothèque Nationale, fonds français, 1584
