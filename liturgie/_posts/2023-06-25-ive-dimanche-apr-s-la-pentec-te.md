@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IVe dimanche après la Pentecôte
 ---
 **Dimanche 25 juin 2023, messe de 18h30**
