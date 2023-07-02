@@ -21,7 +21,7 @@ Verset en faux-bourdon d’après Engarandus Juvenis XVe
 Claudin de Sermisy 1490-1562
 
 **Communion : Unam petii**  
-Alternance polyphonique d’H.Isaac 1450-1517 Choralis Constantinus
+Alternance polyphonique d’H.Isaac 1450-1517 *Choralis Constantinus*
 
 **Salve Regina**
 
