@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ve dimanche après la Pentecôte
 ---
 **Dimanche 2 juillet 2023, messe de 18h30**
