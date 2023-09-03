@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XIVe dimanche après la Pentecôte
 ---
 **Dimanche 3 septembre 2023, messe de 18h30**
@@ -26,4 +26,3 @@ alternance polyphonique d’H.Isaac 1450-1517 *Choralis Constantinus*
 
 **Sortie : Deo gratias**  
 Anonyme XVIe Coimbra - d’après *ms MM34*
-
