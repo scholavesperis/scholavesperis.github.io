@@ -18,7 +18,7 @@ faux-bourdon traditionnel corse
 versert en faux-bourdon, d’après G.Dufay
 
 **Offertoire : Dirigatur Domine**  
-Abbé Cardine
+versets en faux-bourdon parisien du 1er ton
 
 **Communion : O salutaris Hostia**  
 Anonyme Portugal, d'après Liv.143 - XVIe
