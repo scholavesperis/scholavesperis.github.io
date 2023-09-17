@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XVIe dimanche après la Pentecôte
 ---
 **Dimanche 17 septembre 2023, messe de 18h30**
