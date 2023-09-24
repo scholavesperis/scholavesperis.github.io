@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XVIIe dimanche après la Pentecôte
 ---
 **Dimanche 24 septembre 2023, messe de 18h30**
@@ -29,4 +29,3 @@ d'après Juan de Anchieta 1462-1523
 
 **Sortie : Deo gratias**  
 d’après Jacob Obrehht 1457-1505
-
