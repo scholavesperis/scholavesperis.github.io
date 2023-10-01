@@ -18,7 +18,7 @@ faux-bourdon du 7e ton
 verset en faux-bourdon du 1er ton
 
 **Offertoire : Laetatus sum**  
-alternance polyphonique anonyme XVIe *ms de Coimbra*
+alternance polyphonique - Anonyme XVIe Portugal
 
 **Communion : O salutaris Hostia**  
 Anonyme Portugal, d’après *Liv.143* XVIe
