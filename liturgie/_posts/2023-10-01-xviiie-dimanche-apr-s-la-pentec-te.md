@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XVIIIe dimanche après la Pentecôte
 ---
 **Dimanche 1er octobre 2023, messe de 18h30**
