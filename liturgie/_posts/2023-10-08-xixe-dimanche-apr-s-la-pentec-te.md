@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XIXe dimanche après la Pentecôte
 ---
 **Dimanche 8 octobre 2023, messe de 18h30**
