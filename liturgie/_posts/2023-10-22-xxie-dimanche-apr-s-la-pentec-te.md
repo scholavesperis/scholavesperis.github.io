@@ -29,3 +29,12 @@ d'après *Judea et Judeorum* anonyme anglais XIVe
 
 **Sortie : Domine salvam fac Galliam**  
 *Faux-bourdon pour les fêtes solemnelles* Paris 1771
+
+Lireplus
+
+&nbsp;
+
+![Domine salvum fac regem.jpg]({{site.baseurl}}/images/Domine%20salvum%20fac%20regem.jpg)
+
+**Domine salvum fac Regem** faux-bourdon du VIe ton - Anonyme  
+*Faux-bourdons pour les fêtes solemnelles* Paris 1771
