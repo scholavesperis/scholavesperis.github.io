@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXIe dimanche après la Pentecôte
 ---
 **Dimanche 22 octobre 2023, messe de 18h30**
