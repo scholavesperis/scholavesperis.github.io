@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fête du Christ-Roi
 ---
 **Dimanche 29 octobre 2923, messe de 18h30**
