@@ -4,8 +4,7 @@ title: Fête du Christ-Roi
 ---
 **Dimanche 29 octobre 2923, messe de 18h30**
 
-![Christ Rouaukt 2.jpg]({{site.baseurl}}/images/Christ Rouaukt 2.jpg)
-
+![Christ Rouaukt 3.jpg]({{site.baseurl}}/images/Christ Rouaukt 3.jpg)
 
 *Dignus est Agnus, qui occisus est, accipere virtutem, et divinitatem, et sapientiam, et fortitudinem, et honorem.*  
 Il est digne, l’Agneau qui a été immolé, de recevoir la puissance et la divinité, la sagesse, la force et l’honneur.
