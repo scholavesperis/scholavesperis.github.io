@@ -28,4 +28,4 @@ Cristobal de Morales (1500-1553)
 **Au dernier évangile : Salve Regina**
 
 **Sortie : Deo gratias**  
-d’après Thomas Tallis 1505-1585
+d’après Antoine de Févin 1470-1517
