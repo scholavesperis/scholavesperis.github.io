@@ -12,7 +12,7 @@ Vous m’invoquerez et je vous écouterai, de partout je ramènerai vos captifs.
 **Introït : Dicit Dominus**  
 
 **Graduel : Liberasti nos**  
-Faux-bourdon du 7e ton Guillaume Dufay 1400-1474
+Faux-bourdon du 7e ton - édition Ballard 1623
 
 **Alleluia : De profundis clamavi**  
 Faux-bourdon du 7e ton Chapelle pontificale
