@@ -1,6 +1,6 @@
 ---
-published: false
-title: ''
+published: true
+title: XXIIIe dimanche après la Pentecôte
 ---
 **Dimanche 5 novembre 2023, messe de 18h30
 
