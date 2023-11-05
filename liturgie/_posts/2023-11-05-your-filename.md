@@ -2,7 +2,7 @@
 published: true
 title: XXIIIe dimanche après la Pentecôte
 ---
-**Dimanche 5 novembre 2023, messe de 18h30
+**Dimanche 5 novembre 2023, messe de 18h30**
 
 ![Alleluia De profundis.jpg]({{site.baseurl}}/images/Alleluia%20De%20profundis.jpg)
 
