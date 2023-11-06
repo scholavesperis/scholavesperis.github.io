@@ -25,8 +25,8 @@ Alternance polyphonique d’Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Au dernier évangile : Salve Regina**  
 
-**Sortie : Salve Regina**  
-Anonyme XVe manuscrit de Tente
+**Sortie : Deo gratias**  
+Guillaume Dufay 1397-1474
 
 Lireplus
 
