@@ -27,3 +27,11 @@ Alternance polyphonique d’Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Sortie : Salve Regina**  
 Anonyme XVe manuscrit de Tente
+
+Lireplus
+
+&nbsp;
+
+![De profundis mm44.jpg]({{site.baseurl}}/images/De profundis mm44.jpg)
+**De profundis** alternance polyphonique à 4 voix de Diego Ortiz  
+*manuscrit MM44 f.54v* monastère Santa Cruz de Coimbra : https://pemdatabase.eu/musical-item/64378
