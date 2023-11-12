@@ -1,12 +1,12 @@
 ---
-published: false
+published: true
 title: Anniversaire de la dédicace de l'église Saint-Georges
 ---
 **Dimanche 12 novembre 2023, messe de 18h30**  
 
 ![croix.jpg]({{site.baseurl}}/images/croix.jpg)
 
-*Terribilis est locus iste, hic domus Dei est, et porta caeli.*  
+*Terribilis est locus iste, hic domus Dei est, et porta caeli*  
 Ce lieu est redoutable, c’est la maison de Dieu et la porte du ciel !
 
 **Introït : Terribilis locus iste**
