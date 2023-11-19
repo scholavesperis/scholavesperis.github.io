@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: XXVe dimanche après la Pentecôte
 ---
 **Dimanche 19 novembre 2023, messe de 18h30**
