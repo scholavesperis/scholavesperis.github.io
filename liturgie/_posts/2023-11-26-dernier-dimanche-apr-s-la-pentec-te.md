@@ -21,7 +21,7 @@ Faux-bourdon du 7e ton Chapelle pontificale
 Alternance en faux-bourdon du 1er ton - Lyon 1610
 
 **Communion : Amen dico vobis**  
-Alternance polyphonique d’Heinrich Isaac 1450-1517 Choralis Constantinus
+Alternance polyphonique d’Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Au dernier évangile : Salve Regina**  
 
