@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ier dimanche de l'Avent
 ---
 **Dimanche 3 décembre 2023, messe de 18h30*
