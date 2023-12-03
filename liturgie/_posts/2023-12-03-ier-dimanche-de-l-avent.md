@@ -2,7 +2,7 @@
 published: true
 title: Ier dimanche de l'Avent
 ---
-**Dimanche 3 décembre 2023, messe de 18h30*
+**Dimanche 3 décembre 2023, messe de 18h30**
 
 ![Beatus Sever.jpeg]({{site.baseurl}}/images/Beatus%20Sever.jpeg)
 
