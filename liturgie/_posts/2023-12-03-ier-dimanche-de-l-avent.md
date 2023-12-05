@@ -15,7 +15,7 @@ Il y aura des signes dans le soleil, la lune et les étoiles.
 faux-bourdon du 1er ton - chapelle pontificale
 
 **Alleluia : Ostende nobis**  
-verset en faux-bourdon, 8e ton - XVIe
+verset en faux-bourdon, 8e ton - Ludwig Senfl XVIe
 
 **Offertoire : Conditor alme siderum**  
 alternance polyphonique d'Elzéar Genet de Carpentras 1470-1548
@@ -27,3 +27,11 @@ alternance polyphonique d’Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Alma**  
 Anonyme XVe *Harmonice Musices Odhecaton*
+
+Lireplus
+
+&nbsp;
+
+![Senfl 8.jpg]({{site.baseurl}}/images/Senfl 8.jpg)
+![Senfl 8b.jpg]({{site.baseurl}}/images/Senfl 8b.jpg)
+Formule de faux-bourdon du 8e ton - Ludwig Senfl 1520
