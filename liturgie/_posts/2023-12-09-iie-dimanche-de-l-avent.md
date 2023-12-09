@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche de l'Avent
 ---
 **Dimanche 10 décembre 2023, messe de 18h30**
