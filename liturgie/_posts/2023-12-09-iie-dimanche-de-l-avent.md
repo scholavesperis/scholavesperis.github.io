@@ -29,3 +29,12 @@ alternance polyphonique - Anonyme XVIe Portugal
 
 **Sortie : Benedicamus Domino**  
 d'après Antoine de Févin 1470-1517
+
+Lireplus
+
+&nbsp;
+
+![]({{site.baseurl}}/images/Ghimel%20sup.jpg)
+**Ghimel** superius - Antoine de Févin
+
+
