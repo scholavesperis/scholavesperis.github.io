@@ -34,10 +34,10 @@ Lireplus
 
 &nbsp;
 
-![]({{site.baseurl}}/images/Ghimel%20sup.jpg)
+![]({{site.baseurl}}/images/Ghimel%20sup.jpg)  
 **Ghimel** superius - Antoine de Févin  *ms1760 Cambridge*
-![Ghimel bassus.jpg]({{site.baseurl}}/images/Ghimel bassus.jpg)
+![Ghimel bassus.jpg]({{site.baseurl}}/images/Ghimel bassus.jpg)  
 **Ghimel** bassus  
-![Ghimel tenor.jpg]({{site.baseurl}}/images/Ghimel tenor.jpg)
+![Ghimel tenor.jpg]({{site.baseurl}}/images/Ghimel tenor.jpg)  
 **Ghimel** tenor
 
