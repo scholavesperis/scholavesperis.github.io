@@ -36,4 +36,4 @@ Lireplus
 
 ![Benedicamus Domino Latin 3719 f71r.jpg]({{site.baseurl}}/images/Benedicamus Domino Latin 3719 f71r.jpg)
 **Benedicamus Domino** à 2 voix, anonyme fin XIIe de Saint Martial de Limoges  
-*manuscrit Latin 3719 f.71r* https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61666m
+*manuscrit Latin 3719 f.71r* : [https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61666m](https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61666m)
