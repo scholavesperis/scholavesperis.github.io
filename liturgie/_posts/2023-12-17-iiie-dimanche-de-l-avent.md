@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIIe dimanche de l'Avent
 ---
 **Dimanche 17 décembre 2023, messe de 18h30**
