@@ -29,3 +29,10 @@ Jérome Casalonga
 
 **Sortie : Deo gratias**  
 Anonyme XIIe - Saint Martial de Limoges
+
+Lireplus
+
+&nbsp;
+
+![Benedicamus Domino Latin 3719 f71r.jpg]({{site.baseurl}}/images/Benedicamus Domino Latin 3719 f71r.jpg)
+**Benedicamus Domino** à 2 voix, anonyme fin XIIe de Saint Martial de Limoges *manuscrit Latin 3719 f.71r*
