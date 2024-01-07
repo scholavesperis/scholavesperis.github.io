@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de l'Epiphanie
 ---
 **Dimanche 7 janvier 2024, messe de 18h30**  
