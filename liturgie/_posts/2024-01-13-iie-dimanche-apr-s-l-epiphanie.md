@@ -12,10 +12,10 @@ Jésus ordonna de remplir les urnes d’eau, et cette eau fut changée en vin, A
 **Introït : Omnis terra**
 
 **Graduel : Misit Dominus**  
-faux-bourdon du 5e ton - 1510
+Faux-bourdon du 5e ton - 1510
 
 **Alleluia : Laudate Dominum**  
-verset en faux-bourdon d’après Gilles Binchois 1400-1460
+Verset en faux-bourdon d’après Gilles Binchois 1400-1460
 
 **Offertoire : Hostis Herodes - Novum genus**  
 Alternance polyphonique d’Elzéar Genet de Carpentras 1470-1548
