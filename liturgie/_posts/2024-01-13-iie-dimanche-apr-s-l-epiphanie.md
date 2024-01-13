@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: IIe dimanche après l'Epiphanie
 ---
 **Dimanche 14 janvier 2024, messe de 18h30**  
