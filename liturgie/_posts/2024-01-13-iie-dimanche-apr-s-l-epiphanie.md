@@ -12,7 +12,7 @@ Jésus ordonna de remplir les urnes d’eau, et cette eau fut changée en vin, A
 **Introït : Omnis terra**
 
 **Graduel : Misit Dominus**  
-Faux-bourdon du 5e ton - 1510
+Faux-bourdon du 5e ton - Ludwig Senfl 1486-1542
 
 **Alleluia : Laudate Dominum**  
 Verset en faux-bourdon d’après Gilles Binchois 1400-1460
@@ -29,3 +29,11 @@ Adaptation d'après Juan de Anchieta 1462-1523
 
 **Sortie : Benedicamus Domino / Flos filius**  
 Anonyme XIIIe *Codex Montpeliier*
+
+Lireplus
+
+&nbsp;
+
+![Fb Senfl 5a.jpg]({{site.baseurl}}/images/Fb Senfl 5a.jpg)
+![Fb Senfl 5b.jpg]({{site.baseurl}}/images/Fb Senfl 5b.jpg)
+Formule de faux-bourdon du 5e ton à 4 voix égales de Ludwig Senfl, début XVIe
