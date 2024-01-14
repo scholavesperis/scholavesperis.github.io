@@ -36,4 +36,4 @@ Lireplus
 
 ![Fb Senfl 5a.jpg]({{site.baseurl}}/images/Fb Senfl 5a.jpg)
 ![Fb Senfl 5b.jpg]({{site.baseurl}}/images/Fb Senfl 5b.jpg)
-Formule de faux-bourdon du 5e ton à 4 voix égales de Ludwig Senfl, début XVIe
+**Quintus tonus ad aequales voces** formule de faux-bourdon du 5e ton à 4 voix de Ludwig Senfl, début XVIe
