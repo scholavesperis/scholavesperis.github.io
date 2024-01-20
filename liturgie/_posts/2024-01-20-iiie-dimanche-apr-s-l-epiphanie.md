@@ -18,10 +18,10 @@ Faux-bourdon du 6e ton, Engarandus Juvenis XVe
 Faux-bourdon du 8e ton, Johannes Brassart (1400-1455)
 
 **Offertoire : Dextera Domini**  
-Giammateo Asola 1532-1609
+Giammateo Asola 1532-1609 *Musices continens officium*
 
 **Communion : Tantum ergo**  
-Giammateo Asola
+Giammateo Asola *Officium Maioris Hebdomadae*
 
 **Mirabantur**
 
