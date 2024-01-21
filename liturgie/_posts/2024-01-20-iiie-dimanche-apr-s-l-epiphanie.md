@@ -4,7 +4,8 @@ title: IIIe dimanche après l'Epiphanie
 ---
 **Dimanche 21 janvier 2024, messe de 18h30**
 
-![Anges St Savin.jpg]({{site.baseurl}}/images/Anges%20St%20Savin.jpg)
+![Ange Casseres.jpg]({{site.baseurl}}/images/Ange Casseres.jpg)
+
 
 *Adorate Deum, omnes Angeli eius ; audivit et laetata est Sion.*  
 Adorez Dieu, vous, tous ses Anges; Sion a entendu et s’est réjouie !
