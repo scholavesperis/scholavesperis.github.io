@@ -27,5 +27,5 @@ Giammateo Asola *Officium Maioris Hebdomadae*
 
 **Au dernier évangile : Alma redemptoris Mater**
 
-**Sortie : Deo gratias**  
-Anonyme XVIe Portugal
+**Sortie : Domine salvam fac Galliam**  
+Faux-bourdon pour les fêtes solemnelles Paris 1771
