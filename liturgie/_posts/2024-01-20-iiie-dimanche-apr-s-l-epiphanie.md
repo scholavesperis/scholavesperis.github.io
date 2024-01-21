@@ -29,4 +29,4 @@ Giammateo Asola *Officium Maioris Hebdomadae*
 **Au dernier évangile : Alma redemptoris Mater**
 
 **Sortie : Domine salvam fac Galliam**  
-Faux-bourdon pour les fêtes solemnelles Paris 1771
+*Faux-bourdon pour les fêtes solemnelles* Paris 1771
