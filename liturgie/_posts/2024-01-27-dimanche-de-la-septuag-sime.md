@@ -28,4 +28,4 @@ adaptation d'après chant traditionnel géorgien
 **Au dernier Évangile : Alma redemptoris mater**
 
 **Sortie : Deo gratias**  
-Anonyme XVIe *manuscrit de la Chapelle Sixtione*
+Anonyme XVIe *manuscrit de la Chapelle Sixtiine*
