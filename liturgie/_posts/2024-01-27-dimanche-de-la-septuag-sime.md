@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Dimanche de la Septuagésime
 ---
 **Dimanche 28 janvier 2023; messe de 18h30**  
@@ -29,4 +29,3 @@ adaptation d'après chant traditionnel géorgien
 
 **Sortie : Deo gratias**  
 Anonyme XVIe *manuscrit de la Chapelle Sixtione*
-
