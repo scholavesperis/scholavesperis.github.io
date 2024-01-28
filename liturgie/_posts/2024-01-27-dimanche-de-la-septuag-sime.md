@@ -34,6 +34,6 @@ Lireplus
 
 &nbsp;
 
-![Deo gratias Vatican.png]({{site.baseurl}}/images/Deo gratias Vatican.png)
+![Deo gratias Vatican.png]({{site.baseurl}}/images/Deo gratias Vatican.png)  
 **Deo gratias** anonyme WVIe à 4 voix  
 *manuscrit Capp.Sist.44* https://digi.vatlib.it/view/MSS_Capp.Sist.44
