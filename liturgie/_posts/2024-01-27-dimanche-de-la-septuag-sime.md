@@ -25,7 +25,7 @@ adaptation d'après chant traditionnel géorgien
 
 **Illumina**
 
-**Au dernier Évangile : Alma redemptoris mater**
+**Au dernier Évangile : Alma redemptoris Mater**
 
 **Sortie : Deo gratias**  
 Anonyme XVIe *manuscrit de la Chapelle Sixtiine*
