@@ -12,10 +12,10 @@ Le pauvre ne sera pas oublié pour toujours, son attente ne sera pas vaine à ja
 **Introït : Circumdederunt me**  
 
 **Graduel : Adjutor in opportunitatibus**  
-Faux-bourdon parisien du 3e ton
+faux-bourdon parisien du 3e ton
 
 **Trait : De profundis**  
-Faux-bourdon du 8e ton - Lyon 1610
+faux-bourdon du 8e ton - Lyon 1610
 
 **Offertoire : Circumdederunt me**  
 Cristobal de Morales 1500-1553
@@ -29,3 +29,11 @@ adaptation d'après chant traditionnel géorgien
 
 **Sortie : Deo gratias**  
 Anonyme XVIe *manuscrit de la Chapelle Sixtiine*
+
+Lireplus
+
+&nbsp;
+
+![Deo gratias Vatican.png]({{site.baseurl}}/images/Deo gratias Vatican.png)
+**Deo gratias** anonyme WVIe à 4 voix  
+*manuscrit Capp.Sist.44* https://digi.vatlib.it/view/MSS_Capp.Sist.44
