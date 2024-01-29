@@ -39,5 +39,5 @@ Lireplus
 *manuscrit Capp.Sist.44*   https://digi.vatlib.it/view/MSS_Capp.Sist.44  
 
 ![Fb 3bis Paris.jpg]({{site.baseurl}}/images/Fb 3bis Paris.jpg)  
-Faux-bourdon du 3e ton à 3 voix
+Faux-bourdon du 3e ton à 3 voix  
 *Office de l'Eglise* Paris 1768
