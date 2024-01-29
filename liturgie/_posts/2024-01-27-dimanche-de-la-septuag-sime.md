@@ -40,4 +40,4 @@ Lireplus
 
 ![Fb 3bis Paris.jpg]({{site.baseurl}}/images/Fb 3bis Paris.jpg)  
 Faux-bourdon du 3e ton à 3 voix  
-*Office noté de l'Eglise* Paris 1768
+*Office de l'Eglise noté* Paris 1778
