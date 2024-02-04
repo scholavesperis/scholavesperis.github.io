@@ -1,6 +1,5 @@
 ---
 title: Dimanche de la Sexagésime
-published: false
 ---
 **Dimanche 4 février 2024, messe de 18h30**
 
