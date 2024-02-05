@@ -27,5 +27,15 @@ Nicolas Formé 1567-1638 *Musica simplex*
 
 **Au dernier évangile : Ave Regina Caelorum**
 
-**Sortie : Benedicamus Domino**  
-d'après Claudin de Sermisy 1490-1562
+**Sortie : Mater regis Angelorum**  
+anonyme XVIe *Prosolaire du Puy en Velay*
+
+Lireplus
+
+&nbsp;
+
+![Senfl 8.jpg]({{site.baseurl}}/images/Senfl%208.jpg)  ![Senfl 8b.jpg]({{site.baseurl}}/images/Senfl%208b.jpg)  
+Faux-bourdon du 8e ton "à voix égales' - Ludwig Senfl 1520
+
+
+
