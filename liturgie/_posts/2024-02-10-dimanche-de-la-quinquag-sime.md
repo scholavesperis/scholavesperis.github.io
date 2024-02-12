@@ -31,5 +31,5 @@ Lireplus
 
 &nbsp;
 
-![]({{site.baseurl}}images/Salutaris Occo.png)
+![]({{site.baseurl}}images/Salutaris Occo.png)  
 **O salutaris Hostia** à 4 voix, anonyme XVIe *Occo codex (f.4r)*
