@@ -26,3 +26,10 @@ Anonyme XVIe *Occo codex*
 
 **Sortie : Laus et perennis gloria**  
 Pierre Certon 1515-1572
+
+Lireplus
+
+&nbsp;
+
+![]({{site.baseurl}}images/Salutaris Occo.png)
+**O salutaris Hostia** à 4 voix, anonyme XVIe *Occo codex f.4r*
