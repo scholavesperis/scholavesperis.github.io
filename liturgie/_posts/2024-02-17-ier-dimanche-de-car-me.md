@@ -15,7 +15,7 @@ Il te couvrira de ses ailes, sous ses plumes tu trouveras refuge.
 **Trait : Qui habitat**
 
 **Offertoire : Audi benigne Conditor**  
-hymne & alternance polyphonique de G.Dufay 1400-1474
+hymne & alternance polyphonique de Guillaume Dufay 1400-1474
 
 **Communion : Adoramus te**  
 Loyset Compère 1445-1518
