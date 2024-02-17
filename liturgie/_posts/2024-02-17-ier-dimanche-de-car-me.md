@@ -1,7 +1,7 @@
 ---
 title: Ier dimanche de Carême
 ---
-**Dimanche 18 février 2024, messe de 18h40**
+**Dimanche 18 février 2024, messe de 18h30**
 
 ![miserere-rouault2.jpg]({{site.baseurl}}/images/miserere-rouault2.jpg)
 
