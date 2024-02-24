@@ -21,4 +21,4 @@ Nicolas Formé *Musica simplex* par bécarre 1638
 **Au dernier évangile : Ave Regina caelorum**
 
 **Sortie : Mater regis Angelorum**  
-anonyme XVIe Prosolaire du Puy en Velay
+anonyme XVIe *Prosolaire du Puy en Velay*
