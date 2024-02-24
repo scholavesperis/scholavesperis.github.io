@@ -13,7 +13,7 @@ Souviens-toi, Seigneur, de ta tendresse et de ta miséricorde car elles sont ét
 **Graduel & Trait : Tribulationes / Confitemini**  
 
 **Offertoire : Audi benigne Conditor**  
-Alternance polyphonique d’Orlande de Lassus 1532-1594
+Alternance polyphonique d’Orlando de Lassus 1532-1594
 
 **Communion : O salutaris Hostia II**  
 Nicolas Formé *Musica simplex* par bécarre 1638
