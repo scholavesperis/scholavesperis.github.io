@@ -10,7 +10,7 @@ Mes yeux sont constamment tournés vers le Seigneur, c’est lui qui dégagera m
 
 **Introït : Oculi mei**
 
-**Graduel / Trait : Exsurge Domine / Ad te levavi
+**Graduel / Trait : Exsurge Domine / Ad te levavi**
 
 **Offertoire : Audi benigne Conditor**  
 alternance polyphonique de Guillaume Dufay 1400-1474
