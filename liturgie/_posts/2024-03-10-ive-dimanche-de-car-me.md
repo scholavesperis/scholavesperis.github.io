@@ -26,3 +26,10 @@ Anonyme XVIe *manuscrit de Coimbra*
 
 **Sortie : Laus et perennis gloria**  
 Pierre Certon 1515-1572
+
+Lireplus
+
+&nbsp;
+
+![Copenhague 8.jpg]({{site.baseurl}}/images/Copenhague 8.jpg)
+**Octavi toni** faux-bourdon du 8e ton à 4 voix *Chansonnier de Copenhague* XVIe
