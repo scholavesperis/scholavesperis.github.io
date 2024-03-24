@@ -3,7 +3,7 @@ title: Dimanche des Rameaux
 ---
 **Dimanche 24 mars 2024, messe de 18h30**
 
-![Giotto-hosanna.jpg]({{site.baseurl}}/images/Giotto-hosanna.jpg)
+![Rameaux.jpg]({{site.baseurl}}/images/Rameaux.jpg)
 
 *Hosanna, Filio David, benedictus qui venit in nomine Domini.*  
 Hosanna, Fils de David ! Béni soit celui qui vient au nom du Seigneur !
