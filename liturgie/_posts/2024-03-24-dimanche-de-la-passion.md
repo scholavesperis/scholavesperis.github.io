@@ -13,7 +13,7 @@ Les étendards du Roi s’avancent, la Croix rayonne en son mystère.
 **Graduel / Trait : Eripe me / Saepe expugnaverunt**
 
 **Offertoire : Crux forma penitentie / Sustinere**  
-motet anonyme de l'école Notre-Dame *codex Montpellier* XIIIe
+motet anonyme de l'école Notre-Dame - XIIIe
 
 **Communion : Dominus regit me**  
 adaptation d'après cantique russe de Carême
