@@ -36,6 +36,10 @@ Lireplus
 
 &nbsp;
 
+![Tota pulchra 1.jpg]({{site.baseurl}}/images/Tota pulchra 1.jpg)
+![Tota pulchra 2.jpg]({{site.baseurl}}/images/Tota pulchra 2.jpg)
+![Tota pulchra 3.jpg]({{site.baseurl}}/images/Tota pulchra 3.jpg)  
+**Tota pulchra est** Cantilena del convento di Niolo - XVIIIe
 
 
 ![duo cantio sanctissima 1.260.jpg]({{site.baseurl}}/images/duo cantio sanctissima 1.260.jpg)
