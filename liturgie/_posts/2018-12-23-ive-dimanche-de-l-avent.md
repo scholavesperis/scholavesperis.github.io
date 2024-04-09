@@ -39,8 +39,7 @@ Lireplus
 ![Tota pulchra 1.jpg]({{site.baseurl}}/images/Tota pulchra 1.jpg)
 ![Tota pulchra 2.jpg]({{site.baseurl}}/images/Tota pulchra 2.jpg)
 ![Tota pulchra 3.jpg]({{site.baseurl}}/images/Tota pulchra 3.jpg)  
-**Tota pulchra est** chant à une voix, manuscrit franciscain corse *Cantilena del convento di Niolo* - XVIIIe
-
+**Tota pulchra est** chant à une voix, manuscrit franciscain corse *Cantilena del convento di Niolo* - XVIIIe  
 
 ![duo cantio sanctissima 1.260.jpg]({{site.baseurl}}/images/duo cantio sanctissima 1.260.jpg)
 **Sanctissima mitissima** Cantio tchèque anonyme XVe *Codex Franus F.260r/v*
