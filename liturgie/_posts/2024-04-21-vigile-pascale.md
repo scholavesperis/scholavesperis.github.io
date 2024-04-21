@@ -15,7 +15,7 @@ procession aux fonds baptismaux - Antoine de Févin 1470- 1512
 **Kyrie**  
 Missa Paschalis - Ludwig Senfl 1486-1542
 
-**Offertoire : Ad caenam agni prvidi**  
+**Offertoire : Ad caenam agni providi**  
 en alternance polyphonique de Costanzo Festa 1490-1545
 
 **Communion : Pascha nostrum**  
