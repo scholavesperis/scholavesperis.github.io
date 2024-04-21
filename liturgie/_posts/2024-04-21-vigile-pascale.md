@@ -7,8 +7,7 @@ title: Vigile pascale
 
 *La nuit sera claire comme le jour, la nuit sera ma lumière et ma joie*
 
-**Cantiques**  
-en alternance de faux-bourdons - Lyon 1610
+**Cantiques** en alternance de faux-bourdons - Lyon 1610
 
 **Fuerunt mihi**  
 procession aux fonds baptismaux - Antoine de Févin 1470- 1512
