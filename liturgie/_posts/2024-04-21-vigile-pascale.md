@@ -22,7 +22,4 @@ en alternance polyphonique de Costanzo Festa 1490-1545
 Anonyme XVIe *manuscrit D.Jena U35*
 
 **Sortie : O filii**  
-Hymne traditionnel  
-
-
-
+Hymne traditionnel
