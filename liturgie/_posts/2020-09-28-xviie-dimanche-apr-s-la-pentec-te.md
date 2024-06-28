@@ -29,3 +29,11 @@ Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Sortie : Deo gratias**  
 d'après Antonio de Cabezon 1510-1566
+
+Lireplus
+
+&nbsp;
+
+![9.jpg]({{site.baseurl}}/images/9.jpg)
+**Faux-bourdon du 6e ton** à 4 voix  
+*Faux-bourdon pour les fêtes solemnelle* Paris 1771
