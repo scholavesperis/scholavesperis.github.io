@@ -16,7 +16,7 @@ faux-bourdon du 5e ton *Octo cantica*
 **Alleluia : Cantate Domino**
 
 **Offertoire : Mariam matrem Virginem**  
-Anonyme XIVe Llibre Vermell de Montserrat
+Anonyme XIVe *Llibre Vermell de Montserrat*
 
 **Communion : O salutaris Hostia**  
 Contrapunto 8 - Costanzo Festa
