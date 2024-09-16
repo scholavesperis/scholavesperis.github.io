@@ -16,7 +16,7 @@ faux-bourdon du 1er ton - Paris 1771
 **Alleluia : Domine exaudi**
 
 **Offertoire : Oravi Deum meum**  
-adaptation d’après ms Coimbra mm34 - XVIe
+adaptation d’après *ms Coimbra mm34* - XVIe
 
 **Communion : O salutaris Hostia II**  
 Nicolas Formé Musica simplex par bécarre 1638
@@ -26,4 +26,4 @@ Nicolas Formé Musica simplex par bécarre 1638
 **Au dernier évangile : Salve Regina**
 
 **Sortie : Te decet laus**  
-adaptation d’après ms Coimbra mm32 - XVIe
+adaptation d’après *ms Coimbra mm32* - XVIe
