@@ -1,5 +1,5 @@
 ---
-title: ''
+title: XVIIIe dimanche après la Pentecôte
 ---
 **Dimanche 22 septembre 2024**
 
@@ -27,6 +27,3 @@ adaptation d'après *Judea et Jerusalem* anonyme anglais XIVe
 
 **Sortie : Deo gratias**  
 Anonyme XIIIe *manuscrit Assisi 695*
-
-
-
