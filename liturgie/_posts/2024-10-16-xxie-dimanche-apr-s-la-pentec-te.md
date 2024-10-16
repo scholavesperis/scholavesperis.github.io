@@ -29,7 +29,7 @@ Anonyme XVIe *Occo codex*
 Traditionnel sarde
 
 Lireplus
-&nbsp;
+&nbsp;  
 
-![O salutaris Occo II.jpg]({{site.baseurl}}/images/O salutaris Occo II.jpg)
+![O salutaris Occo II.jpg]({{site.baseurl}}/images/O salutaris Occo II.jpg)  
 **O salutaris Hostia** Anonyme à 4 voix *Occo codex* f.4v
