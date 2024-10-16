@@ -1,6 +1,5 @@
 ---
 title: XXIe dimanche après la Pentecôte
-published: false
 ---
 **Dimanche 13 octobre 2024, messe de 18h30**
 
