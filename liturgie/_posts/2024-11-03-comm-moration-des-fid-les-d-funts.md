@@ -35,7 +35,7 @@ Alternance polyphonique d'Antoine Divitis 1475-1530
 
 Lireplus
 
-;&nbsp
+&nbsp;
 
 ![044v-045r_2_0.jpg]({{site.baseurl}}/images/044v-045r_2_0.jpg)
 **Jesu redemptor** Anonyme XVIe à 4 voix  
