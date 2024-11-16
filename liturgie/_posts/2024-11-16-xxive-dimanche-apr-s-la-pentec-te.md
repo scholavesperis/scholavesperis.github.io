@@ -1,7 +1,7 @@
 ---
 title: XXIVe dimanche après la Pentecôte
 ---
-##Dimanche 3 novembre 2024, messe de 18h30**
+**Dimanche 3 novembre 2024, messe de 18h30**
 
 ![Alleluia De profundis.jpg]({{site.baseurl}}/images/Alleluia%20De%20profundis.jpg)
 
