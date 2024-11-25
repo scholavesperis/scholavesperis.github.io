@@ -11,10 +11,10 @@ Et alors paraitra dans le ciel le signe du Fils de l’homme
 **Introït : Dicit Dominus**
 
 **Graduel : Liberasti nos**  
-Faux-bourdon du 7e ton édition Ballard 1623
+Faux-bourdon du 7e ton - édition Ballard 1623
 
 **Alleluia : De profundis clamavi**  
-Faux-bourdon du 7e ton Chapelle pontificale
+Faux-bourdon du 7e ton - Chapelle pontificale
 
 **Offertoire : De profundis**  
 Faux-bourdon du 6e ton - Paris 1771
