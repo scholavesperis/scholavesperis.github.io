@@ -28,3 +28,11 @@ alternance polyphonique d'Heinrich Isaac 1450-1517 *Choralis Constantinus*
 
 **Sortie : Benedicamus Domino**  
 Jacob Obrecht 1457-1505
+
+Lireplus
+
+&nbsp,
+
+![Senfl 8.jpg]({{site.baseurl}}/images/Senfl%208.jpg)
+![Senfl 8b.jpg]({{site.baseurl}}/images/Senfl%208b.jpg)  
+Faux-bourdon du 8e ton - 1520
