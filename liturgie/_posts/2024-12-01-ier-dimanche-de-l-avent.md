@@ -31,7 +31,7 @@ Jacob Obrecht 1457-1505
 
 Lireplus
 
-&nbsp,
+&nbsp;
 
 ![Senfl 8.jpg]({{site.baseurl}}/images/Senfl%208.jpg)
 ![Senfl 8b.jpg]({{site.baseurl}}/images/Senfl%208b.jpg)  
