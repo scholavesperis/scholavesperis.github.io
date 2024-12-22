@@ -1,5 +1,5 @@
 ---
-title: ''
+title: IVe dimanche de l'Avent
 ---
 **Dimanche 22 décembre 2024, messe de 18h30**
 
