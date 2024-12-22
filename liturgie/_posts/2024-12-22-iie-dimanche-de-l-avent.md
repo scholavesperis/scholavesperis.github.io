@@ -19,7 +19,7 @@ verset en faux-bourdon du 1er ton Octo Cantica
 **Offertoire : Conditor alme siderum**  
 Anonyme XVe *Manuscrit de Trente*
 
-**Communion : Verbum caro**
+**Communion : Verbum caro**  
 Anonyme XVe *manuscrit de Trente*
 
 **Jerusalem surge**
