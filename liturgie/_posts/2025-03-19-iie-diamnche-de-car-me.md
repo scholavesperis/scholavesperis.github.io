@@ -1,5 +1,5 @@
 ---
-title: IIe diamnche de Carême
+title: IIe dimanche de Carême
 ---
 **Dimanche 16 mars 2025, messe de 18h30**
 
