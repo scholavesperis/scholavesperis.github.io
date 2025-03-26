@@ -1,7 +1,7 @@
 ---
 title: IIIe dimanche de Carême
 ---
-**Dimanche 23 mars 2025, messe de 18h30
+**Dimanche 23 mars 2025, messe de 18h30**
 
 ![Oculi Rouault.jpg]({{site.baseurl}}/images/Oculi Rouault.jpg)
 
